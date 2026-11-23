@@ -1077,6 +1077,18 @@
     "https://cardinalhotel.com/the-businesses-that-have-defined-university-avenue/",
     "https://www.pastheritage.org/HousePixLists/PixListU.html"
    ]
+  },
+  {
+   "name": "Douglas Fabrics",
+   "address": "355 University Ave",
+   "note": "A Palo Alto Stanford Heritage photo dated around 1986 shows Douglas Fabrics at 355 University Ave; that dated photo is the only sighting, so both years are 1986.",
+   "start": 1986,
+   "end": 1986,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "https://www.pastheritage.org/HousePixLists/PixListU.html"
+   ]
   }
  ],
  "corrections": [
