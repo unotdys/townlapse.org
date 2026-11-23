@@ -1050,6 +1050,20 @@
     "https://www.paloaltoonline.com/morgue/2001/2001_05_11.minis001.html",
     "https://www.paloaltoonline.com/morgue/restaurants/1996_Feb_7.mini_reviews.html"
    ]
+  },
+  {
+   "name": "Watercourse Way",
+   "address": "165 Channing Ave",
+   "note": "Bathhouse day spa with private hot tub rooms, in the 1931 former French laundry building at High St and Channing Ave, which was remodeled for it in 1984. The business says it opened in Palo Alto in 1980, and it is still open.",
+   "start": 1984,
+   "end": null,
+   "category": "services",
+   "approx": true,
+   "links": [
+    "https://spavoyager.com/spa/watercourse-way-bath-house-spa-san-francisco",
+    "https://watercourseway.com/about-watercourse-way/",
+    "https://www.pastheritage.org/inv/invC/Channing165.html"
+   ]
   }
  ],
  "corrections": [
