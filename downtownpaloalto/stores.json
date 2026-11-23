@@ -2422,6 +2422,28 @@
   ]
  },
  {
+  "name": "Woolworth's",
+  "address": "352 University Ave",
+  "start": 1949,
+  "end": 1989,
+  "category": "retail",
+  "approx": true,
+  "note": "Woolworth's five-and-dime moved to this larger store at 352 University Ave in 1949 and remained a downtown fixture until it closed in 1989.",
+  "lat": 37.446457,
+  "lng": -122.1605795,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.pastheritage.org/HousePixLists/PixListU.html",
+    "kind": "History"
+   },
+   {
+    "url": "https://cardinalhotel.com/the-businesses-that-have-defined-university-avenue/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Nola's",
   "address": "535 Ramona St",
   "start": 1996,
@@ -4126,14 +4148,20 @@
  {
   "name": "Gong Cha",
   "address": "439 Waverley St",
-  "start": 2017,
+  "start": 2015,
   "end": null,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2015.",
   "lat": 37.4477131,
-  "lng": -122.1607332
+  "lng": -122.1607332,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/06/another-milk-tea-chain-setting-up-shop-in-palo-alto/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Scotty's",
@@ -10351,18 +10379,6 @@
   "note": "Yarn shop. Listed in Palo Alto city directories and phone books (1941\u20131954); actual years open may be longer.",
   "lat": 37.4471678,
   "lng": -122.1618811
- },
- {
-  "name": "F. W. Woolworth Co",
-  "address": "352 University Ave",
-  "start": 1951,
-  "end": 1960,
-  "category": "retail",
-  "approx": true,
-  "source": "directory",
-  "note": "Variety store. Listed in Palo Alto city directories and phone books (1951\u20131960); actual years open may be longer.",
-  "lat": 37.446457,
-  "lng": -122.1605795
  },
  {
   "name": "YMCA",
@@ -28087,24 +28103,6 @@
   "note": "Panini and coffee cafe that took over the former Lytton Roasting Company corner in 2012; it closed in January 2015 after three years."
  },
  {
-  "name": "Gong Cha",
-  "address": "429 Waverley St",
-  "start": 2015,
-  "end": 2015,
-  "category": "food",
-  "approx": true,
-  "source": "news",
-  "lat": 37.4476333,
-  "lng": -122.1610727,
-  "links": [
-   {
-    "url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/06/another-milk-tea-chain-setting-up-shop-in-palo-alto/",
-    "kind": "Article"
-   }
-  ],
-  "note": "Milk tea shop. Palo Alto Online's Peninsula Foodist reported it opening in 2015. Later status unknown."
- },
- {
   "name": "B+B",
   "address": "420 Ramona St",
   "start": 2015,
@@ -28286,14 +28284,14 @@
  },
  {
   "name": "Coupa Cafe",
-  "address": "Ramona St",
+  "address": "111 Lytton Ave",
   "start": 2004,
   "end": 2004,
   "category": "food",
   "approx": true,
   "source": "news",
-  "lat": 37.4455052,
-  "lng": -122.1625455,
+  "lat": 37.4445426,
+  "lng": -122.1652665,
   "links": [
    {
     "url": "https://www.paloaltoonline.com/peninsula-foodist/2016/01/26/now-open-second-coupa-cafe-in-palo-alto/",

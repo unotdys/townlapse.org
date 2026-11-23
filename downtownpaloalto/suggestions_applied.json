@@ -1064,6 +1064,19 @@
     "https://watercourseway.com/about-watercourse-way/",
     "https://www.pastheritage.org/inv/invC/Channing165.html"
    ]
+  },
+  {
+   "name": "Woolworth's",
+   "address": "352 University Ave",
+   "note": "Woolworth's five-and-dime moved to this larger store at 352 University Ave in 1949 and remained a downtown fixture until it closed in 1989.",
+   "start": 1949,
+   "end": 1989,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "https://cardinalhotel.com/the-businesses-that-have-defined-university-avenue/",
+    "https://www.pastheritage.org/HousePixLists/PixListU.html"
+   ]
   }
  ],
  "corrections": [
