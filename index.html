@@ -163,8 +163,9 @@ fetch("/towns.json",{cache:"no-cache"}).then(r=>r.json()).then(reg=>{
   const esc=t=>String(t||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
   const others=(reg.towns||[]).filter(t=>t.slug!=="downtownpaloalto");
   document.getElementById("moreTowns").innerHTML=others.map(t=>`<div class="town" style="margin-top:16px;grid-template-columns:1fr">
-    <div><h3>${esc(t.name)}${t.region?", "+esc(t.region):""}</h3><p>${esc(t.blurb||"")}</p>
+    <div><h3>${esc(t.name)}${t.region?", "+esc(t.region):""}</h3><p class="by" data-town="${esc(t.slug)}" style="margin:0 0 6px;color:var(--yellow);font-weight:600"></p><p>${esc(t.blurb||"")}</p>
     <a class="btn" href="/${esc(t.slug)}/">Open the map</a> <a class="btn ghost" href="/contribute/?town=${esc(t.slug)}">Help research</a>${t.status==="populating"?` <span style="color:var(--green);font-size:14px;margin-left:8px">New: history being filled in</span>`:""}</div></div>`).join("");
+  document.querySelectorAll("p.by[data-town]").forEach(el=>fetch(`https://agenticallymine.com/api/tl/credits?town=${el.dataset.town}`).then(r=>r.ok?r.json():null).then(c=>{ if(c&&c.creator) el.textContent=`Created by ${c.creator.name}`; }).catch(()=>{}));
 }).catch(()=>{});
 // decade ticks with a little bar chart, echoing the map's timeline
 (function(){
