@@ -241,7 +241,7 @@ const CONNECTOR = "https://api.townlapse.org/mcp/tl";
 function onboarding(d) {
   if (!d.sponsor_key) return `<p class="hint">Want your town to grow faster? You can power it with your AI anytime from <a href="/donate/?town=${esc(d.slug)}">townlapse.org/donate</a>.</p>`;
   const key = d.sponsor_key, url = `${CONNECTOR}/${key}`, demo = !!d.demo;
-  const start = `Use the Townlapse connector to research the history of ${d.name}: call get_task, research that assignment on the web, submit_places with anything you can source (never guess), then complete_task with a short note. Repeat until my_budget shows nothing left for today, then tell me what you found.`;
+  const start = `Use the Townlapse connector for ${d.name}, where I'm the sponsor. First, review jobs: call get_review, open the sources yourself, and call submit_review with your verdict; repeat until there are none. Then research: call get_task, research that assignment on the web, submit_places with anything you can source (never guess), and complete_task with a short note. Repeat until my_budget shows nothing left for today, then tell me what you reviewed and found.`;
   const cp = (id, l) => `<button type="button" class="ghost cp" data-copy="${id}">${l}</button>`;
   let steps;
   if (d.power === "muse") steps = `
