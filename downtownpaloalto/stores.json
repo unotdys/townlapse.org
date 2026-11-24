@@ -2740,6 +2740,32 @@
   ]
  },
  {
+  "name": "The Poppycock",
+  "address": "135 University Ave",
+  "start": 1967,
+  "end": 1970,
+  "category": "entertainment",
+  "approx": true,
+  "note": "Fish-and-chips restaurant with a music room at University and High, remembered as Palo Alto's first regular rock venue, booking folk, blues and rock acts from 1967 until about 1970. The space later became the jazz club In Your Ear, and the building burned down at the end of 1972.",
+  "lat": 37.4441547,
+  "lng": -122.16372,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "http://cryptdev.blogspot.com/2020/07/tales-from-in-your-ear-live-music-in.html",
+    "kind": "Article"
+   },
+   {
+    "url": "http://jerrygarciasbrokendownpalaces.blogspot.com/2013/01/poppycock-135-university-avenue-palo.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://rockprosopography101.blogspot.com/2020/07/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Nola's",
   "address": "535 Ramona St",
   "start": 1996,
@@ -4444,20 +4470,14 @@
  {
   "name": "Gong Cha",
   "address": "439 Waverley St",
-  "start": 2015,
+  "start": 2017,
   "end": null,
   "category": "food",
-  "approx": false,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2015.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened.",
   "lat": 37.4477131,
-  "lng": -122.1607332,
-  "links": [
-   {
-    "url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/06/another-milk-tea-chain-setting-up-shop-in-palo-alto/",
-    "kind": "Article"
-   }
-  ]
+  "lng": -122.1607332
  },
  {
   "name": "Scotty's",
@@ -28082,14 +28102,14 @@
  },
  {
   "name": "La Comida",
-  "address": "450 Bryant St",
+  "address": "429 Bryant St",
   "start": 2026,
   "end": 2026,
   "category": "food",
   "approx": false,
   "source": "news",
-  "lat": 37.4461771,
-  "lng": -122.1624215,
+  "lat": 37.4465596,
+  "lng": -122.162491,
   "links": [
    {
     "url": "https://www.paloaltoonline.com/palo-alto/2026/08/26/avenidas-and-la-comida-to-host-foodie-fundraiser-to-support-older-adults/",
@@ -28417,6 +28437,24 @@
   "note": "Panini and coffee cafe that took over the former Lytton Roasting Company corner in 2012; it closed in January 2015 after three years."
  },
  {
+  "name": "Gong Cha",
+  "address": "429 Waverley St",
+  "start": 2015,
+  "end": 2015,
+  "category": "food",
+  "approx": true,
+  "source": "news",
+  "lat": 37.4476333,
+  "lng": -122.1610727,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/06/another-milk-tea-chain-setting-up-shop-in-palo-alto/",
+    "kind": "Article"
+   }
+  ],
+  "note": "Milk tea shop. Palo Alto Online's Peninsula Foodist reported it opening in 2015. Later status unknown."
+ },
+ {
   "name": "B+B",
   "address": "420 Ramona St",
   "start": 2015,
@@ -28598,14 +28636,14 @@
  },
  {
   "name": "Coupa Cafe",
-  "address": "111 Lytton Ave",
+  "address": "Ramona St",
   "start": 2004,
   "end": 2004,
   "category": "food",
   "approx": true,
   "source": "news",
-  "lat": 37.4445426,
-  "lng": -122.1652665,
+  "lat": 37.4455052,
+  "lng": -122.1625455,
   "links": [
    {
     "url": "https://www.paloaltoonline.com/peninsula-foodist/2016/01/26/now-open-second-coupa-cafe-in-palo-alto/",
@@ -29166,9 +29204,9 @@
   "name": "The Redwood by Chef Julien",
   "address": "450 Bryant St",
   "start": 2022,
-  "end": 2026,
+  "end": 2022,
   "category": "food",
-  "approx": false,
+  "approx": true,
   "source": "news",
   "lat": 37.4461771,
   "lng": -122.1624215,
@@ -29178,7 +29216,7 @@
     "kind": "Article"
    }
   ],
-  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022."
+  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022. Later status unknown."
  },
  {
   "name": "Lima Ruby",

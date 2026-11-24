@@ -1240,6 +1240,20 @@
     "https://dn720705.ca.archive.org/0/items/C124877644/C124877644_djvu.txt",
     "https://www.legacy.com/us/obituaries/santacruzsentinel/name/benjamin-laney-obituary?id=21614923"
    ]
+  },
+  {
+   "name": "The Poppycock",
+   "address": "135 University Ave",
+   "note": "Fish-and-chips restaurant with a music room at University and High, remembered as Palo Alto's first regular rock venue, booking folk, blues and rock acts from 1967 until about 1970. The space later became the jazz club In Your Ear, and the building burned down at the end of 1972.",
+   "start": 1967,
+   "end": 1970,
+   "category": "entertainment",
+   "approx": true,
+   "links": [
+    "http://cryptdev.blogspot.com/2020/07/tales-from-in-your-ear-live-music-in.html",
+    "http://jerrygarciasbrokendownpalaces.blogspot.com/2013/01/poppycock-135-university-avenue-palo.html",
+    "https://rockprosopography101.blogspot.com/2020/07/"
+   ]
   }
  ],
  "corrections": [
