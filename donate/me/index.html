@@ -78,10 +78,10 @@ async function load() {
           `<label for="cScope">Where</label><select id="cScope"><option value="neediest"${b.scope === "neediest" ? " selected" : ""}>Where it's needed most</option><option value="any"${b.scope === "any" ? " selected" : ""}>Any town</option><option value="town"${b.scope === "town" ? " selected" : ""}>One town…</option></select>
            <select id="cTown" style="margin-top:6px" ${b.scope === "town" ? "" : "hidden"}></select>`}
         <div class="row" style="margin-top:12px"><button id="cSave">Save changes</button><span class="hint" id="cMsg" aria-live="polite"></span></div>
-        <p class="hint" style="margin:12px 0 0">Want a separate donation with its own key? <a href="/donate/">Set up a new one</a>.</p></div>`;
-    wire(d, b);
+        <p class="hint" style="margin:12px 0 0">Want a separate donation with its own key? <a href="/donate/">Set up a new one</a>.</p></div>
       <h2 style="font:800 26px var(--display)">Recent submissions</h2>
       ${(d.recent || []).length ? `<table><thead><tr><th>Place</th><th>Town</th><th>Verdict</th></tr></thead><tbody>${d.recent.slice().reverse().map(x => `<tr><td><b>${esc(x.name)}</b><br><span class="hint">${esc(x.address)}</span></td><td>${esc(x.town || "")}</td><td class="s-${esc(x.status)}">${esc(x.status === "new" ? "being checked" : x.status)}${x.reason ? `<br><span class="hint">${esc(x.reason)}</span>` : ""}</td></tr>`).join("")}</tbody></table>` : `<p class="hint">Nothing submitted yet. Paste your prompt into your AI to start.</p>`}`;
+    wire(d, b);
   } catch (e) { $("ask").hidden = false; $("err").textContent = key ? e.message : ""; }
 }
 async function settings(body) {
