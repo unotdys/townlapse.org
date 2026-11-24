@@ -14,5 +14,21 @@
    ]
   }
  ],
- "corrections": []
+ "corrections": [
+  {
+   "target": "The Royal Hawaiian Theatre",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "2201 Kalakaua Ave",
+    "note": "A 750-seat theater on the fourth floor of Royal Hawaiian Center, opened around July 2008 as Level 4 for the Waikiki Nei show. Today it is the Royal Hawaiian Theater, home of the Rock-A-Hula show.",
+    "start": 2008,
+    "approx": true,
+    "links": [
+     "https://archives.midweek.com/content/story/midweek_coverstory/royal_hawaiian_center/P1/",
+     "https://www.hawaiinewsnow.com/story/8514496/waikiki-nei-production-officially-becomes-level-4/",
+     "https://www.rockahulahawaii.com/hula-show"
+    ]
+   }
+  }
+ ]
 }
