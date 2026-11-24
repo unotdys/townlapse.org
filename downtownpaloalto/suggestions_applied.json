@@ -1227,6 +1227,19 @@
     "https://obituaries.paloaltoonline.com/obituaries/memorials/george-stetson-paddleford?o=1224",
     "https://pcad.lib.washington.edu/building/12658"
    ]
+  },
+  {
+   "name": "Ranch Room Pizza",
+   "address": "545 Ramona St",
+   "note": "Pizza parlor named as the occupant of this small 1929 Early California-style building in the October 1975 Santa Clara County heritage inventory. The years it was open are not known beyond that listing.",
+   "start": 1975,
+   "end": 1975,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://dn720705.ca.archive.org/0/items/C124877644/C124877644_djvu.txt",
+    "https://www.legacy.com/us/obituaries/santacruzsentinel/name/benjamin-laney-obituary?id=21614923"
+   ]
   }
  ],
  "corrections": [
