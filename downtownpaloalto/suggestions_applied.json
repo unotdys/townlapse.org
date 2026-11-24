@@ -1170,6 +1170,20 @@
     "https://paloalto.org/history/downtown-theaters/",
     "https://www.paloaltoonline.com/morgue/2001/2001_04_18.town18.html"
    ]
+  },
+  {
+   "name": "Stanford Electric Works",
+   "address": "301 High St",
+   "note": "Lighting and electrical shop that had been in Palo Alto since about 1914 and at the corner of High St and Everett Ave from 1964. It moved to Mountain View in June 2013 after the property was sold to the owner of a dermatology chain.",
+   "start": 1964,
+   "end": 2013,
+   "category": "retail",
+   "approx": false,
+   "links": [
+    "https://startpage.mapquest.com/us/california/stanford-electric-works-402716817",
+    "https://www.paloaltoonline.com/news/2013/03/30/stanford-electric-works-to-move-to-mountain-view/",
+    "https://www.paloaltoonline.com/news/2013/12/20/redevelopment-forces-shakeup-of-downtown-retail-scene/"
+   ]
   }
  ],
  "corrections": [
