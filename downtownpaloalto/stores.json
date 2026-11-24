@@ -2488,6 +2488,28 @@
   ]
  },
  {
+  "name": "Pacific Art League",
+  "address": "668 Ramona St",
+  "start": 1965,
+  "end": null,
+  "category": "community",
+  "approx": true,
+  "note": "Nonprofit art center with a gallery and classes in the 1926 Birge Clark building that once housed Winsor's cabinet shop. Founded in 1921 as the Palo Alto Art Club, it bought the building in 1965 and was renamed the Pacific Art League in 1984.",
+  "lat": 37.4437369,
+  "lng": -122.1600254,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.pastheritage.org/inv/invR/Ramona668.html",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.pacificartleague.org/mission",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Nola's",
   "address": "535 Ramona St",
   "start": 1996,
@@ -4192,14 +4214,20 @@
  {
   "name": "Gong Cha",
   "address": "439 Waverley St",
-  "start": 2017,
+  "start": 2015,
   "end": null,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2015.",
   "lat": 37.4477131,
-  "lng": -122.1607332
+  "lng": -122.1607332,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/06/another-milk-tea-chain-setting-up-shop-in-palo-alto/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Scotty's",
@@ -28139,24 +28167,6 @@
    }
   ],
   "note": "Panini and coffee cafe that took over the former Lytton Roasting Company corner in 2012; it closed in January 2015 after three years."
- },
- {
-  "name": "Gong Cha",
-  "address": "429 Waverley St",
-  "start": 2015,
-  "end": 2015,
-  "category": "food",
-  "approx": true,
-  "source": "news",
-  "lat": 37.4476333,
-  "lng": -122.1610727,
-  "links": [
-   {
-    "url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/06/another-milk-tea-chain-setting-up-shop-in-palo-alto/",
-    "kind": "Article"
-   }
-  ],
-  "note": "Milk tea shop. Palo Alto Online's Peninsula Foodist reported it opening in 2015. Later status unknown."
  },
  {
   "name": "B+B",

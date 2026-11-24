@@ -1103,6 +1103,19 @@
     "https://www.pastheritage.org/HousePixLists/PixListH.html",
     "https://www.pastheritage.org/inv/invH/Homer248.html"
    ]
+  },
+  {
+   "name": "Pacific Art League",
+   "address": "668 Ramona St",
+   "note": "Nonprofit art center with a gallery and classes in the 1926 Birge Clark building that once housed Winsor's cabinet shop. Founded in 1921 as the Palo Alto Art Club, it bought the building in 1965 and was renamed the Pacific Art League in 1984.",
+   "start": 1965,
+   "end": null,
+   "category": "community",
+   "approx": true,
+   "links": [
+    "https://www.pacificartleague.org/mission",
+    "https://www.pastheritage.org/inv/invR/Ramona668.html"
+   ]
   }
  ],
  "corrections": [
