@@ -1116,6 +1116,20 @@
     "https://www.pacificartleague.org/mission",
     "https://www.pastheritage.org/inv/invR/Ramona668.html"
    ]
+  },
+  {
+   "name": "Stanford Pub and Grill",
+   "address": "445 Emerson St",
+   "note": "Pub and grill on Emerson Street, also called the Stanford Pub, run by its founding owner for about eight years. It had closed by September 1994, and Left at Albuquerque later opened in the space.",
+   "start": 1986,
+   "end": 1994,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://med.stanford.edu/news/all-news/2008/02/worried-about-donating-bone-marrow-leith-will-gladly-soothe-your-fears.html",
+    "https://www.paloaltoonline.com/morgue/cover/1994_Sep_21.COVER921.html",
+    "https://www.paloaltoonline.com/morgue/restaurants/1995_Jun_2.EATOUT02.html"
+   ]
   }
  ],
  "corrections": [

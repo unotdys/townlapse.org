@@ -2514,6 +2514,32 @@
   ]
  },
  {
+  "name": "Stanford Pub and Grill",
+  "address": "445 Emerson St",
+  "start": 1986,
+  "end": 1994,
+  "category": "food",
+  "approx": true,
+  "note": "Pub and grill on Emerson Street, also called the Stanford Pub, run by its founding owner for about eight years. It had closed by September 1994, and Left at Albuquerque later opened in the space.",
+  "lat": 37.4451327,
+  "lng": -122.1630552,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://med.stanford.edu/news/all-news/2008/02/worried-about-donating-bone-marrow-leith-will-gladly-soothe-your-fears.html",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/cover/1994_Sep_21.COVER921.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/restaurants/1995_Jun_2.EATOUT02.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Nola's",
   "address": "535 Ramona St",
   "start": 1996,
@@ -4218,14 +4244,20 @@
  {
   "name": "Gong Cha",
   "address": "439 Waverley St",
-  "start": 2017,
+  "start": 2015,
   "end": null,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2015.",
   "lat": 37.4477131,
-  "lng": -122.1607332
+  "lng": -122.1607332,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/06/another-milk-tea-chain-setting-up-shop-in-palo-alto/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Scotty's",
@@ -28165,24 +28197,6 @@
    }
   ],
   "note": "Panini and coffee cafe that took over the former Lytton Roasting Company corner in 2012; it closed in January 2015 after three years."
- },
- {
-  "name": "Gong Cha",
-  "address": "429 Waverley St",
-  "start": 2015,
-  "end": 2015,
-  "category": "food",
-  "approx": true,
-  "source": "news",
-  "lat": 37.4476333,
-  "lng": -122.1610727,
-  "links": [
-   {
-    "url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/06/another-milk-tea-chain-setting-up-shop-in-palo-alto/",
-    "kind": "Article"
-   }
-  ],
-  "note": "Milk tea shop. Palo Alto Online's Peninsula Foodist reported it opening in 2015. Later status unknown."
  },
  {
   "name": "B+B",
