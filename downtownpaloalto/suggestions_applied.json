@@ -1157,6 +1157,19 @@
     "https://www.paloaltoonline.com/peninsula-foodist/2017/04/06/chantilly-closes-after-43-years/",
     "https://www.pastheritage.org/inv/invR/Ramona520.html"
    ]
+  },
+  {
+   "name": "Festival Cinema",
+   "address": "475 Hamilton Ave",
+   "note": "A 114-seat revival movie house in a converted office building. It opened in October 1972 as the Academy Cinema, was later renamed the Festival Cinema, and closed in April 1985.",
+   "start": 1972,
+   "end": 1985,
+   "category": "entertainment",
+   "approx": false,
+   "links": [
+    "https://paloalto.org/history/downtown-theaters/",
+    "https://www.paloaltoonline.com/morgue/2001/2001_04_18.town18.html"
+   ]
   }
  ],
  "corrections": [
