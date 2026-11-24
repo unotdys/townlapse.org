@@ -1213,6 +1213,20 @@
     "https://www.paloaltoonline.com/news/2007/10/30/city-hall-plaza-to-be-named-after-kings/",
     "https://www.paloaltoonline.com/news/2012/01/13/city-may-seek-bond-for-new-public-safety-facilities/"
    ]
+  },
+  {
+   "name": "Paddleford Oldsmobile",
+   "address": "774 Emerson St",
+   "note": "Oldsmobile-Cadillac dealership that George Paddleford bought in 1935 at Emerson and Homer and ran for more than 50 years. Its building was later remodeled for Whole Foods Market.",
+   "start": 1935,
+   "end": 1986,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "http://homeravenue.org/Walk_Tour.htm",
+    "https://obituaries.paloaltoonline.com/obituaries/memorials/george-stetson-paddleford?o=1224",
+    "https://pcad.lib.washington.edu/building/12658"
+   ]
   }
  ],
  "corrections": [
