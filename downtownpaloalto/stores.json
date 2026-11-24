@@ -2636,6 +2636,28 @@
   ]
  },
  {
+  "name": "Frank L. Altick, DDS",
+  "address": "824 Bryant St",
+  "start": 1996,
+  "end": null,
+  "category": "services",
+  "approx": true,
+  "note": "",
+  "lat": 37.4431096,
+  "lng": -122.1575243,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://npiregistry.cms.hhs.gov/provider-view/1114056926",
+    "kind": "Article"
+   },
+   {
+    "url": "https://unilocal.net/united-states/palo-alto/altick-frank-l-dds",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Nola's",
   "address": "535 Ramona St",
   "start": 1996,
@@ -28506,14 +28528,14 @@
  },
  {
   "name": "Coupa Cafe",
-  "address": "111 Lytton Ave",
+  "address": "Ramona St",
   "start": 2004,
   "end": 2004,
   "category": "food",
   "approx": true,
   "source": "news",
-  "lat": 37.4445426,
-  "lng": -122.1652665,
+  "lat": 37.4455052,
+  "lng": -122.1625455,
   "links": [
    {
     "url": "https://www.paloaltoonline.com/peninsula-foodist/2016/01/26/now-open-second-coupa-cafe-in-palo-alto/",
