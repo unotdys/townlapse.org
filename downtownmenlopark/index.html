@@ -351,10 +351,12 @@ if(SITE.hub && SITE.hub.slug){
     if(!c) return; const bits=[];
     if(c.creator) bits.push(`Created by <b>${esc(c.creator.name)}</b>`);
     const n=(c.contributors||[]).length; if(n) bits.push(`${n} contributor${n>1?"s":""}`);
-    if(!bits.length && !c.accepted_total) return;
+    // (shown even before any findings, so the founding progress appears)
     const el=document.createElement("div"); el.className="credits";
     el.innerHTML = `${bits.join(" · ")}${bits.length?" · ":""}<a href="https://townlapse.org/contribute/?town=${encodeURIComponent(SITE.hub.slug)}">${c.accepted_total?`${c.accepted_total} findings added · `:""}Help research</a>`;
     $("hubline").before(el);
+    fetch(`https://api.townlapse.org/api/tl/progress?town=${encodeURIComponent(SITE.hub.slug)}`).then(r=>r.ok?r.json():null).then(g=>{
+      if(g && g.goal_jobs && !g.founded) el.insertAdjacentHTML("afterbegin", `Founding: ${g.done_jobs} of ${g.goal_jobs} jobs · `); }).catch(()=>{});
   }).catch(()=>{});
 }
 $("cancel").onclick=()=>dlg.close();
