@@ -122,7 +122,7 @@ const CATS = [["food","Food & drink"],["retail","Shop"],["services","Services"],
     const c = await (await fetch(`${API}/credits?town=${encodeURIComponent(slug)}`)).json();
     if (c.creator) { $("creator").hidden = false; $("creator").textContent = `Created by ${c.creator.name}`; }
     const people = c.contributors || [], helpers = c.ai_helpers || [];
-    if (people.length || helpers.length || c.creator) {
+    if (people.length || helpers.length || c.creator || c.accepted_total) {
       $("thanks").hidden = false;
       $("thanksIntro").textContent = c.accepted_total ? `${c.accepted_total} findings checked and added to the map so far.` : "Be the first to add a finding to this town.";
       $("people").innerHTML = people.map(p => `<li>${esc(p.name)}<b>${p.accepted}</b></li>`).join("") || "";
