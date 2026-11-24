@@ -498,5 +498,17 @@ ticks(); chips();
 fetch("stores.json",{cache:"no-cache"}).then(r=>r.json()).then(d=>{ stores=d; render(); })
   .catch(()=>{ $("list").innerHTML='<li class="empty">The store list didn’t load. Reload the page to try again.</li>'; });
 </script>
+<script>
+fetch("https://agenticallymine.com/api/tl/credits?town=downtownpaloalto").then(r=>r.ok?r.json():null).then(c=>{
+  if(!c) return; const e=t=>String(t).replace(/[&<>"]/g,x=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[x]));
+  const bits=[]; if(c.creator) bits.push("Created by <b>"+e(c.creator.name)+"</b>");
+  const n=(c.contributors||[]).length; if(n) bits.push(n+" contributor"+(n>1?"s":""));
+  if(c.ai_helpers && c.ai_helpers.length) bits.push("researched with "+c.ai_helpers.map(h=>e(h.name)).join(", "));
+  const b=document.getElementById("aboutBtn"); if(!b||!bits.length) return;
+  const d=document.createElement("div"); d.id="paCredits"; d.style.cssText="font-size:12px;color:var(--dim);margin-top:6px;width:100%";
+  d.innerHTML=bits.join(" · ")+' · <a href="/contribute/?town=downtownpaloalto" style="color:inherit">'+(c.accepted_total||0)+' findings added · Help research</a>';
+  b.parentElement.appendChild(d);
+}).catch(()=>{});
+</script>
 </body>
 </html>
