@@ -1,1 +1,18 @@
-{"additions": [], "corrections": []}
+{
+ "additions": [
+  {
+   "name": "Kapahulu Market",
+   "address": "151 Kapahulu Ave",
+   "note": "The Honolulu Zoo unveiled Kapahulu Market, its new food and beverage facility, in late August 2022, replacing the zoo's original 1951 concession.",
+   "start": 2022,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://spectrumlocalnews.com/hi/hawaii/news/2022/08/31/honolulu-zoo-unveils-new-kapahulu-market",
+    "https://www.honoluluzoo.org/"
+   ]
+  }
+ ],
+ "corrections": []
+}

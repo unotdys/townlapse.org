@@ -1,5 +1,27 @@
 [
  {
+  "name": "Kapahulu Market",
+  "address": "151 Kapahulu Ave",
+  "start": 2022,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "The Honolulu Zoo unveiled Kapahulu Market, its new food and beverage facility, in late August 2022, replacing the zoo's original 1951 concession.",
+  "lat": 21.2711641,
+  "lng": -157.8189222,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://spectrumlocalnews.com/hi/hawaii/news/2022/08/31/honolulu-zoo-unveils-new-kapahulu-market",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honoluluzoo.org/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -76,19 +98,6 @@
   "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2769836,
   "lng": -157.8269772
- },
- {
-  "name": "Kapahulu Market",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2716898,
-  "lng": -157.8189389
  },
  {
   "name": "Honolulu Zoo Gift Shop",
