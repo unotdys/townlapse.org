@@ -2159,6 +2159,22 @@
      "https://www.paloaltoonline.com/palo-alto/2026/01/13/the-end-of-an-era-after-36-years-in-palo-alto-il-fornaio-prepares-to-close/"
     ]
    }
+  },
+  {
+   "target": "Bijou Theatre",
+   "target_address": "640 Emerson St",
+   "fields": {
+    "note": "Single-screen movie theater with about 300 seats that opened August 12, 1964 with Dr. Strangelove and closed in the late 1980s. Gordon Biersch opened in the former theater building in 1988.",
+    "start": 1964,
+    "end": 1987,
+    "approx": true,
+    "links": [
+     "https://cinematreasures.org/theaters/20759",
+     "https://cinematreasures.org/theaters/20759/comments",
+     "https://paloalto.org/history/downtown-theaters/",
+     "https://www.paloaltoonline.com/morgue/cover/1994_Sep_21.COVER921.html"
+    ]
+   }
   }
  ]
 }

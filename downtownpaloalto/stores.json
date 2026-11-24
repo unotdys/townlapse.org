@@ -3538,20 +3538,14 @@
  {
   "name": "Joe & The Juice",
   "address": "240 Hamilton Ave",
-  "start": 2018,
+  "start": 2019,
   "end": null,
   "category": "food",
-  "approx": false,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
   "lat": 37.4443528,
-  "lng": -122.1609464,
-  "links": [
-   {
-    "url": "https://www.paloaltoonline.com/peninsula-foodist/2017/08/03/joe-the-juice-is-headed-to-palo-alto/",
-    "kind": "Article"
-   }
-  ]
+  "lng": -122.1609464
  },
  {
   "name": "Sephora",
@@ -3798,14 +3792,20 @@
  {
   "name": "Joe & The Juice",
   "address": "508 University Ave",
-  "start": 2019,
+  "start": 2018,
   "end": null,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
   "lat": 37.4484574,
-  "lng": -122.1588997
+  "lng": -122.1588997,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2017/08/03/joe-the-juice-is-headed-to-palo-alto/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "HSBC",
@@ -24257,14 +24257,32 @@
  {
   "name": "Bijou Theatre",
   "address": "640 Emerson St",
-  "start": 1965,
-  "end": 1965,
+  "start": 1964,
+  "end": 1987,
   "category": "entertainment",
   "approx": true,
   "source": "report",
-  "note": "Theater. Occupant history from a City of Palo Alto historic resource report.",
+  "note": "Single-screen movie theater with about 300 seats that opened August 12, 1964 with Dr. Strangelove and closed in the late 1980s. Gordon Biersch opened in the former theater building in 1988.",
   "lat": 37.443302,
-  "lng": -122.1610435
+  "lng": -122.1610435,
+  "links": [
+   {
+    "url": "https://cinematreasures.org/theaters/20759",
+    "kind": "Article"
+   },
+   {
+    "url": "https://cinematreasures.org/theaters/20759/comments",
+    "kind": "Article"
+   },
+   {
+    "url": "https://paloalto.org/history/downtown-theaters/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/cover/1994_Sep_21.COVER921.html",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Metro Home Furnishing",
@@ -28402,14 +28420,14 @@
  },
  {
   "name": "Coupa Cafe",
-  "address": "Ramona St",
+  "address": "111 Lytton Ave",
   "start": 2004,
   "end": 2004,
   "category": "food",
   "approx": true,
   "source": "news",
-  "lat": 37.4455052,
-  "lng": -122.1625455,
+  "lat": 37.4445426,
+  "lng": -122.1652665,
   "links": [
    {
     "url": "https://www.paloaltoonline.com/peninsula-foodist/2016/01/26/now-open-second-coupa-cafe-in-palo-alto/",
