@@ -70,6 +70,8 @@ ol.steps{padding-left:20px;display:grid;gap:10px}
     </div>
   </section>
 
+  <div class="box" id="again" hidden><b>You already have a donor key in this browser.</b> <button type="button" id="againBtn" style="margin-left:10px">Show my setup again</button> <a class="hint" href="/donate/me/" style="margin-left:10px">My donations</a></div>
+
   <section aria-labelledby="h-form" id="formSec">
     <h2 id="h-form">Set up your donation</h2>
     <form id="f" novalidate>
@@ -78,6 +80,13 @@ ol.steps{padding-left:20px;display:grid;gap:10px}
         <option value="chatgpt">ChatGPT</option><option value="claude">Claude</option><option value="grok">Grok</option>
         <option value="gemini">Gemini</option><option value="muse">Muse (Meta)</option><option value="copilot">Copilot</option><option value="other">Another assistant</option>
       </select>
+
+      <label>How should your AI connect?</label>
+      <div class="seg" role="radiogroup" aria-label="Connection">
+        <label><input type="radio" name="conn" value="connector" checked><span class="k">Townlapse connector <small style="opacity:.75">· Muse, ChatGPT, Claude</small></span></label>
+        <label><input type="radio" name="conn" value="nobgp"><span class="k">noBGP, private <small style="opacity:.75">· Claude, ChatGPT, Grok</small></span></label>
+      </div>
+      <p class="hint" id="connHint">The Townlapse connector is the quickest: one key, no extra accounts.</p>
 
       <label>How do you want to help?</label>
       <div class="seg" role="radiogroup" aria-label="Mode">
@@ -146,6 +155,12 @@ fetch("/towns.json", { cache: "no-cache" }).then(r => r.json()).then(reg => {
 for (let h = 0; h < 24; h++) $("winStart").insertAdjacentHTML("beforeend", `<option value="${h}">${((h + 11) % 12) + 1}:00 ${h < 12 ? "am" : "pm"}</option>`);
 $("winStart").value = 9;
 
+const connHint = { connector: "The Townlapse connector is the quickest: one key, no extra accounts.",
+  nobgp: "Private through noBGP: add the noBGP connector to your AI and sign in. We add your noBGP email (below) to the Townlapse donors service." };
+document.querySelectorAll("input[name=conn]").forEach(r => r.onchange = () => { $("connHint").textContent = connHint[document.querySelector("input[name=conn]:checked").value]; });
+$("ai").onchange = () => { const v = $("ai").value; if (v === "grok") document.querySelector("input[name=conn][value=nobgp]").click(); if (v === "muse") document.querySelector("input[name=conn][value=connector]").click();
+  document.querySelector("input[name=conn]:checked").dispatchEvent(new Event("change")); };
+try { const saved = JSON.parse(localStorage.getItem("townlapse_donor_setup") || "null"); if (saved && saved.key) { $("again").hidden = false; $("againBtn").onclick = () => showSetup(saved.d, saved.b); } } catch {}
 const pctHint = n => n <= 5 ? "A light touch: a few minutes of your AI's time a day." : n <= 15 ? `Roughly ${Math.round(n)}% of a typical day on a paid plan.` : n <= 30 ? "A generous share: a solid block of research every day." : "A lot! Best for plans that rarely hit their limits.";
 $("budget").oninput = () => { $("budgetOut").textContent = $("budget").value; $("budgetHint").textContent = pctHint(+$("budget").value); };
 document.querySelectorAll("input[name=mode]").forEach(r => r.onchange = () => { $("windowBox").hidden = document.querySelector("input[name=mode]:checked").value !== "subscription"; });
@@ -156,14 +171,16 @@ $("f").onsubmit = async e => {
   e.preventDefault();
   $("go").disabled = true; $("msg").textContent = "Setting up…"; $("msg").className = "msg";
   const mode = document.querySelector("input[name=mode]:checked").value, scope = document.querySelector("input[name=scope]:checked").value;
+  const conn = document.querySelector("input[name=conn]:checked").value;
+  if (conn === "nobgp" && !$("email").value.trim()) { $("msg").textContent = "For the noBGP route, add your noBGP account email."; $("msg").className = "msg err"; $("go").disabled = false; return; }
   const tz = -new Date().getTimezoneOffset();
   const body = { ai: $("ai").value, mode, budget_per_day: +$("budget").value, scope, town: scope === "town" ? $("town").value : "",
     name: $("name").value, credit: $("credit").checked, nobgp_email: $("email").value, website: $("website").value, opened,
-    window: mode === "subscription" && $("useWindow").checked ? { start: (+$("winStart").value + 23) % 24, hours: 1, tz_offset_min: tz } : null };
+    window: mode === "subscription" && $("useWindow").checked ? { start: (+$("winStart").value + 23) % 24, hours: 1, tz_offset_min: tz } : null, conn };
   try {
     const r = await fetch(`${API}/donors`, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body) });
     const d = await r.json(); if (!r.ok) throw new Error(d.error || "Something went wrong. Try again in a minute.");
-    try { localStorage.setItem("townlapse_donor_key", d.key); } catch {}
+    try { localStorage.setItem("townlapse_donor_key", d.key); localStorage.setItem("townlapse_donor_setup", JSON.stringify({ key: d.key, d, b: body })); } catch {}
     showSetup(d, body);
   } catch (err) { $("msg").textContent = err.message; $("msg").className = "msg err"; $("go").disabled = false; }
 };
@@ -205,6 +222,18 @@ function connectorSteps(ai, key, b) {
       <pre id="c2">${esc(starter(b))}</pre>${copy("c2","Copy")}</li>
     ${b.mode === "subscription" ? `<li><b>Make it recurring.</b> ${scheduleHelp(ai)}</li>` : ""}`;
 }
+function nobgpSteps(key, b) {
+  const where = b.ai === "claude" ? "Claude: Settings → Connectors → <b>Add custom connector</b>"
+              : b.ai === "chatgpt" ? "ChatGPT: Settings → Apps &amp; Connectors (turn on <b>Developer mode</b> under Advanced) → <b>Create</b>, with OAuth sign-in"
+              : b.ai === "grok" ? "Grok: its connector (MCP) settings → add a custom connector"
+              : `${esc(AINAME[b.ai])}: its custom connector (MCP) settings`;
+  const cp = (id, l) => `<button type="button" class="ghost cp" data-copy="${id}">${l}</button>`;
+  return `
+    <li><b>Add the noBGP connector.</b> ${where}, URL:<div class="key" id="n1">https://mcp.nobgp.com/mcp</div>${cp("n1","Copy URL")} Then <b>Connect</b> and sign in with your noBGP account.${b.ai === "chatgpt" ? ` Use a <b>regular chat</b>: ChatGPT's Work sessions can hide the tool that calls services.` : ""} <span class="hint">(Menu names can differ slightly between app versions.)</span></li>
+    <li><b>Access:</b> we add <b>${esc(b.nobgp_email || "your noBGP email")}</b> to the Townlapse donors service, usually within a day. Your <a href="/donate/me/">donations page</a> shows when it's open.</li>
+    <li><b>Paste this into ${esc(AINAME[b.ai])}:</b><pre id="n2">${esc(prompt(key, b))}</pre>${cp("n2","Copy")}</li>
+    ${b.mode === "subscription" ? `<li><b>Make it recurring.</b> ${scheduleHelp(b.ai)}</li>` : ""}`;
+}
 function scheduleHelp(ai) {
   if (ai === "chatgpt") return `In ChatGPT, after pasting the prompt, say: <i>"Run this as a scheduled task every day at ${$("useWindow").checked ? $("winStart").selectedOptions[0].textContent.replace(":00", "") + " minus one hour" : "a time that suits you"}."</i> ChatGPT's scheduled tasks can use the noBGP connector.`;
   if (ai === "muse") return `In Muse, say: <i>"Set up a recurring task: run this every day."</i> Muse's recurring tasks run on Meta's servers, even when your device is off.`;
@@ -219,10 +248,10 @@ function showSetup(d, b) {
     <div class="box"><b>Your donor key</b> <span class="hint">(shown once; it's also saved in this browser)</span><div class="key" id="keyBox">${esc(d.key)}</div>
       <p class="hint">Budget: ${d.budget.per_day} assignment${d.budget.per_day > 1 ? "s" : ""} a day${d.budget.window ? ", only in the hour before your reset" : ""}. <a href="/donate/me/">See your donations</a>.</p></div>
     <ol class="steps">
-      ${connectorSteps(b.ai, d.key, b)}
+      ${b.conn === "nobgp" ? nobgpSteps(d.key, b) : connectorSteps(b.ai, d.key, b)}
       <li><b>Watch it work</b> on <a href="/donate/me/">your donations page</a>. <span id="live" class="msg">Waiting for your AI to connect…</span></li>
     </ol>
-    <details style="margin-top:14px"><summary class="hint">Advanced: connect through noBGP instead</summary><ol class="steps">
+    <details style="margin-top:14px" ${b.conn === "nobgp" ? "hidden" : ""}><summary class="hint">Advanced: connect through noBGP instead</summary><ol class="steps">
       <li><b>Connect noBGP to ${esc(AINAME[b.ai])}.</b> Add the noBGP connector (<a href="https://docs.nobgp.com">how</a>) and sign in. ${b.nobgp_email ? `We'll add <b>${esc(b.nobgp_email)}</b> to the Townlapse donors service, usually within a day.` : `Then <a href="/ideas/">tell us your noBGP email</a> so we can open the Townlapse donors service to you.`}</li>
       <li><b>Paste this into ${esc(AINAME[b.ai])}:</b><pre id="pr">${esc(prompt(d.key, b))}</pre><button type="button" class="ghost" id="copyPr">Copy the prompt</button> <span class="msg" id="copyMsg"></span></li>
       ${b.mode === "subscription" ? `<li><b>Make it recurring.</b> ${scheduleHelp(b.ai)}</li>` : ""}
