@@ -43,6 +43,9 @@ textarea{min-height:70px;resize:vertical}
 .msg{font-size:14px;color:var(--dim)}
 .msg.err{color:var(--pink)} .msg.ok{color:var(--green)}
 .hint{font-size:14px;color:var(--dim)}
+.prog{margin:4px 0 18px;max-width:560px}
+.prog .bar{height:10px;background:var(--panel);border:1px solid var(--line);border-radius:999px;overflow:hidden}
+.prog .bar i{display:block;height:100%;width:0;background:var(--yellow);transition:width .6s}
 .creator{font:800 22px var(--display);color:var(--yellow);margin:-2px 0 10px;letter-spacing:.02em}
 ul.people{list-style:none;margin:10px 0;padding:0;display:flex;flex-wrap:wrap;gap:8px}
 ul.people li{background:var(--panel);border:1px solid var(--line);border-radius:999px;padding:6px 14px;font-size:15px}
@@ -58,6 +61,7 @@ ul.people li b{color:var(--yellow);margin-left:6px;font-weight:600}
   <header><a class="home" href="/">Townlapse</a><a id="mapLink" href="/" class="hint">Open the map</a></header>
   <h1 id="title">Help research</h1>
   <p class="creator" id="creator" hidden></p>
+  <div class="prog" id="prog" hidden><div class="bar"><i id="progBar"></i></div><div class="hint" id="progTxt"></div></div>
   <p class="lede" id="lede">Take a small assignment, look it up online, and add what you find. Every entry is checked against its sources before it goes on the map. No account needed.</p>
 
   <section aria-labelledby="h-assign">
@@ -118,6 +122,11 @@ const CATS = [["food","Food & drink"],["retail","Shop"],["services","Services"],
   if (!town) { $("title").textContent = "Town not found"; $("lede").innerHTML = 'That town isn\u2019t on Townlapse yet. <a href="/start/">Start it</a> or <a href="/">see all towns</a>.'; $("getTask").hidden = true; return; }
   document.title = `Help research ${town.name} · Townlapse`;
   $("title").textContent = `Help research ${town.name}`; $("mapLink").href = town.url;
+  if (slug !== "downtownpaloalto") try {
+    const g = await (await fetch(`${API}/progress?town=${encodeURIComponent(slug)}`)).json();
+    if (g.goal_jobs) { $("prog").hidden = false; $("progBar").style.width = g.percent + "%";
+      $("progTxt").textContent = g.founded ? `Founded! ${g.done_jobs} jobs done. Thank you.` : `Founding: ${g.done_jobs} of ${g.goal_jobs} jobs (${g.percent}%)${g.waiting_for_review ? ` · ${g.waiting_for_review} findings waiting for review` : ""}${g.pledge ? ` · creator's AI pledged ${g.pledge.per_day} a day for ${g.pledge.days} days` : ""}`; }
+  } catch {}
   try {
     const c = await (await fetch(`${API}/credits?town=${encodeURIComponent(slug)}`)).json();
     if (c.creator) { $("creator").hidden = false; $("creator").textContent = `Created by ${c.creator.name}`; }

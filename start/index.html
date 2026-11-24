@@ -128,7 +128,12 @@ ol.steps{padding-left:20px;display:grid;gap:12px}
         <label><input type="radio" name="power" value="other"><span><b>Another AI</b><small>Any assistant with custom connectors (MCP)</small></span></label>
         <label><input type="radio" name="power" value="skip"><span><b>Skip for now</b><small>Today's places only; the history grows from volunteers</small></span></label>
       </div>
-      <div id="budgetBox"><label for="perDay">Research assignments per day <span>each is a few web searches</span></label>
+      <div id="budgetBox">
+        <label for="commit">Founding commitment <span>how long your AI powers the town's first push</span></label>
+        <select id="commit" style="width:100%;max-width:420px;font:16px var(--body);color:var(--ink);background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:11px 13px">
+          <option value="7">1 week (minimum)</option><option value="14" selected>2 weeks (recommended)</option><option value="28">4 weeks (big downtowns)</option></select>
+        <p class="hint" id="commitHint">Your town's founding goal is about 2 jobs for every place on its map (a downtown of 150 places ≈ 300 jobs). Most of it is done by your AI; neighbors and other donors help too.</p>
+        <label for="perDay">Research assignments per day <span>each is a few web searches</span></label>
         <div class="range"><input type="range" id="perDay" min="1" max="30" value="10" aria-label="Assignments per day"><span id="perDayLbl" class="hint" style="margin:0">10 a day</span></div></div>
       <label class="hp" aria-hidden="true">Website <input name="website" id="website" tabindex="-1" autocomplete="off"></label>
       <div id="confirmBox" hidden style="margin-top:14px"><label style="font-weight:500"><input type="checkbox" id="confirmNearby"> This is a different area from the nearby Townlapse above.</label></div>
@@ -187,7 +192,9 @@ function choose(c, li) {
   $("s2").scrollIntoView({ behavior: "smooth", block: "start" });
 }
 function fit() { if (circle) map.fitBounds(circle.getBounds(), { padding: [20, 20] }); setTimeout(() => map.invalidateSize(), 50); }
-$("perDay").oninput = () => { $("perDayLbl").textContent = $("perDay").value + " a day"; };
+const commitNote = () => { const d = +$("commit").value, n = +$("perDay").value; $("commitHint").textContent = `Your town's founding goal is about 2 jobs for every place on its map (a downtown of 150 places ≈ 300 jobs). ${n} a day for ${d} days = ${n * d} jobs from your AI; neighbors and other donors help with the rest.`; };
+$("perDay").oninput = () => { $("perDayLbl").textContent = $("perDay").value + " a day"; commitNote(); };
+$("commit").onchange = commitNote;
 document.querySelectorAll("input[name=power]").forEach(r => r.onchange = () => { $("budgetBox").hidden = document.querySelector("input[name=power]:checked").value === "skip"; });
 $("radius").oninput = () => { $("radiusLbl").textContent = (+$("radius").value).toFixed(1) + " km"; if (circle) { circle.setRadius(+$("radius").value * 1000); } };
 $("radius").onchange = () => { fit(); nearCheck(); };
@@ -227,7 +234,8 @@ $("reqForm").onsubmit = async e => {
   const body = { place, area_kind: kind, custom_area: $("custom").value, radius_km: +$("radius").value, start_year: +$("startYear").value,
     organizer: $("organizer").value, email: $("email").value, note: $("note").value, website: $("website").value, opened, confirm_nearby: $("confirmNearby").checked,
     dry_run: new URLSearchParams(location.search).has("demo"),
-    power: document.querySelector("input[name=power]:checked").value, budget_per_day: +$("perDay").value, credit_creator: $("creditCreator").checked };
+    power: document.querySelector("input[name=power]:checked").value, budget_per_day: +$("perDay").value, credit_creator: $("creditCreator").checked,
+    commit_days: +$("commit").value };
   try {
     const r = await fetch(`${API}/towns`, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body) });
     const d = await r.json();
