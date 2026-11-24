@@ -47,6 +47,8 @@ button:focus-visible,input:focus-visible,select:focus-visible,a:focus-visible{ou
 .msg{font-size:14px;color:var(--dim)} .msg.err{color:var(--pink)} .msg.ok{color:var(--green)}
 .box{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:18px;margin-top:14px}
 .key{font:15px ui-monospace,SFMono-Regular,Menlo,monospace;background:var(--bg);border:1px dashed var(--yellow);border-radius:8px;padding:10px 12px;word-break:break-all}
+.cp{margin-top:6px;padding:7px 14px;font-size:14px}
+details summary{cursor:pointer}
 pre{white-space:pre-wrap;font:14px/1.5 ui-monospace,SFMono-Regular,Menlo,monospace;background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:14px;margin:10px 0;max-height:340px;overflow:auto}
 ol.steps{padding-left:20px;display:grid;gap:10px}
 .hp{position:absolute;left:-9999px}
@@ -128,6 +130,7 @@ ol.steps{padding-left:20px;display:grid;gap:10px}
 <script>
 const API = "https://agenticallymine.com/api/tl";
 const SERVICE = "eec520c8-681f-466b-b9f4-08074dbb5f1d";
+const CONNECTOR = "https://agenticallymine.com/mcp/tl";
 const $ = id => document.getElementById(id);
 const esc = t => String(t ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 const AINAME = { chatgpt: "ChatGPT", claude: "Claude", grok: "Grok", gemini: "Gemini", muse: "Muse", copilot: "Copilot", other: "your assistant" };
@@ -176,6 +179,32 @@ function prompt(key, b) {
 5. POST /api/tl/d/complete with body {"key":"${key}","town":"<town>","task_id":"<task_id>","submitted":<how many>,"note":"<what you searched, including dead ends>"}.
 6. Repeat from step 1 until the budget is used, then tell me what you found.`;
 }
+function starter(b) {
+  const where = b.scope === "town" ? ` for ${(towns.find(t => t.slug === b.town) || {}).name || b.town}` : "";
+  return `Use the Townlapse connector to help research local history${where}: call get_task, research that assignment on the web, submit_places with anything you can source (never guess), then complete_task with a short note. Repeat until my_budget shows nothing left for today, then tell me what you found.`;
+}
+function connectorSteps(ai, key, b) {
+  const url = `${CONNECTOR}/${key}`;
+  const copy = (id, label) => `<button type="button" class="ghost cp" data-copy="${id}">${label}</button>`;
+  if (ai === "muse") return `
+    <li><b>Ask Muse to add the Townlapse connector.</b> Paste this into Muse:
+      <pre id="m1">Create a custom connector named "Townlapse" for a remote MCP server. URL: ${CONNECTOR} (streamable HTTP). Authentication: an API key sent in the request header x-townlapse-key.</pre>${copy("m1","Copy")}</li>
+    <li><b>Click Connect</b> on the card Muse shows, and paste your key into its secure box (not into the chat):
+      <div class="key" id="m2">${esc(key)}</div>${copy("m2","Copy key")}
+      If Muse asks to share information with agenticallymine.com, choose <b>Always allow</b>.</li>
+    <li><b>Start it.</b> Paste this into Muse${b.mode === "subscription" ? `, then say <i>"make this a recurring task every day"</i>` : ""}:
+      <pre id="m3">${esc(starter(b))}</pre>${copy("m3","Copy")}</li>`;
+  const app = ai === "chatgpt" ? "ChatGPT" : ai === "claude" ? "Claude" : AINAME[ai];
+  const where = ai === "chatgpt" ? "Settings → Apps &amp; Connectors (turn on <b>Developer mode</b> under Advanced if you don't see “Create”) → <b>Create</b>"
+              : ai === "claude" ? "Settings → Connectors → <b>Add custom connector</b>"
+              : "its settings for custom connectors (MCP servers)";
+  return `
+    <li><b>Add the Townlapse connector to ${esc(app)}:</b> ${where}. Name it <b>Townlapse</b>, choose <b>No authentication</b>, and use your personal connector URL (it contains your key, so keep it private):
+      <div class="key" id="c1">${esc(url)}</div>${copy("c1","Copy URL")}</li>
+    <li><b>Turn the connector on</b> for a new chat, then paste:
+      <pre id="c2">${esc(starter(b))}</pre>${copy("c2","Copy")}</li>
+    ${b.mode === "subscription" ? `<li><b>Make it recurring.</b> ${scheduleHelp(ai)}</li>` : ""}`;
+}
 function scheduleHelp(ai) {
   if (ai === "chatgpt") return `In ChatGPT, after pasting the prompt, say: <i>"Run this as a scheduled task every day at ${$("useWindow").checked ? $("winStart").selectedOptions[0].textContent.replace(":00", "") + " minus one hour" : "a time that suits you"}."</i> ChatGPT's scheduled tasks can use the noBGP connector.`;
   if (ai === "muse") return `In Muse, say: <i>"Set up a recurring task: run this every day."</i> Muse's recurring tasks run on Meta's servers, even when your device is off.`;
@@ -190,13 +219,22 @@ function showSetup(d, b) {
     <div class="box"><b>Your donor key</b> <span class="hint">(shown once; it's also saved in this browser)</span><div class="key" id="keyBox">${esc(d.key)}</div>
       <p class="hint">Budget: ${d.budget.per_day} assignment${d.budget.per_day > 1 ? "s" : ""} a day${d.budget.window ? ", only in the hour before your reset" : ""}. <a href="/donate/me/">See your donations</a>.</p></div>
     <ol class="steps">
+      ${connectorSteps(b.ai, d.key, b)}
+      <li><b>Watch it work</b> on <a href="/donate/me/">your donations page</a>. <span id="live" class="msg">Waiting for your AI to connect…</span></li>
+    </ol>
+    <details style="margin-top:14px"><summary class="hint">Advanced: connect through noBGP instead</summary><ol class="steps">
       <li><b>Connect noBGP to ${esc(AINAME[b.ai])}.</b> Add the noBGP connector (<a href="https://docs.nobgp.com">how</a>) and sign in. ${b.nobgp_email ? `We'll add <b>${esc(b.nobgp_email)}</b> to the Townlapse donors service, usually within a day.` : `Then <a href="/ideas/">tell us your noBGP email</a> so we can open the Townlapse donors service to you.`}</li>
       <li><b>Paste this into ${esc(AINAME[b.ai])}:</b><pre id="pr">${esc(prompt(d.key, b))}</pre><button type="button" class="ghost" id="copyPr">Copy the prompt</button> <span class="msg" id="copyMsg"></span></li>
       ${b.mode === "subscription" ? `<li><b>Make it recurring.</b> ${scheduleHelp(b.ai)}</li>` : ""}
-      <li><b>Watch it work</b> on <a href="/donate/me/">your donations page</a>: every assignment, submission and verdict.</li>
-    </ol>
+    </ol><p class="hint">Needs a setup where noBGP's <code>service_request</code> tool is available.</p></details>
     <p class="hint">Keep your key private: anyone with it can use your donor budget. Lost it? Just set up a new donation.</p>`;
   $("copyPr").onclick = async () => { try { await navigator.clipboard.writeText(prompt(d.key, b)); $("copyMsg").textContent = "Copied!"; } catch { $("copyMsg").textContent = "Select the text above to copy it."; } };
+  s.querySelectorAll(".cp").forEach(btn => btn.onclick = async () => { try { await navigator.clipboard.writeText($(btn.dataset.copy).textContent); btn.textContent = "Copied!"; } catch { btn.textContent = "Select and copy"; } });
+  // live check: turns green when the AI first reaches Townlapse
+  const poll = async () => { try { const r = await (await fetch(`${API}/d/me`, { headers: { "x-donor-key": d.key } })).json();
+      if (r.connected) { $("live").textContent = r.assignments_completed ? `Working! ${r.assignments_completed} assignment(s) done.` : "Connected ✓ Your AI reached Townlapse."; $("live").className = "msg ok"; if (r.assignments_completed) return; } } catch {}
+    setTimeout(poll, 6000); };
+  poll();
   s.scrollIntoView({ behavior: "smooth" });
 }
 </script>
