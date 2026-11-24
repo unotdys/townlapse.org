@@ -56,6 +56,18 @@ ul.cands .s{color:var(--dim);font-size:14px}
 .range{display:flex;align-items:center;gap:12px;margin-top:10px}
 .range input{flex:1;accent-color:var(--yellow)}
 .hp{position:absolute;left:-9999px}
+.ok{color:var(--green)}
+.power{display:grid;gap:8px}
+.power label{margin:0;font-weight:400}
+.power input{position:absolute;opacity:0;pointer-events:none}
+.power span{display:block;border:1px solid var(--line);border-radius:12px;padding:11px 14px;cursor:pointer;background:var(--panel)}
+.power span b{font-weight:600}.power small{display:block;color:var(--dim);font-size:14px}
+.power input:checked+span{border-color:var(--yellow);box-shadow:inset 0 0 0 1px var(--yellow)}
+.power input:focus-visible+span{outline:2px solid var(--yellow);outline-offset:2px}
+.key{font:15px ui-monospace,SFMono-Regular,Menlo,monospace;background:var(--bg);border:1px dashed var(--yellow);border-radius:8px;padding:10px 12px;word-break:break-all;margin-top:6px}
+pre{white-space:pre-wrap;font:14px/1.5 ui-monospace,SFMono-Regular,Menlo,monospace;background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:12px;margin:8px 0}
+.cp{margin-top:4px;padding:7px 14px;font-size:14px}
+ol.steps{padding-left:20px;display:grid;gap:12px}
 .done{border:1px solid var(--green);border-radius:14px;padding:22px;background:var(--panel)}
 .done h2{font:800 34px/1 var(--display);margin:0 0 10px;color:var(--green)}
 .leaflet-container{font:13px var(--body)}
@@ -102,10 +114,22 @@ ul.cands .s{color:var(--dim);font-size:14px}
       <input type="number" id="startYear" min="1800" max="1990" value="1900">
       <label for="organizer">Your name <span>optional</span></label>
       <input type="text" id="organizer" maxlength="60" autocomplete="name">
+      <label class="check" style="display:flex;gap:10px;font-weight:500;margin-top:10px"><input type="checkbox" id="creditCreator" checked style="width:auto;accent-color:var(--yellow)"> Credit me as this town's creator (your name is shown on the map)</label>
       <label for="email">Email <span>optional, never shown</span></label>
       <input type="email" id="email" maxlength="120" autocomplete="email">
       <label for="note">Anything we should know? <span>optional</span></label>
       <textarea id="note" maxlength="500" placeholder="e.g. I'm with the historical society; old phone books are at the library"></textarea>
+      <h2 style="font:800 30px/1 var(--display);margin:34px 0 6px"><b style="color:var(--yellow)">4</b> Power your town</h2>
+      <p class="hint" style="margin:0 0 10px">Your town's history is researched by AI. Give it a little of your own AI's time, and your town grows every day. Every finding is checked before it goes on the map.</p>
+      <div class="power" role="radiogroup" aria-label="Which AI powers your town">
+        <label><input type="radio" name="power" value="muse" checked><span><b>Muse</b><small>Meta's assistant · recommended: our best researcher so far</small></span></label>
+        <label><input type="radio" name="power" value="chatgpt"><span><b>ChatGPT</b><small>Works with scheduled tasks</small></span></label>
+        <label><input type="radio" name="power" value="claude"><span><b>Claude</b><small>Run it whenever you like</small></span></label>
+        <label><input type="radio" name="power" value="other"><span><b>Another AI</b><small>Any assistant with custom connectors (MCP)</small></span></label>
+        <label><input type="radio" name="power" value="skip"><span><b>Skip for now</b><small>Today's places only; the history grows from volunteers</small></span></label>
+      </div>
+      <div id="budgetBox"><label for="perDay">Research assignments per day <span>each is a few web searches</span></label>
+        <div class="range"><input type="range" id="perDay" min="1" max="30" value="10" aria-label="Assignments per day"><span id="perDayLbl" class="hint" style="margin:0">10 a day</span></div></div>
       <label class="hp" aria-hidden="true">Website <input name="website" id="website" tabindex="-1" autocomplete="off"></label>
       <div id="confirmBox" hidden style="margin-top:14px"><label style="font-weight:500"><input type="checkbox" id="confirmNearby"> This is a different area from the nearby Townlapse above.</label></div>
       <div class="row" style="margin-top:20px;align-items:center"><button type="submit" id="go">Start my town</button><span id="reqMsg" class="hint" style="margin:0" aria-live="polite"></span></div>
@@ -163,6 +187,8 @@ function choose(c, li) {
   $("s2").scrollIntoView({ behavior: "smooth", block: "start" });
 }
 function fit() { if (circle) map.fitBounds(circle.getBounds(), { padding: [20, 20] }); setTimeout(() => map.invalidateSize(), 50); }
+$("perDay").oninput = () => { $("perDayLbl").textContent = $("perDay").value + " a day"; };
+document.querySelectorAll("input[name=power]").forEach(r => r.onchange = () => { $("budgetBox").hidden = document.querySelector("input[name=power]:checked").value === "skip"; });
 $("radius").oninput = () => { $("radiusLbl").textContent = (+$("radius").value).toFixed(1) + " km"; if (circle) { circle.setRadius(+$("radius").value * 1000); } };
 $("radius").onchange = () => { fit(); nearCheck(); };
 
@@ -200,7 +226,8 @@ $("reqForm").onsubmit = async e => {
   $("go").disabled = true; $("reqMsg").textContent = "Setting up…"; $("reqMsg").className = "hint";
   const body = { place, area_kind: kind, custom_area: $("custom").value, radius_km: +$("radius").value, start_year: +$("startYear").value,
     organizer: $("organizer").value, email: $("email").value, note: $("note").value, website: $("website").value, opened, confirm_nearby: $("confirmNearby").checked,
-    dry_run: new URLSearchParams(location.search).has("demo") };
+    dry_run: new URLSearchParams(location.search).has("demo"),
+    power: document.querySelector("input[name=power]:checked").value, budget_per_day: +$("perDay").value, credit_creator: $("creditCreator").checked };
   try {
     const r = await fetch(`${API}/towns`, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body) });
     const d = await r.json();
@@ -210,6 +237,29 @@ $("reqForm").onsubmit = async e => {
     done(d);
   } catch (err) { $("reqMsg").textContent = err.message; $("reqMsg").className = "hint err"; $("go").disabled = false; }
 };
+const CONNECTOR = "https://agenticallymine.com/mcp/tl";
+function onboarding(d) {
+  if (!d.sponsor_key) return `<p class="hint">Want your town to grow faster? You can power it with your AI anytime from <a href="/donate/?town=${esc(d.slug)}">townlapse.org/donate</a>.</p>`;
+  const key = d.sponsor_key, url = `${CONNECTOR}/${key}`, demo = !!d.demo;
+  const start = `Use the Townlapse connector to research the history of ${d.name}: call get_task, research that assignment on the web, submit_places with anything you can source (never guess), then complete_task with a short note. Repeat until my_budget shows nothing left for today, then tell me what you found.`;
+  const cp = (id, l) => `<button type="button" class="ghost cp" data-copy="${id}">${l}</button>`;
+  let steps;
+  if (d.power === "muse") steps = `
+    <li><b>Ask Muse to add the Townlapse connector.</b> Paste this into Muse:<pre id="o1">Create a custom connector named "Townlapse" for a remote MCP server. URL: ${CONNECTOR} (streamable HTTP). Authentication: an API key sent in the request header x-townlapse-key.</pre>${cp("o1","Copy")}</li>
+    <li><b>Click Connect</b> on the card Muse shows and paste your town key into its secure box (not into the chat):<div class="key" id="o2">${esc(key)}</div>${cp("o2","Copy key")} If Muse asks to share information with agenticallymine.com, choose <b>Always allow</b>.</li>
+    <li><b>Start it,</b> then say <i>"make this a recurring task every day"</i>:<pre id="o3">${esc(start)}</pre>${cp("o3","Copy")}</li>`;
+  else {
+    const app = d.power === "chatgpt" ? "ChatGPT" : d.power === "claude" ? "Claude" : "your AI";
+    const where = d.power === "chatgpt" ? "Settings → Apps &amp; Connectors (turn on <b>Developer mode</b> under Advanced if you don't see “Create”) → <b>Create</b>"
+                : d.power === "claude" ? "Settings → Connectors → <b>Add custom connector</b>" : "its settings for custom connectors (MCP servers)";
+    steps = `
+    <li><b>Add the Townlapse connector to ${app}:</b> ${where}. Name it <b>Townlapse</b>, choose <b>No authentication</b>, and paste your town's connector URL (it contains your key; keep it private):<div class="key" id="o1">${esc(url)}</div>${cp("o1","Copy URL")}</li>
+    <li><b>Turn it on in a new chat and paste:</b><pre id="o2">${esc(start)}</pre>${cp("o2","Copy")}${d.power === "chatgpt" ? ` Then ask ChatGPT to <i>"run this every day"</i>.` : ""}</li>`;
+  }
+  return `<h2 style="font:800 30px/1 var(--display);margin:22px 0 8px;color:var(--ink)">Power ${esc(d.name)} with ${d.power === "muse" ? "Muse" : d.power === "chatgpt" ? "ChatGPT" : d.power === "claude" ? "Claude" : "your AI"}</h2>
+    <p class="hint">Your town key ${demo ? "(demo: not a real key)" : "is shown once; keep it private. Lost it? Set up again from the donate page."}</p>
+    <ol class="steps">${steps}<li><span id="liveAI" class="hint">${demo ? "Demo mode: no live check." : "Waiting for your AI to connect…"}</span></li></ol>`;
+}
 function done(d) {
   ["s1", "s2", "s3"].forEach(id => $(id).hidden = true);
   const s = $("s4"); s.hidden = false;
@@ -217,7 +267,11 @@ function done(d) {
     <p>We're loading today's places from OpenStreetMap and building the map. It usually takes about 10 minutes.</p>
     <p class="hint" id="liveMsg" aria-live="polite">Waiting for the map…</p>
     <p style="margin-top:16px"><a href="${esc(d.url)}"><b>${esc(d.url.replace("https://", ""))}</b></a></p>
-    <p class="hint">Next: share it with neighbors, and use <b>Help research</b> on the map to start filling in its history.</p></div>`;
+    <p class="hint">Next: share it with neighbors, and use <b>Help research</b> on the map to start filling in its history.</p>${onboarding(d)}</div>`;
+  s.querySelectorAll(".cp").forEach(b => b.onclick = async () => { try { await navigator.clipboard.writeText($(b.dataset.copy).textContent); b.textContent = "Copied!"; } catch { b.textContent = "Select and copy"; } });
+  if (d.sponsor_key && !d.demo) { const live = async () => { try { const r = await (await fetch(`${API.replace("/api/tl","")}/api/tl/d/me`, { headers: { "x-donor-key": d.sponsor_key } })).json();
+        if (r.connected) { $("liveAI").textContent = r.assignments_completed ? `Working! ${r.assignments_completed} assignment(s) done.` : "Connected ✓ Your AI reached Townlapse."; $("liveAI").className = "hint ok"; if (r.assignments_completed) return; } } catch {}
+      setTimeout(live, 6000); }; live(); }
   s.scrollIntoView({ behavior: "smooth" });
   if (d.demo) { $("liveMsg").textContent = "Demo mode: every check passed, and nothing was created."; return; }
   const t0 = Date.now();

@@ -43,6 +43,10 @@ textarea{min-height:70px;resize:vertical}
 .msg{font-size:14px;color:var(--dim)}
 .msg.err{color:var(--pink)} .msg.ok{color:var(--green)}
 .hint{font-size:14px;color:var(--dim)}
+.creator{font:800 22px var(--display);color:var(--yellow);margin:-2px 0 10px;letter-spacing:.02em}
+ul.people{list-style:none;margin:10px 0;padding:0;display:flex;flex-wrap:wrap;gap:8px}
+ul.people li{background:var(--panel);border:1px solid var(--line);border-radius:999px;padding:6px 14px;font-size:15px}
+ul.people li b{color:var(--yellow);margin-left:6px;font-weight:600}
 .aibox{margin-top:16px;border-top:1px solid var(--line);padding-top:14px}
 .aibox ol{margin:8px 0 0;padding-left:20px;display:grid;gap:10px}
 .aibox textarea{margin:8px 0;min-height:90px;background:var(--bg)}
@@ -53,6 +57,7 @@ textarea{min-height:70px;resize:vertical}
 <div class="wrap">
   <header><a class="home" href="/">Townlapse</a><a id="mapLink" href="/" class="hint">Open the map</a></header>
   <h1 id="title">Help research</h1>
+  <p class="creator" id="creator" hidden></p>
   <p class="lede" id="lede">Take a small assignment, look it up online, and add what you find. Every entry is checked against its sources before it goes on the map. No account needed.</p>
 
   <section aria-labelledby="h-assign">
@@ -64,6 +69,8 @@ textarea{min-height:70px;resize:vertical}
     <h2 id="h-add">Add what you found</h2>
     <p class="hint">One entry per place. A source link is required: an old newspaper page, a directory scan, a history site, an archived listing.</p>
     <form id="entries" novalidate></form>
+    <label for="creditName" style="margin-top:16px">Your name for the contributor list <span>optional; leave blank to stay anonymous</span></label>
+    <input id="creditName" maxlength="40" autocomplete="name" style="max-width:360px">
     <div class="row">
       <button type="button" class="ghost" id="addRow">+ Another place</button>
       <button type="button" id="send">Submit</button>
@@ -76,6 +83,13 @@ textarea{min-height:70px;resize:vertical}
     <label for="doneNote">What did you search? <span>helps the next person skip dead ends</span></label>
     <textarea id="doneNote" maxlength="500" placeholder="e.g. Searched the 1955 phone book on archive.org and the newspaper archive; found two shops."></textarea>
     <div class="row"><button type="button" id="finish">Finish and get another</button><span class="msg" id="doneMsg" aria-live="polite"></span></div>
+  </section>
+
+  <section aria-labelledby="h-thanks" id="thanks" hidden>
+    <h2 id="h-thanks">Thank you</h2>
+    <p class="hint" id="thanksIntro"></p>
+    <ul class="people" id="people"></ul>
+    <p class="hint" id="helpers"></p>
   </section>
 
   <section aria-labelledby="h-more">
@@ -104,6 +118,17 @@ const CATS = [["food","Food & drink"],["retail","Shop"],["services","Services"],
   if (!town) { $("title").textContent = "Town not found"; $("lede").innerHTML = 'That town isn\u2019t on Townlapse yet. <a href="/start/">Start it</a> or <a href="/">see all towns</a>.'; $("getTask").hidden = true; return; }
   document.title = `Help research ${town.name} · Townlapse`;
   $("title").textContent = `Help research ${town.name}`; $("mapLink").href = town.url;
+  try {
+    const c = await (await fetch(`${API}/credits?town=${encodeURIComponent(slug)}`)).json();
+    if (c.creator) { $("creator").hidden = false; $("creator").textContent = `Created by ${c.creator.name}`; }
+    const people = c.contributors || [], helpers = c.ai_helpers || [];
+    if (people.length || helpers.length || c.creator) {
+      $("thanks").hidden = false;
+      $("thanksIntro").textContent = c.accepted_total ? `${c.accepted_total} findings checked and added to the map so far.` : "Be the first to add a finding to this town.";
+      $("people").innerHTML = people.map(p => `<li>${esc(p.name)}<b>${p.accepted}</b></li>`).join("") || "";
+      $("helpers").textContent = helpers.length ? "Researched with AI help from " + helpers.map(h => `${h.name} (${h.accepted})`).join(", ") + "." : "";
+    }
+  } catch {}
 })();
 
 function searchLinks(t) {
@@ -210,7 +235,7 @@ $("send").onclick = async () => {
   if (!entries.length) { $("sendMsg").textContent = "Add at least one place."; $("sendMsg").className = "msg err"; return; }
   $("send").disabled = true; $("sendMsg").textContent = "Sending…"; $("sendMsg").className = "msg";
   try {
-    const r = await fetch(`${API}/submit`, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ town: slug, task_id: task && task.task_id, entries }) });
+    const r = await fetch(`${API}/submit`, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ town: slug, task_id: task && task.task_id, entries, credit_name: $("creditName").value }) });
     const d = await r.json(); if (!r.ok) throw new Error(d.error || "Couldn't submit.");
     const ok = (d.results || []).filter(x => x.status === "queued").length; submitted += ok;
     const bad = (d.results || []).filter(x => x.status !== "queued").map(x => `#${x.index + 1}: ${x.error}`);
