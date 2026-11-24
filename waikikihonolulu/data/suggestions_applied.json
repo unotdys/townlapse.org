@@ -25,6 +25,18 @@
     "https://hawaiicalling.com/waikikis-new-monkeypod-kitchen-by-merriman/",
     "https://www.fsrmagazine.com/growth/nextgen-casual/chef-peter-merriman-opens-monkeypod-kitchen-at-the-outrigger/"
    ]
+  },
+  {
+   "name": "La Mer",
+   "address": "2199 Kalia Road",
+   "note": "French restaurant at the Halekulani hotel; it opened simultaneously with the rebuilt hotel's grand opening in March 1984. Hawaii's longest-running AAA Five Diamond restaurant, since 1990.",
+   "start": 1984,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://lhatlas.com/maison/halekulani/"
+   ]
   }
  ],
  "corrections": [

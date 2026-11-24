@@ -44,6 +44,24 @@
   ]
  },
  {
+  "name": "La Mer",
+  "address": "2199 Kalia Road",
+  "start": 1984,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "French restaurant at the Halekulani hotel; it opened simultaneously with the rebuilt hotel's grand opening in March 1984. Hawaii's longest-running AAA Five Diamond restaurant, since 1990.",
+  "lat": 21.2779627,
+  "lng": -157.8323674,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://lhatlas.com/maison/halekulani/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -532,19 +550,6 @@
   "note": "Open today (gift). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.276211,
   "lng": -157.8260796
- },
- {
-  "name": "La Mer",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2783382,
-  "lng": -157.832021
  },
  {
   "name": "Orchids",
