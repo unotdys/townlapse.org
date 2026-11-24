@@ -62,6 +62,28 @@
   ]
  },
  {
+  "name": "Eggs 'n Things",
+  "address": "343 Saratoga Road",
+  "start": 2009,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Flagship restaurant of the Waikiki breakfast chain; the Saratoga Road restaurant opened March 10, 2009. The brand began on Ena Road in 1974 and the Saratoga site is the third location of the original restaurant. Note: the other Waikiki location, the Waikiki Beach Eggspress at 2464 Kalakaua Ave (opened 2011), was submitted in an earlier run; one travel guide lists this address as 339 Saratoga Road,",
+  "lat": 21.2813613,
+  "lng": -157.8312325,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://eggsnthings.com/about/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://oahutravelguidehi.com/eggs-n-things-waikiki-review/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -628,19 +650,6 @@
   "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2776805,
   "lng": -157.8275662
- },
- {
-  "name": "Eggs 'n Things",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.281425,
-  "lng": -157.831216
  },
  {
   "name": "Duke's Waikiki",
