@@ -1197,6 +1197,22 @@
     "https://npiregistry.cms.hhs.gov/provider-view/1114056926",
     "https://unilocal.net/united-states/palo-alto/altick-frank-l-dds"
    ]
+  },
+  {
+   "name": "Palo Alto City Hall",
+   "address": "250 Hamilton Ave",
+   "note": "Palo Alto's city hall, designed by Edward Durell Stone and finished around 1970 on the site of the 1904 Carnegie Library, which was torn down in 1967. The plaza in front was later named King Plaza, and the building is still the seat of city government.",
+   "start": 1970,
+   "end": null,
+   "category": "civic",
+   "approx": true,
+   "links": [
+    "https://pcad.lib.washington.edu/building/2957",
+    "https://structurae.net/en/structures/palo-alto-city-hall",
+    "https://www.cityofpaloalto.org/files/assets/public/v/1/from-archive/agendas-minutes-reports/reports/city-manager-reports-cmrs/2012/id-2457.pdf",
+    "https://www.paloaltoonline.com/news/2007/10/30/city-hall-plaza-to-be-named-after-kings/",
+    "https://www.paloaltoonline.com/news/2012/01/13/city-may-seek-bond-for-new-public-safety-facilities/"
+   ]
   }
  ],
  "corrections": [
