@@ -50,6 +50,19 @@
     "https://eggsnthings.com/about/",
     "https://oahutravelguidehi.com/eggs-n-things-waikiki-review/"
    ]
+  },
+  {
+   "name": "Heavenly Island Lifestyle",
+   "address": "342 Seaside Ave",
+   "note": "All-day restaurant inside Shoreline Hotel Waikiki serving locally sourced island dishes; first welcomed guests in September 2014.",
+   "start": 2014,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.heavenly-waikiki.com/",
+    "https://www.zetton-inc.com/heavenly-hawaiikai"
+   ]
   }
  ],
  "corrections": [
