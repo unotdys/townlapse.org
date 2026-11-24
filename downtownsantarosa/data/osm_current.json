@@ -1,0 +1,4663 @@
+{
+"version": 0.6,
+"generator": "Overpass API 0.7.62.11 87bfad18",
+"osm3s": {
+"timestamp_osm_base": "2026-11-23T17:37:24Z",
+"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+},
+"elements": [
+{
+"type": "node",
+"id": 358831503,
+"lat": 38.4449117,
+"lon": -122.7133203,
+"tags": {
+"amenity": "place_of_worship",
+"ele": "51",
+"gnis:feature_id": "1799425",
+"name": "Apostolic Bible Church",
+"religion": "christian"
+}
+},
+{
+"type": "node",
+"id": 358831505,
+"lat": 38.4371341,
+"lon": -122.7080424,
+"tags": {
+"amenity": "place_of_worship",
+"denomination": "lutheran",
+"ele": "50",
+"gnis:feature_id": "1799427",
+"name": "Bethlehem Lutheran Church",
+"religion": "christian"
+}
+},
+{
+"type": "node",
+"id": 358831512,
+"lat": 38.435877,
+"lon": -122.7140539,
+"tags": {
+"amenity": "place_of_worship",
+"ele": "48",
+"name": "Church Built from One Tree",
+"religion": "christian",
+"start_date": "1873",
+"wikidata": "Q18149261",
+"wikipedia": "en:Church of One Tree"
+}
+},
+{
+"type": "node",
+"id": 358831515,
+"lat": 38.4438007,
+"lon": -122.7127648,
+"tags": {
+"amenity": "place_of_worship",
+"denomination": "mormon",
+"ele": "51",
+"gnis:feature_id": "1799436",
+"name": "The Church of Jesus Christ of Latter-day Saints",
+"religion": "christian"
+}
+},
+{
+"type": "node",
+"id": 358831516,
+"lat": 38.4438007,
+"lon": -122.7138759,
+"tags": {
+"amenity": "place_of_worship",
+"ele": "51",
+"gnis:feature_id": "1799437",
+"name": "Church of Religious Science",
+"religion": "christian"
+}
+},
+{
+"type": "node",
+"id": 358831526,
+"lat": 38.4443561,
+"lon": -122.707209,
+"tags": {
+"amenity": "place_of_worship",
+"ele": "54",
+"gnis:feature_id": "1799449",
+"name": "First Church of Christ Scientist",
+"religion": "christian"
+}
+},
+{
+"type": "node",
+"id": 358831531,
+"lat": 38.4360231,
+"lon": -122.7133203,
+"tags": {
+"amenity": "place_of_worship",
+"ele": "50",
+"gnis:feature_id": "1799454",
+"name": "Foursquare Gospel Church",
+"religion": "christian"
+}
+},
+{
+"type": "node",
+"id": 6342212385,
+"lat": 38.4412658,
+"lon": -122.714443,
+"tags": {
+"addr:housenumber": "400",
+"addr:street": "Mendocino Avenue",
+"amenity": "restaurant",
+"bar": "yes",
+"check_date": "2023-10-29",
+"cuisine": "puerto_rican",
+"description": "Puerto Rican cuisine",
+"name": "El Coqui"
+}
+},
+{
+"type": "node",
+"id": 6496491390,
+"lat": 38.4416011,
+"lon": -122.7118598,
+"tags": {
+"amenity": "restaurant",
+"cuisine": "chinese",
+"name": "Ting Hau"
+}
+},
+{
+"type": "node",
+"id": 6496491391,
+"lat": 38.4415662,
+"lon": -122.7119063,
+"tags": {
+"name": "Revive Hair Collective",
+"shop": "hairdresser"
+}
+},
+{
+"type": "node",
+"id": 6496491393,
+"lat": 38.4415042,
+"lon": -122.7120775,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "707",
+"addr:state": "CA",
+"addr:street": "4th Street",
+"addr:unit": "B",
+"brand": "Supercuts",
+"brand:wikidata": "Q7643239",
+"check_date": "2023-10-29",
+"name": "Supercuts",
+"shop": "hairdresser"
+}
+},
+{
+"type": "node",
+"id": 6496491397,
+"lat": 38.4414101,
+"lon": -122.7123212,
+"tags": {
+"addr:housenumber": "701",
+"addr:street": "4th Street",
+"amenity": "restaurant",
+"cuisine": "mediterranean",
+"name": "Falafel Hut Santa Rosa"
+}
+},
+{
+"type": "node",
+"id": 6496491403,
+"lat": 38.4409576,
+"lon": -122.7125476,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "650",
+"addr:state": "CA",
+"addr:street": "4th Street",
+"addr:unit": "110",
+"brand": "FedEx Office",
+"brand:wikidata": "Q474379",
+"level": "1",
+"name": "FedEx Office",
+"shop": "copyshop"
+}
+},
+{
+"type": "node",
+"id": 6496491408,
+"lat": 38.4407958,
+"lon": -122.7122781,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "201",
+"addr:state": "CA",
+"addr:street": "D Street",
+"level": "2",
+"name": "Crow's Nest Tattoo",
+"shop": "tattoo",
+"wheelchair": "no"
+}
+},
+{
+"type": "node",
+"id": 6496491410,
+"lat": 38.4408999,
+"lon": -122.7127387,
+"tags": {
+"name": "Mirage Florist",
+"shop": "florist"
+}
+},
+{
+"type": "node",
+"id": 6496491411,
+"lat": 38.4408829,
+"lon": -122.7128012,
+"tags": {
+"check_date": "2023-11-23",
+"name": "E.R. Sawyer Jeweler",
+"payment:cash": "yes",
+"payment:credit_cards": "yes",
+"payment:debit_cards": "yes",
+"shop": "jewelry"
+}
+},
+{
+"type": "node",
+"id": 6496491413,
+"lat": 38.4408244,
+"lon": -122.7129234,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "630",
+"addr:state": "CA",
+"addr:street": "4th Street",
+"amenity": "restaurant",
+"check_date": "2024-05-18",
+"cuisine": "american;jewish",
+"fax": "+1 707 545 2447",
+"indoor_seating": "yes",
+"name": "Mac's Deli & Cafe",
+"opening_hours": "Mo-Sa 08:00-14:45; Su off",
+"outdoor_seating": "no",
+"phone": "+1 707-545-3785",
+"website": "https://macsdeliandcafe.com/",
+"wheelchair": "yes"
+}
+},
+{
+"type": "node",
+"id": 6496491414,
+"lat": 38.4408084,
+"lon": -122.7129696,
+"tags": {
+"name": "Positively Fourth Street",
+"shop": "gift"
+}
+},
+{
+"type": "node",
+"id": 6496491415,
+"lat": 38.4407616,
+"lon": -122.7130565,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "626",
+"addr:state": "CA",
+"addr:street": "4th Street",
+"name": "Skeeter's Gallery",
+"shop": "gift"
+}
+},
+{
+"type": "node",
+"id": 6496491416,
+"lat": 38.4407446,
+"lon": -122.7131053,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "624",
+"addr:state": "CA",
+"addr:street": "4th Street",
+"beauty": "nails",
+"name": "Santa Rosa Nail Salon",
+"shop": "beauty"
+}
+},
+{
+"type": "node",
+"id": 6496518749,
+"lat": 38.4407255,
+"lon": -122.7131676,
+"tags": {
+"name": "Liv Fashion Boutique",
+"shop": "clothes"
+}
+},
+{
+"type": "node",
+"id": 6496518752,
+"lat": 38.4406527,
+"lon": -122.7133191,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "614",
+"addr:state": "CA",
+"addr:street": "4th Street",
+"amenity": "bar",
+"name": "Beer Baron",
+"outdoor_seating": "yes"
+}
+},
+{
+"type": "node",
+"id": 6496518754,
+"lat": 38.4404285,
+"lon": -122.7131549,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "90",
+"addr:state": "CA",
+"addr:street": "Old Courthouse Square",
+"amenity": "restaurant",
+"cuisine": "american;international",
+"name": "Perch + Plow"
+}
+},
+{
+"type": "node",
+"id": 6496518756,
+"lat": 38.4402349,
+"lon": -122.7129527,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "50",
+"addr:state": "CA",
+"addr:street": "Old Courthouse Square",
+"amenity": "bank",
+"atm": "yes",
+"brand": "U.S. Bank",
+"brand:wikidata": "Q739084",
+"name": "U.S. Bank"
+}
+},
+{
+"type": "node",
+"id": 6496550850,
+"lat": 38.4406643,
+"lon": -122.7139877,
+"tags": {
+"addr:housenumber": "300",
+"addr:street": "Mendocino Avenue",
+"check_date": "2023-11-03",
+"name": "4th Street Deli",
+"shop": "deli"
+}
+},
+{
+"type": "node",
+"id": 6496550860,
+"lat": 38.4412873,
+"lon": -122.7126172,
+"tags": {
+"addr:housenumber": "647",
+"addr:street": "4th Street",
+"check_date": "2023-11-03",
+"name": "Timothy Patrick Jewelers",
+"shop": "jewelry"
+}
+},
+{
+"type": "node",
+"id": 6496550861,
+"lat": 38.4412655,
+"lon": -122.7126732,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "645",
+"addr:state": "CA",
+"addr:street": "4th Street",
+"amenity": "restaurant",
+"cuisine": "sushi;japanese",
+"name": "JoJo Restaurant and Sushi Bar"
+}
+},
+{
+"type": "node",
+"id": 6496550862,
+"lat": 38.4410675,
+"lon": -122.7130387,
+"tags": {
+"check_date": "2025-10-18",
+"name": "Grateful Bagel",
+"shop": "deli"
+}
+},
+{
+"type": "node",
+"id": 6496550866,
+"lat": 38.4407125,
+"lon": -122.7138696,
+"tags": {
+"name": "Diamonds & Curls Salon",
+"shop": "hairdresser"
+}
+},
+{
+"type": "node",
+"id": 6496550867,
+"lat": 38.4408421,
+"lon": -122.714119,
+"tags": {
+"beauty": "nails",
+"name": "Exclusive Spa",
+"shop": "beauty"
+}
+},
+{
+"type": "node",
+"id": 6496550881,
+"lat": 38.4406422,
+"lon": -122.7160966,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "416",
+"addr:state": "CA",
+"addr:street": "B Street",
+"leisure": "fitness_centre",
+"name": "YogaOne",
+"sport": "yoga"
+}
+},
+{
+"type": "node",
+"id": 6496551507,
+"lat": 38.4418527,
+"lon": -122.7162475,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "545",
+"addr:state": "CA",
+"addr:street": "Ross Street",
+"leisure": "fitness_centre",
+"name": "Tone Pilates-Dance-Yoga",
+"opening_hours": "Mo-Fr 06:30-20:00; Sa-Su 08:00-12:00",
+"sport": "yoga"
+}
+},
+{
+"type": "node",
+"id": 6496551509,
+"lat": 38.4418453,
+"lon": -122.7164654,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "535",
+"addr:state": "CA",
+"addr:street": "Ross Street",
+"amenity": "restaurant",
+"cuisine": "indian",
+"name": "Kafal Restaurant",
+"opening_hours": "We-Mo 11:00-14:30,17:00-21:30",
+"phone": "+1-707-595-3311"
+}
+},
+{
+"type": "node",
+"id": 6496551510,
+"lat": 38.4418026,
+"lon": -122.716572,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "525",
+"addr:state": "CA",
+"addr:street": "Ross Street",
+"name": "Happy Health Spa",
+"phone": "+1-707-591-8899",
+"shop": "massage"
+}
+},
+{
+"type": "node",
+"id": 6496551511,
+"lat": 38.4420271,
+"lon": -122.7167283,
+"tags": {
+"addr:housenumber": "508",
+"addr:street": "7th Street",
+"name": "The Velvet Dog Spa",
+"shop": "pet_grooming"
+}
+},
+{
+"type": "node",
+"id": 6496551512,
+"lat": 38.4420772,
+"lon": -122.7166123,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "518",
+"addr:state": "CA",
+"addr:street": "7th Street",
+"amenity": "restaurant",
+"cuisine": "sushi",
+"name": "Haku Sushi"
+}
+},
+{
+"type": "node",
+"id": 6496551513,
+"lat": 38.4418416,
+"lon": -122.7169273,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "452",
+"addr:state": "CA",
+"addr:street": "B Street",
+"description": "Alternative clothing, smoke shop",
+"name": "The Dungeon",
+"shop": "gift"
+}
+},
+{
+"type": "node",
+"id": 6496551515,
+"lat": 38.4422219,
+"lon": -122.7165175,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "522",
+"addr:state": "CA",
+"addr:street": "7th Street",
+"amenity": "restaurant",
+"cuisine": "korean",
+"name": "Han Bul"
+}
+},
+{
+"type": "node",
+"id": 6496551516,
+"lat": 38.4420327,
+"lon": -122.7169463,
+"tags": {
+"addr:housenumber": "458",
+"addr:street": "B Street",
+"amenity": "restaurant",
+"cuisine": "mexican",
+"name": "Mariscos El Patron"
+}
+},
+{
+"type": "node",
+"id": 6496551534,
+"lat": 38.439823,
+"lon": -122.712606,
+"tags": {
+"amenity": "restaurant",
+"check_date": "2024-02-12",
+"microbrewery": "no",
+"name": "Townes Restaurant & Bar",
+"opening_hours": "Mo-Su 11:00-21:00",
+"payment:cash": "yes",
+"payment:credit_cards": "yes",
+"payment:debit_cards": "yes",
+"phone": "+1-707-843-4830",
+"website": "https://meetattownes.com/",
+"wheelchair": "yes"
+}
+},
+{
+"type": "node",
+"id": 6496551535,
+"lat": 38.4400073,
+"lon": -122.71217,
+"tags": {
+"amenity": "restaurant",
+"cuisine": "mexican",
+"name": "La Fondita Downtown",
+"opening_hours": "Mo-Su 10:00-22:30",
+"phone": "+1-707-843-7595",
+"website": "https://www.toasttab.com/la-fondita-630-3rd-street"
+}
+},
+{
+"type": "node",
+"id": 6496551543,
+"lat": 38.438765,
+"lon": -122.713049,
+"tags": {
+"amenity": "cafe",
+"check_date": "2023-11-23",
+"name": "Cafe Des Croissants",
+"payment:cash": "yes",
+"payment:credit_cards": "yes",
+"payment:debit_cards": "yes"
+}
+},
+{
+"type": "node",
+"id": 6496915669,
+"lat": 38.4448103,
+"lon": -122.7174505,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "601A",
+"addr:state": "CA",
+"addr:street": "Mendocino Avenue",
+"leisure": "fitness_centre",
+"name": "The Transformation Center",
+"phone": "+1-707-543-1724",
+"sport": "exercise"
+}
+},
+{
+"type": "node",
+"id": 6496915670,
+"lat": 38.4447562,
+"lon": -122.7173396,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "601B",
+"addr:state": "CA",
+"addr:street": "Mendocino Avenue",
+"cash_withdrawal": "no",
+"name": "The Gentlemen's Parlor",
+"opening_hours": "Tu-Fr 09:00-18:00; Sa 09:00-15:30",
+"payment:cash": "yes",
+"payment:credit_cards": "no",
+"payment:debit_cards": "no",
+"payment:electronic_purses": "yes",
+"phone": "+1 707-543-6268",
+"shop": "hairdresser",
+"unisex": "yes",
+"wheelchair": "yes"
+}
+},
+{
+"type": "node",
+"id": 6496915671,
+"lat": 38.4446416,
+"lon": -122.7172706,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "589",
+"addr:postcode": "95401",
+"addr:state": "CA",
+"addr:street": "Mendocino Avenue",
+"addr:unit": "1",
+"clothes": "wedding",
+"name": "A Touch of Class Bridal & The Tuxedo Gallery",
+"opening_hours": "We 11:00-18:00; Th 11:00-19:00; Fr 10:00-18:00; Sa 10:00-17:00; Su 12:00-17:00",
+"shop": "clothes"
+}
+},
+{
+"type": "node",
+"id": 6502397114,
+"lat": 38.4417992,
+"lon": -122.7114179,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "733",
+"addr:postcode": "95404",
+"addr:state": "CA",
+"addr:street": "4th Street",
+"level": "1",
+"name": "Tudor Rose English Tea Room",
+"shop": "tea",
+"wheelchair": "yes"
+}
+},
+{
+"type": "node",
+"id": 6502397117,
+"lat": 38.4415222,
+"lon": -122.7146034,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "404",
+"addr:state": "CA",
+"addr:street": "Mendocino Avenue",
+"addr:unit": "C",
+"amenity": "cafe",
+"name": "Crooks Coffee"
+}
+},
+{
+"type": "node",
+"id": 6502653597,
+"lat": 38.4409948,
+"lon": -122.7124383,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "650",
+"addr:postcode": "95404",
+"addr:state": "CA",
+"addr:street": "4th Street",
+"addr:unit": "100",
+"amenity": "cafe",
+"branch": "4th & D - Santa Rosa",
+"brand": "Starbucks",
+"brand:wikidata": "Q37158",
+"check_date": "2023-11-03",
+"cuisine": "coffee_shop",
+"internet_access": "wlan",
+"internet_access:fee": "no",
+"level": "1",
+"name": "Starbucks",
+"official_name": "Starbucks Coffee",
+"opening_hours": "Mo-Su 06:00-20:00",
+"outdoor_seating": "no",
+"phone": "+1 707-577-0665",
+"takeaway": "yes",
+"website": "https://www.starbucks.com/store-locator/store/1031172/4th-d-santa-rosa-650-4th-street-100-santa-rosa-ca-954044406-us",
+"wheelchair": "yes"
+}
+},
+{
+"type": "node",
+"id": 6507894314,
+"lat": 38.4446242,
+"lon": -122.7173265,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "589",
+"addr:postcode": "95401",
+"addr:state": "CA",
+"addr:street": "Mendocino Avenue",
+"addr:unit": "3",
+"name": "Luscious Lashes By Heather",
+"shop": "cosmetics"
+}
+},
+{
+"type": "node",
+"id": 6507894316,
+"lat": 38.442273,
+"lon": -122.7164083,
+"tags": {
+"addr:housenumber": "526",
+"addr:street": "7th Street",
+"leisure": "fitness_centre",
+"name": "Fitt Zone",
+"phone": "+1-707-695-2582"
+}
+},
+{
+"type": "node",
+"id": 6507894339,
+"lat": 38.4413052,
+"lon": -122.714482,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "402",
+"addr:state": "CA",
+"addr:street": "Mendocino Avenue",
+"amenity": "restaurant",
+"cuisine": "thai",
+"name": "Thai Time"
+}
+},
+{
+"type": "node",
+"id": 6507894343,
+"lat": 38.4413524,
+"lon": -122.7142125,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "609",
+"addr:state": "CA",
+"addr:street": "5th Street",
+"amenity": "bar",
+"check_date": "2023-11-03",
+"name": "Ausiello's Bar & Grill",
+"outdoor_seating": "no"
+}
+},
+{
+"type": "node",
+"id": 6507894358,
+"lat": 38.4416616,
+"lon": -122.712921,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "317",
+"addr:state": "CA",
+"addr:street": "D Street",
+"name": "Savory Spice Shop",
+"shop": "spices"
+}
+},
+{
+"type": "node",
+"id": 6507894361,
+"lat": 38.4416185,
+"lon": -122.7130826,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "640",
+"addr:state": "CA",
+"addr:street": "5th Street",
+"amenity": "restaurant",
+"name": "Flower + Bone"
+}
+},
+{
+"type": "node",
+"id": 6508138920,
+"lat": 38.4411203,
+"lon": -122.711452,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "700",
+"addr:state": "CA",
+"addr:street": "4th Street",
+"addr:unit": "B",
+"name": "Look by Courtney Paige",
+"shop": "hairdresser"
+}
+},
+{
+"type": "node",
+"id": 6508138921,
+"lat": 38.4412417,
+"lon": -122.7127391,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "643",
+"addr:state": "CA",
+"addr:street": "4th Street",
+"amenity": "bar",
+"name": "The Jade Room",
+"opening_hours": "We-Th 15:30-21:30;Fr-Sa 15:00-24:00, Su 10:00-16:00",
+"phone": "+1-707-543-1553",
+"website": "https://www.thejaderoomsr.com/"
+}
+},
+{
+"type": "node",
+"id": 6509867137,
+"lat": 38.4423702,
+"lon": -122.7094401,
+"tags": {
+"name": "Gina Michelle Hair Studio",
+"shop": "hairdresser"
+}
+},
+{
+"type": "node",
+"id": 6509867141,
+"lat": 38.442624,
+"lon": -122.7096274,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "835",
+"addr:state": "CA",
+"addr:street": "4th Street",
+"amenity": "bank",
+"atm": "yes",
+"brand": "Chase",
+"brand:wikidata": "Q524629",
+"check_date": "2024-09-17",
+"check_date:opening_hours": "2024-09-17",
+"entrance": "yes",
+"level": "1",
+"name": "Chase",
+"opening_hours": "Mo-Fr 09:00-17:00; Sa 09:00-14:00; Su closed",
+"phone": "+1 707-576-3003",
+"website": "https://locator.chase.com/ca/santa-rosa/835-4th-st"
+}
+},
+{
+"type": "node",
+"id": 6509867144,
+"lat": 38.4419705,
+"lon": -122.7103155,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "804",
+"addr:state": "CA",
+"addr:street": "4th Street",
+"amenity": "bank",
+"atm": "yes",
+"name": "Beneficial State Bank",
+"opening_hours": "Mo-Th 09:00-16:00; Fr 09:00-17:00; PH closed",
+"wheelchair": "yes"
+}
+},
+{
+"type": "node",
+"id": 6509867145,
+"lat": 38.4424116,
+"lon": -122.709407,
+"tags": {
+"addr:unit": "B",
+"name": "The Beauty Spot",
+"opening_hours": "Tu-Sa 08:00-15:00",
+"phone": "+1-707-595-5621",
+"shop": "hairdresser",
+"website": "https://thebeautyspotsantarosa.com"
+}
+},
+{
+"type": "node",
+"id": 6509867146,
+"lat": 38.4424293,
+"lon": -122.7093544,
+"tags": {
+"name": "Rejuvance Skin Care & Massage",
+"shop": "massage"
+}
+},
+{
+"type": "node",
+"id": 6509867148,
+"lat": 38.4427948,
+"lon": -122.7092589,
+"tags": {
+"shop": "hairdresser"
+}
+},
+{
+"type": "node",
+"id": 6522450230,
+"lat": 38.4411361,
+"lon": -122.7131222,
+"tags": {
+"addr:unit": "3",
+"name": "Izabelle's Hair Studio",
+"shop": "hairdresser"
+}
+},
+{
+"type": "node",
+"id": 6522450231,
+"lat": 38.4411974,
+"lon": -122.7131529,
+"tags": {
+"addr:unit": "10",
+"clothes": "women;fashion;accessories",
+"name": "BOHLUX - Bohemian Luxury",
+"shop": "clothes"
+}
+},
+{
+"type": "node",
+"id": 6522450232,
+"lat": 38.4412568,
+"lon": -122.7131857,
+"tags": {
+"addr:unit": "12",
+"name": "Sizzle Salon",
+"shop": "hairdresser"
+}
+},
+{
+"type": "node",
+"id": 6522450238,
+"lat": 38.4408531,
+"lon": -122.7135495,
+"tags": {
+"addr:housenumber": "615",
+"addr:street": "4th Street",
+"amenity": "restaurant",
+"check_date": "2025-10-18",
+"cuisine": "indian",
+"name": "Darbar Kitchen"
+}
+},
+{
+"type": "node",
+"id": 6522450242,
+"lat": 38.4414674,
+"lon": -122.7127159,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "309",
+"addr:postcode": "95404",
+"addr:state": "CA",
+"addr:street": "D Street",
+"name": "Two Women Doing Hair",
+"opening_hours": "Tu-Sa 09:00-18:00",
+"shop": "hairdresser"
+}
+},
+{
+"type": "node",
+"id": 6522450243,
+"lat": 38.441414,
+"lon": -122.7126894,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "307",
+"addr:postcode": "95404",
+"addr:state": "CA",
+"addr:street": "D Street",
+"name": "Lotus Beauty Bar",
+"opening_hours": "Tu-Fr 11:00-18:00; Sa 10:00-15:00",
+"shop": "beauty"
+}
+},
+{
+"type": "node",
+"id": 6522450245,
+"lat": 38.4415465,
+"lon": -122.7124423,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "312",
+"addr:state": "CA",
+"addr:street": "D Street",
+"name": "Kidz Kutz",
+"opening_hours": "We-Sa",
+"shop": "hairdresser"
+}
+},
+{
+"type": "node",
+"id": 6522471185,
+"lat": 38.4418847,
+"lon": -122.7148827,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "428",
+"addr:postcode": "95404",
+"addr:state": "CA",
+"addr:street": "Mendocino Avenue",
+"amenity": "place_of_worship",
+"name": "City Harvest Center",
+"religion": "christian",
+"wheelchair": "yes"
+}
+},
+{
+"type": "node",
+"id": 6522471186,
+"lat": 38.4420176,
+"lon": -122.7149771,
+"tags": {
+"amenity": "restaurant",
+"cuisine": "chinese",
+"name": "Super Buffet"
+}
+},
+{
+"type": "node",
+"id": 6522471187,
+"lat": 38.4421676,
+"lon": -122.7151035,
+"tags": {
+"name": "vacant?",
+"shop": "hairdresser"
+}
+},
+{
+"type": "node",
+"id": 6522471188,
+"lat": 38.4421004,
+"lon": -122.7150672,
+"tags": {
+"leisure": "fitness_centre"
+}
+},
+{
+"type": "node",
+"id": 6522471189,
+"lat": 38.442237,
+"lon": -122.7151558,
+"tags": {
+"name": "Serendipity Salon",
+"shop": "hairdresser"
+}
+},
+{
+"type": "node",
+"id": 6522471190,
+"lat": 38.4423753,
+"lon": -122.7152541,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "490",
+"addr:postcode": "95404",
+"addr:state": "CA",
+"addr:street": "Mendocino Avenue",
+"amenity": "restaurant",
+"cuisine": "vietnamese",
+"level": "1",
+"name": "Golden Bun",
+"wheelchair": "yes"
+}
+},
+{
+"type": "node",
+"id": 6709594088,
+"lat": 38.4454831,
+"lon": -122.7205696,
+"tags": {
+"addr:housenumber": "350",
+"addr:street": "College Avenue",
+"name": "Pinnacle Capital",
+"shop": "money_lender"
+}
+},
+{
+"type": "node",
+"id": 6757978442,
+"lat": 38.4415499,
+"lon": -122.7119499,
+"tags": {
+"addr:housenumber": "711",
+"addr:street": "4th Street",
+"name": "Punch 20",
+"shop": "clothes"
+}
+},
+{
+"type": "node",
+"id": 6938548515,
+"lat": 38.4384139,
+"lon": -122.7162584,
+"tags": {
+"brand": "Buckle",
+"brand:wikidata": "Q4983306",
+"clothes": "men;women;children",
+"fixme": "Check if it still exists",
+"name": "Buckle",
+"shop": "clothes"
+}
+},
+{
+"type": "node",
+"id": 6938548525,
+"lat": 38.4389587,
+"lon": -122.7164566,
+"tags": {
+"amenity": "fast_food",
+"brand": "Smoothie King",
+"cuisine": "juice",
+"name": "Surf City Squeeze",
+"takeaway": "yes"
+}
+},
+{
+"type": "node",
+"id": 6967778395,
+"lat": 38.4408153,
+"lon": -122.7243443,
+"tags": {
+"leisure": "fitness_centre",
+"name": "Sonoma Strength Academy",
+"sport": "crossfit"
+}
+},
+{
+"type": "node",
+"id": 6967778396,
+"lat": 38.4407572,
+"lon": -122.7243336,
+"tags": {
+"leisure": "fitness_centre",
+"name": "Ringtime Fitness",
+"sport": "boxing"
+}
+},
+{
+"type": "node",
+"id": 6967778397,
+"lat": 38.440479,
+"lon": -122.7241894,
+"tags": {
+"amenity": "cafe",
+"name": "Criminal Baking Company",
+"shop": "bakery",
+"wheelchair": "designated"
+}
+},
+{
+"type": "node",
+"id": 6967913831,
+"lat": 38.4454569,
+"lon": -122.722199,
+"tags": {
+"brand": "Speedway",
+"brand:wikidata": "Q7575683",
+"name": "Speedway Express",
+"opening_hours": "24/7",
+"shop": "convenience",
+"website": "https://www.speedway.com/locations/CA/Santa-Rosa/300-College-Ave",
+"wheelchair": "yes"
+}
+},
+{
+"type": "node",
+"id": 7698063567,
+"lat": 38.4400957,
+"lon": -122.7151185,
+"tags": {
+"addr:housenumber": "517",
+"addr:state": "CA",
+"addr:street": "4th Street",
+"check_date": "2023-10-29",
+"name": "Ooh La Lux California Clothing",
+"opening_hours": "Mo-Th,Su 11:00-18:00; Fr-Sa 10:00-16:00",
+"shop": "clothes",
+"wheelchair": "yes"
+}
+},
+{
+"type": "node",
+"id": 7698063569,
+"lat": 38.440241,
+"lon": -122.7148123,
+"tags": {
+"name": "Mint Hair Studio",
+"shop": "hairdresser"
+}
+},
+{
+"type": "node",
+"id": 7698063570,
+"lat": 38.4399665,
+"lon": -122.7154316,
+"tags": {
+"addr:housenumber": "507",
+"addr:street": "4th Street",
+"amenity": "restaurant",
+"check_date": "2023-10-29",
+"cuisine": "noodle;japanese;sushi",
+"description": "Ramen & Sushi",
+"name": "Miso Good",
+"reservation": "yes",
+"takeaway": "yes"
+}
+},
+{
+"type": "node",
+"id": 7698063572,
+"lat": 38.4400506,
+"lon": -122.7152036,
+"tags": {
+"addr:housenumber": "513",
+"addr:street": "4th Street",
+"name": "Passions for Hair",
+"shop": "hairdresser"
+}
+},
+{
+"type": "node",
+"id": 7698063574,
+"lat": 38.4399851,
+"lon": -122.7153636,
+"tags": {
+"check_date": "2025-10-18",
+"name": "Best Collateral",
+"shop": "pawnbroker"
+}
+},
+{
+"type": "node",
+"id": 7698063575,
+"lat": 38.4401896,
+"lon": -122.7149243,
+"tags": {
+"addr:housenumber": "523",
+"addr:street": "4th Street",
+"amenity": "pub",
+"check_date": "2025-10-18",
+"name": "Belly Left Coast Kitchen & Taproom",
+"outdoor_seating": "yes",
+"takeaway": "yes"
+}
+},
+{
+"type": "node",
+"id": 7698063576,
+"lat": 38.4402241,
+"lon": -122.7148525,
+"tags": {
+"addr:housenumber": "527",
+"addr:street": "4th Street",
+"amenity": "pub",
+"name": "Stout Brothers Irish Pub"
+}
+},
+{
+"type": "node",
+"id": 7698063578,
+"lat": 38.4403518,
+"lon": -122.7145737,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "539",
+"addr:postcode": "95401-6323",
+"addr:state": "CA",
+"addr:street": "4th Street",
+"amenity": "ice_cream",
+"capacity": "16",
+"check_date": "2023-10-29",
+"check_date:currency:XBT": "2026-04-03",
+"contact:email": "info@thenoblefolk.com",
+"contact:facebook": "https://www.facebook.com/thenoblefolk",
+"contact:instagram": "https://www.instagram.com/noblefolk",
+"currency:XBT": "yes",
+"description": "\"Ice cream and pie bar\"",
+"diet:vegan": "yes",
+"name": "Noble Folk",
+"opening_hours": "Mo-Su 13:00-20:00",
+"payment:credit_cards": "yes",
+"payment:lightning": "yes",
+"payment:lightning:operator": "square",
+"payment:lightning_contactless": "no",
+"payment:onchain": "no",
+"phone": "+1-707-978-3392",
+"takeaway": "yes",
+"website": "https://www.thenoblefolk.com",
+"wheelchair": "yes"
+}
+},
+{
+"type": "node",
+"id": 7698063580,
+"lat": 38.4399996,
+"lon": -122.7153289,
+"tags": {
+"beauty": "nails",
+"name": "Touch Lash & Body Studio",
+"shop": "beauty"
+}
+},
+{
+"type": "node",
+"id": 7698063581,
+"lat": 38.4400654,
+"lon": -122.7151715,
+"tags": {
+"addr:housenumber": "515",
+"addr:street": "4th Street",
+"amenity": "restaurant",
+"cuisine": "japanese;american;sushi",
+"name": "Sushi Rosa",
+"outdoor_seating": "yes",
+"takeaway": "yes"
+}
+},
+{
+"type": "node",
+"id": 7698063582,
+"lat": 38.4400141,
+"lon": -122.7152913,
+"tags": {
+"addr:housenumber": "511",
+"addr:street": "4th Street",
+"beauty": "nails",
+"check_date": "2025-10-18",
+"name": "Todays Nails",
+"shop": "beauty"
+}
+},
+{
+"type": "node",
+"id": 7698063583,
+"lat": 38.4401664,
+"lon": -122.714982,
+"tags": {
+"amenity": "restaurant",
+"cuisine": "thai",
+"name": "Thai House"
+}
+},
+{
+"type": "node",
+"id": 7698076085,
+"lat": 38.439898,
+"lon": -122.7156119,
+"tags": {
+"addr:housenumber": "501",
+"addr:street": "4th Street",
+"check_date": "2025-10-18",
+"disused:name": "Crossing the Jordan",
+"name": "The Sweet Spot",
+"shop": "convenience"
+}
+},
+{
+"type": "node",
+"id": 7698076087,
+"lat": 38.4403235,
+"lon": -122.7146465,
+"tags": {
+"addr:housenumber": "535",
+"addr:street": "4th Street",
+"amenity": "restaurant",
+"check_date": "2025-10-18",
+"cuisine": "french",
+"name": "Augie's French"
+}
+},
+{
+"type": "node",
+"id": 7698076088,
+"lat": 38.4401181,
+"lon": -122.7150646,
+"tags": {
+"addr:housenumber": "519",
+"addr:street": "4th Street",
+"amenity": "cafe",
+"cuisine": "bubble_tea",
+"name": "Sunny's Boba & more",
+"takeaway": "yes"
+}
+},
+{
+"type": "node",
+"id": 8215207438,
+"lat": 38.4437589,
+"lon": -122.7166197,
+"tags": {
+"addr:housenumber": "555",
+"addr:street": "Mendocino Avenue",
+"name": "Sonoma Cutlery",
+"shop": "knives"
+}
+},
+{
+"type": "node",
+"id": 8232724507,
+"lat": 38.4390919,
+"lon": -122.716405,
+"tags": {
+"brand": "Cricket Wireless",
+"brand:wikidata": "Q5184987",
+"level": "0",
+"name": "Cricket Wireless",
+"shop": "mobile_phone",
+"short_name": "Cricket"
+}
+},
+{
+"type": "node",
+"id": 8232724509,
+"lat": 38.4390281,
+"lon": -122.716539,
+"tags": {
+"alt_name": "Verizon Wireless",
+"brand": "Verizon",
+"brand:wikidata": "Q919641",
+"level": "0",
+"name": "Verizon",
+"operator": "Victra",
+"operator:website": "https://victra.com/stores/ca-santa-rosa/",
+"operator:wikidata": "Q118402656",
+"shop": "mobile_phone"
+}
+},
+{
+"type": "node",
+"id": 8232756824,
+"lat": 38.4397275,
+"lon": -122.7165476,
+"tags": {
+"level": "0",
+"name": "Piercing Pagoda",
+"shop": "jewelry"
+}
+},
+{
+"type": "node",
+"id": 8232756825,
+"lat": 38.4395025,
+"lon": -122.7163953,
+"tags": {
+"craft": "electronics_repair",
+"level": "0",
+"name": "Fix Phones",
+"shop": "kiosk"
+}
+},
+{
+"type": "node",
+"id": 8232756828,
+"lat": 38.4398268,
+"lon": -122.7166452,
+"tags": {
+"amenity": "fast_food",
+"brand": "Auntie Anne's",
+"brand:wikidata": "Q4822010",
+"cuisine": "pretzel",
+"level": "0",
+"name": "Auntie Anne's",
+"takeaway": "yes"
+}
+},
+{
+"type": "node",
+"id": 8232756829,
+"lat": 38.4396034,
+"lon": -122.7164714,
+"tags": {
+"level": "0",
+"name": "Cash Your Gold",
+"shop": "jewelry"
+}
+},
+{
+"type": "node",
+"id": 8232756833,
+"lat": 38.4398641,
+"lon": -122.7166368,
+"tags": {
+"amenity": "fast_food",
+"brand": "Cinnabon",
+"brand:website": "https://www.cinnabon.com/",
+"brand:wikidata": "Q1092539",
+"cuisine": "dessert",
+"level": "0",
+"name": "Cinnabon",
+"takeaway": "yes",
+"website": "https://locations.cinnabon.com/ca/santa-rosa/1066-santa-rosa-plaza"
+}
+},
+{
+"type": "node",
+"id": 8296299535,
+"lat": 38.4426591,
+"lon": -122.7163144,
+"tags": {
+"leisure": "fitness_centre",
+"sport": "yoga"
+}
+},
+{
+"type": "node",
+"id": 8413864735,
+"lat": 38.4368768,
+"lon": -122.719867,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "109",
+"addr:postcode": "95401",
+"addr:street": "3rd Street",
+"check_date": "2024-03-05",
+"name": "Star Guitars Music Store",
+"phone": "+1-707-978-4125",
+"shop": "music",
+"website": "https://www.starguitarsmusicstore.com/"
+}
+},
+{
+"type": "node",
+"id": 8413876202,
+"lat": 38.438339,
+"lon": -122.720284,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "116",
+"addr:postcode": "95401",
+"addr:street": "5th Street",
+"amenity": "pub",
+"check_date": "2024-03-05",
+"name": "The Goose & Fern",
+"phone": "+1-707-843-4235",
+"website": "https://thegooseandfern.com/"
+}
+},
+{
+"type": "node",
+"id": 8413878019,
+"lat": 38.4374231,
+"lon": -122.718837,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "201",
+"addr:postcode": "95401",
+"addr:street": "3rd Street",
+"amenity": "bank",
+"name": "Mechanics Bank",
+"phone": "+1-707-591-8000",
+"website": "https://www.mechanicsbank.com/"
+}
+},
+{
+"type": "node",
+"id": 8413898675,
+"lat": 38.4425855,
+"lon": -122.7089557,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "850",
+"addr:postcode": "95404",
+"addr:street": "4th Street",
+"contact:facebook": "https://www.facebook.com/pages/Stanroy-Music-Center/341243844751",
+"description": "Stanroys is a music store that sells common music gear such as drum sticks, guitars, amps, refurbished woodwinds and sheet music. They also rent many woodwinds and have a repair shop in the back that will service most brass and woodwind instruments.",
+"email": "stanroy@stanroy.com",
+"name": "Stanroy",
+"payment:cash": "yes",
+"payment:credit_cards": "yes",
+"payment:debit_cards": "yes",
+"phone": "+1-707-545-4827",
+"second_hand": "no",
+"shop": "musical_instrument",
+"website": "https://stanroy.com/"
+}
+},
+{
+"type": "node",
+"id": 8413917003,
+"lat": 38.4411621,
+"lon": -122.714077,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "606",
+"addr:postcode": "95404",
+"addr:street": "5th Street",
+"check_date": "2023-10-29",
+"name": "Twyla & Co.",
+"shop": "beauty"
+}
+},
+{
+"type": "node",
+"id": 8413923902,
+"lat": 38.4375306,
+"lon": -122.718912,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "208",
+"addr:postcode": "95401",
+"addr:state": "CA",
+"addr:street": "Davis Street",
+"name": "Marla SR Bakery and Cafe",
+"phone": "+1-707-852-4091",
+"shop": "bakery",
+"website": "https://www.marlabakery.com/"
+}
+},
+{
+"type": "node",
+"id": 8413924972,
+"lat": 38.4375923,
+"lon": -122.7200092,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "116",
+"addr:postcode": "95401",
+"addr:street": "4th Street",
+"clothes": "wedding",
+"name": "Princess Boutique",
+"shop": "clothes"
+}
+},
+{
+"type": "node",
+"id": 8413939219,
+"lat": 38.4376375,
+"lon": -122.7199096,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "122",
+"addr:postcode": "95401",
+"addr:street": "4th Street",
+"addr:unit": "A",
+"check_date": "2024-05-19",
+"name": "Daredevil & Queens Salon",
+"shop": "hairdresser"
+}
+},
+{
+"type": "node",
+"id": 8413941033,
+"lat": 38.4376603,
+"lon": -122.7198564,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "122",
+"addr:postcode": "95401",
+"addr:street": "4th Street",
+"addr:unit": "B",
+"check_date": "2024-05-19",
+"name": "Daredevils Barbershop",
+"shop": "hairdresser"
+}
+},
+{
+"type": "node",
+"id": 8413941035,
+"lat": 38.4372187,
+"lon": -122.7204037,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "100",
+"addr:postcode": "95401",
+"addr:street": "4th Street",
+"addr:unit": "B",
+"check_date": "2024-05-19",
+"name": "Cast Away Yarn Shop",
+"phone": "+1-707-546-9276",
+"shop": "wool",
+"website": "https://www.castawayyarnshop.com/",
+"wheelchair": "no"
+}
+},
+{
+"type": "node",
+"id": 8413941036,
+"lat": 38.4373021,
+"lon": -122.7204679,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "100",
+"addr:postcode": "95401",
+"addr:state": "CA",
+"addr:street": "4th Street",
+"addr:unit": "A",
+"check_date": "2024-05-19",
+"name": "The Batcave Comics and Toys",
+"opening_hours": "Mo-Tu off; We-Su 12:00-18:00",
+"phone": "+1-707-755-3432",
+"shop": "toys",
+"website": "https://batcavecomicsandtoys.com/"
+}
+},
+{
+"type": "node",
+"id": 8413941671,
+"lat": 38.4413163,
+"lon": -122.7137394,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "620",
+"addr:postcode": "95404",
+"addr:street": "5th Street",
+"amenity": "restaurant",
+"check_date": "2023-10-29",
+"cuisine": "mexican",
+"name": "Aroma de Caf\u00e9"
+}
+},
+{
+"type": "node",
+"id": 8413945385,
+"lat": 38.4371757,
+"lon": -122.7192254,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "145",
+"addr:postcode": "95401",
+"addr:street": "3rd Street",
+"check_date": "2024-03-05",
+"name": "Sole Desire Shoes",
+"phone": "+1-707-508-1363",
+"shop": "shoes",
+"website": "https://soledesire.com/"
+}
+},
+{
+"type": "node",
+"id": 8413946897,
+"lat": 38.4376998,
+"lon": -122.7197584,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "126",
+"addr:postcode": "95401",
+"addr:street": "4th Street",
+"check_date": "2024-03-05",
+"name": "Welfare League Thrift Shop",
+"phone": "+1-707-542-7480",
+"shop": "charity",
+"website": "https://www.welfareleague.org/"
+}
+},
+{
+"type": "node",
+"id": 8413946937,
+"lat": 38.4411829,
+"lon": -122.71402,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "608",
+"addr:postcode": "95404",
+"addr:street": "5th Street",
+"check_date": "2023-11-03",
+"name": "Blue Polish",
+"shop": "beauty"
+}
+},
+{
+"type": "node",
+"id": 8413946943,
+"lat": 38.4374935,
+"lon": -122.7202228,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "110",
+"addr:postcode": "95401",
+"addr:street": "4th Street",
+"name": "Old Town Furniture",
+"shop": "furniture"
+}
+},
+{
+"type": "node",
+"id": 8413947168,
+"lat": 38.4434667,
+"lon": -122.7077465,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "913",
+"addr:postcode": "95404",
+"addr:street": "4th Street",
+"amenity": "restaurant",
+"check_date": "2023-11-03",
+"cuisine": "ethiopian",
+"diet:vegan": "yes",
+"diet:vegetarian": "yes",
+"name": "Abyssinia",
+"outdoor_seating": "no",
+"wheelchair": "yes"
+}
+},
+{
+"type": "node",
+"id": 8413947176,
+"lat": 38.4377817,
+"lon": -122.7195771,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "130",
+"addr:postcode": "95401",
+"addr:street": "4th Street",
+"name": "Byron Blodgett Jewelry Tech",
+"phone": "+1-707-528-3378",
+"shop": "jewelry"
+}
+},
+{
+"type": "node",
+"id": 8413947228,
+"lat": 38.4380657,
+"lon": -122.71966,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "135",
+"addr:postcode": "95401",
+"addr:street": "4th Street",
+"amenity": "bar",
+"check_date": "2024-03-05",
+"name": "Jackson's Bar and Oven",
+"phone": "+1-707-545-6900",
+"website": "https://www.jacksonsbarandoven.com/"
+}
+},
+{
+"type": "node",
+"id": 8413947229,
+"lat": 38.4374202,
+"lon": -122.7203941,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "100",
+"addr:postcode": "95401",
+"addr:state": "CA",
+"addr:street": "4th Street",
+"name": "Furniture Depot",
+"phone": "+1-707-575-3198",
+"shop": "furniture",
+"website": "https://www.oldtownfurnitures.com/"
+}
+},
+{
+"type": "node",
+"id": 8413949325,
+"lat": 38.438,
+"lon": -122.7198148,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "129",
+"addr:postcode": "95401",
+"addr:street": "4th Street",
+"check_date": "2024-05-19",
+"name": "Goblin Bros.",
+"opening_hours": "Mo-Th 11:00-20:00; Fr 11:00-21:00; Sa 10:00-21:00; Su 10:00-20:00",
+"shop": "games",
+"website": "https://goblinbros.com/",
+"wheelchair": "limited",
+"wheelchair:description": "Small upstairs section not accessible"
+}
+},
+{
+"type": "node",
+"id": 8413949941,
+"lat": 38.4375271,
+"lon": -122.7201566,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "112",
+"addr:postcode": "95401",
+"addr:street": "4th Street",
+"amenity": "restaurant",
+"name": "Omelette Express",
+"opening_hours": "06:30-14:00",
+"phone": "+1-707-838-6920",
+"website": "https://omeletteexpress.com"
+}
+},
+{
+"type": "node",
+"id": 8413950778,
+"lat": 38.4432292,
+"lon": -122.7073133,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "71",
+"addr:postcode": "95404",
+"addr:street": "Brookwood Avenue",
+"air_conditioning": "yes",
+"name": "Wild Birds Unlimited",
+"payment:american_express": "yes",
+"payment:apple_pay": "yes",
+"payment:cash": "yes",
+"payment:coins": "yes",
+"payment:contactless": "yes",
+"payment:credit_cards": "yes",
+"payment:debit_cards": "yes",
+"payment:discover_card": "yes",
+"payment:mastercard": "yes",
+"payment:visa": "yes",
+"phone": "+1-707-576-0861",
+"shop": "yes"
+}
+},
+{
+"type": "node",
+"id": 9926561085,
+"lat": 38.4452199,
+"lon": -122.7165002,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:postcode": "95404",
+"addr:state": "CA",
+"addr:street": "College Avenue",
+"name": "Larry Conover Jewelers",
+"opening_hours": "Mo-Fr 10:00-17:30, Sa 11:00-16:00",
+"operator": "Laurence Conover",
+"phone": "+1-707-523-1968",
+"shop": "jewelry",
+"website": "https://larryconoverjewelers.com"
+}
+},
+{
+"type": "node",
+"id": 10969664607,
+"lat": 38.4370383,
+"lon": -122.7202728,
+"tags": {
+"addr:housenumber": "208",
+"addr:postcode": "95401",
+"addr:street": "Wilson Street",
+"amenity": "restaurant",
+"check_date": "2024-03-05",
+"cuisine": "french",
+"name": "La Gare",
+"phone": "+1-707-528-4355",
+"website": "https://lagarerestaurant.com/about-us/"
+}
+},
+{
+"type": "node",
+"id": 11298770861,
+"lat": 38.4414035,
+"lon": -122.7122567,
+"tags": {
+"addr:housenumber": "703",
+"addr:street": "4th Street",
+"amenity": "restaurant",
+"check_date": "2023-11-03",
+"cuisine": "mexican",
+"name": "Mi Pueblo"
+}
+},
+{
+"type": "node",
+"id": 11298770862,
+"lat": 38.4410389,
+"lon": -122.7131248,
+"tags": {
+"addr:housenumber": "631",
+"addr:street": "4th Street",
+"addr:unit": "18",
+"check_date": "2023-11-03",
+"email": "steinhouse1957@gmail.com",
+"name": "Steinhouse",
+"opening_hours": "Mo-Th,Su 11:00-18:00; Fr-Sa 11:00-20:00",
+"owner": "Eric Dewit",
+"phone": "+1 707-852-4083",
+"shop": "chocolate"
+}
+},
+{
+"type": "node",
+"id": 11311049488,
+"lat": 38.4407535,
+"lon": -122.714089,
+"tags": {
+"check_date": "2023-11-03",
+"name": "Artistic Ink",
+"shop": "tattoo"
+}
+},
+{
+"type": "node",
+"id": 11616026867,
+"lat": 38.4412365,
+"lon": -122.7087324,
+"tags": {
+"amenity": "restaurant",
+"cuisine": "italian",
+"name": "Ca'Bianca Italian Restaurant"
+}
+},
+{
+"type": "node",
+"id": 11693542633,
+"lat": 38.4376525,
+"lon": -122.7205655,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "105",
+"addr:postcode": "95401",
+"addr:state": "CA",
+"addr:street": "4th Street",
+"name": "Little Princess Boutique",
+"opening_hours": "Mo-Sa 11:00-18:00",
+"phone": "+1-707-843-5827",
+"shop": "clothes"
+}
+},
+{
+"type": "node",
+"id": 11693542634,
+"lat": 38.4376729,
+"lon": -122.7205111,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "107",
+"addr:postcode": "95401",
+"addr:state": "CA",
+"addr:street": "4th Street",
+"amenity": "restaurant",
+"check_date": "2024-03-05",
+"cuisine": "thai",
+"name": "Khoom Lanna Thai Food",
+"phone": "+1-707-545-8424",
+"website": "https://www.khoomlannathaifood.com/"
+}
+},
+{
+"type": "node",
+"id": 11693542635,
+"lat": 38.437696,
+"lon": -122.7204591,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "109",
+"addr:postcode": "95401",
+"addr:state": "CA",
+"addr:street": "4th Street",
+"check_date": "2024-03-05",
+"name": "Papillon Floral Design",
+"opening_hours": "Mo-Su 10:00-17:00",
+"phone": "+1-707-303-7228",
+"shop": "florist",
+"website": "https://papillonfloral.com/"
+}
+},
+{
+"type": "node",
+"id": 11693569605,
+"lat": 38.437755,
+"lon": -122.7203202,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "115",
+"addr:postcode": "95401",
+"addr:state": "CA",
+"addr:street": "4th Street",
+"amenity": "restaurant",
+"check_date": "2024-03-05",
+"name": "19Ten Bar & Provisions",
+"phone": "+1-707-791-7494",
+"website": "https://www.19ten.com/"
+}
+},
+{
+"type": "node",
+"id": 11693569606,
+"lat": 38.4378038,
+"lon": -122.7202105,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "117",
+"addr:postcode": "95401",
+"addr:state": "CA",
+"addr:street": "4th Street",
+"amenity": "restaurant",
+"check_date": "2024-03-05",
+"cuisine": "italian",
+"name": "Lococo's Cucina Rustica",
+"phone": "+1-707-523-2227",
+"website": "https://lococos.net/"
+}
+},
+{
+"type": "node",
+"id": 11693569607,
+"lat": 38.437837,
+"lon": -122.7201223,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "119",
+"addr:postcode": "95401",
+"addr:state": "CA",
+"addr:street": "4th Street",
+"amenity": "restaurant",
+"cuisine": "sushi",
+"name": "Paradise Sushi & Grill",
+"phone": "+1-707-542-4582",
+"website": "https://paradisesushi.net/"
+}
+},
+{
+"type": "node",
+"id": 11693569608,
+"lat": 38.4378825,
+"lon": -122.7200301,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "123",
+"addr:postcode": "95401",
+"addr:state": "CA",
+"addr:street": "4th Street",
+"amenity": "ice_cream",
+"check_date": "2024-05-19",
+"name": "Nimble & Finn's",
+"outdoor_seating": "no",
+"payment:cash": "yes",
+"payment:credit_cards": "yes",
+"phone": "+1-707-666-9590",
+"website": "http://nimbleandfinns.com/",
+"wheelchair": "yes"
+}
+},
+{
+"type": "node",
+"id": 11693569609,
+"lat": 38.4379132,
+"lon": -122.7199537,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "125",
+"addr:postcode": "95401",
+"addr:state": "CA",
+"addr:street": "4th Street",
+"name": "Olde Towne Jewelers",
+"phone": "+1-707-577-8813",
+"shop": "jewelry",
+"website": "https://oldetownejewelers.com/"
+}
+},
+{
+"type": "node",
+"id": 11693569610,
+"lat": 38.4379377,
+"lon": -122.7198957,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "127",
+"addr:postcode": "95401",
+"addr:state": "CA",
+"addr:street": "4th Street",
+"check_date": "2024-03-05",
+"name": "4th Street cellars",
+"phone": "+1-707-806-2779",
+"shop": "wine",
+"website": "http://4thstreetcellars.com/"
+}
+},
+{
+"type": "node",
+"id": 11693689501,
+"lat": 38.4378746,
+"lon": -122.7208963,
+"tags": {
+"amenity": "restaurant",
+"check_date": "2024-03-05",
+"name": "Grossman's Noshery & Bar",
+"phone": "+1-707-595-7707",
+"website": "https://grossmanssr.com/"
+}
+},
+{
+"type": "node",
+"id": 13241626755,
+"lat": 38.4412027,
+"lon": -122.7127881,
+"tags": {
+"addr:housenumber": "641",
+"addr:street": "4th Street",
+"check_date": "2025-10-18",
+"name": "Fiber Snob",
+"shop": "fabric"
+}
+},
+{
+"type": "node",
+"id": 13241626756,
+"lat": 38.440999,
+"lon": -122.7132127,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "629",
+"addr:postcode": "95404",
+"addr:state": "CA",
+"addr:street": "4th Street",
+"amenity": "restaurant",
+"check_date": "2026-11-12",
+"cuisine": "italian",
+"name": "L'Oro di Napoli",
+"opening_hours": "Tu-Th 16:30-21:00; Fr-Sa 11:30-14:30,16:30-22:00; Su 11:00-20:00; PH off",
+"phone": "+1-707-541-6394",
+"website": "https://www.lorodinapolica.com/santa-rosa"
+}
+},
+{
+"type": "node",
+"id": 13241626757,
+"lat": 38.4398226,
+"lon": -122.7161622,
+"tags": {
+"check_date": "2025-10-18",
+"name": "Sola Salons",
+"shop": "beauty"
+}
+},
+{
+"type": "node",
+"id": 13241626758,
+"lat": 38.4394468,
+"lon": -122.7159885,
+"tags": {
+"amenity": "fast_food",
+"check_date": "2025-10-18",
+"cuisine": "mexican",
+"name": "Ah Huevo!"
+}
+},
+{
+"type": "node",
+"id": 13569869621,
+"lat": 38.4382752,
+"lon": -122.7162981,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "1071",
+"addr:postcode": "95401",
+"addr:state": "CA",
+"addr:street": "Santa Rosa Plaza",
+"addr:unit": "2035",
+"check_date": "2026-02-16",
+"contact:instagram": "https://www.instagram.com/slick_bridge",
+"currency:XBT": "yes",
+"name": "Slick Bridge",
+"opening_hours": "Mo-Sa 10:00-20:00; Su 10:00-18:00",
+"payment:lightning": "yes",
+"payment:lightning:operator": "square",
+"payment:lightning_contactless": "no",
+"payment:onchain": "no",
+"phone": "+1-707-536-9870",
+"shop": "clothes",
+"website": "https://www.cashdrop.biz/slickbridge"
+}
+},
+{
+"type": "node",
+"id": 13733719537,
+"lat": 38.4398332,
+"lon": -122.7167384,
+"tags": {
+"name": "Kawaii Kaws",
+"shop": "toys"
+}
+},
+{
+"type": "node",
+"id": 14007108904,
+"lat": 38.4343317,
+"lon": -122.7121032,
+"tags": {
+"lottery": "yes",
+"name": "BJ's Market",
+"shop": "convenience"
+}
+},
+{
+"type": "node",
+"id": 14144848938,
+"lat": 38.4416027,
+"lon": -122.7128435,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "315",
+"addr:postcode": "95404-4407",
+"addr:state": "CA",
+"addr:street": "D Street",
+"check_date": "2026-09-03",
+"contact:email": "ashleyinthesky@icloud.com",
+"contact:instagram": "https://www.instagram.com/ashley_at_downtownbarbershop",
+"currency:XBT": "yes",
+"hairdresser": "barber",
+"name": "Ashley Holquin at Downtown Barbershop",
+"opening_hours": "Tu-Fr 10:00-18:00; Sa 09:00-17:00",
+"payment:lightning": "yes",
+"payment:lightning:operator": "square",
+"payment:lightning_contactless": "no",
+"payment:onchain": "no",
+"phone": "+1-707-548-4264",
+"shop": "hairdresser",
+"website": "https://downtownbarbersr.com"
+}
+},
+{
+"type": "node",
+"id": 14245002493,
+"lat": 38.44071,
+"lon": -122.7131338,
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "622",
+"addr:postcode": "95404",
+"addr:state": "CA",
+"addr:street": "4th Street",
+"amenity": "fast_food",
+"cuisine": "vietnamese;sandwich",
+"name": "Bliss Sandwiches & Boba Cafe",
+"website": "https://blisssandwichesbobacafeca.com/"
+}
+},
+{
+"type": "way",
+"id": 39695899,
+"center": {
+"lat": 38.4381592,
+"lon": -122.7141415
+},
+"tags": {
+"amenity": "bank",
+"building": "yes",
+"building:colour": "white",
+"building:levels": "5",
+"building:material": "concrete",
+"roof:colour": "grey",
+"roof:shape": "flat"
+}
+},
+{
+"type": "way",
+"id": 115915636,
+"center": {
+"lat": 38.4380864,
+"lon": -122.721513
+},
+"tags": {
+"amenity": "cafe",
+"building": "retail",
+"check_date": "2024-03-11",
+"name": "A'Roma Roasters",
+"not:brand:wikidata": "Q2909872",
+"outdoor_seating": "yes",
+"phone": "+1-707-576-7765",
+"website": "https://www.aromaroasters.com/",
+"wheelchair": "yes"
+}
+},
+{
+"type": "way",
+"id": 115915653,
+"center": {
+"lat": 38.437973,
+"lon": -122.720884
+},
+"tags": {
+"building": "yes",
+"email": "hello@thehotellarose.com",
+"internet_access": "yes",
+"name": "Hotel La Rose",
+"phone": "+1-833-514-0593",
+"tourism": "hotel",
+"website": "https://thehotellarose.com/"
+}
+},
+{
+"type": "way",
+"id": 115917239,
+"center": {
+"lat": 38.441866,
+"lon": -122.7184121
+},
+"tags": {
+"addr:state": "CA",
+"building": "yes",
+"check_date:opening_hours": "2023-05-05",
+"ele": "49",
+"fee": "yes",
+"fee:conditional": "no @ (age < 13)",
+"gnis:feature_id": "1799495",
+"name": "Sonoma County Museum",
+"opening_hours": "We-Su 11:00-17:00; PH off",
+"source": "USGS Geonames",
+"tourism": "museum",
+"website": "https://museumsc.org/",
+"wheelchair": "yes",
+"wikidata": "Q7562173"
+}
+},
+{
+"type": "way",
+"id": 116268228,
+"center": {
+"lat": 38.4398151,
+"lon": -122.7100671
+},
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "730",
+"addr:postcode": "95404",
+"addr:state": "CA",
+"addr:street": "2nd Street",
+"amenity": "post_office",
+"building": "yes",
+"check_date": "2026-06-10",
+"ele": "51",
+"gnis:feature_id": "1799491",
+"name": "Santa Rosa Post Office",
+"opening_hours": "Mo-Fr 09:00-17:30, Sa 10:00-14:00",
+"operator": "United States Postal Service",
+"operator:short": "USPS",
+"operator:type": "public",
+"operator:website": "https://www.usps.com",
+"operator:wikidata": "Q668687",
+"operator:wikipedia": "en:United States Postal Service",
+"payment:cash": "yes",
+"payment:credit_cards": "yes",
+"payment:debit_cards": "yes",
+"website": "https://tools.usps.com/locations/details/1440679"
+}
+},
+{
+"type": "way",
+"id": 116268231,
+"center": {
+"lat": 38.4413719,
+"lon": -122.7108408
+},
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "211",
+"addr:postcode": "95404",
+"addr:state": "CA",
+"addr:street": "E Street",
+"amenity": "library",
+"building": "yes",
+"ele": "52",
+"gnis:feature_id": "1799485",
+"name": "Santa Rosa Central Branch Sonoma County Library",
+"operator": "Sonoma County Library",
+"operator:type": "public",
+"operator:wikidata": "Q21625840",
+"source": "USGS Geonames",
+"wheelchair": "yes",
+"wikidata": "Q66364198"
+}
+},
+{
+"type": "way",
+"id": 512129829,
+"center": {
+"lat": 38.4417991,
+"lon": -122.7116623
+},
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "725",
+"addr:postcode": "95404",
+"addr:state": "CA",
+"addr:street": "4th Street",
+"amenity": "pub",
+"building": "yes",
+"check_date": "2023-11-23",
+"contact:facebook": "https://www.facebook.com/russianriverbrewing",
+"contact:instagram": "https://www.instagram.com/russianriverbrewingofficial",
+"diet:vegan": "yes",
+"diet:vegetarian": "yes",
+"email": "info@russianriverbrewing.com",
+"indoor_seating": "yes",
+"microbrewery": "yes",
+"name": "Russian River Brewing Company",
+"opening_hours": "11:00-22:00",
+"outdoor_seating": "yes",
+"payment:cash": "yes",
+"payment:credit_cards": "yes",
+"payment:debit_cards": "yes",
+"phone": "+1 707-545-2337",
+"website": "https://www.russianriverbrewing.com/",
+"wheelchair": "yes"
+}
+},
+{
+"type": "way",
+"id": 544299977,
+"center": {
+"lat": 38.4432811,
+"lon": -122.7188715
+},
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "348",
+"addr:postcode": "95401",
+"addr:state": "CA",
+"addr:street": "10th Street",
+"amenity": "place_of_worship",
+"building": "church",
+"denomination": "catholic",
+"name": "St Rose Catholic Church",
+"religion": "christian"
+}
+},
+{
+"type": "way",
+"id": 544299979,
+"center": {
+"lat": 38.4432951,
+"lon": -122.7181028
+},
+"tags": {
+"addr:housenumber": "600",
+"addr:state": "CA",
+"addr:street": "Healdsburg Avenue",
+"amenity": "cafe",
+"building": "retail",
+"building:levels": "1",
+"diet:vegan": "yes",
+"diet:vegetarian": "yes",
+"name": "Brew",
+"opening_hours": "Mo 08:00-20:00; Tu-Fr 08:00-17:00; Sa,Su 08:00-16:00",
+"roof:levels": "0",
+"roof:shape": "gabled",
+"wheelchair": "yes"
+}
+},
+{
+"type": "way",
+"id": 544656796,
+"center": {
+"lat": 38.4454367,
+"lon": -122.7180006
+},
+"tags": {
+"addr:housenumber": "456",
+"addr:state": "CA",
+"addr:street": "College Avenue",
+"amenity": "restaurant",
+"building": "retail",
+"building:levels": "1",
+"check_date": "2023-11-23",
+"cuisine": "breakfast;american",
+"disused:name": "Adel's",
+"name": "Cafe Mimosa",
+"opening_hours": "Mo-Su 07:00-15:00",
+"payment:cash": "yes",
+"payment:credit_cards": "yes",
+"payment:debit_cards": "yes",
+"stars": "3",
+"takeaway": "yes",
+"toilets": "yes",
+"wheelchair": "yes"
+}
+},
+{
+"type": "way",
+"id": 544656797,
+"center": {
+"lat": 38.4454752,
+"lon": -122.7185611
+},
+"tags": {
+"addr:housenumber": "450",
+"addr:state": "CA",
+"addr:street": "College Avenue",
+"building": "commercial",
+"building:levels": "1",
+"name": "Digital Ciggz",
+"roof:levels": "0",
+"roof:shape": "flat",
+"shop": "e-cigarette"
+}
+},
+{
+"type": "way",
+"id": 544656798,
+"center": {
+"lat": 38.4454704,
+"lon": -122.7187307
+},
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "446",
+"addr:postcode": "95404",
+"addr:state": "CA",
+"addr:street": "College Avenue",
+"building": "house",
+"building:levels": "1",
+"name": "Psychic John",
+"phone": "+1-707-579-5123",
+"roof:levels": "1",
+"roof:shape": "gabled",
+"shop": "psychic"
+}
+},
+{
+"type": "way",
+"id": 544656800,
+"center": {
+"lat": 38.4455132,
+"lon": -122.719232
+},
+"tags": {
+"addr:housenumber": "440",
+"addr:state": "CA",
+"addr:street": "College Avenue",
+"amenity": "bar",
+"building": "retail",
+"building:levels": "1",
+"name": "440 Club",
+"wheelchair": "yes"
+}
+},
+{
+"type": "way",
+"id": 544656803,
+"center": {
+"lat": 38.4455241,
+"lon": -122.7196773
+},
+"tags": {
+"addr:housenumber": "420",
+"addr:state": "CA",
+"addr:street": "College Avenue",
+"building": "retail",
+"building:levels": "1",
+"name": "Pure Skin",
+"shop": "beauty"
+}
+},
+{
+"type": "way",
+"id": 544839734,
+"center": {
+"lat": 38.4355177,
+"lon": -122.7207253
+},
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "175",
+"addr:postcode": "95401",
+"addr:state": "CA",
+"addr:street": "Railroad Street",
+"branch": "Santa Rosa",
+"brand": "Courtyard",
+"brand:wikidata": "Q1053170",
+"building": "yes",
+"name": "Courtyard Santa Rosa",
+"official_name": "Courtyard by Marriott",
+"operator": "Marriott",
+"phone": "+1 707-573-9000",
+"ref": "STSCY",
+"tourism": "hotel",
+"website": "https://www.marriott.com/stscy"
+}
+},
+{
+"type": "way",
+"id": 544907998,
+"center": {
+"lat": 38.4436801,
+"lon": -122.7175721
+},
+"tags": {
+"addr:housenumber": "430",
+"addr:state": "CA",
+"addr:street": "10th Street",
+"amenity": "community_centre",
+"building": "house",
+"building:levels": "1",
+"name": "Saturday Afternoon Club",
+"roof:levels": "0",
+"roof:shape": "gabled"
+}
+},
+{
+"type": "way",
+"id": 544908003,
+"center": {
+"lat": 38.4433319,
+"lon": -122.7166429
+},
+"tags": {
+"addr:street": "Mendocino Avenue",
+"amenity": "place_of_worship",
+"building": "yes",
+"denomination": "unitarian_universalist",
+"name": "Glaser Center",
+"religion": "christian"
+}
+},
+{
+"type": "way",
+"id": 544908005,
+"center": {
+"lat": 38.4427327,
+"lon": -122.7160486
+},
+"tags": {
+"addr:housenumber": "519",
+"addr:state": "CA",
+"addr:street": "Mendocino Avenue",
+"building": "retail",
+"name": "Outer Planes",
+"shop": "books"
+}
+},
+{
+"type": "way",
+"id": 544908009,
+"center": {
+"lat": 38.4430969,
+"lon": -122.7165293
+},
+"tags": {
+"amenity": "place_of_worship",
+"building": "yes",
+"name": "Islamic Society of Santa Rosa",
+"religion": "muslim"
+}
+},
+{
+"type": "way",
+"id": 544929849,
+"center": {
+"lat": 38.439469,
+"lon": -122.7128659
+},
+"tags": {
+"amenity": "bank",
+"atm": "yes",
+"brand": "Bank of America",
+"brand:wikidata": "Q487907",
+"building": "commercial",
+"building:levels": "2",
+"building:material": "brick",
+"name": "Bank of America",
+"roof:colour": "grey",
+"roof:shape": "flat"
+}
+},
+{
+"type": "way",
+"id": 544929853,
+"center": {
+"lat": 38.4400653,
+"lon": -122.7118464
+},
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "640",
+"addr:postcode": "95404",
+"addr:state": "CA",
+"addr:street": "3rd Street",
+"amenity": "bank",
+"brand": "First Republic Bank",
+"brand:wikidata": "Q5453752",
+"building": "yes",
+"name": "First Republic Bank"
+}
+},
+{
+"type": "way",
+"id": 544929856,
+"center": {
+"lat": 38.4390724,
+"lon": -122.7124989
+},
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "50",
+"addr:state": "CA",
+"addr:street": "Santa Rosa Avenue",
+"amenity": "bank",
+"building": "yes",
+"building:colour": "white",
+"building:levels": "7",
+"building:material": "concrete",
+"name": "Bank of Marin",
+"roof:colour": "grey",
+"roof:shape": "flat"
+}
+},
+{
+"type": "way",
+"id": 544929857,
+"center": {
+"lat": 38.4385401,
+"lon": -122.7131205
+},
+"tags": {
+"addr:housenumber": "85",
+"addr:state": "CA",
+"addr:street": "Santa Rosa Avenue",
+"amenity": "cinema",
+"building": "yes",
+"building:colour": "white",
+"building:levels": "7",
+"building:material": "concrete",
+"check_date": "2023-11-23",
+"layer": "1",
+"name": "Roxy 14",
+"payment:cash": "yes",
+"payment:credit_cards": "yes",
+"payment:debit_cards": "yes",
+"roof:colour": "white",
+"roof:shape": "flat",
+"wikidata": "Q44883003"
+}
+},
+{
+"type": "way",
+"id": 544929860,
+"center": {
+"lat": 38.4388086,
+"lon": -122.7146822
+},
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "500",
+"addr:state": "CA",
+"addr:street": "3rd Street",
+"amenity": "bank",
+"building": "commercial",
+"building:levels": "2",
+"check_date": "2025-07-15",
+"name": "Luther Burbank Savings"
+}
+},
+{
+"type": "way",
+"id": 544937118,
+"center": {
+"lat": 38.4392795,
+"lon": -122.7148666
+},
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "200",
+"addr:postcode": "95401",
+"addr:state": "CA",
+"addr:street": "B Street",
+"amenity": "bank",
+"brand": "Wells Fargo",
+"brand:wikidata": "Q744149",
+"building": "yes",
+"building:levels": "2",
+"building:material": "brick",
+"name": "Wells Fargo",
+"roof:colour": "tan",
+"roof:material": "concrete",
+"roof:shape": "flat"
+}
+},
+{
+"type": "way",
+"id": 544937122,
+"center": {
+"lat": 38.4399343,
+"lon": -122.7147165
+},
+"tags": {
+"amenity": "restaurant",
+"building": "yes",
+"building:levels": "2",
+"cuisine": "mexican",
+"name": "La Rosa"
+}
+},
+{
+"type": "way",
+"id": 544937123,
+"center": {
+"lat": 38.4398031,
+"lon": -122.7145562
+},
+"tags": {
+"building": "commercial",
+"building:levels": "4",
+"name": "Hotel E",
+"tourism": "hotel"
+}
+},
+{
+"type": "way",
+"id": 545103159,
+"center": {
+"lat": 38.4411197,
+"lon": -122.7119049
+},
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "700",
+"addr:state": "CA",
+"addr:street": "4th Street",
+"brand": "Barnes & Noble",
+"brand:wikidata": "Q795454",
+"building": "retail",
+"building:levels": "3",
+"check_date": "2023-11-23",
+"level": "1",
+"name": "Barnes & Noble",
+"opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+"payment:cash": "yes",
+"payment:credit_cards": "yes",
+"payment:debit_cards": "yes",
+"roof:levels": "0",
+"second_hand": "no",
+"shop": "books",
+"wheelchair": "limited"
+}
+},
+{
+"type": "way",
+"id": 545103161,
+"center": {
+"lat": 38.4409557,
+"lon": -122.7111782
+},
+"tags": {
+"amenity": "library",
+"building": "yes",
+"name": "Adult Literacy Program"
+}
+},
+{
+"type": "way",
+"id": 545103164,
+"center": {
+"lat": 38.4403607,
+"lon": -122.7113023
+},
+"tags": {
+"addr:housenumber": "700",
+"addr:state": "CA",
+"addr:street": "3rd Street",
+"building": "commercial",
+"building:levels": "1",
+"name": "Wilibees",
+"roof:levels": "0",
+"shop": "alcohol"
+}
+},
+{
+"type": "way",
+"id": 547321955,
+"center": {
+"lat": 38.4453856,
+"lon": -122.717295
+},
+"tags": {
+"addr:housenumber": "690",
+"addr:state": "CA",
+"addr:street": "Mendocino Avenue",
+"brand": "Valvoline",
+"brand:wikidata": "Q7912852",
+"building": "commercial",
+"building:levels": "1",
+"name": "Valvoline",
+"official_name": "Valvoline Instant Oil Change",
+"roof:levels": "0",
+"roof:shape": "flat",
+"shop": "car_repair",
+"website": "https://store.vioc.com/ca/santarosa/oil-change-ih0006.html"
+}
+},
+{
+"type": "way",
+"id": 547321956,
+"center": {
+"lat": 38.4451021,
+"lon": -122.7172269
+},
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "616",
+"addr:postcode": "95401",
+"addr:state": "CA",
+"addr:street": "Mendocino Avenue",
+"amenity": "bar",
+"building": "retail",
+"building:levels": "1",
+"name": "The Dirty"
+}
+},
+{
+"type": "way",
+"id": 547321957,
+"center": {
+"lat": 38.4448031,
+"lon": -122.7170108
+},
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "600",
+"addr:postcode": "95401",
+"addr:state": "CA",
+"addr:street": "Mendocino Avenue",
+"building": "retail",
+"building:levels": "1",
+"name": "Faith Tattoo",
+"shop": "tattoo"
+}
+},
+{
+"type": "way",
+"id": 547321960,
+"center": {
+"lat": 38.4443879,
+"lon": -122.7166493
+},
+"tags": {
+"addr:housenumber": "576",
+"addr:state": "CA",
+"addr:street": "Mendocino Avenue",
+"building": "house",
+"building:use": "retail",
+"name": "Heavenly Treasures",
+"shop": "second_hand"
+}
+},
+{
+"type": "way",
+"id": 547321963,
+"center": {
+"lat": 38.4440633,
+"lon": -122.716242
+},
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "550",
+"addr:postcode": "95401",
+"addr:state": "CA",
+"addr:street": "Mendocino Avenue",
+"amenity": "place_of_worship",
+"building": "church",
+"denomination": "episcopal",
+"name": "Church of the Incarnation",
+"religion": "christian"
+}
+},
+{
+"type": "way",
+"id": 547321966,
+"center": {
+"lat": 38.4430314,
+"lon": -122.7155473
+},
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "512",
+"addr:postcode": "95401",
+"addr:state": "CA",
+"addr:street": "Mendocino Avenue",
+"alt_name": "Trek Bicycle Store",
+"brand": "Trek",
+"brand:wikidata": "Q1067617",
+"building": "retail",
+"name": "Trek",
+"shop": "bicycle"
+}
+},
+{
+"type": "way",
+"id": 547323338,
+"center": {
+"lat": 38.4423792,
+"lon": -122.7159429
+},
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "505",
+"addr:state": "CA",
+"addr:street": "Mendocino Avenue",
+"amenity": "bar",
+"building": "retail",
+"building:levels": "1",
+"level": "1",
+"name": "The Tipsy Taco Cantina",
+"outdoor_seating": "yes",
+"wheelchair": "yes"
+}
+},
+{
+"type": "way",
+"id": 547328571,
+"center": {
+"lat": 38.4422616,
+"lon": -122.7128771
+},
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "427",
+"addr:postcode": "95404",
+"addr:state": "CA",
+"addr:street": "Orchard Street",
+"building": "yes",
+"name": "Mark Thomas Home",
+"shop": "furniture"
+}
+},
+{
+"type": "way",
+"id": 547330650,
+"center": {
+"lat": 38.4422622,
+"lon": -122.7106566
+},
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "801",
+"addr:state": "CA",
+"addr:street": "4th Street",
+"amenity": "bank",
+"atm": "yes",
+"brand": "Umpqua Bank",
+"brand:wikidata": "Q7881772",
+"building": "yes",
+"building:colour": "white",
+"building:levels": "1",
+"building:material": "masonry",
+"building:use": "commercial",
+"name": "Umpqua Bank",
+"roof:shape": "flat",
+"wheelchair": "yes"
+}
+},
+{
+"type": "way",
+"id": 547330651,
+"center": {
+"lat": 38.442464,
+"lon": -122.7102855
+},
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "819",
+"addr:state": "CA",
+"addr:street": "4th Street",
+"amenity": "bank",
+"atm": "yes",
+"building": "yes",
+"level": "1",
+"name": "Tri Counties Bank",
+"wheelchair": "yes"
+}
+},
+{
+"type": "way",
+"id": 549832384,
+"center": {
+"lat": 38.4377325,
+"lon": -122.7130108
+},
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "111",
+"addr:postcode": "95404",
+"addr:state": "CA",
+"addr:street": "Santa Rosa Avenue",
+"amenity": "bank",
+"brand": "Poppy Bank",
+"brand:wikidata": "Q134689249",
+"building": "yes",
+"building:levels": "3",
+"name": "Poppy Bank",
+"roof:levels": "0",
+"roof:shape": "flat"
+}
+},
+{
+"type": "way",
+"id": 551393957,
+"center": {
+"lat": 38.4452676,
+"lon": -122.7168281
+},
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "518",
+"addr:postcode": "95404",
+"addr:state": "CA",
+"addr:street": "College Avenue",
+"building": "yes",
+"name": "Revolution Moto",
+"second_hand": "yes",
+"shop": "scooter",
+"website": "https://www.revolutionmoto.com/"
+}
+},
+{
+"type": "way",
+"id": 551393959,
+"center": {
+"lat": 38.4452298,
+"lon": -122.7164598
+},
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "532",
+"addr:postcode": "95404",
+"addr:state": "CA",
+"addr:street": "College Avenue",
+"building": "yes",
+"email": "larry@larryconoverjewelers.com",
+"name": "Larry Conover Jewelers and Goldsmith",
+"phone": "+1-707-206-8302",
+"shop": "jewelry"
+}
+},
+{
+"type": "way",
+"id": 556620405,
+"center": {
+"lat": 38.4425444,
+"lon": -122.7195262
+},
+"tags": {
+"addr:housenumber": "538",
+"addr:state": "CA",
+"addr:street": "A Street",
+"building": "house",
+"building:levels": "2",
+"building:use": "hotel",
+"name": "Krissie's B&B",
+"tourism": "guest_house",
+"website": "https://www.krissiesbnb.com"
+}
+},
+{
+"type": "way",
+"id": 565596888,
+"center": {
+"lat": 38.4375302,
+"lon": -122.7233848
+},
+"tags": {
+"amenity": "theatre",
+"building": "retail",
+"name": "6th St Play House"
+}
+},
+{
+"type": "way",
+"id": 565596914,
+"center": {
+"lat": 38.4387153,
+"lon": -122.7224434
+},
+"tags": {
+"building": "retail",
+"shop": "charity"
+}
+},
+{
+"type": "way",
+"id": 565624407,
+"center": {
+"lat": 38.4388782,
+"lon": -122.7231854
+},
+"tags": {
+"amenity": "restaurant",
+"building": "retail",
+"name": "Stark's Steakhouse"
+}
+},
+{
+"type": "way",
+"id": 565624441,
+"center": {
+"lat": 38.4390042,
+"lon": -122.7239379
+},
+"tags": {
+"amenity": "place_of_worship",
+"building": "office",
+"name": "Greater Power House Church of God in Christ",
+"religion": "christian"
+}
+},
+{
+"type": "way",
+"id": 568837643,
+"center": {
+"lat": 38.4389984,
+"lon": -122.7215386
+},
+"tags": {
+"amenity": "place_of_worship",
+"building": "yes",
+"name": "Redwood Gospel Mission",
+"religion": "christian"
+}
+},
+{
+"type": "way",
+"id": 568837645,
+"center": {
+"lat": 38.4392716,
+"lon": -122.7217907
+},
+"tags": {
+"building": "retail",
+"shop": "bicycle"
+}
+},
+{
+"type": "way",
+"id": 568837648,
+"center": {
+"lat": 38.4393808,
+"lon": -122.7219596
+},
+"tags": {
+"building": "yes",
+"leisure": "fitness_centre",
+"sport": "yoga"
+}
+},
+{
+"type": "way",
+"id": 568852355,
+"center": {
+"lat": 38.441904,
+"lon": -122.7237611
+},
+"tags": {
+"building": "retail",
+"name": "9th St Market",
+"shop": "convenience"
+}
+},
+{
+"type": "way",
+"id": 613968241,
+"center": {
+"lat": 38.4457981,
+"lon": -122.7072569
+},
+"tags": {
+"brand": "YMCA",
+"brand:wikidata": "Q157169",
+"building": "yes",
+"leisure": "sports_centre",
+"name": "YMCA"
+}
+},
+{
+"type": "way",
+"id": 614153035,
+"center": {
+"lat": 38.4438847,
+"lon": -122.7070938
+},
+"tags": {
+"amenity": "cafe",
+"building": "retail",
+"cuisine": "coffee_shop",
+"name": "SoCo Coffee"
+}
+},
+{
+"type": "way",
+"id": 641457809,
+"center": {
+"lat": 38.4364817,
+"lon": -122.712591
+},
+"tags": {
+"building": "yes",
+"name": "Bicycle Czar",
+"shop": "bicycle"
+}
+},
+{
+"type": "way",
+"id": 641457811,
+"center": {
+"lat": 38.4363711,
+"lon": -122.7125572
+},
+"tags": {
+"building": "yes",
+"name": "Empire Cleaners",
+"shop": "dry_cleaning"
+}
+},
+{
+"type": "way",
+"id": 692383590,
+"center": {
+"lat": 38.4437167,
+"lon": -122.7161787
+},
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "544",
+"addr:postcode": "95401",
+"addr:state": "CA",
+"addr:street": "Mendocino Avenue",
+"amenity": "restaurant",
+"building": "yes",
+"cuisine": "american;french;breakfast",
+"level": "1",
+"name": "The Naked Pig",
+"outdoor_seating": "yes",
+"toilets": "yes",
+"wheelchair": "yes"
+}
+},
+{
+"type": "way",
+"id": 692383592,
+"center": {
+"lat": 38.441272,
+"lon": -122.715016
+},
+"tags": {
+"amenity": "restaurant",
+"building": "yes",
+"cuisine": "indian",
+"name": "The New Sizzling Tandoor"
+}
+},
+{
+"type": "way",
+"id": 692395836,
+"center": {
+"lat": 38.4413424,
+"lon": -122.7130791
+},
+"tags": {
+"addr:housenumber": "637",
+"addr:state": "CA",
+"addr:street": "4th Street",
+"building": "yes",
+"building:levels": "2",
+"check_date": "2023-11-23",
+"name": "Corrick's",
+"opening_hours": "Mo,Su off; Tu-Sa 10:30-17:00",
+"payment:cash": "yes",
+"payment:credit_cards": "yes",
+"payment:debit_cards": "yes",
+"shop": "stationery"
+}
+},
+{
+"type": "way",
+"id": 692395843,
+"center": {
+"lat": 38.4411085,
+"lon": -122.7132262
+},
+"tags": {
+"amenity": "restaurant",
+"building": "retail",
+"building:levels": "2",
+"check_date": "2023-11-23",
+"cuisine": "italian",
+"name": "La Vera Pizza",
+"payment:cash": "yes",
+"payment:credit_cards": "yes",
+"payment:debit_cards": "yes"
+}
+},
+{
+"type": "way",
+"id": 692395844,
+"center": {
+"lat": 38.4410796,
+"lon": -122.7133132
+},
+"tags": {
+"addr:housenumber": "625",
+"addr:state": "CA",
+"addr:street": "4th Street",
+"building": "retail",
+"building:levels": "2",
+"check_date": "2024-05-19",
+"email": "treehorn@sonic.net",
+"name": "Treehorn Books",
+"opening_hours": "Mo-Sa 10:00-20:00; Su 12:00-18:00",
+"phone": "+1 707-525-1782",
+"shop": "books"
+}
+},
+{
+"type": "way",
+"id": 692395845,
+"center": {
+"lat": 38.4410423,
+"lon": -122.7133973
+},
+"tags": {
+"addr:housenumber": "623",
+"addr:state": "CA",
+"addr:street": "4th Street",
+"amenity": "restaurant",
+"building": "retail",
+"building:levels": "1",
+"check_date": "2023-11-03",
+"cuisine": "mexican",
+"name": "El Fogan"
+}
+},
+{
+"type": "way",
+"id": 692395846,
+"center": {
+"lat": 38.4410016,
+"lon": -122.7134874
+},
+"tags": {
+"abandoned:name": "Acre Coffee",
+"amenity": "cafe",
+"building": "retail",
+"building:levels": "1",
+"cuisine": "coffee_shop",
+"name": "Land and Water",
+"opening_hours": "Mo-Su 07:00-18:00"
+}
+},
+{
+"type": "way",
+"id": 692395848,
+"center": {
+"lat": 38.4408982,
+"lon": -122.7138088
+},
+"tags": {
+"building": "yes",
+"building:levels": "1",
+"name": "Mark Allen Jewelers",
+"shop": "jewelry"
+}
+},
+{
+"type": "way",
+"id": 692395849,
+"center": {
+"lat": 38.4408488,
+"lon": -122.7138227
+},
+"tags": {
+"addr:housenumber": "609",
+"addr:state": "CA",
+"addr:street": "4th Street",
+"building": "yes",
+"building:levels": "2",
+"check_date": "2023-11-03",
+"name": "California Luggage Co.",
+"shop": "bag"
+}
+},
+{
+"type": "way",
+"id": 692395850,
+"center": {
+"lat": 38.4412358,
+"lon": -122.7138582
+},
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "618",
+"addr:postcode": "95404",
+"addr:state": "CA",
+"addr:street": "5th Street",
+"building": "retail",
+"building:levels": "1",
+"name": "Clone Digital Print & Copy",
+"phone": "+1-707-527-6565",
+"shop": "copyshop",
+"website": "https://www.cloneprint.com/"
+}
+},
+{
+"type": "way",
+"id": 692395853,
+"center": {
+"lat": 38.4406806,
+"lon": -122.7145504
+},
+"tags": {
+"addr:housenumber": "545",
+"addr:state": "CA",
+"addr:street": "4th Street",
+"amenity": "bank",
+"building": "yes",
+"building:levels": "3",
+"building:material": "brick",
+"check_date": "2023-11-03",
+"name": "Exchange Bank",
+"roof:colour": "white",
+"roof:shape": "flat"
+}
+},
+{
+"type": "way",
+"id": 693172661,
+"center": {
+"lat": 38.4422815,
+"lon": -122.716133
+},
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "528",
+"addr:state": "CA",
+"addr:street": "7th Street",
+"amenity": "restaurant",
+"building": "yes",
+"cuisine": "burmese",
+"name": "Best of Burma 2"
+}
+},
+{
+"type": "way",
+"id": 693172662,
+"center": {
+"lat": 38.4423498,
+"lon": -122.7157218
+},
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "501",
+"addr:state": "CA",
+"addr:street": "Mendocino Avenue",
+"amenity": "pub",
+"building": "yes",
+"microbrewery": "yes",
+"name": "3 Disciples Brewing"
+}
+},
+{
+"type": "way",
+"id": 693686603,
+"center": {
+"lat": 38.4344651,
+"lon": -122.7116016
+},
+"tags": {
+"amenity": "restaurant",
+"building": "yes",
+"name": "Dierk's Parkside Cafe"
+}
+},
+{
+"type": "way",
+"id": 699519878,
+"center": {
+"lat": 38.4421197,
+"lon": -122.7177521
+},
+"tags": {
+"building": "yes",
+"fee": "yes",
+"museum": "art",
+"museum_type": "regional",
+"name": "Sonoma County Art Museum",
+"tourism": "museum"
+}
+},
+{
+"type": "way",
+"id": 829238238,
+"center": {
+"lat": 38.4384461,
+"lon": -122.7194492
+},
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "300",
+"addr:postcode": "95401",
+"addr:state": "CA",
+"addr:street": "Davis Street",
+"brand": "AC Hotel",
+"brand:wikidata": "Q5653536",
+"building": "hotel",
+"name": "AC Hotel by Marriott Santa Rosa Downtown",
+"phone": "+1 707-527-1075",
+"tourism": "hotel",
+"website": "https://www.marriott.com/en-us/hotels/stsaw-ac-hotel-santa-rosa-sonoma-wine-country/overview/"
+}
+},
+{
+"type": "way",
+"id": 904932720,
+"center": {
+"lat": 38.4395947,
+"lon": -122.7162247
+},
+"tags": {
+"amenity": "cafe",
+"brand": "Starbucks",
+"brand:wikidata": "Q37158",
+"contact:website": "https://www.starbucks.com/store-locator/store/1038697/santa-rosa-plaza-mall-1015-santa-rosa-plaza-santa-rosa-ca-95401-us",
+"cuisine": "coffee_shop",
+"indoor": "room",
+"level": "0",
+"name": "Starbucks",
+"official_name": "Starbucks Coffee",
+"room": "shop",
+"takeaway": "yes"
+}
+},
+{
+"type": "way",
+"id": 904932721,
+"center": {
+"lat": 38.4394365,
+"lon": -122.7161234
+},
+"tags": {
+"indoor": "room",
+"level": "0",
+"name": "Ooh La Luxe",
+"room": "shop",
+"shop": "clothes"
+}
+},
+{
+"type": "way",
+"id": 904932722,
+"center": {
+"lat": 38.4394114,
+"lon": -122.7161809
+},
+"tags": {
+"brand": "Lush",
+"brand:wikidata": "Q1585448",
+"indoor": "room",
+"level": "0",
+"name": "Lush",
+"room": "shop",
+"shop": "cosmetics"
+}
+},
+{
+"type": "way",
+"id": 904932723,
+"center": {
+"lat": 38.4392968,
+"lon": -122.7160963
+},
+"tags": {
+"brand": "Sephora",
+"brand:wikidata": "Q2408041",
+"indoor": "room",
+"level": "0",
+"name": "Sephora",
+"room": "shop",
+"shop": "cosmetics"
+}
+},
+{
+"type": "way",
+"id": 904932724,
+"center": {
+"lat": 38.4393771,
+"lon": -122.7162156
+},
+"tags": {
+"indoor": "room",
+"level": "0",
+"name": "Cage",
+"room": "shop",
+"shop": "clothes"
+}
+},
+{
+"type": "way",
+"id": 904932725,
+"center": {
+"lat": 38.4388079,
+"lon": -122.7161364
+},
+"tags": {
+"brand": "Foot Locker",
+"brand:wikidata": "Q63335",
+"indoor": "room",
+"level": "0",
+"name": "Kids Foot Locker",
+"room": "shop",
+"shop": "shoes"
+}
+},
+{
+"type": "way",
+"id": 904932726,
+"center": {
+"lat": 38.4388965,
+"lon": -122.7161501
+},
+"tags": {
+"indoor": "room",
+"level": "0",
+"name": "Custom Designs",
+"room": "shop",
+"shop": "clothes"
+}
+},
+{
+"type": "way",
+"id": 904932727,
+"center": {
+"lat": 38.4390231,
+"lon": -122.7161818
+},
+"tags": {
+"brand": "Aerie",
+"brand:wikidata": "Q25351619",
+"indoor": "room",
+"level": "0",
+"name": "Aerie",
+"room": "shop",
+"shop": "clothes"
+}
+},
+{
+"type": "way",
+"id": 904932728,
+"center": {
+"lat": 38.4390413,
+"lon": -122.716233
+},
+"tags": {
+"indoor": "room",
+"level": "0",
+"name": "Bulls Eye",
+"room": "shop",
+"shop": "toys"
+}
+},
+{
+"type": "way",
+"id": 904932729,
+"center": {
+"lat": 38.4391951,
+"lon": -122.7161539
+},
+"tags": {
+"indoor": "room",
+"level": "0",
+"name": "Sock Harbor",
+"room": "shop",
+"shop": "clothes"
+}
+},
+{
+"type": "way",
+"id": 904932730,
+"center": {
+"lat": 38.4391126,
+"lon": -122.7162436
+},
+"tags": {
+"indoor": "room",
+"level": "0",
+"name": "Perfumes Unlimited",
+"room": "shop",
+"shop": "perfumery"
+}
+},
+{
+"type": "way",
+"id": 904932738,
+"center": {
+"lat": 38.4387273,
+"lon": -122.7160287
+},
+"tags": {
+"brand": "GameStop",
+"brand:wikidata": "Q202210",
+"indoor": "room",
+"level": "0",
+"name": "GameStop",
+"room": "shop",
+"shop": "video_games",
+"website": "https://www.gamestop.com/store/us/ca/santa-rosa/341/santa-rosa-plaza-mall-gamestop"
+}
+},
+{
+"type": "way",
+"id": 904932739,
+"center": {
+"lat": 38.4386199,
+"lon": -122.7159581
+},
+"tags": {
+"brand": "Foot Locker",
+"brand:wikidata": "Q63335",
+"check_date": "2024-08-16",
+"check_date:opening_hours": "2024-08-16",
+"indoor": "room",
+"level": "0",
+"name": "Foot Locker",
+"opening_hours": "Mo-Sa 10:00-20:00; Su 10:00-18:00",
+"room": "shop",
+"shop": "shoes",
+"website": "https://stores.footlocker.com/ca/santarosa/1030-santa-rosa-plaza-7374.html"
+}
+},
+{
+"type": "way",
+"id": 904932748,
+"center": {
+"lat": 38.4383823,
+"lon": -122.7157605
+},
+"tags": {
+"brand": "T-Mobile",
+"brand:wikidata": "Q3511885",
+"indoor": "room",
+"level": "0",
+"name": "T-Mobile",
+"room": "shop",
+"shop": "mobile_phone"
+}
+},
+{
+"type": "way",
+"id": 904932750,
+"center": {
+"lat": 38.4377869,
+"lon": -122.7157131
+},
+"tags": {
+"addr:housenumber": "700",
+"addr:state": "CA",
+"addr:street": "3rd Street",
+"indoor": "room",
+"level": "0",
+"name": "Home Interiors Furniture",
+"room": "shop",
+"shop": "furniture"
+}
+},
+{
+"type": "way",
+"id": 904932751,
+"center": {
+"lat": 38.4380429,
+"lon": -122.7163092
+},
+"tags": {
+"indoor": "room",
+"level": "0",
+"name": "Salt Tree",
+"room": "shop",
+"shop": "houseware"
+}
+},
+{
+"type": "way",
+"id": 904932752,
+"center": {
+"lat": 38.4380402,
+"lon": -122.7161202
+},
+"tags": {
+"indoor": "room",
+"level": "0",
+"name": "Ophone Diamond & Jewelry",
+"room": "shop",
+"shop": "jewelry"
+}
+},
+{
+"type": "way",
+"id": 904932753,
+"center": {
+"lat": 38.4382389,
+"lon": -122.7164437
+},
+"tags": {
+"brand": "Apple Store",
+"brand:wikidata": "Q421253",
+"indoor": "room",
+"level": "0",
+"name": "Apple Store",
+"room": "shop",
+"shop": "electronics",
+"short_name": "Apple",
+"website": "https://www.apple.com/retail/santarosaplaza"
+}
+},
+{
+"type": "way",
+"id": 904932754,
+"center": {
+"lat": 38.438242,
+"lon": -122.7162651
+},
+"tags": {
+"indoor": "room",
+"level": "0",
+"name": "Fanzz",
+"room": "shop",
+"shop": "interior_decoration"
+}
+},
+{
+"type": "way",
+"id": 904932755,
+"center": {
+"lat": 38.4384007,
+"lon": -122.7165276
+},
+"tags": {
+"brand": "Hollister",
+"brand:wikidata": "Q1257477",
+"indoor": "room",
+"level": "0",
+"name": "Hollister",
+"official_name": "Hollister Co.",
+"room": "shop",
+"shop": "clothes"
+}
+},
+{
+"type": "way",
+"id": 904932756,
+"center": {
+"lat": 38.4385057,
+"lon": -122.7166094
+},
+"tags": {
+"indoor": "room",
+"level": "0",
+"name": "Suit Up",
+"room": "shop",
+"shop": "clothes"
+}
+},
+{
+"type": "way",
+"id": 904932757,
+"center": {
+"lat": 38.4385899,
+"lon": -122.7166711
+},
+"tags": {
+"brand": "Bath & Body Works",
+"brand:wikidata": "Q810773",
+"indoor": "room",
+"level": "0",
+"name": "Bath & Body Works",
+"room": "shop",
+"shop": "cosmetics"
+}
+},
+{
+"type": "way",
+"id": 904932758,
+"center": {
+"lat": 38.4387034,
+"lon": -122.7167249
+},
+"tags": {
+"alt_name": "Children's Place",
+"brand": "The Children's Place",
+"brand:wikidata": "Q3520257",
+"indoor": "room",
+"level": "0",
+"name": "The Children's Place",
+"room": "shop",
+"shop": "clothes"
+}
+},
+{
+"type": "way",
+"id": 904932759,
+"center": {
+"lat": 38.4387406,
+"lon": -122.7169237
+},
+"tags": {
+"indoor": "room",
+"level": "0",
+"name": "Shiekh",
+"room": "shop",
+"shop": "shoes"
+}
+},
+{
+"type": "way",
+"id": 904932760,
+"center": {
+"lat": 38.4388886,
+"lon": -122.716731
+},
+"tags": {
+"brand": "Michael Kors",
+"brand:wikidata": "Q19572998",
+"indoor": "room",
+"level": "0",
+"name": "Michael Kors",
+"room": "shop",
+"shop": "clothes"
+}
+},
+{
+"type": "way",
+"id": 904932761,
+"center": {
+"lat": 38.438829,
+"lon": -122.7166955
+},
+"tags": {
+"indoor": "room",
+"level": "0",
+"name": "Icing",
+"room": "shop",
+"shop": "fashion_accessories"
+}
+},
+{
+"type": "way",
+"id": 904932762,
+"center": {
+"lat": 38.4389687,
+"lon": -122.7170936
+},
+"tags": {
+"brand": "T-Mobile",
+"brand:wikidata": "Q3511885",
+"indoor": "room",
+"level": "0",
+"name": "T-Mobile",
+"room": "shop",
+"shop": "mobile_phone"
+}
+},
+{
+"type": "way",
+"id": 904932763,
+"center": {
+"lat": 38.4390048,
+"lon": -122.7170171
+},
+"tags": {
+"alt_name": "MetroPCS",
+"brand": "Metro by T-Mobile",
+"brand:wikidata": "Q1925685",
+"indoor": "room",
+"level": "0",
+"name": "Metro by T-Mobile",
+"room": "shop",
+"shop": "mobile_phone"
+}
+},
+{
+"type": "way",
+"id": 904932764,
+"center": {
+"lat": 38.4390449,
+"lon": -122.7169299
+},
+"tags": {
+"indoor": "room",
+"level": "0",
+"name": "Bellissima's Boutique",
+"room": "shop",
+"shop": "clothes"
+}
+},
+{
+"type": "way",
+"id": 904932765,
+"center": {
+"lat": 38.4390819,
+"lon": -122.7168513
+},
+"tags": {
+"amenity": "ice_cream",
+"indoor": "room",
+"level": "0",
+"name": "Letty's",
+"room": "shop"
+}
+},
+{
+"type": "way",
+"id": 904932766,
+"center": {
+"lat": 38.4391083,
+"lon": -122.7167974
+},
+"tags": {
+"brand": "Rocky Mountain Chocolate Factory",
+"brand:wikidata": "Q7355878",
+"indoor": "room",
+"level": "0",
+"name": "Rocky Mountain Chocolate Factory",
+"room": "shop",
+"shop": "confectionery"
+}
+},
+{
+"type": "way",
+"id": 904932767,
+"center": {
+"lat": 38.4391745,
+"lon": -122.7167164
+},
+"tags": {
+"indoor": "room",
+"level": "0",
+"name": "Mall Market",
+"room": "shop",
+"shop": "convenience"
+}
+},
+{
+"type": "way",
+"id": 904932768,
+"center": {
+"lat": 38.4391285,
+"lon": -122.716701
+},
+"tags": {
+"brand": "bareMinerals",
+"brand:wikidata": "Q66740659",
+"indoor": "room",
+"level": "0",
+"name": "bareMinerals",
+"room": "shop",
+"shop": "cosmetics"
+}
+},
+{
+"type": "way",
+"id": 904932769,
+"center": {
+"lat": 38.4393773,
+"lon": -122.7171601
+},
+"tags": {
+"brand": "Forever 21",
+"brand:wikidata": "Q1060537",
+"indoor": "room",
+"level": "0",
+"name": "Forever 21",
+"room": "shop",
+"shop": "clothes"
+}
+},
+{
+"type": "way",
+"id": 904932770,
+"center": {
+"lat": 38.4394212,
+"lon": -122.7166252
+},
+"tags": {
+"brand": "Kay Jewelers",
+"brand:wikidata": "Q62029290",
+"indoor": "room",
+"level": "0",
+"name": "Kay Jewelers",
+"room": "shop",
+"shop": "jewelry"
+}
+},
+{
+"type": "way",
+"id": 904932771,
+"center": {
+"lat": 38.4394774,
+"lon": -122.716632
+},
+"tags": {
+"brand": "Sunglass Hut",
+"brand:wikidata": "Q136311",
+"indoor": "room",
+"level": "0",
+"name": "Sunglass Hut",
+"room": "shop",
+"shop": "optician"
+}
+},
+{
+"type": "way",
+"id": 904932772,
+"center": {
+"lat": 38.4395296,
+"lon": -122.7166384
+},
+"tags": {
+"brand": "Lids",
+"brand:wikidata": "Q19841609",
+"clothes": "hats",
+"indoor": "room",
+"level": "0",
+"name": "Lids",
+"room": "shop",
+"shop": "clothes"
+}
+},
+{
+"type": "way",
+"id": 904932773,
+"center": {
+"lat": 38.4395818,
+"lon": -122.716665
+},
+"tags": {
+"brand": "Journeys",
+"brand:wikidata": "Q61994838",
+"indoor": "room",
+"level": "0",
+"name": "Journeys",
+"room": "shop",
+"shop": "shoes"
+}
+},
+{
+"type": "way",
+"id": 904932774,
+"center": {
+"lat": 38.4396906,
+"lon": -122.7167607
+},
+"tags": {
+"brand": "PacSun",
+"brand:wikidata": "Q7121857",
+"indoor": "room",
+"level": "0",
+"name": "PacSun",
+"room": "shop",
+"shop": "clothes"
+}
+},
+{
+"type": "way",
+"id": 904932776,
+"center": {
+"lat": 38.4398378,
+"lon": -122.7168756
+},
+"tags": {
+"indoor": "room",
+"level": "0",
+"name": "Top Line",
+"room": "shop",
+"shop": "clothes"
+}
+},
+{
+"type": "way",
+"id": 904932777,
+"center": {
+"lat": 38.4399627,
+"lon": -122.7169523
+},
+"tags": {
+"indoor": "room",
+"level": "0",
+"name": "The Coliseum",
+"room": "shop",
+"shop": "clothes"
+}
+},
+{
+"type": "way",
+"id": 904932778,
+"center": {
+"lat": 38.439975,
+"lon": -122.7167515
+},
+"tags": {
+"indoor": "room",
+"level": "0",
+"name": "YW Relaxation",
+"room": "shop",
+"shop": "massage"
+}
+},
+{
+"type": "way",
+"id": 904932779,
+"center": {
+"lat": 38.4402014,
+"lon": -122.7165688
+},
+"tags": {
+"brand": "claire's",
+"brand:wikidata": "Q2974996",
+"indoor": "room",
+"level": "0",
+"name": "claire's",
+"room": "shop",
+"shop": "fashion_accessories"
+}
+},
+{
+"type": "way",
+"id": 904932780,
+"center": {
+"lat": 38.4401744,
+"lon": -122.7164332
+},
+"tags": {
+"indoor": "room",
+"level": "0",
+"name": "Zaza",
+"room": "shop",
+"shop": "toys"
+}
+},
+{
+"type": "way",
+"id": 904932783,
+"center": {
+"lat": 38.4397613,
+"lon": -122.7163951
+},
+"tags": {
+"brand": "Hot Topic",
+"brand:wikidata": "Q9294032",
+"indoor": "room",
+"level": "0",
+"name": "Hot Topic",
+"room": "shop",
+"shop": "clothes"
+}
+},
+{
+"type": "way",
+"id": 904932785,
+"center": {
+"lat": 38.4396051,
+"lon": -122.7163138
+},
+"tags": {
+"brand": "Aeropostale",
+"brand:wikidata": "Q794565",
+"clothes": "men;women",
+"indoor": "room",
+"level": "0",
+"name": "Aeropostale",
+"room": "shop",
+"shop": "clothes",
+"website": "https://stores.aeropostale.com/ca/santa-rosa/1012-santa-rosa-plaza"
+}
+},
+{
+"type": "way",
+"id": 904932786,
+"center": {
+"lat": 38.4396853,
+"lon": -122.7163491
+},
+"tags": {
+"alt_name": "Walking Company",
+"brand": "The Walking Company",
+"brand:wikidata": "Q30716262",
+"indoor": "room",
+"level": "0",
+"name": "The Walking Company",
+"room": "shop",
+"shop": "shoes"
+}
+},
+{
+"type": "way",
+"id": 904932788,
+"center": {
+"lat": 38.4405259,
+"lon": -122.7170466
+},
+"tags": {
+"brand": "Macy's",
+"brand:wikidata": "Q629269",
+"indoor": "room",
+"level": "0",
+"name": "Macy's",
+"room": "shop",
+"shop": "department_store",
+"website": "https://www.macys.com/stores/ca/santarosa/santa-rosa-plaza_325.html"
+}
+},
+{
+"type": "way",
+"id": 1019280527,
+"center": {
+"lat": 38.4348683,
+"lon": -122.7117267
+},
+"tags": {
+"building": "yes",
+"name": "True Till Death Tattoos",
+"piercing": "yes",
+"shop": "tattoo"
+}
+},
+{
+"type": "way",
+"id": 1019281522,
+"center": {
+"lat": 38.4347527,
+"lon": -122.711738
+},
+"tags": {
+"building": "yes",
+"name": "The Hole Thing",
+"piercing": "yes",
+"shop": "tattoo"
+}
+},
+{
+"type": "way",
+"id": 1367494696,
+"center": {
+"lat": 38.4345732,
+"lon": -122.7124008
+},
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "323",
+"addr:postcode": "95401",
+"addr:state": "CA",
+"addr:street": "Santa Rosa Avenue",
+"building": "no",
+"email": "frontdesk@theastromotel.com",
+"name": "The Astro",
+"phone": "+1-707-200-4655",
+"tourism": "motel",
+"website": "https://www.theastro.com/contact"
+}
+},
+{
+"type": "relation",
+"id": 7785701,
+"center": {
+"lat": 38.4357878,
+"lon": -122.7189833
+},
+"tags": {
+"addr:housenumber": "170",
+"addr:postcode": "95401",
+"addr:street": "Railroad Street",
+"brand": "Hyatt Regency",
+"brand:wikidata": "Q115794868",
+"building": "hotel",
+"name": "Hyatt Regency Sonoma Wine Country",
+"phone": "+1-707-284-1234",
+"tourism": "hotel",
+"type": "multipolygon",
+"website": "https://www.hyatt.com/hyatt-regency/en-US/sonom-hyatt-regency-sonoma-wine-country",
+"wheelchair": "yes"
+}
+},
+{
+"type": "relation",
+"id": 8065430,
+"center": {
+"lat": 38.4394117,
+"lon": -122.7233563
+},
+"tags": {
+"building": "yes",
+"name": "Western Farm Center",
+"shop": "agrarian",
+"type": "multipolygon"
+}
+},
+{
+"type": "relation",
+"id": 9640938,
+"center": {
+"lat": 38.4379088,
+"lon": -122.711489
+},
+"tags": {
+"addr:city": "Santa Rosa",
+"addr:housenumber": "100",
+"addr:postcode": "95404",
+"addr:state": "CA",
+"addr:street": "Santa Rosa Avenue",
+"amenity": "townhall",
+"building": "yes",
+"layer": "2",
+"name": "Santa Rosa City Hall",
+"source": "bing",
+"townhall:type": "city",
+"type": "multipolygon",
+"wheelchair": "yes"
+}
+},
+{
+"type": "relation",
+"id": 11815355,
+"center": {
+"lat": 38.4391934,
+"lon": -122.7164014
+},
+"tags": {
+"name": "Santa Rosa Plaza Shopping Center",
+"shop": "mall",
+"type": "building",
+"wheelchair": "yes",
+"wikidata": "Q17066390"
+}
+},
+{
+"type": "relation",
+"id": 18182543,
+"center": {
+"lat": 38.4369507,
+"lon": -122.7205873
+},
+"tags": {
+"amenity": "restaurant",
+"brand": "Chevys Fresh Mex",
+"brand:wikidata": "Q5094466",
+"building": "retail",
+"cuisine": "mexican",
+"historic:railway": "station",
+"name": "Chevys",
+"official_name": "Chevys Fresh Mex",
+"type": "multipolygon"
+}
+}
+]
+}

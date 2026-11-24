@@ -1,0 +1,142 @@
+{
+  "_readme": "Config for townlapse.org/downtownsantarosa. Build with: python3 build.py (see README.md in this folder).",
+  "title": "Downtown Santa Rosa",
+  "description": "Slide through time to see which stores, theaters, hotels and offices stood in downtown Santa Rosa, from Railroad Square to Courthouse Square, from 1900 to today.",
+  "startYear": 1900,
+  "geocodeSuffix": "Santa Rosa, CA 95404",
+  "area": {
+    "_note": "Places from OpenStreetMap are kept only inside this polygon ([lat, lng] points): Railroad Square (west of Wilson St) to just past E St, 1st St / Santa Rosa Creek to 7th St.",
+    "polygon": [
+      [
+        38.43428,
+        -122.72038
+      ],
+      [
+        38.43986,
+        -122.70807
+      ],
+      [
+        38.44468,
+        -122.71163
+      ],
+      [
+        38.4391,
+        -122.72394
+      ]
+    ]
+  },
+  "map": {
+    "_note": "bearing = compass direction (degrees) that should point UP on screen. Fourth Street runs about 60 degrees east of north, so it runs straight up from Railroad Square to E St. Cross-street labels sit on 3rd St (and Mendocino Ave on 7th St) so they don't cover pins on 4th St and the square.",
+    "bearing": 59.9,
+    "bottom": {
+      "name": "Railroad Square",
+      "point": [
+        38.43744,
+        -122.72073
+      ]
+    },
+    "top": {
+      "name": "E St",
+      "point": [
+        38.44196,
+        -122.71076
+      ]
+    },
+    "mainStreet": {
+      "name": "4th St",
+      "point": [
+        38.44009,
+        -122.71484
+      ]
+    },
+    "streetLabels": [
+      [
+        "Davis St",
+        38.43716,
+        -122.71884
+      ],
+      [
+        "Morgan St",
+        38.43769,
+        -122.71782
+      ],
+      [
+        "B St",
+        38.43892,
+        -122.71508
+      ],
+      [
+        "Santa Rosa Ave",
+        38.43966,
+        -122.71343
+      ],
+      [
+        "D St",
+        38.4404,
+        -122.71181
+      ],
+      [
+        "Mendocino Ave",
+        38.44274,
+        -122.71569
+      ]
+    ]
+  },
+  "imagery": {
+    "_note": "Satellite/aerial tiles. Check the provider's terms for your use; swap in another XYZ tile URL if needed.",
+    "url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
+    "attribution": "Imagery &copy; Esri, Maxar, Earthstar Geographics",
+    "maxNativeZoom": 19
+  },
+  "api": {
+    "url": "https://agenticallymine.com/api/dpa",
+    "contact": false
+  },
+  "github": {
+    "repo": "unotdys/townlapse.org"
+  },
+  "hub": {
+    "name": "Townlapse",
+    "url": "https://townlapse.org/",
+    "slug": "downtownsantarosa"
+  },
+  "streets": [
+    "Prince Memorial Greenway",
+    "3rd Street",
+    "Redwood Highway",
+    "5th Street",
+    "4th Street",
+    "7th Street",
+    "E Street",
+    "Wilson Street",
+    "Davis Street",
+    "B Street",
+    "A Street",
+    "Morgan Street",
+    "6th Street",
+    "Cherry Street",
+    "2nd Street",
+    "1st Street",
+    "D Street",
+    "West 6th Street",
+    "Humboldt Street",
+    "Mendocino Avenue",
+    "West 7th Street",
+    "Orchard Street",
+    "Beaver Street",
+    "Riley Street",
+    "Santa Rosa Avenue",
+    "Old Courthouse Square",
+    "SMART Multi-Use Path",
+    "Railroad Street",
+    "Ross Street",
+    "Comstock Mall",
+    "King Street",
+    "Adams Street",
+    "West 3rd Street"
+  ],
+  "credit": "",
+  "city": "Santa Rosa",
+  "region": "California",
+  "country": "United States"
+}

@@ -101,6 +101,22 @@
    "status": "populating",
    "created": "2026-11-23",
    "blurb": "Started November 2026. Today's places are on the map; neighbors and AI researchers are filling in its history."
+  },
+  {
+   "slug": "downtownsantarosa",
+   "name": "Downtown Santa Rosa",
+   "region": "California",
+   "url": "https://townlapse.org/downtownsantarosa/",
+   "since": 1900,
+   "repo": "https://github.com/unotdys/townlapse.org",
+   "blurb": "Railroad Square to Courthouse Square, 1900 to today. The stone buildings that survived 1906, the courthouses, theaters and department stores that didn't, and today's shops from OpenStreetMap.",
+   "center": [
+    38.4395,
+    -122.716
+   ],
+   "radius_km": 0.7,
+   "city": "Santa Rosa",
+   "country": "United States"
   }
  ]
 }

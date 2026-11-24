@@ -1,0 +1,461 @@
+[
+ {
+  "name": "Sonoma County Courthouse (1885)",
+  "address": "Old Courthouse Square",
+  "lat": 38.44008,
+  "lng": -122.71375,
+  "start": 1885,
+  "end": 1906,
+  "category": "civic",
+  "approx": false,
+  "note": "The first purpose-built county courthouse stood in the middle of the square. Its cornerstone was laid in May 1884 and the county accepted it in March 1885. The April 18, 1906 earthquake destroyed it.",
+  "links": [
+   "https://pcad.lib.washington.edu/building/25585",
+   "https://en.wikipedia.org/wiki/Sonoma_County_Superior_Court"
+  ]
+ },
+ {
+  "name": "Sonoma County Courthouse (1910)",
+  "address": "Old Courthouse Square",
+  "lat": 38.44008,
+  "lng": -122.71375,
+  "start": 1910,
+  "end": 1966,
+  "category": "civic",
+  "approx": false,
+  "note": "The replacement courthouse, designed by J.W. Dolliver, opened in 1910. It was declared seismically unsafe and demolished in 1966.",
+  "links": [
+   "https://pcad.lib.washington.edu/building/25584",
+   "https://www.pressdemocrat.com/news/4192536-181/gaye-lebaron-old-courthouse-square",
+   "https://en.wikipedia.org/wiki/Sonoma_County_Superior_Court"
+  ]
+ },
+ {
+  "name": "Old Courthouse Square",
+  "address": "Old Courthouse Square",
+  "lat": 38.44008,
+  "lng": -122.71375,
+  "start": 1967,
+  "end": null,
+  "category": "landmark",
+  "approx": false,
+  "note": "The courthouse site was rededicated as a plaza in 1967, split in two by a street through its center, and reunified as one pedestrian square in 2017.",
+  "links": [
+   "https://www.pressdemocrat.com/entertainment/6929945-181/santa-rosa-celebrates-reunified-old",
+   "https://en.wikipedia.org/wiki/Sonoma_County_Superior_Court"
+  ]
+ },
+ {
+  "name": "Athenaeum (opera house)",
+  "address": "641 4th St",
+  "start": 1885,
+  "end": 1906,
+  "category": "entertainment",
+  "approx": false,
+  "note": "Opera house and theater at Fourth and D, dedicated July 9, 1885. It collapsed in the 1906 earthquake. Pinned at the address of the 1911 Doyle Building, which took its footprint.",
+  "links": [
+   "https://comstockhousehistory.blogspot.com/2019/01/the-jewel-in-boomtown.html",
+   "https://comstockhousehistory.blogspot.com/2009/09/april-18-1906-part-ii.html"
+  ]
+ },
+ {
+  "name": "Exchange Bank",
+  "address": "545 4th St",
+  "start": 1890,
+  "end": null,
+  "category": "services",
+  "approx": false,
+  "note": "Opened May 1, 1890 at Fourth and Mendocino; a photo from about 1908 shows it at 545 Fourth St. The corner building was replaced around 1971.",
+  "links": [
+   "https://digital.sonomalibrary.org/Documents/Detail/exchange-bank-545-fourth-street-santa-rosa-california-about-1908/58510",
+   "https://exchangebank.com/about"
+  ]
+ },
+ {
+  "name": "Western Hotel building",
+  "address": "10 4th St",
+  "start": 1903,
+  "end": null,
+  "category": "landmark",
+  "approx": false,
+  "note": "Stone hotel built by Italian stonemasons from local stone, one of Railroad Square's four stone buildings. It survived the 1906 earthquake and now holds offices and shops.",
+  "links": [
+   "https://digital.sonomalibrary.org/Documents/Detail/western-hotel/81940",
+   "https://noehill.com/sonoma/nat1979000561.aspx"
+  ]
+ },
+ {
+  "name": "Northwestern Pacific Railroad Depot",
+  "address": "9 4th St",
+  "start": 1904,
+  "end": null,
+  "category": "landmark",
+  "approx": false,
+  "note": "Stone depot that replaced a wooden one lost to fire in 1903. Passenger trains ended in 1958; SMART trains have stopped behind it since 2017. Now the California Welcome Center.",
+  "links": [
+   "https://noehill.com/sonoma/nat1979000561.aspx",
+   "https://en.wikipedia.org/wiki/Santa_Rosa_Downtown_station"
+  ]
+ },
+ {
+  "name": "Santa Rosa Carnegie Library",
+  "address": "211 E St",
+  "start": 1904,
+  "end": 1960,
+  "category": "civic",
+  "approx": false,
+  "note": "Romanesque Carnegie library at Fourth and E, opened March 10, 1904. Damaged in 1906 and repaired; condemned in 1960 and demolished in 1964.",
+  "links": [
+   "https://digital.sonomalibrary.org/local-history-culture/local-history-genealogy-notes/santa-rosas-carnegie-library"
+  ]
+ },
+ {
+  "name": "Central Santa Rosa Library",
+  "address": "211 E St",
+  "start": 1967,
+  "end": null,
+  "category": "civic",
+  "approx": false,
+  "note": "Built in 1967 on the Carnegie library's site; now the central branch of the Sonoma County Library.",
+  "links": [
+   "https://digital.sonomalibrary.org/local-history-culture/local-history-genealogy-notes/santa-rosas-carnegie-library",
+   "https://legacy.sonomalibrary.org/locations/central-santa-rosa-library/about-central-library"
+  ]
+ },
+ {
+  "name": "Hotel La Rose",
+  "address": "308 Wilson St",
+  "start": 1907,
+  "end": null,
+  "category": "hotel",
+  "approx": false,
+  "note": "Stone hotel at Fifth and Wilson built in 1907 by Italian stonemasons, replacing the St. Rose Hotel lost in 1906. On the National Register since 1978.",
+  "links": [
+   "https://historichotels.org/hotels-resorts/hotel-la-rose/history.php",
+   "https://en.wikipedia.org/wiki/Hotel_La_Rose"
+  ]
+ },
+ {
+  "name": "Santa Rosa Bank (Empire Building)",
+  "address": "37 Old Courthouse Square",
+  "start": 1908,
+  "end": 2018,
+  "category": "services",
+  "approx": true,
+  "note": "Four-story Beaux-Arts bank with a clock tower, opened July 1908 on the site of the bank building lost in 1906. Later the Bank of Italy, then offices, until its conversion into Hotel E.",
+  "links": [
+   "https://comstockhousehistory.blogspot.com/2011/07/empire-building-and-clock-tower.html"
+  ]
+ },
+ {
+  "name": "Hotel E",
+  "address": "37 Old Courthouse Square",
+  "start": 2019,
+  "end": null,
+  "category": "hotel",
+  "approx": false,
+  "note": "39-room hotel in the converted 1908 Empire Building, opened in 2019 with the exterior unchanged.",
+  "links": [
+   "https://www.northbaybusinessjournal.com/article/industry-news/santa-rosas-new-hotel-e-seen-as-downtown-kick-starter-akin-to-napas-arche/"
+  ]
+ },
+ {
+  "name": "U.S. Post Office",
+  "address": "401 5th St",
+  "start": 1910,
+  "end": 1979,
+  "category": "civic",
+  "approx": false,
+  "note": "Federal post office at Fifth and A, opened March 9, 1910. In 1979 the whole building was moved more than 750 feet to Seventh Street. Pinned at Fifth and A.",
+  "links": [
+   "https://www.hmdb.org/m.asp?m=102518",
+   "https://en.wikipedia.org/wiki/Museum_of_Sonoma_County"
+  ],
+  "lat": 38.4396,
+  "lng": -122.71784
+ },
+ {
+  "name": "Museum of Sonoma County",
+  "address": "425 7th St",
+  "start": 1985,
+  "end": null,
+  "category": "community",
+  "approx": false,
+  "note": "The relocated 1910 post office, reopened in 1985 as the Sonoma County Museum; renamed in 2018.",
+  "links": [
+   "https://noehill.com/sonoma/nat1979000559.asp",
+   "https://en.wikipedia.org/wiki/Museum_of_Sonoma_County"
+  ]
+ },
+ {
+  "name": "Jacobs Building",
+  "address": "111 4th St",
+  "start": 1910,
+  "end": null,
+  "category": "landmark",
+  "approx": false,
+  "note": "1910 commercial building at 111–115 Fourth St in the Railroad Square Historic District.",
+  "links": [
+   "https://noehill.com/sonoma/nat1979000561.aspx"
+  ]
+ },
+ {
+  "name": "Tirone Building",
+  "address": "105 4th St",
+  "start": 1913,
+  "end": null,
+  "category": "landmark",
+  "approx": false,
+  "note": "1913 commercial building at 105–109 Fourth St in the Railroad Square Historic District.",
+  "links": [
+   "https://noehill.com/sonoma/nat1979000561.aspx"
+  ]
+ },
+ {
+  "name": "Railway Express Agency Building",
+  "address": "9 5th St",
+  "start": 1915,
+  "end": null,
+  "category": "landmark",
+  "approx": true,
+  "note": "Railway Express Agency building at 9–11 Fifth St, next to the depot; dated to about 1915.",
+  "links": [
+   "https://noehill.com/sonoma/nat1979000561.aspx"
+  ]
+ },
+ {
+  "name": "Santa Rosa City Hall (1913)",
+  "address": "Hinton Ave (now 50 Old Courthouse Square)",
+  "start": 1913,
+  "end": 1969,
+  "category": "civic",
+  "approx": false,
+  "note": "City hall on Hinton Avenue beside the square, designed by Luther M. Turton. Used until the new civic center opened in 1969, then torn down; the site is now part of 50 Old Courthouse Square.",
+  "links": [
+   "https://comstockhousehistory.blogspot.com/2017/01/our-forgotten-city-hall.html"
+  ],
+  "lat": 38.44026,
+  "lng": -122.71291
+ },
+ {
+  "name": "Santa Rosa City Hall",
+  "address": "100 Santa Rosa Ave",
+  "start": 1969,
+  "end": null,
+  "category": "civic",
+  "approx": false,
+  "note": "City hall and civic center on Santa Rosa Avenue, opened June 7, 1969.",
+  "links": [
+   "https://comstockhousehistory.blogspot.com/2022/07/road-to-mall-money-first-plans-later.html"
+  ]
+ },
+ {
+  "name": "Cline Theatre",
+  "address": "403 B St",
+  "start": 1916,
+  "end": 1934,
+  "category": "entertainment",
+  "approx": false,
+  "note": "Theater with about 1,600 seats near Fifth and B, opened around November 1916. Remodeled and reopened as the Roxy in July 1934.",
+  "links": [
+   "https://cinematreasures.org/theaters/33470"
+  ]
+ },
+ {
+  "name": "Roxy Theatre",
+  "address": "403 B St",
+  "start": 1934,
+  "end": 1973,
+  "category": "entertainment",
+  "approx": true,
+  "note": "The renamed Cline Theatre, open into the 1960s; a 1973 photo shows its stage after demolition.",
+  "links": [
+   "https://digital.sonomalibrary.org/Documents/Detail/remains-of-roxy-theatre-stage-after-demolition/64372",
+   "https://cinematreasures.org/theaters/33470"
+  ]
+ },
+ {
+  "name": "G & S Theatre",
+  "address": "431 B St",
+  "start": 1924,
+  "end": 1930,
+  "category": "entertainment",
+  "approx": true,
+  "note": "Movie palace with about 2,000 seats, opened January 1924; renamed the California by 1930.",
+  "links": [
+   "https://cinematreasures.org/theaters/28446"
+  ]
+ },
+ {
+  "name": "California Theatre",
+  "address": "431 B St",
+  "start": 1930,
+  "end": 1977,
+  "category": "entertainment",
+  "approx": true,
+  "note": "The former G & S Theatre. Closed in 1977 and demolished for the Santa Rosa Plaza redevelopment.",
+  "links": [
+   "https://cinematreasures.org/theaters/28446"
+  ]
+ },
+ {
+  "name": "Empire Theatre",
+  "address": "311 4th St",
+  "start": 1931,
+  "end": 1942,
+  "category": "entertainment",
+  "approx": false,
+  "note": "Movie theater opened January 13, 1931, closed in the summer of 1942. A parking garage stands on the site. Pin placement approximate: this block of Fourth St is now under the Santa Rosa Plaza.",
+  "links": [
+   "https://cinematreasures.org/theaters/65665"
+  ],
+  "lat": 38.43884,
+  "lng": -122.71765
+ },
+ {
+  "name": "Rosenberg's Department Store",
+  "address": "700 4th St",
+  "start": 1937,
+  "end": 1988,
+  "category": "retail",
+  "approx": false,
+  "note": "Streamline Moderne department store at Fourth and D, opened October 27, 1937 after the family's earlier store burned. Closed in 1988; on the National Register since 1994.",
+  "links": [
+   "https://noehill.com/sonoma/nat1994001497.asp",
+   "https://en.wikipedia.org/wiki/Rosenberg%27s_Department_Store"
+  ]
+ },
+ {
+  "name": "Arrigoni's",
+  "address": "701 4th St",
+  "start": 1937,
+  "end": 2014,
+  "category": "food",
+  "approx": false,
+  "note": "Italian grocery at Fourth and D from 1937, later Arrigoni's Deli & Cafe. Closed at the end of 2014.",
+  "links": [
+   "https://www.pressdemocrat.com/article/business/longtime-downtown-santa-rosa-deli-closing/"
+  ]
+ },
+ {
+  "name": "Mac's Deli & Cafe",
+  "address": "630 4th St",
+  "start": 1952,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "note": "New York-style deli opened in 1952.",
+  "links": [
+   "https://www.pressdemocrat.com/article/lifestyle/santa-rosas-macs-deli-still-a-downtown-gem/"
+  ]
+ },
+ {
+  "name": "Sawyer's News",
+  "address": "733 4th St",
+  "start": 1945,
+  "end": 2010,
+  "category": "retail",
+  "approx": true,
+  "note": "Newsstand that moved from San Rafael to Santa Rosa in 1945 and closed April 30, 2010. The year it settled at 733 Fourth St isn't known.",
+  "links": [
+   "https://www.pressdemocrat.com/article/news/iconic-family-owned-businesses-have-left-santa-rosas-center/"
+  ]
+ },
+ {
+  "name": "Corrick's",
+  "address": "637 4th St",
+  "start": 1973,
+  "end": null,
+  "category": "retail",
+  "approx": false,
+  "note": "Stationery and gift store founded in 1915, at 537 Fourth St from 1955; moved into a former bank building at 637 Fourth St in 1973.",
+  "links": [
+   "https://www.pressdemocrat.com/article/business/corricks-in-downtown-santa-rosa-turns-100/"
+  ]
+ },
+ {
+  "name": "Corrick's",
+  "address": "537 4th St",
+  "start": 1955,
+  "end": 1973,
+  "category": "retail",
+  "approx": false,
+  "note": "Corrick's stationery store at this address from 1955 until its 1973 move to 637 Fourth St.",
+  "links": [
+   "https://www.pressdemocrat.com/article/business/corricks-in-downtown-santa-rosa-turns-100/"
+  ]
+ },
+ {
+  "name": "Omelette Express",
+  "address": "112 4th St",
+  "start": 1977,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Breakfast restaurant in Railroad Square; sources give 1977 or 1978.",
+  "links": [
+   "https://www.sonomamag.com/historic-restaurants-of-sonoma-county/"
+  ]
+ },
+ {
+  "name": "La Gare",
+  "address": "208 Wilson St",
+  "start": 1979,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "note": "French restaurant in Railroad Square, founded in 1979.",
+  "links": [
+   "https://www.sonomamag.com/historic-restaurants-of-sonoma-county/"
+  ]
+ },
+ {
+  "name": "Santa Rosa Plaza",
+  "address": "1071 Santa Rosa Plaza",
+  "start": 1982,
+  "end": null,
+  "category": "retail",
+  "approx": true,
+  "note": "Downtown mall built under urban renewal on cleared blocks; Macy's opened first in 1981 and the mall opened in 1982 (some sources say 1983).",
+  "links": [
+   "https://comstockhousehistory.blogspot.com/2023/01/road-to-mall-regrets-we-have-few.html",
+   "https://en.wikipedia.org/wiki/Santa_Rosa_Plaza"
+  ]
+ },
+ {
+  "name": "Third Street Aleworks",
+  "address": "610 3rd St",
+  "start": 1996,
+  "end": 2023,
+  "category": "food",
+  "approx": true,
+  "note": "Brewpub opened March 8, 1996; closure announced in late 2022, with the lease ending in 2023.",
+  "links": [
+   "https://en.wikipedia.org/wiki/Third_Street_Aleworks"
+  ]
+ },
+ {
+  "name": "Roxy Stadium 14",
+  "address": "85 Santa Rosa Ave",
+  "start": 2000,
+  "end": null,
+  "category": "entertainment",
+  "approx": false,
+  "note": "14-screen multiplex, opened April 29, 2000.",
+  "links": [
+   "https://cinematreasures.org/theaters/28447"
+  ]
+ },
+ {
+  "name": "Russian River Brewing Company",
+  "address": "725 4th St",
+  "start": 2004,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "note": "Brewpub opened in April 2004.",
+  "links": [
+   "https://www.russianriverbrewing.com/santa-rosa-location/"
+  ]
+ }
+]
