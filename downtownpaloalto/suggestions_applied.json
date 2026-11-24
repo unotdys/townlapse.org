@@ -1143,6 +1143,20 @@
     "https://med.stanford.edu/news/all-news/2007/05/medical-bookstore-moves-to-campus-spot-with-staff",
     "https://www.paloaltoonline.com/news/2007/04/11/shop-talkstanford-bookstore-calls-it-quits-for-downtown-branch/"
    ]
+  },
+  {
+   "name": "Chantilly",
+   "address": "520 Ramona St",
+   "note": "French and Northern Italian restaurant that opened in 1974 in the Gotham Shop courtyard building at 520 Ramona St; a 1980 photo shows its courtyard entrance there. Around 1989 it moved next door to 530 Ramona and became Chantilly II, which the map already lists separately.",
+   "start": 1974,
+   "end": 1989,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/morgue/restaurants/1996_Jul_17.mini_reviews.html",
+    "https://www.paloaltoonline.com/peninsula-foodist/2017/04/06/chantilly-closes-after-43-years/",
+    "https://www.pastheritage.org/inv/invR/Ramona520.html"
+   ]
   }
  ],
  "corrections": [
