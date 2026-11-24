@@ -1,18 +1,5 @@
 {
- "additions": [
-  {
-   "name": "TEST Neighbor Cafe",
-   "address": "999 Test Ave",
-   "note": "TEST ENTRY, please ignore",
-   "start": 1991,
-   "end": 2000,
-   "category": "food",
-   "approx": true,
-   "links": [
-    "https://example.com/test-source"
-   ]
-  }
- ],
+ "additions": [],
  "corrections": [
   {
    "target": "Rara",
