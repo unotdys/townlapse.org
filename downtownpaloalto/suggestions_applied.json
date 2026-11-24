@@ -1130,6 +1130,19 @@
     "https://www.paloaltoonline.com/morgue/cover/1994_Sep_21.COVER921.html",
     "https://www.paloaltoonline.com/morgue/restaurants/1995_Jun_2.EATOUT02.html"
    ]
+  },
+  {
+   "name": "Stanford Bookstore",
+   "address": "135 University Ave",
+   "note": "Downtown branch of the Stanford Bookstore at the corner of University and High, specializing in medical and technical books. It opened in 1981 and closed June 30, 2007, when the store moved into the main campus bookstore at White Plaza.",
+   "start": 1981,
+   "end": 2007,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "https://med.stanford.edu/news/all-news/2007/05/medical-bookstore-moves-to-campus-spot-with-staff",
+    "https://www.paloaltoonline.com/news/2007/04/11/shop-talkstanford-bookstore-calls-it-quits-for-downtown-branch/"
+   ]
   }
  ],
  "corrections": [
