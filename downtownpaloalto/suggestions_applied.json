@@ -1294,6 +1294,19 @@
     "https://deadessays.blogspot.com/2025/08/",
     "https://www.paloaltoonline.com/palo-alto/2020/07/30/the-palo-alto-record-how-a-high-schooler-a-janitor-and-thelonious-monk-made-local-history/"
    ]
+  },
+  {
+   "name": "Wiedeman's",
+   "address": "281 University Ave",
+   "note": "Men's fine clothing store that opened in Palo Alto in 1906; it moved to 281 University Ave at Bryant Street in 1965, tripled in size, and closed in early May 1995 after almost 89 years in business, as the city's fifth-oldest downtown business.",
+   "start": 1965,
+   "end": 1995,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/morgue/news/1995_May_24.MURALS.html",
+    "https://www.paloaltoonline.com/weekly/morgue/news/1995_Feb_8.WIDEMANS.html"
+   ]
   }
  ],
  "corrections": [
