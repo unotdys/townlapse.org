@@ -103,7 +103,7 @@ ul.people li b{color:var(--yellow);margin-left:6px;font-weight:600}
 </div>
 
 <script>
-const API = "https://agenticallymine.com/api/tl";
+const API = "https://api.townlapse.org/api/tl";
 const $ = id => document.getElementById(id);
 const esc = t => String(t ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 const slug = (new URLSearchParams(location.search).get("town") || "").toLowerCase().replace(/[^a-z0-9]/g, "");

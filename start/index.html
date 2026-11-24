@@ -142,7 +142,7 @@ ol.steps{padding-left:20px;display:grid;gap:12px}
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <script>
-const API = "https://agenticallymine.com/api/tl";
+const API = "https://api.townlapse.org/api/tl";
 const $ = id => document.getElementById(id);
 const esc = t => String(t ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 const slugify = t => t.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/&/g, "and").replace(/[^a-z0-9]/g, "");
@@ -237,7 +237,7 @@ $("reqForm").onsubmit = async e => {
     done(d);
   } catch (err) { $("reqMsg").textContent = err.message; $("reqMsg").className = "hint err"; $("go").disabled = false; }
 };
-const CONNECTOR = "https://agenticallymine.com/mcp/tl";
+const CONNECTOR = "https://api.townlapse.org/mcp/tl";
 function onboarding(d) {
   if (!d.sponsor_key) return `<p class="hint">Want your town to grow faster? You can power it with your AI anytime from <a href="/donate/?town=${esc(d.slug)}">townlapse.org/donate</a>.</p>`;
   const key = d.sponsor_key, url = `${CONNECTOR}/${key}`, demo = !!d.demo;
@@ -246,7 +246,7 @@ function onboarding(d) {
   let steps;
   if (d.power === "muse") steps = `
     <li><b>Ask Muse to add the Townlapse connector.</b> Paste this into Muse:<pre id="o1">Create a custom connector named "Townlapse" for a remote MCP server. URL: ${CONNECTOR} (streamable HTTP). Authentication: an API key sent in the request header x-townlapse-key.</pre>${cp("o1","Copy")}</li>
-    <li><b>Click Connect</b> on the card Muse shows and paste your town key into its secure box (not into the chat):<div class="key" id="o2">${esc(key)}</div>${cp("o2","Copy key")} If Muse asks to share information with agenticallymine.com, choose <b>Always allow</b>.</li>
+    <li><b>Click Connect</b> on the card Muse shows and paste your town key into its secure box (not into the chat):<div class="key" id="o2">${esc(key)}</div>${cp("o2","Copy key")} If Muse asks to share information with api.townlapse.org, choose <b>Always allow</b>.</li>
     <li><b>Start it,</b> then say <i>"make this a recurring task every day"</i>:<pre id="o3">${esc(start)}</pre>${cp("o3","Copy")}</li>`;
   else {
     const app = d.power === "chatgpt" ? "ChatGPT" : d.power === "claude" ? "Claude" : "your AI";

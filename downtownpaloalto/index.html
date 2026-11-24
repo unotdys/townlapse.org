@@ -237,7 +237,7 @@ textarea.field{resize:vertical;min-height:80px}
 <script src="https://cdn.jsdelivr.net/npm/leaflet-rotate@0.6.2/dist/leaflet-rotate-src.js"></script>
 <script>
 const NOW = new Date().getFullYear();
-const SUGGEST_URL = "https://agenticallymine.com/api/dpa/suggest";
+const SUGGEST_URL = "https://api.townlapse.org/api/dpa/suggest";
 const CATS = {retail:"Shops",food:"Food & drink",entertainment:"Theaters",tech:"Startups",hotel:"Hotels",landmark:"Landmarks",services:"Services",fitness:"Fitness",civic:"Civic",worship:"Worship",community:"Community"};
 const color = c => getComputedStyle(document.documentElement).getPropertyValue("--"+c).trim();
 const on = Object.fromEntries(Object.keys(CATS).map(k=>[k,true]));
@@ -403,7 +403,7 @@ form.onsubmit=async e=>{
 };
 
 /* Contact us */
-const CONTACT_URL = "https://agenticallymine.com/api/dpa/contact";
+const CONTACT_URL = "https://api.townlapse.org/api/dpa/contact";
 const cdlg=$("cdlg"), cform=$("cform"), cmsg=$("cmsg");
 $("contactBtn").onclick=()=>{ cform.reset(); cmsg.textContent=""; cmsg.className=""; $("csend").disabled=false; $("csend").textContent="Send message"; cdlg.showModal(); cform.name.focus(); };
 $("ccancel").onclick=()=>cdlg.close();
@@ -427,7 +427,7 @@ cform.onsubmit=async e=>{
 };
 
 /* Message boards: one per street address, plus a site-wide board */
-const BOARD = "https://agenticallymine.com/api/dpa/board";
+const BOARD = "https://api.townlapse.org/api/dpa/board";
 let boardCounts = {}, boardThread = "site", boardOpened = 0;
 const threadOf = a => { const t = String(a||"").toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"");
   return /^\d/.test(t) && t.length >= 3 ? "a:" + t.slice(0,80) : null; };
@@ -499,7 +499,7 @@ fetch("stores.json",{cache:"no-cache"}).then(r=>r.json()).then(d=>{ stores=d; re
   .catch(()=>{ $("list").innerHTML='<li class="empty">The store list didn’t load. Reload the page to try again.</li>'; });
 </script>
 <script>
-fetch("https://agenticallymine.com/api/tl/credits?town=downtownpaloalto").then(r=>r.ok?r.json():null).then(c=>{
+fetch("https://api.townlapse.org/api/tl/credits?town=downtownpaloalto").then(r=>r.ok?r.json():null).then(c=>{
   if(!c) return; const e=t=>String(t).replace(/[&<>"]/g,x=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[x]));
   const bits=[]; if(c.creator) bits.push("Created by <b>"+e(c.creator.name)+"</b>");
   const n=(c.contributors||[]).length; if(n) bits.push(n+" contributor"+(n>1?"s":""));

@@ -128,9 +128,9 @@ ol.steps{padding-left:20px;display:grid;gap:10px}
 </div>
 
 <script>
-const API = "https://agenticallymine.com/api/tl";
+const API = "https://api.townlapse.org/api/tl";
 const SERVICE = "eec520c8-681f-466b-b9f4-08074dbb5f1d";
-const CONNECTOR = "https://agenticallymine.com/mcp/tl";
+const CONNECTOR = "https://api.townlapse.org/mcp/tl";
 const $ = id => document.getElementById(id);
 const esc = t => String(t ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 const AINAME = { chatgpt: "ChatGPT", claude: "Claude", grok: "Grok", gemini: "Gemini", muse: "Muse", copilot: "Copilot", other: "your assistant" };
@@ -191,7 +191,7 @@ function connectorSteps(ai, key, b) {
       <pre id="m1">Create a custom connector named "Townlapse" for a remote MCP server. URL: ${CONNECTOR} (streamable HTTP). Authentication: an API key sent in the request header x-townlapse-key.</pre>${copy("m1","Copy")}</li>
     <li><b>Click Connect</b> on the card Muse shows, and paste your key into its secure box (not into the chat):
       <div class="key" id="m2">${esc(key)}</div>${copy("m2","Copy key")}
-      If Muse asks to share information with agenticallymine.com, choose <b>Always allow</b>.</li>
+      If Muse asks to share information with api.townlapse.org, choose <b>Always allow</b>.</li>
     <li><b>Start it.</b> Paste this into Muse${b.mode === "subscription" ? `, then say <i>"make this a recurring task every day"</i>` : ""}:
       <pre id="m3">${esc(starter(b))}</pre>${copy("m3","Copy")}</li>`;
   const app = ai === "chatgpt" ? "ChatGPT" : ai === "claude" ? "Claude" : AINAME[ai];

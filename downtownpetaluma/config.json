@@ -106,7 +106,7 @@
     "maxNativeZoom": 19
   },
   "api": {
-    "url": "https://agenticallymine.com/api/dpa",
+    "url": "https://api.townlapse.org/api/dpa",
     "contact": false
   },
   "github": {
