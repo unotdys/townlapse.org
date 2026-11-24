@@ -285,6 +285,8 @@ for c in sug.get("corrections", []):
     for x in hits:
         for k in ("name", "start", "end", "category", "note", "approx"):
             if k in c.get("fields", {}): x[k] = c["fields"][k]
+        x["corrected"] = True
+        x["corrected_fields"] = sorted(set(x.get("corrected_fields", [])) | {k for k in ("start", "end") if k in c.get("fields", {})})
         if c.get("fields", {}).get("links"): x["links"] = list(x.get("links", [])) + c["fields"]["links"]
         if "start" in c.get("fields", {}) and c["fields"]["start"]: x.pop("start_unknown", None)
         if c.get("fields", {}).get("address") and c["fields"]["address"] != x["address"]:
@@ -301,6 +303,38 @@ for x in out:
         elif COMMUNITY.search(x["name"]) and not re.search(r"night ?club|club sandwich|health club|fitness|golf club|loan|savings|bank|automobile|insurance|realty|title", x["name"], re.I): x["category"] = "community"
     if x["name"] == "Palo Alto Police Department" and x["address"] == "450 Bryant St":
         x["name"] = "Palo Alto Police & Fire Station"
+# ---------- merge duplicate pins: same address (±4), near-identical name, overlapping or adjacent years
+import difflib
+def _ns(a):
+    m = re.match(r"^(\d+)\s+(.+)$", (a or "").strip()); return (int(m.group(1)), m.group(2).lower()) if m else (None, (a or "").lower())
+def _nm(n): return re.sub(r"\b(the|inc|co|company|corp|llc)\b", "", re.sub(r"[^a-z0-9 ]", "", n.lower().replace("&", "and"))).replace(" ", "")
+SRC_RANK = {"suggestion": 0, "news": 1, "report": 2, "osm": 3, "osm-history": 4, "directory": 5}
+def _same(a, b):
+    na, sa = _ns(a["address"]); nb, sb = _ns(b["address"])
+    if sa != sb or na is None or nb is None or abs(na - nb) > 4: return False
+    ea, eb = a.get("end") or 2026, b.get("end") or 2026
+    if not (a["start"] <= eb + 2 and b["start"] <= ea + 2): return False
+    r = difflib.SequenceMatcher(None, _nm(a["name"]), _nm(b["name"])).ratio()
+    return r >= 0.9 or (r >= 0.8 and na == nb)
+merged, keep = 0, []
+for x in sorted(out, key=lambda x: (0 if x.get("corrected") else 1, SRC_RANK.get(x.get("source"), 9), x["start"])):
+    tgt = next((k for k in keep if _same(k, x)), None)
+    if not tgt: keep.append(x); continue
+    merged += 1
+    locked = set(tgt.get("corrected_fields") or [])        # years a verified correction set are never overridden
+    if "start" not in locked:
+        if tgt.get("start_unknown") and not x.get("start_unknown"): tgt["start"] = x["start"]; tgt.pop("start_unknown", None)
+        elif not x.get("start_unknown"): tgt["start"] = min(tgt["start"], x["start"])
+    if "end" not in locked:
+        ends = [tgt.get("end"), x.get("end")]
+        tgt["end"] = None if None in ends else max(ends)
+    tgt["approx"] = bool(tgt.get("approx") or x.get("approx"))
+    if x.get("links"): tgt["links"] = list(tgt.get("links") or []) + [l for l in x["links"] if l not in (tgt.get("links") or [])]
+    if len(x.get("note") or "") > len(tgt.get("note") or ""): tgt["note"] = x["note"]
+    tgt.setdefault("merged_from", []).append(x["name"])
+out = keep
+for x in out: x.pop("corrected", None); x.pop("corrected_fields", None)
+print(f"Merged {merged} duplicate pins")
 for x in out:
     if x.get("links"): x["links"] = clean_links(x["links"])
     elif "links" in x: del x["links"]
