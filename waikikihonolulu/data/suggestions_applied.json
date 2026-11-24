@@ -12,6 +12,19 @@
     "https://spectrumlocalnews.com/hi/hawaii/news/2022/08/31/honolulu-zoo-unveils-new-kapahulu-market",
     "https://www.honoluluzoo.org/"
    ]
+  },
+  {
+   "name": "Monkeypod Kitchen",
+   "address": "2169 Kalia Rd",
+   "note": "Monkeypod Kitchen by Merriman opened on July 14, 2023 at the Outrigger Reef Waikiki Beach Resort, 2169 Kalia Road.",
+   "start": 2023,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://hawaiicalling.com/waikikis-new-monkeypod-kitchen-by-merriman/",
+    "https://www.fsrmagazine.com/growth/nextgen-casual/chef-peter-merriman-opens-monkeypod-kitchen-at-the-outrigger/"
+   ]
   }
  ],
  "corrections": [

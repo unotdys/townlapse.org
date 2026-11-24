@@ -22,6 +22,28 @@
   ]
  },
  {
+  "name": "Monkeypod Kitchen",
+  "address": "2169 Kalia Rd",
+  "start": 2023,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Monkeypod Kitchen by Merriman opened on July 14, 2023 at the Outrigger Reef Waikiki Beach Resort, 2169 Kalia Road.",
+  "lat": 21.2782479,
+  "lng": -157.8327924,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://hawaiicalling.com/waikikis-new-monkeypod-kitchen-by-merriman/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.fsrmagazine.com/growth/nextgen-casual/chef-peter-merriman-opens-monkeypod-kitchen-at-the-outrigger/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -328,19 +350,6 @@
   "note": "Open today (pub). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2804199,
   "lng": -157.8302695
- },
- {
-  "name": "monkeypod kitchen",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2777786,
-  "lng": -157.833186
  },
  {
   "name": "Mac 24/7 Bar & Restaurant",
