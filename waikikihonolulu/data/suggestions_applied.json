@@ -42,6 +42,20 @@
      "https://www.fsrmagazine.com/industry-news/pf-changs-reopen-inside-royal-hawaiian-center/"
     ]
    }
+  },
+  {
+   "target": "Victoria's Secret",
+   "target_address": "2230 Kal\u0101kaua Ave",
+   "fields": {
+    "note": "Lingerie and clothing store at the corner of Kal\u0101kaua and Royal Hawaiian avenues. It held its grand opening on October 11, 2011, with model Alessandra Ambrosio, and is still open.",
+    "start": 2011,
+    "approx": false,
+    "links": [
+     "https://staradvertiser.com/?p=275712",
+     "https://stores.victoriassecret.com/us/hi/honolulu/lingerie-1537.html",
+     "https://www.honolulumagazine.com/victorias-secret-opens-waikiki-store-with-supermodel-alessandra-ambrosio/"
+    ]
+   }
   }
  ]
 }

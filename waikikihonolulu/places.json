@@ -189,15 +189,28 @@
  {
   "name": "Victoria's Secret",
   "address": "2230 Kalākaua Ave",
-  "start": 2026,
+  "start": 2011,
   "end": null,
   "category": "retail",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (clothes). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Lingerie and clothing store at the corner of Kalākaua and Royal Hawaiian avenues. It held its grand opening on October 11, 2011, with model Alessandra Ambrosio, and is still open.",
   "lat": 21.279386,
-  "lng": -157.8289228
+  "lng": -157.8289228,
+  "links": [
+   {
+    "url": "https://staradvertiser.com/?p=275712",
+    "kind": "Article"
+   },
+   {
+    "url": "https://stores.victoriassecret.com/us/hi/honolulu/lingerie-1537.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/victorias-secret-opens-waikiki-store-with-supermodel-alessandra-ambrosio/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Lulu's Waikiki",
