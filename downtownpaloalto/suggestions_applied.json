@@ -2120,6 +2120,18 @@
      "https://www.paloaltoonline.com/morgue/2004/2004_11_26.rangoon26ja.shtml"
     ]
    }
+  },
+  {
+   "target": "Il Fornaio",
+   "target_address": "520 Cowper St",
+   "fields": {
+    "note": "Italian restaurant in the Garden Court Hotel (renamed el PRADO Hotel in 2021), opened in 1989 according to the company's history. It served its last meal on January 18, 2026, when its lease ended, after about 36 years downtown.",
+    "start": 1989,
+    "links": [
+     "https://www.ilfornaio.com/about/",
+     "https://www.paloaltoonline.com/palo-alto/2026/01/13/the-end-of-an-era-after-36-years-in-palo-alto-il-fornaio-prepares-to-close/"
+    ]
+   }
   }
  ]
 }
