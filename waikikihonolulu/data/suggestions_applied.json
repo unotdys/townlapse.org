@@ -56,6 +56,20 @@
      "https://www.honolulumagazine.com/victorias-secret-opens-waikiki-store-with-supermodel-alessandra-ambrosio/"
     ]
    }
+  },
+  {
+   "target": "Lulu's Waikiki",
+   "target_address": "2586 Kal\u0101kaua Ave",
+   "fields": {
+    "note": "Open-air restaurant and bar on the second floor of the Park Shore Waikiki hotel at Kal\u0101kaua and Kapahulu. It opened in November 2004 in the space Denny's had left earlier that year.",
+    "start": 2004,
+    "approx": false,
+    "links": [
+     "https://archives.starbulletin.com/2005/01/07/features/barfly.html",
+     "https://www.khon2.com/living-808/hawaiis-kitchen/hawaiis-kitchen-lulus-waikiki/",
+     "https://www.luluswaikiki.com/"
+    ]
+   }
   }
  ]
 }
