@@ -1089,6 +1089,20 @@
    "links": [
     "https://www.pastheritage.org/HousePixLists/PixListU.html"
    ]
+  },
+  {
+   "name": "City of Paris Dyeing and Cleaning Works",
+   "address": "248 Homer Ave",
+   "note": "Dyeing and cleaning works in a Mission Revival building by Roy Heald, built about 1925-28. The firm began in 1922 on Ramona St and was run here until about 1985.",
+   "start": 1925,
+   "end": 1985,
+   "category": "services",
+   "approx": true,
+   "links": [
+    "http://homeravenue.org/Walk_Tour.htm",
+    "https://www.pastheritage.org/HousePixLists/PixListH.html",
+    "https://www.pastheritage.org/inv/invH/Homer248.html"
+   ]
   }
  ],
  "corrections": [

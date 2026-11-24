@@ -2462,6 +2462,32 @@
   ]
  },
  {
+  "name": "City of Paris Dyeing and Cleaning Works",
+  "address": "248 Homer Ave",
+  "start": 1925,
+  "end": 1985,
+  "category": "services",
+  "approx": true,
+  "note": "Dyeing and cleaning works in a Mission Revival building by Roy Heald, built about 1925-28. The firm began in 1922 on Ramona St and was run here until about 1985.",
+  "lat": 37.442797,
+  "lng": -122.1584537,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "http://homeravenue.org/Walk_Tour.htm",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.pastheritage.org/HousePixLists/PixListH.html",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.pastheritage.org/inv/invH/Homer248.html",
+    "kind": "History"
+   }
+  ]
+ },
+ {
   "name": "Nola's",
   "address": "535 Ramona St",
   "start": 1996,
@@ -3438,14 +3464,20 @@
  {
   "name": "Joe & The Juice",
   "address": "240 Hamilton Ave",
-  "start": 2019,
+  "start": 2018,
   "end": null,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
   "lat": 37.4443528,
-  "lng": -122.1609464
+  "lng": -122.1609464,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2017/08/03/joe-the-juice-is-headed-to-palo-alto/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Sephora",
@@ -3692,20 +3724,14 @@
  {
   "name": "Joe & The Juice",
   "address": "508 University Ave",
-  "start": 2018,
+  "start": 2019,
   "end": null,
   "category": "food",
-  "approx": false,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
   "lat": 37.4484574,
-  "lng": -122.1588997,
-  "links": [
-   {
-    "url": "https://www.paloaltoonline.com/peninsula-foodist/2017/08/03/joe-the-juice-is-headed-to-palo-alto/",
-    "kind": "Article"
-   }
-  ]
+  "lng": -122.1588997
  },
  {
   "name": "HSBC",
@@ -4166,20 +4192,14 @@
  {
   "name": "Gong Cha",
   "address": "439 Waverley St",
-  "start": 2015,
+  "start": 2017,
   "end": null,
   "category": "food",
-  "approx": false,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2015.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened.",
   "lat": 37.4477131,
-  "lng": -122.1607332,
-  "links": [
-   {
-    "url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/06/another-milk-tea-chain-setting-up-shop-in-palo-alto/",
-    "kind": "Article"
-   }
-  ]
+  "lng": -122.1607332
  },
  {
   "name": "Scotty's",
@@ -27786,14 +27806,14 @@
  },
  {
   "name": "La Comida",
-  "address": "450 Bryant St",
+  "address": "429 Bryant St",
   "start": 2026,
   "end": 2026,
   "category": "food",
   "approx": false,
   "source": "news",
-  "lat": 37.4461771,
-  "lng": -122.1624215,
+  "lat": 37.4465596,
+  "lng": -122.162491,
   "links": [
    {
     "url": "https://www.paloaltoonline.com/palo-alto/2026/08/26/avenidas-and-la-comida-to-host-foodie-fundraiser-to-support-older-adults/",
@@ -28119,6 +28139,24 @@
    }
   ],
   "note": "Panini and coffee cafe that took over the former Lytton Roasting Company corner in 2012; it closed in January 2015 after three years."
+ },
+ {
+  "name": "Gong Cha",
+  "address": "429 Waverley St",
+  "start": 2015,
+  "end": 2015,
+  "category": "food",
+  "approx": true,
+  "source": "news",
+  "lat": 37.4476333,
+  "lng": -122.1610727,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/06/another-milk-tea-chain-setting-up-shop-in-palo-alto/",
+    "kind": "Article"
+   }
+  ],
+  "note": "Milk tea shop. Palo Alto Online's Peninsula Foodist reported it opening in 2015. Later status unknown."
  },
  {
   "name": "B+B",
@@ -28870,9 +28908,9 @@
   "name": "The Redwood by Chef Julien",
   "address": "450 Bryant St",
   "start": 2022,
-  "end": 2026,
+  "end": 2022,
   "category": "food",
-  "approx": false,
+  "approx": true,
   "source": "news",
   "lat": 37.4461771,
   "lng": -122.1624215,
@@ -28882,7 +28920,7 @@
     "kind": "Article"
    }
   ],
-  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022."
+  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022. Later status unknown."
  },
  {
   "name": "Lima Ruby",
