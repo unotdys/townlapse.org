@@ -29,6 +29,19 @@
      "https://www.rockahulahawaii.com/hula-show"
     ]
    }
+  },
+  {
+   "target": "P.F. Chang's",
+   "target_address": "2201 Kal\u0101kaua Ave",
+   "fields": {
+    "note": "Opened at Royal Hawaiian Center in March 2008. It reopened in September 2021 after a major renovation.",
+    "start": 2008,
+    "approx": false,
+    "links": [
+     "https://wanderlustyle.com/pfchangswaikiki/",
+     "https://www.fsrmagazine.com/industry-news/pf-changs-reopen-inside-royal-hawaiian-center/"
+    ]
+   }
   }
  ]
 }

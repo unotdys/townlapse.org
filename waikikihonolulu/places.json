@@ -154,15 +154,24 @@
  {
   "name": "P.F. Chang's",
   "address": "2201 Kalākaua Ave",
-  "start": 2026,
+  "start": 2008,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Opened at Royal Hawaiian Center in March 2008. It reopened in September 2021 after a major renovation.",
   "lat": 21.2796247,
-  "lng": -157.8300563
+  "lng": -157.8300563,
+  "links": [
+   {
+    "url": "https://wanderlustyle.com/pfchangswaikiki/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.fsrmagazine.com/industry-news/pf-changs-reopen-inside-royal-hawaiian-center/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Dior",
