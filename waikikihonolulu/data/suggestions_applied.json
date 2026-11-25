@@ -755,6 +755,24 @@
      "https://www.gohawaii.com/listing/tikis-grill-bar/64"
     ]
    }
+  },
+  {
+   "target": "Bills",
+   "target_address": "Beach Walk",
+   "fields": {
+    "address": "280 Beach Walk",
+    "note": "Bills was the first U.S. restaurant of Australian chef Bill Granger, opened on the second floor of 280 Beach Walk in March 2014. It closed around 2020, and the space later held Westman Caf\u00e9 and then Side Street Inn (opened 2026).",
+    "start": 2014,
+    "end": 2020,
+    "approx": true,
+    "links": [
+     "https://alohastatedaily.com/2026/09/26/side-street-inns-new-location-is-open/",
+     "https://worldtraveller73.com/2022/06/25/review-bills-sydney-restaurant-waikiki-honolulu-usa/",
+     "https://www.honolulumagazine.com/Opening-Soon-Bills-Sydney-in-Waikiki/?fb_comment_id=268489993321844_884773",
+     "https://www.honolulumagazine.com/side-street-inn-waikiki/",
+     "https://www.yelp.com/biz/bills-hawaii-honolulu-4"
+    ]
+   }
   }
  ]
 }

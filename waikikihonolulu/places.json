@@ -2064,16 +2064,37 @@
  },
  {
   "name": "Bills",
-  "address": "Beach Walk",
-  "start": 2026,
-  "end": null,
+  "address": "280 Beach Walk",
+  "start": 2014,
+  "end": 2020,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2805833,
-  "lng": -157.830898
+  "note": "Bills was the first U.S. restaurant of Australian chef Bill Granger, opened on the second floor of 280 Beach Walk in March 2014. It closed around 2020, and the space later held Westman Café and then Side Street Inn (opened 2026).",
+  "lat": 21.2809178,
+  "lng": -157.830803,
+  "links": [
+   {
+    "url": "https://alohastatedaily.com/2026/09/26/side-street-inns-new-location-is-open/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://worldtraveller73.com/2022/06/25/review-bills-sydney-restaurant-waikiki-honolulu-usa/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/Opening-Soon-Bills-Sydney-in-Waikiki/?fb_comment_id=268489993321844_884773",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/side-street-inn-waikiki/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.yelp.com/biz/bills-hawaii-honolulu-4",
+    "kind": "Listing"
+   }
+  ]
  },
  {
   "name": "Arancino",
