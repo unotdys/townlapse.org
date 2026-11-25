@@ -482,6 +482,28 @@
   ]
  },
  {
+  "name": "Michael Kors",
+  "address": "2330 Kalakaua Ave",
+  "start": 2016,
+  "end": null,
+  "category": "retail",
+  "approx": true,
+  "note": "Michael Kors opened its boutique at the renovated International Market Place (2330 Kalakaua Ave, Suite 186) in Waikiki when the center opened in August 2016.",
+  "lat": 21.2783385,
+  "lng": -157.8260782,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://cemcosteel.com/project/international-marketplace/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://us.near-place.com/michael-kors-2330-kalakaua-avenue-suite-186-honolulu",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -4280,19 +4302,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Michael Kors",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "retail",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (clothes). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2781639,
-  "lng": -157.8265689
  },
  {
   "name": "Izakaya Pau Hana Base",

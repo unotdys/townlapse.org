@@ -292,6 +292,19 @@
     "https://img1.wsimg.com/blobby/go/1397965c-59fe-45e5-a291-15538f895f41/downloads/Dec%20Concierge_19.web.pdf?ver=1725499501446",
     "https://www.simon.com/mall/international-market-place/stores/mcm"
    ]
+  },
+  {
+   "name": "Michael Kors",
+   "address": "2330 Kalakaua Ave",
+   "note": "Michael Kors opened its boutique at the renovated International Market Place (2330 Kalakaua Ave, Suite 186) in Waikiki when the center opened in August 2016.",
+   "start": 2016,
+   "end": null,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "https://cemcosteel.com/project/international-marketplace/",
+    "https://us.near-place.com/michael-kors-2330-kalakaua-avenue-suite-186-honolulu"
+   ]
   }
  ],
  "corrections": [
