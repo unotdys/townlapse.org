@@ -1172,15 +1172,24 @@
  {
   "name": "Kai Poke",
   "address": "333 Seaside Ave",
-  "start": 2026,
+  "start": 2023,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Build-your-own poke shop on Seaside Avenue, near Ross Dress for Less. It opened in April 2023.",
   "lat": 21.2795754,
-  "lng": -157.8275102
+  "lng": -157.8275102,
+  "links": [
+   {
+    "url": "https://www.honolulumagazine.com/oahus-newest-poke-shops/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://startpage.mapquest.com/us/hawaii/kai-poke-waikiki-529645354",
+    "kind": "Listing"
+   }
+  ]
  },
  {
   "name": "Affordable Tours",

@@ -416,6 +416,19 @@
      "https://www.cpb.bank/locations/waikiki-branch"
     ]
    }
+  },
+  {
+   "target": "Kai Poke",
+   "target_address": "333 Seaside Ave",
+   "fields": {
+    "note": "Build-your-own poke shop on Seaside Avenue, near Ross Dress for Less. It opened in April 2023.",
+    "start": 2023,
+    "approx": false,
+    "links": [
+     "https://startpage.mapquest.com/us/hawaii/kai-poke-waikiki-529645354",
+     "https://www.honolulumagazine.com/oahus-newest-poke-shops/"
+    ]
+   }
   }
  ]
 }
