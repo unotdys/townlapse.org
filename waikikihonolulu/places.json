@@ -1548,16 +1548,30 @@
  },
  {
   "name": "SWAT Gun Club",
-  "address": "address not listed",
+  "address": "339 Royal Hawaiian Ave",
   "start": 2026,
   "end": null,
-  "category": "fitness",
+  "category": "entertainment",
   "approx": false,
   "start_unknown": true,
   "source": "osm",
-  "note": "Open today (sports centre). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.280278,
-  "lng": -157.8264924
+  "note": "Indoor shooting range for visitors, open today on the 3rd floor at 339 Royal Hawaiian Ave. A gun club of this name earlier operated for many years at 2266 Kuhio Ave until about 2017; the year it opened here is not known.",
+  "lat": 21.2800884,
+  "lng": -157.8282217,
+  "links": [
+   {
+    "url": "http://www.swatgunclub.com/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://staradvertiser.com/?p=735458",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hawaiinewsnow.com/story/37692982/fire-investigators-discover-live-ammo-inside-abandoned-waikiki-gun-range",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Tapas Restaurant & Lanai Bar",

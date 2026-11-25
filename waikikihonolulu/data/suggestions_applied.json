@@ -548,6 +548,20 @@
      "https://www.travellerspoint.com/forum.cfm?thread=24062"
     ]
    }
+  },
+  {
+   "target": "SWAT Gun Club",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "339 Royal Hawaiian Ave",
+    "note": "Indoor shooting range for visitors, open today on the 3rd floor at 339 Royal Hawaiian Ave. A gun club of this name earlier operated for many years at 2266 Kuhio Ave until about 2017; the year it opened here is not known.",
+    "category": "entertainment",
+    "links": [
+     "http://www.swatgunclub.com/",
+     "https://staradvertiser.com/?p=735458",
+     "https://www.hawaiinewsnow.com/story/37692982/fire-investigators-discover-live-ammo-inside-abandoned-waikiki-gun-range"
+    ]
+   }
   }
  ]
 }
