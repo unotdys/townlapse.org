@@ -33,6 +33,7 @@ button:focus-visible,input:focus-visible,select:focus-visible,a:focus-visible{ou
 .msg{margin-top:10px;font-size:15px}.err{color:var(--pink)}.ok{color:var(--green)}
 .who{font-weight:600}
 .small{font-size:14px;color:var(--dim)}
+#members label{display:flex;gap:10px;align-items:center;font-weight:500;margin:6px 0}#members input{width:auto;accent-color:var(--yellow)}
 .check{display:flex;gap:10px;align-items:center;font-weight:500}.check input{width:auto;accent-color:var(--yellow)}
 </style>
 </head>
@@ -46,8 +47,9 @@ button:focus-visible,input:focus-visible,select:focus-visible,a:focus-visible{ou
   <div id="body" hidden>
     <div class="card" id="savedCard" hidden>
       <h2>Continue</h2>
-      <p>This browser has your donation: <span class="who" id="savedWho"></span></p>
-      <button id="useSaved">Connect as this donor</button>
+      <p>This browser has your donation: <span class="who" id="savedWho"></span>. Which AI is this?</p>
+      <div id="members" role="radiogroup" aria-label="Which AI to connect"></div>
+      <button id="useSaved">Connect</button>
     </div>
 
     <div class="card">
@@ -85,6 +87,7 @@ const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "
 const req = new URLSearchParams(location.search).get("req");
 let client = "your AI";
 
+function guessAi() { return /muse|meta/i.test(client) ? "muse" : /chatgpt|openai/i.test(client) ? "chatgpt" : /claude|anthropic/i.test(client) ? "claude" : /gemini|google/i.test(client) ? "gemini" : /grok|xai/i.test(client) ? "grok" : null; }
 function say(t, cls) { $("msg").textContent = t; $("msg").className = "small msg " + (cls || ""); }
 async function approve(body) {
   document.querySelectorAll("button").forEach(b => b.disabled = true); say("Connecting…");
@@ -113,12 +116,20 @@ async function approve(body) {
   let saved = null; try { saved = localStorage.getItem("townlapse_donor_key"); } catch {}
   if (saved) {
     try { const m = await (await fetch(`${API}/d/me`, { headers: { "x-donor-key": saved } })).json();
-      if (m && m.donor) { $("savedWho").textContent = `${m.donor} · ${m.ai}${m.budget && m.budget.town ? " · " + m.budget.town : ""}`; $("savedCard").hidden = false; $("useSaved").onclick = () => approve({ key: saved }); } } catch {}
+      if (m && m.donor) {
+        $("savedWho").textContent = `${m.donor}${m.budget && m.budget.town ? " · " + m.budget.town : ""}`; $("savedCard").hidden = false;
+        const ais = m.ais && m.ais.length ? m.ais : [{ id: "", ai: m.ai, main: true }];
+        const want = guessAi(); const AIN = { muse: "Muse", chatgpt: "ChatGPT", claude: "Claude", gemini: "Gemini", grok: "Grok", copilot: "Copilot", other: "Another AI" };
+        let pick = (ais.find(a => a.ai_code === want) || (want ? null : ais.find(a => a.main)) || null);
+        $("members").innerHTML = ais.map((a, i) => `<label><input type="radio" name="mem" value="${esc(a.id)}" ${pick && pick.id === a.id ? "checked" : ""}> ${esc(a.ai)}${a.main ? " (main)" : ""} <span class="small">· ${a.remaining_today ?? "?"} left today</span></label>`).join("")
+          + `<label><input type="radio" name="mem" value="new" ${pick ? "" : "checked"}> A new ${esc(AIN[want] || "AI")} under your name</label>`;
+        $("useSaved").onclick = () => { const v = (document.querySelector("input[name=mem]:checked") || {}).value;
+          if (v === "new") approve({ key: saved, new_member_ai: want || "other" }); else approve({ key: saved, member: v }); };
+      } } catch {}
   }
   try { const reg = await (await fetch("/towns.json")).json();
     $("where").innerHTML += (reg.towns || []).map(t => `<option value="town:${esc(t.slug)}">${esc(t.name)}</option>`).join(""); } catch {}
-  const guess = /muse|meta/i.test(client) ? "muse" : /chatgpt|openai/i.test(client) ? "chatgpt" : /claude|anthropic/i.test(client) ? "claude" : /gemini|google/i.test(client) ? "gemini" : /grok|xai/i.test(client) ? "grok" : null;
-  if (guess) $("ai").value = guess;
+  const guess = guessAi(); if (guess) $("ai").value = guess;
 })();
 
 $("createBtn").onclick = () => {
