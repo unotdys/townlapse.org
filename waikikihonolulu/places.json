@@ -1719,15 +1719,32 @@
  {
   "name": "Premium Matcha Cafe Maiko",
   "address": "2310 Kūhiō Ave",
-  "start": 2026,
+  "start": 2016,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Matcha cafe serving soft serve, parfaits and lattes made with matcha from Kyoto's Harima Garden. It opened in July 2016 in the Kuhio Banyan building.",
   "lat": 21.279505,
-  "lng": -157.8257558
+  "lng": -157.8257558,
+  "links": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Matcha_Cafe_Maiko",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/?p=342468",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/?p=40069",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.matchacafe-maiko.com/eng/news/index.php?page=5",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "123 Store",

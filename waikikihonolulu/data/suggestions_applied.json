@@ -620,6 +620,21 @@
      "https://www.honolulumagazine.com/heres-what-we-think-you-should-order-at-chef-morimotos-two-new-restaurants/"
     ]
    }
+  },
+  {
+   "target": "Premium Matcha Cafe Maiko",
+   "target_address": "2310 K\u016bhi\u014d Ave",
+   "fields": {
+    "note": "Matcha cafe serving soft serve, parfaits and lattes made with matcha from Kyoto's Harima Garden. It opened in July 2016 in the Kuhio Banyan building.",
+    "start": 2016,
+    "approx": false,
+    "links": [
+     "https://en.wikipedia.org/wiki/Matcha_Cafe_Maiko",
+     "https://www.honolulumagazine.com/?p=342468",
+     "https://www.honolulumagazine.com/?p=40069",
+     "https://www.matchacafe-maiko.com/eng/news/index.php?page=5"
+    ]
+   }
   }
  ]
 }
