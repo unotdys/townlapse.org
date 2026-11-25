@@ -234,6 +234,19 @@
      "https://www.afar.com/places/marukame-udon-honolulu"
     ]
    }
+  },
+  {
+   "target": "Bank of Hawaii",
+   "target_address": "2155 Kalakaua Ave",
+   "fields": {
+    "note": "Bank of Hawaii moved its Waikiki branch to the ground floor of this building, renamed the Bank of Hawaii Waikiki Center, around mid-2008. The branch had been at Kalakaua and Royal Hawaiian, and the ground-floor space was formerly the Wyland Gallery.",
+    "start": 2008,
+    "approx": true,
+    "links": [
+     "https://archives.starbulletin.com/2007/07/22/business/story01.html",
+     "https://www.FEDeralreserve.gov/Releases/H2/20080517/h2.pdf"
+    ]
+   }
   }
  ]
 }

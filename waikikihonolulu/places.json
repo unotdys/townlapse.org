@@ -594,15 +594,24 @@
  {
   "name": "Bank of Hawaii",
   "address": "2155 Kalakaua Ave",
-  "start": 2026,
+  "start": 2008,
   "end": null,
   "category": "services",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (bank). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Bank of Hawaii moved its Waikiki branch to the ground floor of this building, renamed the Bank of Hawaii Waikiki Center, around mid-2008. The branch had been at Kalakaua and Royal Hawaiian, and the ground-floor space was formerly the Wyland Gallery.",
   "lat": 21.2806657,
-  "lng": -157.830465
+  "lng": -157.830465,
+  "links": [
+   {
+    "url": "https://www.FEDeralreserve.gov/Releases/H2/20080517/h2.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://archives.starbulletin.com/2007/07/22/business/story01.html",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Henry's Place",
