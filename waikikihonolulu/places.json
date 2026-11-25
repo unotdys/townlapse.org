@@ -6719,17 +6719,34 @@
   "lng": -157.825462
  },
  {
-  "name": "Hyatt Centric",
-  "address": "address not listed",
-  "start": 2026,
+  "name": "Hyatt Centric Waikiki Beach",
+  "address": "349 Seaside Ave",
+  "start": 2016,
   "end": null,
   "category": "hotel",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2797154,
-  "lng": -157.8271849
+  "note": "Hotel in the former Waikīkī Trade Center building, which opened to guests on December 8, 2016. It is still operating.",
+  "lat": 21.279813,
+  "lng": -157.827355,
+  "links": [
+   {
+    "url": "https://newsroom.hyatt.com/042417Hyatt-Centric-Waikiki-Beach-Opens-Its-Doors-to-A-New-Wave-of-International-Explorers",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.aaa.com/tripcanvas/hotel/hyatt-centric-waikiki-beach-245026",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.expedia.com/Honolulu-Hotels-Hyatt-Centric-Waikiki-Beach.h16007517.Hotel-Information",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hyatt.com/hyatt-centric/en-US/hnlct-hyatt-centric-waikiki-beach/faqs",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Nori Bar",

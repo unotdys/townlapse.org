@@ -2640,6 +2640,23 @@
      "https://www.marriott.com/en-us/hotels/hnlws-sheraton-waikiki-beach-resort/dining"
     ]
    }
+  },
+  {
+   "target": "Hyatt Centric",
+   "target_address": "address not listed",
+   "fields": {
+    "name": "Hyatt Centric Waikiki Beach",
+    "address": "349 Seaside Ave",
+    "note": "Hotel in the former Waik\u012bk\u012b Trade Center building, which opened to guests on December 8, 2016. It is still operating.",
+    "start": 2016,
+    "approx": false,
+    "links": [
+     "https://newsroom.hyatt.com/042417Hyatt-Centric-Waikiki-Beach-Opens-Its-Doors-to-A-New-Wave-of-International-Explorers",
+     "https://www.aaa.com/tripcanvas/hotel/hyatt-centric-waikiki-beach-245026",
+     "https://www.expedia.com/Honolulu-Hotels-Hyatt-Centric-Waikiki-Beach.h16007517.Hotel-Information",
+     "https://www.hyatt.com/hyatt-centric/en-US/hnlct-hyatt-centric-waikiki-beach/faqs"
+    ]
+   }
   }
  ]
 }
