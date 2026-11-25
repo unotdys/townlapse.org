@@ -32,7 +32,9 @@
    "radius_km": 0.5,
    "status": "populating",
    "created": "2026-11-23",
-   "blurb": "Started November 2026. Today's places are on the map; neighbors and AI researchers are filling in its history."
+   "blurb": "Started November 2026. Today's places are on the map; neighbors and AI researchers are filling in its history.",
+   "townlapse_reviews": true,
+   "townlapse_match": "full"
   },
   {
    "slug": "downtownmenlopark",
@@ -49,7 +51,9 @@
    "radius_km": 0.6,
    "status": "populating",
    "created": "2026-11-23",
-   "blurb": "Started November 2026. Today's places are on the map; neighbors and AI researchers are filling in its history."
+   "blurb": "Started November 2026. Today's places are on the map; neighbors and AI researchers are filling in its history.",
+   "townlapse_reviews": true,
+   "townlapse_match": "full"
   },
   {
    "slug": "townandcountrypaloalto",
@@ -66,7 +70,9 @@
    "radius_km": 0.3,
    "status": "populating",
    "created": "2026-11-23",
-   "blurb": "Started November 2026. Today's places are on the map; neighbors and AI researchers are filling in its history."
+   "blurb": "Started November 2026. Today's places are on the map; neighbors and AI researchers are filling in its history.",
+   "townlapse_reviews": true,
+   "townlapse_match": "full"
   },
   {
    "slug": "downtownpetaluma",
@@ -83,7 +89,9 @@
    "radius_km": 1.7,
    "status": "populating",
    "created": "2026-11-23",
-   "blurb": "Started November 2026. Today's places are on the map; neighbors and AI researchers are filling in its history."
+   "blurb": "Started November 2026. Today's places are on the map; neighbors and AI researchers are filling in its history.",
+   "townlapse_reviews": true,
+   "townlapse_match": "kickstart+match"
   },
   {
    "slug": "waikikihonolulu",
@@ -100,7 +108,9 @@
    "radius_km": 0.8,
    "status": "populating",
    "created": "2026-11-23",
-   "blurb": "Started November 2026. Today's places are on the map; neighbors and AI researchers are filling in its history."
+   "blurb": "Started November 2026. Today's places are on the map; neighbors and AI researchers are filling in its history.",
+   "townlapse_reviews": true,
+   "townlapse_match": "kickstart+match"
   }
  ]
 }
