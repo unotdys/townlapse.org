@@ -2480,6 +2480,21 @@
      "https://www.waikikibeachwalk.com/Shops/Gifts-Art-Specialty/Lemuria-Crystal-Shop.htm"
     ]
    }
+  },
+  {
+   "target": "Nana Musubi",
+   "target_address": "2250 Kal\u0101kaua Ave",
+   "fields": {
+    "note": "Rice ball (musubi) shop using organic Japanese rice in the basement of Waikiki Shopping Plaza. It opened around 2016 as Shichi Musubi in the Waik\u012bk\u012b Yokocho food hall, closed with the hall in 2020, and reopened as Nana Musubi in the Stix Asia food hall in January 2023.",
+    "start": 2016,
+    "approx": true,
+    "links": [
+     "https://hawaii.vivinavi.com/eng/ss/pickup/0017",
+     "https://www.hawaiimomblog.com/2017/11/waikiki-yokocho-celebrates-1-year.html",
+     "https://www.honolulumagazine.com/?p=610087",
+     "https://www.jeffsetter.com/blog/stix-asia-waikiki/"
+    ]
+   }
   }
  ]
 }
