@@ -5959,15 +5959,24 @@
  {
   "name": "Asato's",
   "address": "2424 Kalākaua Ave",
-  "start": 2026,
+  "start": 2025,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (ice cream). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Shop selling sherbet and shave ice inside Kings & Queens at the Hyatt Regency Waikīkī, across from the Duke Kahanamoku statue, in the former Dylan's Candy Bar space. It opened on November 23, 2025.",
   "lat": 21.275983,
-  "lng": -157.8252001
+  "lng": -157.8252001,
+  "links": [
+   {
+    "url": "https://alohastatedaily.com/2025/11/20/inside-scoop-asatos-waikiki-shop-is-opening-this-sunday/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hawaiinewsnow.com/video/2025/11/23/asato-family-shop-hands-out-free-treats-waikiki-grand-opening/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Mānoa Chocolate",
