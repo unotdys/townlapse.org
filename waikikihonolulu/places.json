@@ -930,6 +930,28 @@
   ]
  },
  {
+  "name": "Skybox Taphouse",
+  "address": "2330 Kalakaua Ave",
+  "start": 2021,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Skybox Taphouse opened on September 9, 2021 on the 3rd floor Grand Lanai of International Market Place (2330 Kalakaua Ave #302).",
+  "lat": 21.2783385,
+  "lng": -157.8260782,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.hinowdaily.com/2021/10/26/enjoy-delicious-food-great-cocktails-and-sports-at-skybox-taphouse-in-waikiki/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.skyboxtaphouse.com/about/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -5421,19 +5443,6 @@
     "kind": "Listing"
    }
   ]
- },
- {
-  "name": "Skybox Taphouse",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (bar). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2780417,
-  "lng": -157.8269578
  },
  {
   "name": "Waikiki Shokudo",
