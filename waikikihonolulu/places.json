@@ -434,6 +434,24 @@
   ]
  },
  {
+  "name": "Boardriders",
+  "address": "101 Uluniu Ave",
+  "start": 2026,
+  "end": null,
+  "category": "retail",
+  "approx": true,
+  "note": "7,000-square-foot flagship surf retail store steps from the Duke Kahanamoku statue; reopened in early 2026 after previous closures.",
+  "lat": 21.275365,
+  "lng": -157.824754,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://boardridershawaii.com/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -3888,19 +3906,6 @@
   "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.279071,
   "lng": -157.8260361
- },
- {
-  "name": "Boardriders",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "retail",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (clothes). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2753374,
-  "lng": -157.824697
  },
  {
   "name": "SoHa Living",

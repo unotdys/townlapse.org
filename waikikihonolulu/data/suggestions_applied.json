@@ -265,6 +265,18 @@
    "links": [
     "https://threebestrated.com/mexican-restaurants-in-honolulu-hi"
    ]
+  },
+  {
+   "name": "Boardriders",
+   "address": "101 Uluniu Ave",
+   "note": "7,000-square-foot flagship surf retail store steps from the Duke Kahanamoku statue; reopened in early 2026 after previous closures.",
+   "start": 2026,
+   "end": null,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "https://boardridershawaii.com/"
+   ]
   }
  ],
  "corrections": [
