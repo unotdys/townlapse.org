@@ -106,15 +106,24 @@
  {
   "name": "El Coqui",
   "address": "400 Mendocino Ave",
-  "start": 2026,
+  "start": 2009,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
   "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 38.4412658,
-  "lng": -122.714443
+  "lng": -122.714443,
+  "links": [
+   {
+    "url": "https://www.sonomamag.com/after-17-years-santa-rosas-el-coqui-still-feels-like-the-best-house-party-in-town/?gSlide=7",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.sonomamag.com/el-coqui/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Ting Hau",

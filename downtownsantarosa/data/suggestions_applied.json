@@ -1,1 +1,17 @@
-{"additions": [], "corrections": []}
+{
+ "additions": [],
+ "corrections": [
+  {
+   "target": "El Coqui",
+   "target_address": "400 Mendocino Ave",
+   "fields": {
+    "start": 2009,
+    "approx": true,
+    "links": [
+     "https://www.sonomamag.com/after-17-years-santa-rosas-el-coqui-still-feels-like-the-best-house-party-in-town/?gSlide=7",
+     "https://www.sonomamag.com/el-coqui/"
+    ]
+   }
+  }
+ ]
+}
