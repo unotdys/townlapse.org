@@ -416,6 +416,24 @@
   ]
  },
  {
+  "name": "Búho Cocina y Cantina",
+  "address": "2250 Kalakaua Ave",
+  "start": 2014,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Búho Cocina y Cantina is a rooftop Mexican restaurant and bar atop Waikiki Shopping Plaza, open since 2014.",
+  "lat": 21.2792987,
+  "lng": -157.8285137,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://threebestrated.com/mexican-restaurants-in-honolulu-hi",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -3896,19 +3914,6 @@
   "note": "Open today (gift). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2791043,
   "lng": -157.8314153
- },
- {
-  "name": "Búho Cocina y Cantina",
-  "address": "2250 Kalākaua Ave",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2793548,
-  "lng": -157.82868
  },
  {
   "name": "Zigu",
