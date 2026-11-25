@@ -529,15 +529,28 @@
  {
   "name": "Marugame Udon",
   "address": "2310 Kūhiō Ave",
-  "start": 2026,
+  "start": 2011,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Self-serve udon restaurant that opened April 1, 2011 as Marukame Udon, the Japanese chain's first Hawaii location. It later took the name Marugame Udon.",
   "lat": 21.2795029,
-  "lng": -157.8259965
+  "lng": -157.8259965,
+  "links": [
+   {
+    "url": "https://e-hawaii.com/eat/marukame-udon-homemade-japanese-style-noodles-on-the-cheap/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://waikikiwanderer.blogspot.com/2011/04/dining-in-waikiki-marukame-udon.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.afar.com/places/marukame-udon-honolulu",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Jamba",
