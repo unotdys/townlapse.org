@@ -939,6 +939,19 @@
      "https://www.superpages.com/honolulu-hi/bpp/tanaka-of-tokyo-east-463276524"
     ]
    }
+  },
+  {
+   "target": "Ginza Bairin",
+   "target_address": "255 Beach Walk",
+   "fields": {
+    "note": "Waikiki branch of Tonkatsu Ginza Bairin, a tonkatsu restaurant founded in Tokyo's Ginza district in 1927. It opened on Beach Walk in 2007 and is described as the chain's first location outside Asia.",
+    "start": 2007,
+    "approx": false,
+    "links": [
+     "https://hawaiivacationcondos.outrigger.com/hawaii/oahu/regency-on-beachwalk-waikiki-by-outrigger/activities/mobile-resort-guide/dining",
+     "https://www.honolulumagazine.com/whose-tonkatsu-reigns-supreme/"
+    ]
+   }
   }
  ]
 }

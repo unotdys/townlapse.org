@@ -2523,15 +2523,24 @@
  {
   "name": "Ginza Bairin",
   "address": "255 Beach Walk",
-  "start": 2026,
+  "start": 2007,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Waikiki branch of Tonkatsu Ginza Bairin, a tonkatsu restaurant founded in Tokyo's Ginza district in 1927. It opened on Beach Walk in 2007 and is described as the chain's first location outside Asia.",
   "lat": 21.2801166,
-  "lng": -157.8309164
+  "lng": -157.8309164,
+  "links": [
+   {
+    "url": "https://hawaiivacationcondos.outrigger.com/hawaii/oahu/regency-on-beachwalk-waikiki-by-outrigger/activities/mobile-resort-guide/dining",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/whose-tonkatsu-reigns-supreme/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Hyatt Regency Waikiki Farmers Market",
