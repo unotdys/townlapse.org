@@ -198,6 +198,36 @@
   ]
  },
  {
+  "name": "Hyatt Regency Waikiki Farmers Market",
+  "address": "2424 Kalakaua Ave",
+  "start": 2013,
+  "end": null,
+  "category": "retail",
+  "approx": false,
+  "note": "Indoor farmers market in the Pualeilani Atrium Shops on the Hyatt Regency Waikiki's ground floor, begun in November 2013 as a Thursday evening market. It later moved to other weekday evenings.",
+  "lat": 21.276067,
+  "lng": -157.8250901,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://static1.squarespace.com/static/5d289e4caad70300015b6415/t/5d2a9dfc3c390a000175086c/1563074048072/VOL_XIV-_22_-_Nov_7_-_20_2013__Hyatt_Farmers_Market.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.gohawaii.com/node/791",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.midweek.com/?p=38012",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelagewest.com/Travel/Hotels/Sample-Local-Beers-at-Hyatt-Regency-Waikiki",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -2541,19 +2571,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Hyatt Regency Waikiki Farmers Market",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "retail",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (marketplace). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2761642,
-  "lng": -157.8251415
  },
  {
   "name": "Wolfgang's Steakhouse",

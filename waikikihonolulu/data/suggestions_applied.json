@@ -131,6 +131,21 @@
     "https://www.restaurants10.com/US/Honolulu/139403355973/Tropics-Island-Grill-%26-Ale-House-Waikiki",
     "https://www.staradvertiser.com/2020/09/19/photo-gallery/coronavirus-pandemic-takes-economic-toll-on-hawaii-businesses-forcing-many-to-close/"
    ]
+  },
+  {
+   "name": "Hyatt Regency Waikiki Farmers Market",
+   "address": "2424 Kalakaua Ave",
+   "note": "Indoor farmers market in the Pualeilani Atrium Shops on the Hyatt Regency Waikiki's ground floor, begun in November 2013 as a Thursday evening market. It later moved to other weekday evenings.",
+   "start": 2013,
+   "end": null,
+   "category": "retail",
+   "approx": false,
+   "links": [
+    "https://static1.squarespace.com/static/5d289e4caad70300015b6415/t/5d2a9dfc3c390a000175086c/1563074048072/VOL_XIV-_22_-_Nov_7_-_20_2013__Hyatt_Farmers_Market.pdf",
+    "https://www.gohawaii.com/node/791",
+    "https://www.midweek.com/?p=38012",
+    "https://www.travelagewest.com/Travel/Hotels/Sample-Local-Beers-at-Hyatt-Regency-Waikiki"
+   ]
   }
  ],
  "corrections": [
