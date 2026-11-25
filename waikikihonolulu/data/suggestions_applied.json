@@ -63,6 +63,19 @@
     "https://www.heavenly-waikiki.com/",
     "https://www.zetton-inc.com/heavenly-hawaiikai"
    ]
+  },
+  {
+   "name": "Kai Coffee",
+   "address": "2250 Kalakaua Ave",
+   "note": "Kai Coffee Hawaii kiosk on the ground floor of Waikiki Shopping Plaza; the plaza's directory listing for it was published in September 2023 and its October 2023 'What's New to Eat' page calls it the brand's newest location.",
+   "start": 2023,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://waikikishoppingplaza.com/kai-coffee-hawaii/",
+    "https://waikikishoppingplaza.com/whats-new-to-eat-in-waikiki/"
+   ]
   }
  ],
  "corrections": [

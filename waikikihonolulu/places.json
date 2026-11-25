@@ -106,6 +106,28 @@
   ]
  },
  {
+  "name": "Kai Coffee",
+  "address": "2250 Kalakaua Ave",
+  "start": 2023,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Kai Coffee Hawaii kiosk on the ground floor of Waikiki Shopping Plaza; the plaza's directory listing for it was published in September 2023 and its October 2023 'What's New to Eat' page calls it the brand's newest location.",
+  "lat": 21.2792987,
+  "lng": -157.8285137,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://waikikishoppingplaza.com/kai-coffee-hawaii/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://waikikishoppingplaza.com/whats-new-to-eat-in-waikiki/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -963,19 +985,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Kai Coffee",
-  "address": "2250 Kalākaua Ave",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2793583,
-  "lng": -157.8283329
  },
  {
   "name": "ABC",
