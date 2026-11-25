@@ -5569,15 +5569,28 @@
  {
   "name": "Maguro Brothers",
   "address": "2250 Kalākaua Ave",
-  "start": 2026,
+  "start": 2023,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Poke and seafood shop Maguro Brothers moved its Waikiki location to the basement level of Waikiki Shopping Plaza in September 2023.",
   "lat": 21.2796886,
-  "lng": -157.8285772
+  "lng": -157.8285772,
+  "links": [
+   {
+    "url": "https://rurubu.jp/andmore/article/20761",
+    "kind": "Article"
+   },
+   {
+    "url": "https://waikikishoppingplaza.com/reasons-to-visit-waikiki-in-2024/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulucoupon.com/post/september-2023-new-restaurants-and-cafe-updates-in-hawaii/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Royal Lobster",

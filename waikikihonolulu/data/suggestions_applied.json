@@ -2218,6 +2218,20 @@
      "https://www.mapquest.com/us/hawaii/desis-indian-curry-454234042"
     ]
    }
+  },
+  {
+   "target": "Maguro Brothers",
+   "target_address": "2250 Kal\u0101kaua Ave",
+   "fields": {
+    "note": "Poke and seafood shop Maguro Brothers moved its Waikiki location to the basement level of Waikiki Shopping Plaza in September 2023.",
+    "start": 2023,
+    "approx": false,
+    "links": [
+     "https://rurubu.jp/andmore/article/20761",
+     "https://waikikishoppingplaza.com/reasons-to-visit-waikiki-in-2024/",
+     "https://www.honolulucoupon.com/post/september-2023-new-restaurants-and-cafe-updates-in-hawaii/"
+    ]
+   }
   }
  ]
 }
