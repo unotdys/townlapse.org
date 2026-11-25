@@ -489,6 +489,20 @@
      "https://www.travelweekly.com/Hawaii-Travel/Sheraton-Waikiki-revamps-RumFire"
     ]
    }
+  },
+  {
+   "target": "Dean & Deluca\u2019s",
+   "target_address": "383 Kalaimoku St",
+   "fields": {
+    "note": "Dean & DeLuca's first Hawaii store opened here in the Ritz-Carlton Residences Waikiki on September 14, 2016. It has a cafe and market downstairs and a wine lounge upstairs.",
+    "start": 2016,
+    "approx": false,
+    "links": [
+     "https://eatinhawaii.blogspot.com/2016/09/dean-deluca-opens-in-waikiki.html",
+     "https://www.honolulumagazine.com/something-new-dean-delucas-first-hawaii-store/",
+     "https://www.staradvertiser.com/2016/09/12/business/dean-deluca-to-open-first-hawaii-site-in-waikiki/"
+    ]
+   }
   }
  ]
 }

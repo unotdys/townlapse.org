@@ -1410,15 +1410,28 @@
  {
   "name": "Dean & Deluca’s",
   "address": "383 Kalaimoku St",
-  "start": 2026,
+  "start": 2016,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Dean & DeLuca's first Hawaii store opened here in the Ritz-Carlton Residences Waikiki on September 14, 2016. It has a cafe and market downstairs and a wine lounge upstairs.",
   "lat": 21.2826896,
-  "lng": -157.8301788
+  "lng": -157.8301788,
+  "links": [
+   {
+    "url": "https://eatinhawaii.blogspot.com/2016/09/dean-deluca-opens-in-waikiki.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/something-new-dean-delucas-first-hawaii-store/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.staradvertiser.com/2016/09/12/business/dean-deluca-to-open-first-hawaii-site-in-waikiki/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Avanti Shirts",
