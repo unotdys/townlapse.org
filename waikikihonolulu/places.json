@@ -707,16 +707,33 @@
  },
  {
   "name": "Orchids",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "2199 Kalia Road",
+  "start": 1984,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2776709,
-  "lng": -157.8324456
+  "note": "Oceanfront restaurant at the Halekulani hotel. It likely opened with the rebuilt hotel in 1984, though no exact opening date has been found.",
+  "lat": 21.2779627,
+  "lng": -157.8323674,
+  "links": [
+   {
+    "url": "https://livingarchives.halekulani.com/cuisine/a-storied-culinary-history/",
+    "kind": "History"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Halekulani_hotel",
+    "kind": "Article"
+   },
+   {
+    "url": "https://loggiata.com/hotels/halekulani-honolulu",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.halekulani.com/halekulani-announces-the-launch-of-an-exceptional-new-culinary-concept-at-orchids/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "House Without A Key",

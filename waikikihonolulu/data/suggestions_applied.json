@@ -274,6 +274,22 @@
      "https://eprretailnews.com/2016/08/26/international-market-place-offers-most-sought-after-retailers-and-world-class-restaurants-with-the-opening-of-its-open-air-shopping-center-in-waikiki-24352673954/"
     ]
    }
+  },
+  {
+   "target": "Orchids",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "2199 Kalia Road",
+    "note": "Oceanfront restaurant at the Halekulani hotel. It likely opened with the rebuilt hotel in 1984, though no exact opening date has been found.",
+    "start": 1984,
+    "approx": true,
+    "links": [
+     "https://en.wikipedia.org/wiki/Halekulani_hotel",
+     "https://livingarchives.halekulani.com/cuisine/a-storied-culinary-history/",
+     "https://loggiata.com/hotels/halekulani-honolulu",
+     "https://www.halekulani.com/halekulani-announces-the-launch-of-an-exceptional-new-culinary-concept-at-orchids/"
+    ]
+   }
   }
  ]
 }
