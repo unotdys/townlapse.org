@@ -518,6 +518,21 @@
     "https://www.kaukauhawaii.com/storedetail/2673/",
     "https://www.toasttab.com/local/order/sushispotwaikiki"
    ]
+  },
+  {
+   "name": "Vive Hotel Waikiki",
+   "address": "2426 Kuhio Ave",
+   "note": "Boutique hotel on Kuhio Avenue that opened in mid-2013, with its guest rooms and suites on the upper floors above a parking garage.",
+   "start": 2013,
+   "end": null,
+   "category": "hotel",
+   "approx": false,
+   "links": [
+    "https://hospitalitydesign.com/news/vive-hotel-waikiki-opens-on-oahu/32539",
+    "https://rocketreach.co/vive-hotel-waikiki-profile_b58bb257f66b1a51",
+    "https://www.hotelplanner.com/Hotels/170567/Reservations-Vive-Hotel-Waikiki-Honolulu-2426-Kuhio-Ave-96815?gencall=1",
+    "https://www.revealedtravelguides.com/resort-reviews/vive-hotel-waikiki/"
+   ]
   }
  ],
  "corrections": [
