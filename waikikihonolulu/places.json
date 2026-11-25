@@ -3483,15 +3483,28 @@
  {
   "name": "Hula’s Bar and Lei Stand",
   "address": "134 Kapahulu Ave",
-  "start": 2026,
+  "start": 1998,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (bar). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Longtime LGBTQ+ bar that opened in 1974 on Kuhio Avenue. After losing its lease there, it moved to the second floor of the Waikiki Grand Hotel around 1998, with views of Diamond Head.",
   "lat": 21.2718213,
-  "lng": -157.8218742
+  "lng": -157.8218742,
+  "links": [
+   {
+    "url": "https://hulas.com/history/",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.aol.com/hula-bar-lei-stand-one-160200853.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/?p=43309",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Maui Brewing Company",

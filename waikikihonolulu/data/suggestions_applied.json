@@ -1334,6 +1334,20 @@
      "https://www.royalhawaiiancenter.com/press-releases/island-vintage-wine-bar-opens-its-doors-at-royal-hawaiian-center"
     ]
    }
+  },
+  {
+   "target": "Hula\u2019s Bar and Lei Stand",
+   "target_address": "134 Kapahulu Ave",
+   "fields": {
+    "note": "Longtime LGBTQ+ bar that opened in 1974 on Kuhio Avenue. After losing its lease there, it moved to the second floor of the Waikiki Grand Hotel around 1998, with views of Diamond Head.",
+    "start": 1998,
+    "approx": true,
+    "links": [
+     "https://hulas.com/history/",
+     "https://www.aol.com/hula-bar-lei-stand-one-160200853.html",
+     "https://www.honolulumagazine.com/?p=43309"
+    ]
+   }
   }
  ]
 }
