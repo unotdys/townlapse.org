@@ -2625,6 +2625,21 @@
      "https://www.royalhawaiiancenter.com/tim-ho-wan"
     ]
    }
+  },
+  {
+   "target": "Lawson Station",
+   "target_address": "2255 Kal\u0101kaua Ave",
+   "fields": {
+    "note": "Japanese convenience store in the Sheraton Waikiki that opened in July 2012 as one of Lawson's first two U.S. stores. It is still open.",
+    "start": 2012,
+    "approx": false,
+    "links": [
+     "https://cspdailynews.com/general-merchandise/lawson-lands-hawaii",
+     "https://insideretail.asia/2012/07/25/lawson-debuts-in-hawaii/",
+     "https://www.lawson.co.jp/company/news/063547/",
+     "https://www.marriott.com/en-us/hotels/hnlws-sheraton-waikiki-beach-resort/dining"
+    ]
+   }
   }
  ]
 }

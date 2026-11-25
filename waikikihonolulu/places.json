@@ -6665,15 +6665,32 @@
  {
   "name": "Lawson Station",
   "address": "2255 Kalākaua Ave",
-  "start": 2026,
+  "start": 2012,
   "end": null,
   "category": "retail",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (convenience). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Japanese convenience store in the Sheraton Waikiki that opened in July 2012 as one of Lawson's first two U.S. stores. It is still open.",
   "lat": 21.2774449,
-  "lng": -157.830475
+  "lng": -157.830475,
+  "links": [
+   {
+    "url": "https://cspdailynews.com/general-merchandise/lawson-lands-hawaii",
+    "kind": "Article"
+   },
+   {
+    "url": "https://insideretail.asia/2012/07/25/lawson-debuts-in-hawaii/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.lawson.co.jp/company/news/063547/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.marriott.com/en-us/hotels/hnlws-sheraton-waikiki-beach-resort/dining",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "ABC",
