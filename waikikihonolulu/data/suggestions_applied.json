@@ -1173,6 +1173,24 @@
      "https://www.waikikibeachwalk.com/Press-Room/2016/The-Ukulele-Store-opens-its-first-location-at-Waik.htm"
     ]
    }
+  },
+  {
+   "target": "Coco Mango",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "226 Lewers St",
+    "note": "Women's fashion boutique selling clothing, swimwear and jewelry with a mix of Hawaiian and French styles, on the ground level of Waikiki Beach Walk. It opened around 2019 and is still open.",
+    "start": 2019,
+    "category": "retail",
+    "approx": true,
+    "links": [
+     "http://img1.wsimg.com/blobby/go/1397965c-59fe-45e5-a291-15538f895f41/downloads/MayConcierge_19.small.pdf?ver=1788486351240",
+     "https://cocomangohawaii.com/",
+     "https://www.khon2.com/news/business-matters/bringing-french-fashion-to-waikiki/",
+     "https://www.mapquest.com/us/hawaii/coco-mango-421367761",
+     "https://www.yelp.com/biz/coco-mango-honolulu"
+    ]
+   }
   }
  ]
 }

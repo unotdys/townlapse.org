@@ -3162,16 +3162,37 @@
  },
  {
   "name": "Coco Mango",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "226 Lewers St",
+  "start": 2019,
   "end": null,
   "category": "retail",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (clothes). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2795437,
-  "lng": -157.8311061
+  "note": "Women's fashion boutique selling clothing, swimwear and jewelry with a mix of Hawaiian and French styles, on the ground level of Waikiki Beach Walk. It opened around 2019 and is still open.",
+  "lat": 21.2792772,
+  "lng": -157.8309822,
+  "links": [
+   {
+    "url": "http://img1.wsimg.com/blobby/go/1397965c-59fe-45e5-a291-15538f895f41/downloads/MayConcierge_19.small.pdf?ver=1788486351240",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://cocomangohawaii.com/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.khon2.com/news/business-matters/bringing-french-fashion-to-waikiki/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.mapquest.com/us/hawaii/coco-mango-421367761",
+    "kind": "Listing"
+   },
+   {
+    "url": "https://www.yelp.com/biz/coco-mango-honolulu",
+    "kind": "Listing"
+   }
+  ]
  },
  {
   "name": "Royal Hawaiian",
