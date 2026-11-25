@@ -517,6 +517,22 @@
      "https://www.hawaiibusiness.com/teddys-bigger-burgers-keeps-growing/"
     ]
    }
+  },
+  {
+   "target": "Big Kahuna",
+   "target_address": "2280 Kuhio Ave",
+   "fields": {
+    "name": "Da Big Kahuna",
+    "note": "Tiki bar and restaurant in the hotel building at 2280 Kuhio Ave, known for its fish bowl cocktail. It became Lava Tube in 2018 and later Tiki's Meeting Spot, which closed in April 2026.",
+    "start": 2006,
+    "end": 2015,
+    "category": "food",
+    "approx": true,
+    "links": [
+     "https://extensionembed.wanderlog.com/place/details/109983",
+     "https://mytiki.life/tiki-bars/tikis-meeting-spot-waikiki"
+    ]
+   }
   }
  ]
 }

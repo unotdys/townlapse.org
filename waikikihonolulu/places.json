@@ -1460,17 +1460,26 @@
   "lng": -157.8298359
  },
  {
-  "name": "Big Kahuna",
+  "name": "Da Big Kahuna",
   "address": "2280 Kuhio Ave",
-  "start": 2026,
-  "end": null,
+  "start": 2006,
+  "end": 2015,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Tiki bar and restaurant in the hotel building at 2280 Kuhio Ave, known for its fish bowl cocktail. It became Lava Tube in 2018 and later Tiki's Meeting Spot, which closed in April 2026.",
   "lat": 21.2799243,
-  "lng": -157.826542
+  "lng": -157.826542,
+  "links": [
+   {
+    "url": "https://extensionembed.wanderlog.com/place/details/109983",
+    "kind": "Article"
+   },
+   {
+    "url": "https://mytiki.life/tiki-bars/tikis-meeting-spot-waikiki",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Tsunami's Waikiki",
