@@ -1840,15 +1840,24 @@
  {
   "name": "Kuhio Banyan Club",
   "address": "2310 Kūhiō Ave",
-  "start": 2026,
+  "start": 1960,
   "end": null,
   "category": "hotel",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Budget apartment-style hotel and timeshare in central Waikiki, across from the International Market Place. Travel listings say it opened around 1960 and was renovated in 2015.",
   "lat": 21.2795729,
-  "lng": -157.8258312
+  "lng": -157.8258312,
+  "links": [
+   {
+    "url": "https://redweek.com/posting/R1191275/resort-info",
+    "kind": "Article"
+   },
+   {
+    "url": "https://sg.trip.com/hotels/honolulu-hotel-detail-732084/kuhio-banyan-hotel/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "123 Outlet",

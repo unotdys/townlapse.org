@@ -664,6 +664,19 @@
      "https://www.mallsinamerica.com/hawaii/international-market-place/crackin-kitchen"
     ]
    }
+  },
+  {
+   "target": "Kuhio Banyan Club",
+   "target_address": "2310 K\u016bhi\u014d Ave",
+   "fields": {
+    "note": "Budget apartment-style hotel and timeshare in central Waikiki, across from the International Market Place. Travel listings say it opened around 1960 and was renovated in 2015.",
+    "start": 1960,
+    "approx": true,
+    "links": [
+     "https://redweek.com/posting/R1191275/resort-info",
+     "https://sg.trip.com/hotels/honolulu-hotel-detail-732084/kuhio-banyan-hotel/"
+    ]
+   }
   }
  ]
 }
