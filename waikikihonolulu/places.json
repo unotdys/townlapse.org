@@ -358,6 +358,24 @@
   ]
  },
  {
+  "name": "Maui Brewing Company",
+  "address": "2300 Kalakaua Ave",
+  "start": 2017,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Brewpub and restaurant on the second floor of the Waikiki Beachcomber hotel, opened January 31, 2017 as Maui Brewing's first Oahu location.",
+  "lat": 21.2783218,
+  "lng": -157.8273216,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://mauibrewingco.com/press/maui-brewing-co-opens-anticipated-waikiki-brewpub/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -3505,19 +3523,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Maui Brewing Company",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (bar). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2779819,
-  "lng": -157.8273866
  },
  {
   "name": "Bario Ramen",

@@ -216,6 +216,18 @@
     "https://oahutravelguidehi.com/kona-coffee-purveyors-review/",
     "https://www.travelweekly.com/Hawaii-Travel/Insights/Dining-around-International-Market-Place"
    ]
+  },
+  {
+   "name": "Maui Brewing Company",
+   "address": "2300 Kalakaua Ave",
+   "note": "Brewpub and restaurant on the second floor of the Waikiki Beachcomber hotel, opened January 31, 2017 as Maui Brewing's first Oahu location.",
+   "start": 2017,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://mauibrewingco.com/press/maui-brewing-co-opens-anticipated-waikiki-brewpub/"
+   ]
   }
  ],
  "corrections": [
