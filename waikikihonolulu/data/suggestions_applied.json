@@ -773,6 +773,22 @@
      "https://www.yelp.com/biz/bills-hawaii-honolulu-4"
     ]
    }
+  },
+  {
+   "target": "Arancino",
+   "target_address": "address not listed",
+   "fields": {
+    "name": "Arancino on Beachwalk",
+    "address": "255 Beach Walk",
+    "note": "The original Arancino Italian restaurant, opened on Beach Walk around 1996 by a family who took over an existing Italian restaurant there. Its sister restaurant, Arancino di Mare, opened on Kal\u0101kaua Avenue in 2004.",
+    "start": 1996,
+    "approx": true,
+    "links": [
+     "https://arancino-beachwalk.arancino.com/",
+     "https://www.honolulumagazine.com/?p=43078",
+     "https://www.opentable.com/r/arancino-beachwalk-honolulu"
+    ]
+   }
   }
  ]
 }

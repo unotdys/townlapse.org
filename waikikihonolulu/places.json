@@ -2097,17 +2097,30 @@
   ]
  },
  {
-  "name": "Arancino",
-  "address": "address not listed",
-  "start": 2026,
+  "name": "Arancino on Beachwalk",
+  "address": "255 Beach Walk",
+  "start": 1996,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2799234,
-  "lng": -157.83104
+  "note": "The original Arancino Italian restaurant, opened on Beach Walk around 1996 by a family who took over an existing Italian restaurant there. Its sister restaurant, Arancino di Mare, opened on Kalākaua Avenue in 2004.",
+  "lat": 21.2800253,
+  "lng": -157.8309648,
+  "links": [
+   {
+    "url": "https://arancino-beachwalk.arancino.com/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/?p=43078",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.opentable.com/r/arancino-beachwalk-honolulu",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Hard Rock Cafe",
