@@ -1662,6 +1662,19 @@
      "https://www.alohilaniresort.com/dining/kai-coffee/"
     ]
    }
+  },
+  {
+   "target": "SWELL Restaurant and Pool Bar",
+   "target_address": "2490 Kal\u0101kaua Ave",
+   "fields": {
+    "note": "Poolside restaurant and bar beside the infinity pool on the fifth floor of the 'Alohilani Resort Waikiki Beach. It was open by May 8, 2018, when the resort held its grand opening celebration there.",
+    "start": 2018,
+    "approx": true,
+    "links": [
+     "https://nmgnetwork.com/activations/alohilani-opening/",
+     "https://www.alohilaniresort.com/dining/swell-bar/"
+    ]
+   }
   }
  ]
 }

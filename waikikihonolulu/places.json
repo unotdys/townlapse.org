@@ -4468,15 +4468,24 @@
  {
   "name": "SWELL Restaurant and Pool Bar",
   "address": "2490 Kalākaua Ave",
-  "start": 2026,
+  "start": 2018,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Poolside restaurant and bar beside the infinity pool on the fifth floor of the 'Alohilani Resort Waikiki Beach. It was open by May 8, 2018, when the resort held its grand opening celebration there.",
   "lat": 21.2746344,
-  "lng": -157.8232646
+  "lng": -157.8232646,
+  "links": [
+   {
+    "url": "https://nmgnetwork.com/activations/alohilani-opening/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.alohilaniresort.com/dining/swell-bar/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Queensbreak Restaurant",
