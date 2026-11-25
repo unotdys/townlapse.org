@@ -744,6 +744,32 @@
   ]
  },
  {
+  "name": "Sushi Sho",
+  "address": "383 Kalaimoku St, Honolulu, HI 96815",
+  "start": 2016,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Honolulu Magazine reported in September 2016 that Sushi Sho had quietly opened at the Ritz-Carlton Residences Waikiki; Travelweek dates its opening to mid-September, and Ritz-Carlton confirms its current address.",
+  "lat": 21.2826223,
+  "lng": -157.8298755,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.honolulumagazine.com/now-at-the-ritz-carlton-sushi-sho/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.ritzcarlton.com/en/hotels/hnlrr-the-ritz-carlton-residences-waikiki-beach/dining/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelweek.ca/news/ritz-carlton-residences-waikiki-beach-ocean-views-enviable-luxury-row-location/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -3230,28 +3256,6 @@
   ]
  },
  {
-  "name": "Sushi Sho",
-  "address": "383 Kalaimoku St",
-  "start": 2016,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "source": "osm",
-  "note": "Tokyo sushi chef Keiji Nakazawa opened this Edomae omakase counter in the Ritz-Carlton Residences Waikiki in September 2016. It was his first restaurant outside Japan.",
-  "lat": 21.2826223,
-  "lng": -157.8298755,
-  "links": [
-   {
-    "url": "https://www.honolulumagazine.com/now-at-the-ritz-carlton-sushi-sho/",
-    "kind": "Article"
-   },
-   {
-    "url": "https://www.theworlds50best.com/discovery/Establishments/US/Honolulu/Sushi-Sho.html",
-    "kind": "Article"
-   }
-  ]
- },
- {
   "name": "ShoreFyre",
   "address": "2446 Koa Ave",
   "start": 2018,
@@ -5022,19 +5026,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Sushi Sho",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2820583,
-  "lng": -157.8299091
  },
  {
   "name": "La Vie",

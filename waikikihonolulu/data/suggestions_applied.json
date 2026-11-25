@@ -447,6 +447,20 @@
     "https://www.kaukauhawaii.com/storedetail/2004/",
     "https://www.twellv.co.jp/program/tabi/hawakoi3/archive-hawakoi3/hawakoi3-025/"
    ]
+  },
+  {
+   "name": "Sushi Sho",
+   "address": "383 Kalaimoku St, Honolulu, HI 96815",
+   "note": "Honolulu Magazine reported in September 2016 that Sushi Sho had quietly opened at the Ritz-Carlton Residences Waikiki; Travelweek dates its opening to mid-September, and Ritz-Carlton confirms its current address.",
+   "start": 2016,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.honolulumagazine.com/now-at-the-ritz-carlton-sushi-sho/",
+    "https://www.ritzcarlton.com/en/hotels/hnlrr-the-ritz-carlton-residences-waikiki-beach/dining/",
+    "https://www.travelweek.ca/news/ritz-carlton-residences-waikiki-beach-ocean-views-enviable-luxury-row-location/"
+   ]
   }
  ],
  "corrections": [
