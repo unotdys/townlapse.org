@@ -4103,16 +4103,37 @@
  },
  {
   "name": "Aesop",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "2330 Kalakaua Ave",
+  "start": 2016,
   "end": null,
   "category": "retail",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (cosmetics). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2783094,
-  "lng": -157.8268483
+  "note": "Australian skincare and cosmetics shop in Space 116 of International Market Place, opened in 2016 when the rebuilt mall reopened. Its interior uses reclaimed Douglas fir from a 1950s building on Ford Island.",
+  "lat": 21.2783385,
+  "lng": -157.8260782,
+  "links": [
+   {
+    "url": "http://mlkk.studio/work/aesop-hawaii/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/International_Market_Place",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.aesop.es/stores/us/hi/honolulu/6043.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.businesswire.com/news/home/20160825006372/en/3861981/International-Market-Place-Celebrates-Grand-Opening-Today-in-Waik%C4%ABk%C4%AB",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.mallscenters.com/brands/stores/asop/honolulu--hawaii--intenrational-market-place",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Nightrider",

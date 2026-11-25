@@ -1500,6 +1500,23 @@
      "https://www.yelp.com/biz/island-vintage-coffee-honolulu-4"
     ]
    }
+  },
+  {
+   "target": "Aesop",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "2330 Kalakaua Ave",
+    "note": "Australian skincare and cosmetics shop in Space 116 of International Market Place, opened in 2016 when the rebuilt mall reopened. Its interior uses reclaimed Douglas fir from a 1950s building on Ford Island.",
+    "start": 2016,
+    "approx": false,
+    "links": [
+     "http://mlkk.studio/work/aesop-hawaii/",
+     "https://en.wikipedia.org/wiki/International_Market_Place",
+     "https://www.aesop.es/stores/us/hi/honolulu/6043.html",
+     "https://www.businesswire.com/news/home/20160825006372/en/3861981/International-Market-Place-Celebrates-Grand-Opening-Today-in-Waik%C4%ABk%C4%AB",
+     "https://www.mallscenters.com/brands/stores/asop/honolulu--hawaii--intenrational-market-place"
+    ]
+   }
   }
  ]
 }
