@@ -2274,6 +2274,19 @@
      "https://www.hawaiimagazine.com/halekulani-opens-a-new-bakery-thats-just-as-fab-as-the-hotel/"
     ]
    }
+  },
+  {
+   "target": "Yoshitsune",
+   "target_address": "2586 Kalakaua Ave",
+   "fields": {
+    "note": "Japanese restaurant on the ground floor of the Park Shore Waikiki hotel, serving sushi, sashimi and sukiyaki. It was established in 1982 and is still open.",
+    "start": 1982,
+    "approx": false,
+    "links": [
+     "https://hawaii.vivinavi.com/eng/cj//eng/cj/apply/_wid_49d9de32e2f10f0da25a8f7d78ea391dc0c6062625?page=2",
+     "https://lrb.hawaii.gov/wp-content/uploads/1987_ConventionCenterSiteSelectionStudy.pdf"
+    ]
+   }
   }
  ]
 }

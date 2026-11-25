@@ -5747,15 +5747,24 @@
  {
   "name": "Yoshitsune",
   "address": "2586 Kalakaua Ave",
-  "start": 2026,
+  "start": 1982,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Japanese restaurant on the ground floor of the Park Shore Waikiki hotel, serving sushi, sashimi and sukiyaki. It was established in 1982 and is still open.",
   "lat": 21.27195,
-  "lng": -157.8222981
+  "lng": -157.8222981,
+  "links": [
+   {
+    "url": "https://lrb.hawaii.gov/wp-content/uploads/1987_ConventionCenterSiteSelectionStudy.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://hawaii.vivinavi.com/eng/cj//eng/cj/apply/_wid_49d9de32e2f10f0da25a8f7d78ea391dc0c6062625?page=2",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "natuRe waikiki",
