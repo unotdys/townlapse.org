@@ -247,6 +247,20 @@
      "https://www.FEDeralreserve.gov/Releases/H2/20080517/h2.pdf"
     ]
    }
+  },
+  {
+   "target": "Bacchus Waikiki",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "408 Lewers St",
+    "note": "Second-floor gay bar on Lewers Street at Kuhio Avenue. It held its grand opening party in August 2011.",
+    "start": 2011,
+    "approx": false,
+    "links": [
+     "https://theculturetrip.com/north-america/usa/hawaii/articles/the-10-best-bars-in-waikiki-honolulu",
+     "https://www.honolulumagazine.com/?p=17062"
+    ]
+   }
   }
  ]
 }

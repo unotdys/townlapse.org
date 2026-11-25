@@ -641,16 +641,25 @@
  },
  {
   "name": "Bacchus Waikiki",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "408 Lewers St",
+  "start": 2011,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (bar). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2817635,
-  "lng": -157.8284142
+  "note": "Second-floor gay bar on Lewers Street at Kuhio Avenue. It held its grand opening party in August 2011.",
+  "lat": 21.281759,
+  "lng": -157.8282113,
+  "links": [
+   {
+    "url": "https://theculturetrip.com/north-america/usa/hawaii/articles/the-10-best-bars-in-waikiki-honolulu",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/?p=17062",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Surf N Turf Tacos",
