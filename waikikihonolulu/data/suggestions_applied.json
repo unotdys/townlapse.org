@@ -1581,6 +1581,21 @@
      "https://www.travelagewest.com/Travel/Hawaii/A-Shopper-s-Guide-to-New-Offerings-in-Hawaii"
     ]
    }
+  },
+  {
+   "target": "Vans",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "2330 Kalakaua Ave",
+    "note": "Vans footwear and apparel store in Space 179 of International Market Place, open there by early 2020.",
+    "start": 2020,
+    "approx": true,
+    "links": [
+     "https://godmeetsfashion.com/2020/02/17/hawaii-recommend-sneaker-shop-list/",
+     "https://locations.vans.com/en-ca/hi/honolulu/usa556/",
+     "https://www.mallgang.com/hawaii/international-market-place/stores/vans"
+    ]
+   }
   }
  ]
 }

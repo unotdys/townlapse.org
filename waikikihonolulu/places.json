@@ -4257,16 +4257,29 @@
  },
  {
   "name": "Vans",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "2330 Kalakaua Ave",
+  "start": 2020,
   "end": null,
   "category": "retail",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (shoes). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.278241,
-  "lng": -157.8265182
+  "note": "Vans footwear and apparel store in Space 179 of International Market Place, open there by early 2020.",
+  "lat": 21.2783385,
+  "lng": -157.8260782,
+  "links": [
+   {
+    "url": "https://godmeetsfashion.com/2020/02/17/hawaii-recommend-sneaker-shop-list/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://locations.vans.com/en-ca/hi/honolulu/usa556/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.mallgang.com/hawaii/international-market-place/stores/vans",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Michael Kors",
