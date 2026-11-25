@@ -4633,15 +4633,28 @@
  {
   "name": "SHOR",
   "address": "2424 Kalakaua Ave",
-  "start": 2026,
+  "start": 2011,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Seafood and steak restaurant on the third floor of the Hyatt Regency Waikiki Beach Resort and Spa. Its grand opening was on June 6, 2011.",
   "lat": 21.2759974,
-  "lng": -157.8252964
+  "lng": -157.8252964,
+  "links": [
+   {
+    "url": "https://gayot.com/restaurants/hawaiinews/archive-august-2011.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hawaiireporter.com/in-the-mood-for-seafood-hyatt-regency-waikiki-opens-shor-american-seafood-grill-june-6/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hyatt.com/hyatt-regency/en-US/hnlrw-hyatt-regency-waikiki-beach-resort-and-spa/dining",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "SWIM Restaurant and Bar",

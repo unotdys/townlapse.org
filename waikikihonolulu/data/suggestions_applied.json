@@ -1748,6 +1748,20 @@
      "https://www.honolulumagazine.com/fuud-d-k-steakhouse-in-waikiki/"
     ]
    }
+  },
+  {
+   "target": "SHOR",
+   "target_address": "2424 Kalakaua Ave",
+   "fields": {
+    "note": "Seafood and steak restaurant on the third floor of the Hyatt Regency Waikiki Beach Resort and Spa. Its grand opening was on June 6, 2011.",
+    "start": 2011,
+    "approx": false,
+    "links": [
+     "https://gayot.com/restaurants/hawaiinews/archive-august-2011.html",
+     "https://www.hawaiireporter.com/in-the-mood-for-seafood-hyatt-regency-waikiki-opens-shor-american-seafood-grill-june-6/",
+     "https://www.hyatt.com/hyatt-regency/en-US/hnlrw-hyatt-regency-waikiki-beach-resort-and-spa/dining"
+    ]
+   }
   }
  ]
 }
