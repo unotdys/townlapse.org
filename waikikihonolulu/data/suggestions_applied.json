@@ -406,6 +406,20 @@
     "https://www.yelp.com/biz/honolulu-coffee-kiosk-sheraton-waikiki-honolulu",
     "https://www.yelp.com/biz/honolulu-coffee-sheraton-waikiki-poolside-honolulu"
    ]
+  },
+  {
+   "name": "The Cookie Corner",
+   "address": "2255 Kalakaua Ave",
+   "note": "Shop in the Sheraton Waikiki lobby run by The Cookie Corner, a Honolulu cookie bakery founded in the early 1980s. It is still open, but when this shop opened has not been confirmed.",
+   "start": null,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://tabelog.com/hawaii/A6001/A600101/60000278/",
+    "https://www.cookiecorner.com/pages/store-locations",
+    "https://www.marriott.com/en-us/hotels/hnlws-sheraton-waikiki/dining"
+   ]
   }
  ],
  "corrections": [

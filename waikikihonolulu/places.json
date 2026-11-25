@@ -669,6 +669,33 @@
   "start_unknown": true
  },
  {
+  "name": "The Cookie Corner",
+  "address": "2255 Kalakaua Ave",
+  "start": 2026,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Shop in the Sheraton Waikiki lobby run by The Cookie Corner, a Honolulu cookie bakery founded in the early 1980s. It is still open, but when this shop opened has not been confirmed.",
+  "lat": 21.27762,
+  "lng": -157.8302445,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://tabelog.com/hawaii/A6001/A600101/60000278/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.cookiecorner.com/pages/store-locations",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.marriott.com/en-us/hotels/hnlws-sheraton-waikiki/dining",
+    "kind": "Article"
+   }
+  ],
+  "start_unknown": true
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -4896,19 +4923,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "The Cookie Corner",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (pastry). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.277754,
-  "lng": -157.8300604
  },
  {
   "name": "Azure Restaurant & Bar",
