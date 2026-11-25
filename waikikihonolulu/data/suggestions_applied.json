@@ -2467,6 +2467,19 @@
      "https://www.thisweekhawaii.com/2018/07/25/something-delicious-tsurutontan-udon-noodle-brasserie-hawaii"
     ]
    }
+  },
+  {
+   "target": "Lemuria Crystal Shop",
+   "target_address": "227 Lewers St",
+   "fields": {
+    "note": "Crystal and gift shop that opened its fourth location at Waikiki Beach Walk in mid-2024. It is still listed among the center's current shops.",
+    "start": 2024,
+    "approx": false,
+    "links": [
+     "https://www.waikikibeachwalk.com/Press-Room/2024/Waikiki-Beach-Walk-Continues-to-Expand-Offerings.htm",
+     "https://www.waikikibeachwalk.com/Shops/Gifts-Art-Specialty/Lemuria-Crystal-Shop.htm"
+    ]
+   }
   }
  ]
 }

@@ -6142,15 +6142,24 @@
  {
   "name": "Lemuria Crystal Shop",
   "address": "227 Lewers St",
-  "start": 2026,
+  "start": 2024,
   "end": null,
   "category": "retail",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (esoteric). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Crystal and gift shop that opened its fourth location at Waikiki Beach Walk in mid-2024. It is still listed among the center's current shops.",
   "lat": 21.2793015,
-  "lng": -157.8306223
+  "lng": -157.8306223,
+  "links": [
+   {
+    "url": "https://www.waikikibeachwalk.com/Press-Room/2024/Waikiki-Beach-Walk-Continues-to-Expand-Offerings.htm",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.waikikibeachwalk.com/Shops/Gifts-Art-Specialty/Lemuria-Crystal-Shop.htm",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Nana Musubi",
