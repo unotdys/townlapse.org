@@ -1367,15 +1367,28 @@
  {
   "name": "Teddy's Bigger Burgers",
   "address": "134 Kapahulu Ave",
-  "start": 2026,
+  "start": 2004,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Local burger chain founded in 1998 on Monsarrat Avenue. It moved here to the Waikiki Grand hotel, into a former Jack in the Box space, in July 2004.",
   "lat": 21.2718302,
-  "lng": -157.8218037
+  "lng": -157.8218037,
+  "links": [
+   {
+    "url": "https://archives-new.honoluluadvertiser.com/article/2007/Apr/09/bz/FP704090332.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://archives.starbulletin.com/2004/07/09/business/engle.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hawaiibusiness.com/teddys-bigger-burgers-keeps-growing/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "RumFire",

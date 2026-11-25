@@ -503,6 +503,20 @@
      "https://www.staradvertiser.com/2016/09/12/business/dean-deluca-to-open-first-hawaii-site-in-waikiki/"
     ]
    }
+  },
+  {
+   "target": "Teddy's Bigger Burgers",
+   "target_address": "134 Kapahulu Ave",
+   "fields": {
+    "note": "Local burger chain founded in 1998 on Monsarrat Avenue. It moved here to the Waikiki Grand hotel, into a former Jack in the Box space, in July 2004.",
+    "start": 2004,
+    "approx": false,
+    "links": [
+     "https://archives-new.honoluluadvertiser.com/article/2007/Apr/09/bz/FP704090332.html",
+     "https://archives.starbulletin.com/2004/07/09/business/engle.html",
+     "https://www.hawaiibusiness.com/teddys-bigger-burgers-keeps-growing/"
+    ]
+   }
   }
  ]
 }
