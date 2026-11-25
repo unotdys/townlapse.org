@@ -360,6 +360,20 @@
     "https://www.honolulucookie.com/content/store-locations.asp",
     "https://www.mallsinamerica.com/hawaii/international-market-place/honolulu-cookie-co"
    ]
+  },
+  {
+   "name": "Kirin Restaurant",
+   "address": "2424 Kalakaua Ave #103, Honolulu, HI 96815",
+   "note": "HAWAI\u02bbI Magazine's Nov. 29, 2017 article reports Kirin had moved to Hyatt Regency Waikiki and lists 2424 Kalakaua Ave #103. Honolulu Magazine in April 2018 independently describes it reopening at the Hyatt; current restaurant site confirms the address.",
+   "start": 2017,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://kirinrestauranthawaii.com/",
+    "https://www.hawaiimagazine.com/kirin-restaurant-now-in-waikiki/",
+    "https://www.honolulumagazine.com/what-to-eat-at-kirins-new-waikiki-spot/"
+   ]
   }
  ],
  "corrections": [
