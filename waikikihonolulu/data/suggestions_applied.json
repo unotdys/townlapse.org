@@ -318,6 +318,20 @@
      "https://www.hilton.com/en/hotels/hnlkugi-hilton-garden-inn-waikiki-beach/dining"
     ]
    }
+  },
+  {
+   "target": "The Cheesecake Factory",
+   "target_address": "2301 Kal\u0101kaua Ave",
+   "fields": {
+    "note": "Opened December 10, 2003 as an anchor restaurant at the Royal Hawaiian Shopping Center, the chain's first Hawaii location. It closed briefly after a kitchen fire in February 2013 and is still open today.",
+    "start": 2003,
+    "approx": false,
+    "links": [
+     "https://archives.starbulletin.com/2003/12/11/business/engle.html",
+     "https://investors.thecheesecakefactory.com/news-and-events/news-releases/news-release-details/2003/The-Cheesecake-Factory-Opens-in-Honolulu-Hawaii/default.aspx",
+     "https://www.staradvertiser.com/2013/02/25/breaking-news/waikiki-cheesecake-factory-reopens-after-feb-1-fire/"
+    ]
+   }
   }
  ]
 }

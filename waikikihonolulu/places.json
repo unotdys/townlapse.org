@@ -816,15 +816,28 @@
  {
   "name": "The Cheesecake Factory",
   "address": "2301 Kalākaua Ave",
-  "start": 2026,
+  "start": 2003,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Opened December 10, 2003 as an anchor restaurant at the Royal Hawaiian Shopping Center, the chain's first Hawaii location. It closed briefly after a kitchen fire in February 2013 and is still open today.",
   "lat": 21.2776805,
-  "lng": -157.8275662
+  "lng": -157.8275662,
+  "links": [
+   {
+    "url": "https://archives.starbulletin.com/2003/12/11/business/engle.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://investors.thecheesecakefactory.com/news-and-events/news-releases/news-release-details/2003/The-Cheesecake-Factory-Opens-in-Honolulu-Hawaii/default.aspx",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.staradvertiser.com/2013/02/25/breaking-news/waikiki-cheesecake-factory-reopens-after-feb-1-fire/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Duke's Waikiki",
