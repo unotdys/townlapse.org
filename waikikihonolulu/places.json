@@ -1113,6 +1113,32 @@
   ]
  },
  {
+  "name": "Honolulu Noodle & Co.",
+  "address": "2250 Kalākaua Ave",
+  "start": 2023,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "note": "Taiwanese beef noodle shop in the STIX ASIA food hall on the lower level of Waikiki Shopping Plaza. It opened in early 2023 as the food hall launched.",
+  "lat": 21.2792987,
+  "lng": -157.8285137,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://dining.staradvertiser.com/?p=46151",
+    "kind": "Article"
+   },
+   {
+    "url": "https://stixasia.com/shops/honolulu-noodle-co/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/?p=612731",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -6637,19 +6663,6 @@
   "lng": -157.8261463
  },
  {
-  "name": "Honolulu Noodle & Co",
-  "address": "2250 Kalākaua Ave",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.279457,
-  "lng": -157.828201
- },
- {
   "name": "Lawson Station",
   "address": "2255 Kalākaua Ave",
   "start": 2026,
@@ -7285,19 +7298,6 @@
   "note": "Open today (yes). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2780619,
   "lng": -157.8335202
- },
- {
-  "name": "Honolulu Cookie Company",
-  "address": "2250 Kalākaua Ave",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (pastry). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2792142,
-  "lng": -157.8287378
  },
  {
   "name": "Umi",

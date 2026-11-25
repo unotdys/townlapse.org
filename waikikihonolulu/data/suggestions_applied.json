@@ -658,6 +658,20 @@
     "https://www.jeffsetter.com/blog/breakout-waikiki-escape-room/",
     "https://www.staradvertiser.com/2016/03/08/features/new-escape-themed-businesses-challenge-customers-to-break-out/"
    ]
+  },
+  {
+   "name": "Honolulu Noodle & Co.",
+   "address": "2250 Kal\u0101kaua Ave",
+   "note": "Taiwanese beef noodle shop in the STIX ASIA food hall on the lower level of Waikiki Shopping Plaza. It opened in early 2023 as the food hall launched.",
+   "start": 2023,
+   "end": null,
+   "category": "food",
+   "approx": false,
+   "links": [
+    "https://dining.staradvertiser.com/?p=46151",
+    "https://stixasia.com/shops/honolulu-noodle-co/",
+    "https://www.honolulumagazine.com/?p=612731"
+   ]
   }
  ],
  "corrections": [
