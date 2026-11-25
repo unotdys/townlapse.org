@@ -1250,16 +1250,41 @@
  },
  {
   "name": "Kuhio Nails & Spa",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "2229 Kuhio Ave",
+  "start": 2013,
   "end": null,
   "category": "services",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (beauty). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Nail salon at 2229 Kuhio Ave. Its owner applied for a state beauty shop license in late 2013, and the salon is still open.",
   "lat": 21.280589,
-  "lng": -157.827637
+  "lng": -157.827637,
+  "links": [
+   {
+    "url": "https://cca.hawaii.gov/wp-content/uploads/2026/03/barber_cosm_131120_min.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://cca.hawaii.gov/wp-content/uploads/2026/05/2026.02.10_Barber_Cosm_Meeting_Minutes.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.cca.hawaii.gov/wp-content/uploads/2026/03/barber_cosm_131120_min.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://reviews.birdeye.com/kuhio-nails-spa-170648387663934",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.yellowpages.com/mccully-moiliili-honolulu-hi/nail-salons",
+    "kind": "Listing"
+   },
+   {
+    "url": "https://www.yelp.com/biz/kuhio-nails-and-spa-honolulu-2",
+    "kind": "Listing"
+   }
+  ]
  },
  {
   "name": "O' My Sole",

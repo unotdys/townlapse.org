@@ -441,6 +441,24 @@
      "https://www.honolulumagazine.com/oahus-newest-poke-shops/"
     ]
    }
+  },
+  {
+   "target": "Kuhio Nails & Spa",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "2229 Kuhio Ave",
+    "note": "Nail salon at 2229 Kuhio Ave. Its owner applied for a state beauty shop license in late 2013, and the salon is still open.",
+    "start": 2013,
+    "approx": true,
+    "links": [
+     "https://cca.hawaii.gov/wp-content/uploads/2026/03/barber_cosm_131120_min.pdf",
+     "https://cca.hawaii.gov/wp-content/uploads/2026/05/2026.02.10_Barber_Cosm_Meeting_Minutes.pdf",
+     "https://reviews.birdeye.com/kuhio-nails-spa-170648387663934",
+     "https://www.cca.hawaii.gov/wp-content/uploads/2026/03/barber_cosm_131120_min.pdf",
+     "https://www.yellowpages.com/mccully-moiliili-honolulu-hi/nail-salons",
+     "https://www.yelp.com/biz/kuhio-nails-and-spa-honolulu-2"
+    ]
+   }
   }
  ]
 }
