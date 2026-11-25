@@ -348,6 +348,21 @@
      "https://www.travelweekly.com/Hawaii-Travel/Second-Dukes-restaurant-to-open-on-Oahu"
     ]
    }
+  },
+  {
+   "target": "Cheese Burger in Paradise",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "2500 Kalakaua Ave",
+    "note": "Burger restaurant on Kalakaua Avenue that opened in 1997 as the Waikiki branch of a Lahaina restaurant founded in 1989.",
+    "start": 1997,
+    "approx": false,
+    "links": [
+     "https://archives.starbulletin.com/1997/12/09/features/eater.html",
+     "https://archives.starbulletin.com/2004/08/01/business/story2.html",
+     "https://www.cheeseburgernation.com/about/"
+    ]
+   }
   }
  ]
 }
