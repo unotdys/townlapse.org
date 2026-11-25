@@ -1704,6 +1704,20 @@
      "https://www.opentable.com/r/kuhio-beach-grill-honolulu-1"
     ]
    }
+  },
+  {
+   "target": "Sansei Seafood Restaurant & Sushi Bar",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "2552 Kalakaua Ave",
+    "note": "Sushi and seafood restaurant on the third floor of the Waikiki Beach Marriott Resort & Spa. It moved there from Restaurant Row around fall 2004, into the former Third Floor and Acqua restaurant space.",
+    "start": 2004,
+    "approx": true,
+    "links": [
+     "https://archives.midweek.com/content/columns/foodiefare_article/imagine_a_gourmet_benefit_for_lupus_hawaii/",
+     "https://archives.starbulletin.com/2004/03/18/business/engle.html"
+    ]
+   }
   }
  ]
 }

@@ -4541,16 +4541,25 @@
  },
  {
   "name": "Sansei Seafood Restaurant & Sushi Bar",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "2552 Kalakaua Ave",
+  "start": 2004,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2732967,
-  "lng": -157.8230194
+  "note": "Sushi and seafood restaurant on the third floor of the Waikiki Beach Marriott Resort & Spa. It moved there from Restaurant Row around fall 2004, into the former Third Floor and Acqua restaurant space.",
+  "lat": 21.2734513,
+  "lng": -157.8224713,
+  "links": [
+   {
+    "url": "https://archives.midweek.com/content/columns/foodiefare_article/imagine_a_gourmet_benefit_for_lupus_hawaii/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://archives.starbulletin.com/2004/03/18/business/engle.html",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "d.k Steakhouse",
