@@ -32,7 +32,12 @@ th{color:var(--dim);font-weight:600}
 .panel select,.panel input.f{width:100%;max-width:360px;font:15px var(--body);color:var(--ink);background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:9px 11px}
 button.ghost{background:transparent;color:var(--ink);border:1px solid var(--line)}
 .ok{color:var(--green)}
-ul.ais{list-style:none;margin:0;padding:0;display:grid;gap:6px}
+.tabs{display:flex;flex-wrap:wrap;gap:6px;border-bottom:1px solid var(--line);margin:4px 0 14px}
+.tab{background:transparent;color:var(--dim);border:1px solid transparent;border-bottom:0;border-radius:10px 10px 0 0;padding:9px 14px;font:600 15px var(--body);cursor:pointer;display:flex;align-items:center;gap:8px;margin-bottom:-1px}
+.tab.on{color:var(--ink);background:var(--bg);border-color:var(--line)}
+.tab.add{color:var(--yellow)}
+.tab .dot{width:8px;height:8px;border-radius:50%;background:var(--line)}.tab .dot.ok{background:var(--green)}
+details summary{cursor:pointer;font-weight:600}
 .key{font:14px ui-monospace,SFMono-Regular,Menlo,monospace;background:var(--bg);border:1px dashed var(--yellow);border-radius:8px;padding:9px 11px;word-break:break-all;margin:6px 0}
 pre{white-space:pre-wrap;font:13px/1.5 ui-monospace,SFMono-Regular,Menlo,monospace;background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:10px;margin:6px 0}
 input{width:100%;font:15px ui-monospace,monospace;color:var(--ink);background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:11px 13px}
@@ -73,10 +78,8 @@ async function load() {
         <div><b>${d.submissions}</b><span>places submitted</span></div>
         <div><b>${st.accepted || 0}</b><span>accepted on the map</span></div></div>
       <div class="panel"><h2>Your AIs</h2>
-        <ul class="ais">${(d.ais || []).map(a => `<li><b>${esc(a.ai)}</b>${a.this_key ? ' <span class="hint">(this key)</span>' : ""}<span class="hint"> · ${a.connected ? "connected" : "not connected yet"} · ${a.assignments_completed} done · ${a.remaining_today} of ${a.budget_today} left today</span></li>`).join("")}</ul>
-        <div class="row" style="margin-top:8px"><select id="newAi" class="f" style="max-width:220px"><option value="muse">Muse</option><option value="chatgpt">ChatGPT</option><option value="claude">Claude</option><option value="grok">Grok</option><option value="gemini">Gemini</option><option value="other">Another AI</option></select><button id="addAi">Add another AI</button></div>
-        <div id="newAiSetup"></div>
-        <p class="hint" style="margin:8px 0 0">Each AI gets its own key and budget, under your one donor name. Your contributions are counted together.</p></div>
+        <div class="tabs" role="tablist" aria-label="Your AIs" id="aiTabs"></div>
+        <div id="aiPane" role="tabpanel"></div></div>
       <div class="panel"><h2>Get more assignments today</h2>
         <p class="hint" style="margin:0 0 10px">Your AI can keep going with the same key. ${b.extra_today ? `Already added today: +${b.extra_today}.` : ""}</p>
         <div class="row"><button data-add="10">+10 today</button><button data-add="25" class="ghost">+25 today</button><span class="hint" id="addMsg" aria-live="polite"></span></div>
@@ -108,16 +111,47 @@ function setupFor(ai, key, b) {
     <li>Turn it on in a new chat and paste:<pre>${esc(start)}</pre></li></ol>
     <p class="hint">Prefer noBGP (Claude, ChatGPT, Grok)? Use the noBGP connector with the Townlapse donors service and this key; see <a href="/donate/">the donate page</a> for the steps.</p>`;
 }
+let currentTab = null;
+const keyStore = () => { try { return JSON.parse(localStorage.getItem("townlapse_ai_keys") || "{}"); } catch { return {}; } };
+const saveKey = (id, k) => { try { const m = keyStore(); m[id] = k; localStorage.setItem("townlapse_ai_keys", JSON.stringify(m)); } catch {} };
+async function family(body) {
+  const r = await fetch(`${API}/d/family`, { method: "POST", headers: { "Content-Type": "application/json", "x-donor-key": key }, body: JSON.stringify(body) });
+  const x = await r.json(); if (!r.ok) throw new Error(x.error || "Couldn't do that."); return x;
+}
+function renderAis(d, b) {
+  const ais = d.ais || [], mine = ais.find(a => a.this_key);
+  if (mine) saveKey(mine.id, key);
+  if (!currentTab || (currentTab !== "add" && !ais.find(a => a.id === currentTab))) currentTab = (mine || ais[0] || {}).id || "add";
+  const counts = {}; ais.forEach(a => counts[a.ai] = (counts[a.ai] || 0) + 1);
+  const seen = {};
+  $("aiTabs").innerHTML = ais.map(a => { seen[a.ai] = (seen[a.ai] || 0) + 1; const label = counts[a.ai] > 1 ? `${a.ai} ${seen[a.ai]}` : a.ai;
+      return `<button role="tab" class="tab${a.id === currentTab ? " on" : ""}" aria-selected="${a.id === currentTab}" data-tab="${a.id}">${esc(label)}<span class="dot ${a.connected ? "ok" : ""}" aria-label="${a.connected ? "connected" : "not connected"}"></span></button>`; }).join("")
+    + `<button role="tab" class="tab add${currentTab === "add" ? " on" : ""}" aria-selected="${currentTab === "add"}" data-tab="add">+ Add another AI</button>`;
+  $("aiTabs").querySelectorAll("[data-tab]").forEach(t => t.onclick = () => { currentTab = t.dataset.tab; renderAis(d, b); });
+  const pane = $("aiPane");
+  if (currentTab === "add") {
+    pane.innerHTML = `<p class="hint">Each AI gets its own key and budget, under your one donor name. Your contributions are counted together.</p>
+      <div class="row"><select id="newAi" class="f" style="max-width:220px"><option value="muse">Muse</option><option value="chatgpt">ChatGPT</option><option value="claude">Claude</option><option value="gemini">Gemini</option><option value="grok">Grok</option><option value="other">Another AI</option></select><button id="addAi">Add this AI</button></div><div id="newAiMsg"></div>`;
+    $("addAi").onclick = async () => {
+      $("addAi").disabled = true;
+      try { const r = await fetch(`${API}/d/add-ai`, { method: "POST", headers: { "Content-Type": "application/json", "x-donor-key": key }, body: JSON.stringify({ ai: $("newAi").value }) });
+        const x = await r.json(); if (!r.ok) throw new Error(x.error || "Couldn't add it.");
+        saveKey(x.donor_id, x.key); currentTab = x.donor_id; load(); }
+      catch (e) { $("newAiMsg").innerHTML = `<p class="hint err">${esc(e.message)}</p>`; $("addAi").disabled = false; }
+    };
+    return;
+  }
+  const a = ais.find(x => x.id === currentTab); const k = keyStore()[a.id];
+  pane.innerHTML = `<p style="margin:4px 0 10px"><b>${esc(a.ai)}</b>${a.main ? ' <span class="hint">(main)</span>' : ""}<span class="hint"> · ${a.connected ? "connected" : "not connected yet"} · ${a.assignments_completed} done · ${a.remaining_today} of ${a.budget_today} left today</span></p>
+    ${k ? `<details ${a.connected ? "" : "open"}><summary>Setup steps for this AI</summary><p class="hint" style="margin:8px 0 0">Its key (keep it private):</p><div class="key">${esc(k)}</div>${setupFor(a.ai_code, k, b)}</details>`
+        : `<p class="hint">This browser doesn't have this AI's key. Get a new one to see its setup steps (the old key stops working).</p>`}
+    <div class="row" style="margin-top:10px">${k ? "" : `<button id="rekey">Get a new key</button>`}${a.main || a.this_key ? "" : `<button class="ghost" id="removeAi">Remove this AI</button>`}<span class="hint" id="aiMsg"></span></div>`;
+  const rk = $("rekey"); if (rk) rk.onclick = async () => { try { const x = await family({ id: a.id, action: "rekey" }); saveKey(a.id, x.key); renderAis(d, b); } catch (e) { $("aiMsg").textContent = e.message; } };
+  const rm = $("removeAi"); if (rm) rm.onclick = async () => { if (!confirm(`Remove this ${a.ai}? Its key stops working; its past work still counts.`)) return;
+    try { await family({ id: a.id, action: "remove" }); currentTab = null; load(); } catch (e) { $("aiMsg").textContent = e.message; } };
+}
 function wire(d, b) {
-  $("addAi").onclick = async () => {
-    const ai = $("newAi").value; $("addAi").disabled = true;
-    try {
-      const r = await fetch(`${API}/d/add-ai`, { method: "POST", headers: { "Content-Type": "application/json", "x-donor-key": key }, body: JSON.stringify({ ai }) });
-      const x = await r.json(); if (!r.ok) throw new Error(x.error || "Couldn't add it.");
-      $("newAiSetup").innerHTML = `<div class="panel" style="margin:12px 0 0"><b>${esc(x.ai)} added.</b> Its key (shown once):<div class="key">${esc(x.key)}</div>${setupFor(ai, x.key, b)}</div>`;
-    } catch (e) { $("newAiSetup").innerHTML = `<p class="hint err">${esc(e.message)}</p>`; }
-    $("addAi").disabled = false;
-  };
+  renderAis(d, b);
   document.querySelectorAll("[data-add]").forEach(btn => btn.onclick = async () => {
     btn.disabled = true;
     try { const r = await settings({ add_today: +btn.dataset.add }); $("addMsg").textContent = `Done: ${r.budget.remaining_today} left today.`; $("addMsg").className = "hint ok"; setTimeout(load, 1500); }
