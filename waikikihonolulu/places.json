@@ -3399,16 +3399,29 @@
  },
  {
   "name": "Izakaya 855-ALOHA",
-  "address": "411 Nahua St",
-  "start": 2026,
+  "address": "415 Nahua St",
+  "start": 2024,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2793779,
-  "lng": -157.8251804
+  "note": "Japanese-style izakaya and bar in the lobby of the Romer House Waikiki hotel, opened in June 2024 by Table One Hospitality. It is named for the 1-855-ALOHA number of Waikīkī's old sky-blue payphones.",
+  "lat": 21.2793382,
+  "lng": -157.8251099,
+  "links": [
+   {
+    "url": "https://www.hawaiimagazine.com/dial-855-aloha",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.tableonehospitality.com/855aloha-case-study",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelweekly.com/Hawaii-Travel/Romer-House-Waikiki-opens-in-June",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Lei Lei （3rd floor room 303）",

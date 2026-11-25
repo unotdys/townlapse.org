@@ -1293,6 +1293,21 @@
      "https://www.marriott.com/en-us/hotels/hnlwi-moana-surfrider-a-westin-resort-and-spa-waikiki-beach/dining"
     ]
    }
+  },
+  {
+   "target": "Izakaya 855-ALOHA",
+   "target_address": "411 Nahua St",
+   "fields": {
+    "address": "415 Nahua St",
+    "note": "Japanese-style izakaya and bar in the lobby of the Romer House Waikiki hotel, opened in June 2024 by Table One Hospitality. It is named for the 1-855-ALOHA number of Waik\u012bk\u012b's old sky-blue payphones.",
+    "start": 2024,
+    "approx": false,
+    "links": [
+     "https://www.hawaiimagazine.com/dial-855-aloha",
+     "https://www.tableonehospitality.com/855aloha-case-study",
+     "https://www.travelweekly.com/Hawaii-Travel/Romer-House-Waikiki-opens-in-June"
+    ]
+   }
   }
  ]
 }
