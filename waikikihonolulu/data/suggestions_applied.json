@@ -206,6 +206,20 @@
      "https://www.restaurantji.com/hi/honolulu/lava-tube-/comments/"
     ]
    }
+  },
+  {
+   "target": "TR Fire Grill",
+   "target_address": "2330 Kuhio Ave",
+   "fields": {
+    "note": "Opened in December 2016 inside the Hilton Garden Inn Waikiki Beach, as the chain's second restaurant and first franchise location. It took over the hotel's former Chili's space.",
+    "start": 2016,
+    "approx": false,
+    "links": [
+     "https://dining.staradvertiser.com/?p=23370",
+     "https://staradvertiser.com/?p=596045",
+     "https://www.prweb.com/releases/tr_fire_grill_heats_things_up_with_first_franchise_location/prweb13917665.htm"
+    ]
+   }
   }
  ]
 }

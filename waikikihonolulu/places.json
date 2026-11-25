@@ -503,15 +503,28 @@
  {
   "name": "TR Fire Grill",
   "address": "2330 Kuhio Ave",
-  "start": 2026,
+  "start": 2016,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Opened in December 2016 inside the Hilton Garden Inn Waikiki Beach, as the chain's second restaurant and first franchise location. It took over the hotel's former Chili's space.",
   "lat": 21.2786591,
-  "lng": -157.8250095
+  "lng": -157.8250095,
+  "links": [
+   {
+    "url": "https://dining.staradvertiser.com/?p=23370",
+    "kind": "Article"
+   },
+   {
+    "url": "https://staradvertiser.com/?p=596045",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.prweb.com/releases/tr_fire_grill_heats_things_up_with_first_franchise_location/prweb13917665.htm",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Marugame Udon",
