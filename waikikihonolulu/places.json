@@ -146,6 +146,28 @@
   ]
  },
  {
+  "name": "Crystal Nail Salon",
+  "address": "2310 Kuhio Ave",
+  "start": 2006,
+  "end": null,
+  "category": "services",
+  "approx": true,
+  "note": "Nail salon in the Waikiki Marketplace at 2310 Kuhio Ave, specializing in manicures and pedicures; established in 2006.",
+  "lat": 21.2795729,
+  "lng": -157.8258312,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.cylex.us.com/company/crystal-nail-salon-22493952.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.mapquest.com/us/hawaii/crystal-nail-salon-275097211",
+    "kind": "Listing"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -1827,19 +1849,6 @@
   "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2795729,
   "lng": -157.8258312
- },
- {
-  "name": "Crystal Nail Salon",
-  "address": "2310 Kūhiō Ave",
-  "start": 2026,
-  "end": null,
-  "category": "services",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (beauty). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2795354,
-  "lng": -157.8257909
  },
  {
   "name": "123 Outlet",
