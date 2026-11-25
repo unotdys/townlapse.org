@@ -3123,16 +3123,29 @@
  },
  {
   "name": "The Ukulele Store",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "226 Lewers St",
+  "start": 2016,
   "end": null,
   "category": "retail",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (musical instrument). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2794517,
-  "lng": -157.8311206
+  "note": "Ukulele shop that opened its first store at Waikiki Beach Walk in May 2016, offering free daily beginner lessons.",
+  "lat": 21.2792772,
+  "lng": -157.8309822,
+  "links": [
+   {
+    "url": "https://news.outrigger.com/?p=8010",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.waikikibeachwalk.com/Press-Room/2016/The-Ukulele-Store-opens-its-first-location-at-Waik.htm",
+    "kind": "Article"
+   },
+   {
+    "url": "https://startpage.mapquest.com/us/hawaii/ukulele-store-365225713",
+    "kind": "Listing"
+   }
+  ]
  },
  {
   "name": "Martin & MacArthur",

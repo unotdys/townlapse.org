@@ -1158,6 +1158,21 @@
      "https://www.midweek.com/?p=54284"
     ]
    }
+  },
+  {
+   "target": "The Ukulele Store",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "226 Lewers St",
+    "note": "Ukulele shop that opened its first store at Waikiki Beach Walk in May 2016, offering free daily beginner lessons.",
+    "start": 2016,
+    "approx": false,
+    "links": [
+     "https://news.outrigger.com/?p=8010",
+     "https://startpage.mapquest.com/us/hawaii/ukulele-store-365225713",
+     "https://www.waikikibeachwalk.com/Press-Room/2016/The-Ukulele-Store-opens-its-first-location-at-Waik.htm"
+    ]
+   }
   }
  ]
 }
