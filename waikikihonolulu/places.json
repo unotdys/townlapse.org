@@ -684,15 +684,40 @@
  {
   "name": "Island Vintage Coffee",
   "address": "2301 Kalākaua Ave",
-  "start": 2026,
+  "start": 2008,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Kona coffee cafe on the second floor of Royal Hawaiian Center, run by a brand that dates its start to 1996. This cafe was built in the newly renovated center and won a remodeling award in 2009, so it likely opened around 2008. Still open today.",
   "lat": 21.2783235,
-  "lng": -157.8286655
+  "lng": -157.8286655,
+  "links": [
+   {
+    "url": "https://matthewgoyke.com/island-vintage-coffee-f",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.islandvintagecoffee.com/ja/pages/about-us",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.islandvintagecoffee.com/pages/about-us",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.royalhawaiiancenter.com/island-vintage-coffee",
+    "kind": "Article"
+   },
+   {
+    "url": "https://en.yelp.com.hk/biz/island-vintage-coffee-honolulu-4?hrid=Xmwt6rwsz9YhoYkMvbDQgQ",
+    "kind": "Listing"
+   },
+   {
+    "url": "https://www.yelp.com/biz/island-vintage-coffee-honolulu-4",
+    "kind": "Listing"
+   }
+  ]
  },
  {
   "name": "Five-O Bar & Lounge",

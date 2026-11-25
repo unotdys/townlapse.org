@@ -1483,6 +1483,23 @@
      "https://www.travelweekly.com/Hawaii-Travel/Espacio-Mugen-restaurant-reopens-under-new-chef"
     ]
    }
+  },
+  {
+   "target": "Island Vintage Coffee",
+   "target_address": "2301 Kal\u0101kaua Ave",
+   "fields": {
+    "note": "Kona coffee cafe on the second floor of Royal Hawaiian Center, run by a brand that dates its start to 1996. This cafe was built in the newly renovated center and won a remodeling award in 2009, so it likely opened around 2008. Still open today.",
+    "start": 2008,
+    "approx": true,
+    "links": [
+     "https://en.yelp.com.hk/biz/island-vintage-coffee-honolulu-4?hrid=Xmwt6rwsz9YhoYkMvbDQgQ",
+     "https://matthewgoyke.com/island-vintage-coffee-f",
+     "https://www.islandvintagecoffee.com/ja/pages/about-us",
+     "https://www.islandvintagecoffee.com/pages/about-us",
+     "https://www.royalhawaiiancenter.com/island-vintage-coffee",
+     "https://www.yelp.com/biz/island-vintage-coffee-honolulu-4"
+    ]
+   }
   }
  ]
 }
