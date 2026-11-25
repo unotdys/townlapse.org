@@ -121,6 +121,18 @@
      "https://www.luluswaikiki.com/"
     ]
    }
+  },
+  {
+   "target": "Hy's Steakhouse",
+   "target_address": "2440 Kuhio Ave",
+   "fields": {
+    "start": 1976,
+    "approx": true,
+    "links": [
+     "https://hyswaikiki.com/",
+     "https://oahulocal.com/hys-steak-house-waikiki-50-years-history/"
+    ]
+   }
   }
  ]
 }
