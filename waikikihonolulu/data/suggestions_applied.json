@@ -175,6 +175,21 @@
      "https://www.waikikibrewing.com/about/"
     ]
    }
+  },
+  {
+   "target": "Mac 24/7 Bar & Restaurant",
+   "target_address": "2500 Kuhio Ave",
+   "fields": {
+    "note": "Opened around 2007 as the 24-hour signature restaurant of the Hilton Waikiki Prince Kuhio, after the hotel's $65 million renovation and switch to Hilton. The hotel is now Hilton Waikiki Beach.",
+    "start": 2007,
+    "approx": true,
+    "links": [
+     "https://archives.midweek.com/content/columns/foodfinds_article/going_big_on_american_food_24_7",
+     "https://www.hilton.com/en/hotels/hnlwahf-hilton-waikiki-beach-resort-and-spa/dining/mac-24-7/",
+     "https://www.hospitalitynet.org/news/4030948/hilton-waikiki-prince-kuhio-joins-the-hilton-family-of-hotels-in-hawaii",
+     "https://www.hotel-online.com/News/PR2007_2nd/Apr07_PrinceKuhio.html"
+    ]
+   }
   }
  ]
 }
