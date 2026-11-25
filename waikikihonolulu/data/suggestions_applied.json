@@ -374,6 +374,21 @@
     "https://www.hawaiimagazine.com/kirin-restaurant-now-in-waikiki/",
     "https://www.honolulumagazine.com/what-to-eat-at-kirins-new-waikiki-spot/"
    ]
+  },
+  {
+   "name": "Edge of Waikiki",
+   "address": "2255 Kalakaua Ave",
+   "note": "Oceanfront bar beside the adults-only Infinity Edge Pool at the Sheraton Waikiki, with views toward Diamond Head. The pool and bar were part of a hotel renovation and opened in fall 2009.",
+   "start": 2009,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://archives.starbulletin.com/content/20081230_Sheratons_superpool_to_open.html",
+    "https://sheratonwaikikibeach.com/dine-and-drink/",
+    "https://static1.squarespace.com/static/5d289e4caad70300017e78fa/1563119849634/waikiki_wiki-wiki_wire_x_45.pdf",
+    "https://www.travelagewest.com/Travel/Hotels/Sheraton-Waikiki-Completes-Major-Overhaul"
+   ]
   }
  ],
  "corrections": [

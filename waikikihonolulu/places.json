@@ -600,6 +600,36 @@
   ]
  },
  {
+  "name": "Edge of Waikiki",
+  "address": "2255 Kalakaua Ave",
+  "start": 2009,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Oceanfront bar beside the adults-only Infinity Edge Pool at the Sheraton Waikiki, with views toward Diamond Head. The pool and bar were part of a hotel renovation and opened in fall 2009.",
+  "lat": 21.27762,
+  "lng": -157.8302445,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://static1.squarespace.com/static/5d289e4caad70300017e78fa/1563119849634/waikiki_wiki-wiki_wire_x_45.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://archives.starbulletin.com/content/20081230_Sheratons_superpool_to_open.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://sheratonwaikikibeach.com/dine-and-drink/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelagewest.com/Travel/Hotels/Sheraton-Waikiki-Completes-Major-Overhaul",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -4773,19 +4803,6 @@
   ]
  },
  {
-  "name": "Edge of Waikiki",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2771334,
-  "lng": -157.8310087
- },
- {
   "name": "Hapas",
   "address": "address not listed",
   "start": 2026,
@@ -8126,19 +8143,6 @@
   "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2764654,
   "lng": -157.8267015
- },
- {
-  "name": "Sheraton Waikiki",
-  "address": "2255 Kalakaua Ave",
-  "start": 2026,
-  "end": null,
-  "category": "hotel",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2776158,
-  "lng": -157.8305743
  },
  {
   "name": "Wyndham at Wahikiki Beach Walk",
