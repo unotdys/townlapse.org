@@ -461,6 +461,19 @@
     "https://www.ritzcarlton.com/en/hotels/hnlrr-the-ritz-carlton-residences-waikiki-beach/dining/",
     "https://www.travelweek.ca/news/ritz-carlton-residences-waikiki-beach-ocean-views-enviable-luxury-row-location/"
    ]
+  },
+  {
+   "name": "La Vie",
+   "address": "383 Kalaimoku St",
+   "note": "French-inspired fine dining restaurant on the lobby level of The Ritz-Carlton Residences, Waikiki Beach, which opened in 2019 in place of BLT Market. It was rebranded as Solera Waikiki in spring 2025.",
+   "start": 2019,
+   "end": 2025,
+   "category": "food",
+   "approx": false,
+   "links": [
+    "https://alohastatedaily.com/2025/03/25/the-ritz-carlton-waikiki-has-a-new-farm-to-table-dining-concept/",
+    "https://www.jeffsetter.com/blog/restaurant-review-la-vie-waikiki/"
+   ]
   }
  ],
  "corrections": [
