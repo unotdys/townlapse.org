@@ -434,6 +434,19 @@
     "https://www.honolulumagazine.com/something-new-royal-hawaiian-bakery-opens-today/",
     "https://www.royal-hawaiian.com/dining-overview/royal-hawaiian-bakery/"
    ]
+  },
+  {
+   "name": "Izakaya Pau Hana Base",
+   "address": "407 Seaside Ave",
+   "note": "Izakaya Pau Hana Base operates at 407 Seaside Ave (#107) in Waikiki and was open by at least 2017.",
+   "start": 2017,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.kaukauhawaii.com/storedetail/2004/",
+    "https://www.twellv.co.jp/program/tabi/hawakoi3/archive-hawakoi3/hawakoi3-025/"
+   ]
   }
  ],
  "corrections": [

@@ -722,6 +722,28 @@
   ]
  },
  {
+  "name": "Izakaya Pau Hana Base",
+  "address": "407 Seaside Ave",
+  "start": 2017,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Izakaya Pau Hana Base operates at 407 Seaside Ave (#107) in Waikiki and was open by at least 2017.",
+  "lat": 21.2803458,
+  "lng": -157.8266679,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.kaukauhawaii.com/storedetail/2004/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.twellv.co.jp/program/tabi/hawakoi3/archive-hawakoi3/hawakoi3-025/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -4520,19 +4542,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Izakaya Pau Hana Base",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2802964,
-  "lng": -157.8266446
  },
  {
   "name": "Kai K Food",
