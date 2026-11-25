@@ -140,5 +140,6 @@ $("createBtn").onclick = () => {
 $("useKey").onclick = () => { const k = $("keyIn").value.trim(); if (!/^tld_/.test(k)) { say("That doesn't look like a donor key (it starts with tld_).", "err"); return; } approve({ key: k }); };
 $("deny").onclick = e => { e.preventDefault(); approve({ deny: true }); };
 </script>
+<script src="/feedback.js" defer></script>
 </body>
 </html>
