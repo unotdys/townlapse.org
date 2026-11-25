@@ -1417,6 +1417,22 @@
      "https://www.tripadvisor.co.nz/ShowUserReviews-g60982-d19796559-r744915044-Ko_Tiki_Terrace-Honolulu_Oahu_Hawaii.html"
     ]
    }
+  },
+  {
+   "target": "Mana Up",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "2201 Kalakaua Ave",
+    "note": "House of Mana Up, Mana Up's first store, opened on the ground level of Building A at Royal Hawaiian Center in January 2020. It sells products made by Hawaii businesses in Mana Up's accelerator program, and a newer store opened on the center's ground floor in early 2026.",
+    "start": 2020,
+    "approx": true,
+    "links": [
+     "https://houseofmanaup.com/",
+     "https://houseofmanaup.com/blogs/lets-mana-up-blog-hawaii-shopping-tips/mana-up-grand-opening-royal-hawaiian-center",
+     "https://manauphawaii.com/blogs/news/royal-hawaiian-center-celebrates-hawai%CA%BBi-entrepreneurs-with-house-of-mana-up",
+     "https://www.royalhawaiiancenter.com/press-releases/royal-hawaiian-center-celebrates-hawaii-entrepreneurs-with-house-of-mana-up"
+    ]
+   }
   }
  ]
 }
