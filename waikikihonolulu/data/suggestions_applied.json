@@ -2670,6 +2670,19 @@
      "https://www.hyatt.com/hyatt-centric/en-US/hnlct-hyatt-centric-waikiki-beach/faqs"
     ]
    }
+  },
+  {
+   "target": "Kani Ka Pila Grille",
+   "target_address": "2169 Kalia Rd",
+   "fields": {
+    "note": "Poolside restaurant with live Hawaiian music at the Outrigger Reef Waikiki Beach Resort, opened in March 2009 and still open.",
+    "start": 2009,
+    "approx": false,
+    "links": [
+     "https://news.outrigger.com/2019/03/02/outriggers-kani-ka-pila-grille-celebrates-a-decade-of-hawaiian-music/",
+     "https://www.honolulumagazine.com/listings/2020-hawaii-restaurant-guide/kani-ka-pila-grille/"
+    ]
+   }
   }
  ]
 }

@@ -6773,15 +6773,24 @@
  {
   "name": "Kani Ka Pila Grille",
   "address": "2169 Kalia Rd",
-  "start": 2026,
+  "start": 2009,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Poolside restaurant with live Hawaiian music at the Outrigger Reef Waikiki Beach Resort, opened in March 2009 and still open.",
   "lat": 21.2785012,
-  "lng": -157.8325135
+  "lng": -157.8325135,
+  "links": [
+   {
+    "url": "https://news.outrigger.com/2019/03/02/outriggers-kani-ka-pila-grille-celebrates-a-decade-of-hawaiian-music/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/listings/2020-hawaii-restaurant-guide/kani-ka-pila-grille/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "King of Thai Boat Noodles",
