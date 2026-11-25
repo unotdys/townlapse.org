@@ -228,6 +228,19 @@
    "links": [
     "https://mauibrewingco.com/press/maui-brewing-co-opens-anticipated-waikiki-brewpub/"
    ]
+  },
+  {
+   "name": "Kai Coffee Hawaii",
+   "address": "2424 Kalakaua Ave",
+   "note": "The coffee shop's first location, in the Pualeilani Atrium Shops on the ground floor of the Hyatt Regency Waikiki. It opened on May 15, 2014.",
+   "start": 2014,
+   "end": null,
+   "category": "food",
+   "approx": false,
+   "links": [
+    "https://eatinhawaii.blogspot.com/2014/05/kai-coffee-hawaii-opens-at-hyatt.html",
+    "https://www.hawaiimomblog.com/2016/06/kai-coffee-hawaii-opens-second-location.html"
+   ]
   }
  ],
  "corrections": [

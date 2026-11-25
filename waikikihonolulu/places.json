@@ -376,6 +376,28 @@
   ]
  },
  {
+  "name": "Kai Coffee Hawaii",
+  "address": "2424 Kalakaua Ave",
+  "start": 2014,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "note": "The coffee shop's first location, in the Pualeilani Atrium Shops on the ground floor of the Hyatt Regency Waikiki. It opened on May 15, 2014.",
+  "lat": 21.276067,
+  "lng": -157.8250901,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://eatinhawaii.blogspot.com/2014/05/kai-coffee-hawaii-opens-at-hyatt.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hawaiimomblog.com/2016/06/kai-coffee-hawaii-opens-second-location.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -3579,19 +3601,6 @@
   "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2735926,
   "lng": -157.8212539
- },
- {
-  "name": "Kai Coffee Hawaii",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2761475,
-  "lng": -157.8250879
  },
  {
   "name": "Tommy Bahama Restaurant and Bar",
