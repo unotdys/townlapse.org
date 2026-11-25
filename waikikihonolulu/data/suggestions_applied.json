@@ -2132,6 +2132,23 @@
      "https://www.honolulucoupon.com/post/new-hawaii-food-court-options-are-wooing-diners-part-2/"
     ]
    }
+  },
+  {
+   "target": "Desi's Indian Curry",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "2239 Waikolu Way",
+    "note": "Indian take-out counter in the Royal Hawaiian Dining Plaza food-stall area, known for butter chicken and vegan dishes. It was operating in 2024 and is now listed as closed.",
+    "start": 2023,
+    "end": 2024,
+    "approx": true,
+    "links": [
+     "https://curry-heute.com/2024/04/30/honolulu-hi-desis-indian-curry-the-birthday-dinner/",
+     "https://www.happycow.net/reviews/desis-indian-curry-honolulu-388742",
+     "https://www.honolulucoupon.com/post/royal-hawaiian-dining-plaza-international-flavors-awaits/",
+     "https://www.mapquest.com/us/hawaii/desis-indian-curry-454234042"
+    ]
+   }
   }
  ]
 }

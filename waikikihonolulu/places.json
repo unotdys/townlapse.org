@@ -5372,16 +5372,33 @@
  },
  {
   "name": "Desi's Indian Curry",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
+  "address": "2239 Waikolu Way",
+  "start": 2023,
+  "end": 2024,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2800233,
-  "lng": -157.8279586
+  "note": "Indian take-out counter in the Royal Hawaiian Dining Plaza food-stall area, known for butter chicken and vegan dishes. It was operating in 2024 and is now listed as closed.",
+  "lat": 21.2800199,
+  "lng": -157.8280182,
+  "links": [
+   {
+    "url": "https://curry-heute.com/2024/04/30/honolulu-hi-desis-indian-curry-the-birthday-dinner/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.happycow.net/reviews/desis-indian-curry-honolulu-388742",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulucoupon.com/post/royal-hawaiian-dining-plaza-international-flavors-awaits/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.mapquest.com/us/hawaii/desis-indian-curry-454234042",
+    "kind": "Listing"
+   }
+  ]
  },
  {
   "name": "Genius Lounge Japanese Sake Bar ＆ Dining",
