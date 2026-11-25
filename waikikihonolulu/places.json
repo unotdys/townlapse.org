@@ -7526,15 +7526,20 @@
  {
   "name": "Royal Hawaiian Hotel",
   "address": "2259 Kalākaua Ave",
-  "start": 2026,
+  "start": 1927,
   "end": null,
   "category": "hotel",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "The beachfront Royal Hawaiian Hotel, known as the Pink Palace of the Pacific, opened on February 1, 1927. The U.S. military used it as a rest and recreation center during World War II, and it closed for renovation from June 2008 to January 2009.",
   "lat": 21.2773458,
-  "lng": -157.8288494
+  "lng": -157.8288494,
+  "links": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Royal_Hawaiian_Hotel",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Waikiki Circle Hotel",

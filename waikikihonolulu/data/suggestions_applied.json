@@ -1191,6 +1191,18 @@
      "https://www.yelp.com/biz/coco-mango-honolulu"
     ]
    }
+  },
+  {
+   "target": "Royal Hawaiian Hotel",
+   "target_address": "2259 Kal\u0101kaua Ave",
+   "fields": {
+    "note": "The beachfront Royal Hawaiian Hotel, known as the Pink Palace of the Pacific, opened on February 1, 1927. The U.S. military used it as a rest and recreation center during World War II, and it closed for renovation from June 2008 to January 2009.",
+    "start": 1927,
+    "approx": false,
+    "links": [
+     "https://en.wikipedia.org/wiki/Royal_Hawaiian_Hotel"
+    ]
+   }
   }
  ]
 }
