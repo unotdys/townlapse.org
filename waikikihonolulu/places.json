@@ -1575,16 +1575,29 @@
  },
  {
   "name": "Tapas Restaurant & Lanai Bar",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "407 Seaside Ave",
+  "start": 2003,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2804248,
-  "lng": -157.826703
+  "note": "Tapa's Waikiki, an independent LGBTQ+ bar and restaurant up one flight at 407 Seaside Ave, has been open since about 2003. It is known for karaoke, monthly drag shows and a free pool table.",
+  "lat": 21.2803458,
+  "lng": -157.8266679,
+  "links": [
+   {
+    "url": "https://outxout.com/venue/tapaswaikikihonolulu",
+    "kind": "Article"
+   },
+   {
+    "url": "https://waikikiwasted.com/bars/tapas-waikiki.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelgay.com/venue/tapas-restaurant-and-lanai-bar-honolulu",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Sato Seafood",
