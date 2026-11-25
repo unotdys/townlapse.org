@@ -2125,15 +2125,28 @@
  {
   "name": "Hard Rock Cafe",
   "address": "280 Beach Walk",
-  "start": 2026,
+  "start": 2010,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Hard Rock Cafe Honolulu moved from its 1987 site at Kalakaua Avenue and Kapiolani Boulevard to 280 Beach Walk, at the corner of Kalakaua Avenue, in November 2010. It is still open.",
   "lat": 21.2809178,
-  "lng": -157.830803
+  "lng": -157.830803,
+  "links": [
+   {
+    "url": "http://waikiki.com/meet.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://honoluluadvertiser.com/article/2007/Aug/25/bz/hawaii708250321.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.staradvertiser.com/2010/11/28/features/new-memories-for-hard-rock/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Tommy Bahama",

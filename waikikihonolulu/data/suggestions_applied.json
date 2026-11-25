@@ -789,6 +789,20 @@
      "https://www.opentable.com/r/arancino-beachwalk-honolulu"
     ]
    }
+  },
+  {
+   "target": "Hard Rock Cafe",
+   "target_address": "280 Beach Walk",
+   "fields": {
+    "note": "Hard Rock Cafe Honolulu moved from its 1987 site at Kalakaua Avenue and Kapiolani Boulevard to 280 Beach Walk, at the corner of Kalakaua Avenue, in November 2010. It is still open.",
+    "start": 2010,
+    "approx": false,
+    "links": [
+     "http://waikiki.com/meet.html",
+     "https://honoluluadvertiser.com/article/2007/Aug/25/bz/hawaii708250321.html",
+     "https://www.staradvertiser.com/2010/11/28/features/new-memories-for-hard-rock/"
+    ]
+   }
   }
  ]
 }
