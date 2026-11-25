@@ -1871,6 +1871,21 @@
      "https://www.travelagewest.com/Travel/Hawaii/New-Oahu-Restaurants"
     ]
    }
+  },
+  {
+   "target": "Baskin-Robbins",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "2255 Kalakaua Ave",
+    "note": "Ice cream shop in the Sheraton Waikiki that had moved there from the Royal Hawaiian Center by early 2010. The brand still lists it at this address.",
+    "start": 2010,
+    "approx": true,
+    "links": [
+     "https://4travel.jp/os_shisetsu_tips/10169497",
+     "https://doczz.net/doc/1280341/2010-fall-newsletter",
+     "https://locations.baskinrobbins.com/hi/honolulu/2255-kalakaua-avenue-348657-br"
+    ]
+   }
   }
  ]
 }

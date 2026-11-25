@@ -4873,16 +4873,29 @@
  },
  {
   "name": "Baskin-Robbins",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "2255 Kalakaua Ave",
+  "start": 2010,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (ice cream). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2771075,
-  "lng": -157.8301459
+  "note": "Ice cream shop in the Sheraton Waikiki that had moved there from the Royal Hawaiian Center by early 2010. The brand still lists it at this address.",
+  "lat": 21.27762,
+  "lng": -157.8302445,
+  "links": [
+   {
+    "url": "https://4travel.jp/os_shisetsu_tips/10169497",
+    "kind": "Article"
+   },
+   {
+    "url": "https://doczz.net/doc/1280341/2010-fall-newsletter",
+    "kind": "Article"
+   },
+   {
+    "url": "https://locations.baskinrobbins.com/hi/honolulu/2255-kalakaua-avenue-348657-br",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "The Cookie Corner",
