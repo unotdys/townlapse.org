@@ -2073,6 +2073,21 @@
      "https://www.kaukauhawaii.com/storedetail/2139/"
     ]
    }
+  },
+  {
+   "target": "Hideout",
+   "target_address": "2299 Kuhio Ave",
+   "fields": {
+    "note": "Restaurant and bar serving modern Hawaiian food at The Laylow hotel, 2299 Kuhio Ave. It opened in spring 2017 when the hotel opened and is still open today.",
+    "start": 2017,
+    "approx": false,
+    "links": [
+     "https://www.hideoutwaikiki.com/",
+     "https://www.honolulumagazine.com/hideout-at-the-laylow-opens-in-waikiki/",
+     "https://www.marriott.com/en-us/hotels/hnlak-the-laylow-autograph-collection/dining",
+     "https://www.staradvertiser.com/2017/04/04/food/quickbites/a-new-hideout-on-kuhio/"
+    ]
+   }
   }
  ]
 }

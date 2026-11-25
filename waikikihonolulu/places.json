@@ -5243,15 +5243,32 @@
  {
   "name": "Hideout",
   "address": "2299 Kuhio Ave",
-  "start": 2026,
+  "start": 2017,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Restaurant and bar serving modern Hawaiian food at The Laylow hotel, 2299 Kuhio Ave. It opened in spring 2017 when the hotel opened and is still open today.",
   "lat": 21.279462,
-  "lng": -157.826386
+  "lng": -157.826386,
+  "links": [
+   {
+    "url": "https://www.hideoutwaikiki.com/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/hideout-at-the-laylow-opens-in-waikiki/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.marriott.com/en-us/hotels/hnlak-the-laylow-autograph-collection/dining",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.staradvertiser.com/2017/04/04/food/quickbites/a-new-hideout-on-kuhio/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Sushi Spot Waikiki",
