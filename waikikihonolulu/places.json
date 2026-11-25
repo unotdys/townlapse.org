@@ -566,6 +566,40 @@
   ]
  },
  {
+  "name": "Honolulu Cookie Company",
+  "address": "2330 Kalakaua Ave",
+  "start": 2016,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Shop of the Hawaii-based shortbread cookie maker in the rebuilt International Market Place (Space 162). It opened around the time the center reopened in 2016.",
+  "lat": 21.2783385,
+  "lng": -157.8260782,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://static1.squarespace.com/static/5d289e4caad70300015b6415/t/5d2a94226bef550001d0a0ae/1563071539582/VOL_XV1I-_09__SEPTEMBER_Aloha_Festivals_final.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Honolulu_Cookie_Company",
+    "kind": "Article"
+   },
+   {
+    "url": "https://saipantribune.com/?p=241806",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulucookie.com/content/store-locations.asp",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.mallsinamerica.com/hawaii/international-market-place/honolulu-cookie-co",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -5091,19 +5125,6 @@
   "lng": -157.8271796
  },
  {
-  "name": "Honolulu Cookie Company",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (pastry). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2773228,
-  "lng": -157.8272869
- },
- {
   "name": "ABC",
   "address": "address not listed",
   "start": 2026,
@@ -5674,19 +5695,6 @@
   "note": "Open today (car). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2774992,
   "lng": -157.8268552
- },
- {
-  "name": "Honolulu Cookie Company",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (pastry). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2788226,
-  "lng": -157.8258049
  },
  {
   "name": "Vilebrequin",

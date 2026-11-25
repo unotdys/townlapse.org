@@ -344,6 +344,22 @@
     "https://www.prnewswire.com/news-releases/waikiki-beach-marriott-resort--spa-debuts-property-wide-multi-million-dollar-reimagination-301361265.html",
     "https://www.queensbreak.com/"
    ]
+  },
+  {
+   "name": "Honolulu Cookie Company",
+   "address": "2330 Kalakaua Ave",
+   "note": "Shop of the Hawaii-based shortbread cookie maker in the rebuilt International Market Place (Space 162). It opened around the time the center reopened in 2016.",
+   "start": 2016,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://en.wikipedia.org/wiki/Honolulu_Cookie_Company",
+    "https://saipantribune.com/?p=241806",
+    "https://static1.squarespace.com/static/5d289e4caad70300015b6415/t/5d2a94226bef550001d0a0ae/1563071539582/VOL_XV1I-_09__SEPTEMBER_Aloha_Festivals_final.pdf",
+    "https://www.honolulucookie.com/content/store-locations.asp",
+    "https://www.mallsinamerica.com/hawaii/international-market-place/honolulu-cookie-co"
+   ]
   }
  ],
  "corrections": [
