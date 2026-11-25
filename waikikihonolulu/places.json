@@ -764,15 +764,28 @@
  {
   "name": "Ohia Waikiki Studio Suites",
   "address": "2280 Kuhio Ave",
-  "start": 2026,
+  "start": 2015,
   "end": null,
   "category": "hotel",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "A 17-story hotel with about 250 rooms on Kuhio Avenue. It was formerly the Outrigger Surf East and took the Ohia Waikiki name in June 2015, when Aqua Hospitality took over and refurbished it.",
   "lat": 21.2799776,
-  "lng": -157.8264065
+  "lng": -157.8264065,
+  "links": [
+   {
+    "url": "https://eturbonews.com/?p=121375",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hospitalitynet.org/news/4071096/aqua-hospitality-expands-oahu-portfolio-with-ohia-waikiki",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.trip.com/hotels/honolulu-hotel-detail-3645514/aqua-ohia-waikiki/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Holoholo Café & Market",

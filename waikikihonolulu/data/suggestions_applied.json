@@ -290,6 +290,20 @@
      "https://www.halekulani.com/halekulani-announces-the-launch-of-an-exceptional-new-culinary-concept-at-orchids/"
     ]
    }
+  },
+  {
+   "target": "Ohia Waikiki Studio Suites",
+   "target_address": "2280 Kuhio Ave",
+   "fields": {
+    "note": "A 17-story hotel with about 250 rooms on Kuhio Avenue. It was formerly the Outrigger Surf East and took the Ohia Waikiki name in June 2015, when Aqua Hospitality took over and refurbished it.",
+    "start": 2015,
+    "approx": false,
+    "links": [
+     "https://eturbonews.com/?p=121375",
+     "https://www.hospitalitynet.org/news/4071096/aqua-hospitality-expands-oahu-portfolio-with-ohia-waikiki",
+     "https://www.trip.com/hotels/honolulu-hotel-detail-3645514/aqua-ohia-waikiki/"
+    ]
+   }
   }
  ]
 }
