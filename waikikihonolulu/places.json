@@ -3314,15 +3314,28 @@
  {
   "name": "Arancino di Mare",
   "address": "2552 Kalākaua Ave",
-  "start": 2026,
+  "start": 2004,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Italian restaurant in the Waikiki Beach Marriott Resort & Spa, opened in 2004 as a sister to the original Arancino on Beach Walk. It is still open today.",
   "lat": 21.2730757,
-  "lng": -157.82304
+  "lng": -157.82304,
+  "links": [
+   {
+    "url": "https://www.honolulumagazine.com/?p=43078",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.opentable.com/r/arancino-di-mare-marriott-honolulu",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.opentable.com/r/arancino-di-mare-marriott-honolulu?corrid=1f6c0cd8-24d0-4fae-b258-43aae5e76245&avt=eyJ2IjoyLCJtIjoxLCJwIjowLCJzIjowLCJuIjowfQ",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Giovanni Pastrami",

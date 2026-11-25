@@ -1233,6 +1233,20 @@
      "https://www.honolulumagazine.com/our-top-5-best-eats-at-dukes-lane-market-eatery/"
     ]
    }
+  },
+  {
+   "target": "Arancino di Mare",
+   "target_address": "2552 Kal\u0101kaua Ave",
+   "fields": {
+    "note": "Italian restaurant in the Waikiki Beach Marriott Resort & Spa, opened in 2004 as a sister to the original Arancino on Beach Walk. It is still open today.",
+    "start": 2004,
+    "approx": false,
+    "links": [
+     "https://www.honolulumagazine.com/?p=43078",
+     "https://www.opentable.com/r/arancino-di-mare-marriott-honolulu",
+     "https://www.opentable.com/r/arancino-di-mare-marriott-honolulu?corrid=1f6c0cd8-24d0-4fae-b258-43aae5e76245&avt=eyJ2IjoyLCJtIjoxLCJwIjowLCJzIjowLCJuIjowfQ"
+    ]
+   }
   }
  ]
 }
