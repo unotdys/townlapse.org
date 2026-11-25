@@ -864,6 +864,21 @@
      "https://www.staradvertiser.com/2026/06/26/breaking-news/nordstrom-rack-in-waikiki-set-to-close-next-month/"
     ]
    }
+  },
+  {
+   "target": "Wolfgang Puck Express",
+   "target_address": "2570 Kal\u0101kaua Ave",
+   "fields": {
+    "note": "Quick-service Wolfgang Puck Express at the Aston Waikiki Beach Hotel, now the Twin Fin Hotel. It opened in December 2002 as the chain's second Hawaii location and is still open.",
+    "start": 2002,
+    "approx": false,
+    "links": [
+     "http://the.honoluluadvertiser.com/article/2002/Dec/09/bz/bz01a.html",
+     "https://archives.starbulletin.com/2002/09/01/features/story3.html",
+     "https://archives.starbulletin.com/2003/02/16/features/eater.html",
+     "https://www.travelweekly.com/Destinations2001-2007/Travel-Weekly-s-Hawaii-E-Letter-January-27-2003"
+    ]
+   }
   }
  ]
 }

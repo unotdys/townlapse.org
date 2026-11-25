@@ -2285,15 +2285,32 @@
  {
   "name": "Wolfgang Puck Express",
   "address": "2570 Kalākaua Ave",
-  "start": 2026,
+  "start": 2002,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Quick-service Wolfgang Puck Express at the Aston Waikiki Beach Hotel, now the Twin Fin Hotel. It opened in December 2002 as the chain's second Hawaii location and is still open.",
   "lat": 21.2723464,
-  "lng": -157.822877
+  "lng": -157.822877,
+  "links": [
+   {
+    "url": "http://the.honoluluadvertiser.com/article/2002/Dec/09/bz/bz01a.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://archives.starbulletin.com/2002/09/01/features/story3.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://archives.starbulletin.com/2003/02/16/features/eater.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelweekly.com/Destinations2001-2007/Travel-Weekly-s-Hawaii-E-Letter-January-27-2003",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Jamba",
