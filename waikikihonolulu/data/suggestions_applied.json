@@ -952,6 +952,20 @@
      "https://www.honolulumagazine.com/whose-tonkatsu-reigns-supreme/"
     ]
    }
+  },
+  {
+   "target": "Wolfgang's Steakhouse",
+   "target_address": "2301 Kal\u0101kaua Ave",
+   "fields": {
+    "note": "Dry-aged prime steakhouse from Wolfgang Zwiener, a New York steakhouse brand, that opened in February 2009 on the third floor of Royal Hawaiian Center. Still open today.",
+    "start": 2009,
+    "approx": false,
+    "links": [
+     "https://archives.starbulletin.com/content/20090222_Pricey_but_precious_steak.html",
+     "https://archives.starbulletin.com/content/20090227_Our_Picks",
+     "https://dining.staradvertiser.com/2013/01/columns/fine-dining-also-includes-unbeatable-lunch-deals/"
+    ]
+   }
   }
  ]
 }
