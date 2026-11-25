@@ -2399,6 +2399,23 @@
      "https://www.paloaltoonline.com/morgue/cover/1994_Sep_21.COVER921.html"
     ]
    }
+  },
+  {
+   "target": "Coupa Cafe",
+   "target_address": "111 Lytton Ave",
+   "fields": {
+    "note": "Venezuelan-style cafe in the Lytton Gateway building across from the downtown Caltrain station, opened in late January 2016 as Coupa's second downtown Palo Alto location. The family's original cafe opened on Ramona Street in 2004.",
+    "start": 2016,
+    "end": null,
+    "approx": false,
+    "links": [
+     "https://joe.coffee/locations/ca/palo-alto/coupa-cafe-lytton-palo-alto-6a719d2f-fcf6-4422-adc4-d95a67ab5468/",
+     "https://n2v.paloaltoonline.com/blogs/p/2016/01/26/now-open-second-coupa-cafe-in-palo-alto",
+     "https://www.coupacafe.com/Locations/palo-alto-lytton",
+     "https://www.paloaltoonline.com/news/print/2016/03/03/celebrate-with-coupa",
+     "https://www.yelp.com/biz/coupa-caf%C3%A9-lytton-palo-alto"
+    ]
+   }
   }
  ]
 }
