@@ -2998,16 +2998,29 @@
  },
  {
   "name": "Kaiwa teppan & sushi",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "226 Lewers St",
+  "start": 2007,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2795058,
-  "lng": -157.8309994
+  "note": "Modern Japanese teppan and sushi restaurant from Tokyo that opened on the second level of Waikiki Beach Walk around 2007. It is still open.",
+  "lat": 21.2792772,
+  "lng": -157.8309822,
+  "links": [
+   {
+    "url": "http://archives.starbulletin.com/2007/10/07/features/eater.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://opentable.com/r/kaiwa-waikiki",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.govisithawaii.com/2007/09/13/hawaii-vacation-news-roundup-for-september-13th/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Ali'i Market",
