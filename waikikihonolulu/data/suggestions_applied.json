@@ -1838,6 +1838,22 @@
      "https://www.kyoyahotelsandresorts.com/kyo-ya-history-in-hawaii/"
     ]
    }
+  },
+  {
+   "target": "Hapas",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "2255 Kalakaua Ave",
+    "note": "Pizza and pasta restaurant in the Sheraton Waikiki facing the Infinity Pool, opened around 2014 in a former market space. Its pizzas mix Italian ingredients with Hawaiian flavors.",
+    "start": 2014,
+    "approx": true,
+    "links": [
+     "https://nextdesignllc.com/hapas-pizza/",
+     "https://www.gohawaii.com/listing/hapas/1607",
+     "https://www.honolulumagazine.com/newish-eats-hapas-pizza/",
+     "https://www.travelagewest.com/Travel/Hawaii/New-Oahu-Restaurants"
+    ]
+   }
   }
  ]
 }

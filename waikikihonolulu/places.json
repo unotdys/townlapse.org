@@ -4804,16 +4804,33 @@
  },
  {
   "name": "Hapas",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "2255 Kalakaua Ave",
+  "start": 2014,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2775336,
-  "lng": -157.8309769
+  "note": "Pizza and pasta restaurant in the Sheraton Waikiki facing the Infinity Pool, opened around 2014 in a former market space. Its pizzas mix Italian ingredients with Hawaiian flavors.",
+  "lat": 21.27762,
+  "lng": -157.8302445,
+  "links": [
+   {
+    "url": "https://nextdesignllc.com/hapas-pizza/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.gohawaii.com/listing/hapas/1607",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/newish-eats-hapas-pizza/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelagewest.com/Travel/Hawaii/New-Oahu-Restaurants",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Honolulu Coffee",
