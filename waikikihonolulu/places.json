@@ -5760,15 +5760,28 @@
  {
   "name": "The Imperial Hawaii Resort",
   "address": "205 Lewers St",
-  "start": 2026,
+  "start": 1967,
   "end": null,
   "category": "hotel",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "This high-rise went up in the mid-to-late 1960s on the site of the former Coconut Grove Hotel, and it became the Imperial Hawaii Hotel after the Denny's chain bought it in the late 1960s. It added a vacation ownership club in 1980 and still operates as both a hotel and a timeshare.",
   "lat": 21.2785867,
-  "lng": -157.8313371
+  "lng": -157.8313371,
+  "links": [
+   {
+    "url": "https://hawaiiliving.com/oahu/honolulu/metro/imperial-hawaii-resort-waikiki-condos-for-sale",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.businesstravelnews.com/Hotels/Honolulu/The-Imperial-Hawaii-Resort-at-Waikiki-p3167104",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hawaiimagazine.com/imperial-hawaii-legacy-and-tradition/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Shirley Foot & Body Massage",
