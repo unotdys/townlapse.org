@@ -615,6 +615,20 @@
     "https://kith.com/blogs/discover/kith-treats-heritage-program-liliha-bakery",
     "https://www.lilihabakery.com/our-story"
    ]
+  },
+  {
+   "name": "Honolulu Cookie Company",
+   "address": "227 Lewers St, Honolulu, HI 96815",
+   "note": "Tabelog lists the Waikiki Beach Walk store at 227 Lewers St and records its opening in 2007; Honolulu Cookie Company's official history says several new Waikiki stores opened that year, and its current locator confirms the address.",
+   "start": 2007,
+   "end": null,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "https://m.honolulucookie.com/content/about-us.asp",
+    "https://tabelog.com/hawaii/A6001/A600101/60001065/",
+    "https://www.honolulucookie.com/content/store-locations.asp"
+   ]
   }
  ],
  "corrections": [

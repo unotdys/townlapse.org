@@ -1031,6 +1031,32 @@
   ]
  },
  {
+  "name": "Honolulu Cookie Company",
+  "address": "227 Lewers St, Honolulu, HI 96815",
+  "start": 2007,
+  "end": null,
+  "category": "retail",
+  "approx": true,
+  "note": "Tabelog lists the Waikiki Beach Walk store at 227 Lewers St and records its opening in 2007; Honolulu Cookie Company's official history says several new Waikiki stores opened that year, and its current locator confirms the address.",
+  "lat": 21.2793595,
+  "lng": -157.8305369,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://m.honolulucookie.com/content/about-us.asp",
+    "kind": "Article"
+   },
+   {
+    "url": "https://tabelog.com/hawaii/A6001/A600101/60001065/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulucookie.com/content/store-locations.asp",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -5895,19 +5921,6 @@
   "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2789845,
   "lng": -157.8309563
- },
- {
-  "name": "Honolulu Cookie Company",
-  "address": "227 Lewers St",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (confectionery). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2790315,
-  "lng": -157.830914
  },
  {
   "name": "ABC",
