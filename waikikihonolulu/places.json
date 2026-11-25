@@ -1874,16 +1874,33 @@
  },
  {
   "name": "Spada Bar & Restaurant",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
+  "address": "400 Royal Hawaiian Ave",
+  "start": 2008,
+  "end": 2020,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (bar). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2810426,
-  "lng": -157.8277865
+  "note": "Northern Italian restaurant on the lobby level of The Wyland Waikiki, which opened in 2008 and stayed on after the hotel became the Courtyard by Marriott Waikiki Beach. It had closed by 2021, when KALO: Hawaiian Food by Chai's opened in its space.",
+  "lat": 21.2814211,
+  "lng": -157.8282568,
+  "links": [
+   {
+    "url": "https://dining.staradvertiser.com/2021/09/columns/a-la-carte/hawaiian-flavors-in-waikiki/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://dining.staradvertiser.com/2023/03/features/cover-story/a-taste-of-paradise/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hotelexecutive.com/newswire/14199/wyland-waikiki-opens-new-spa-and-restaurant",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelagewest.com/Travel/USA-Canada/Wyland-Waikiki-Resort-and-Spa-To-Become-Courtyard-by-Marriott",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Siam Square",
