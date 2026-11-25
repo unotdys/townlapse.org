@@ -1139,6 +1139,28 @@
   ]
  },
  {
+  "name": "Nori Bar",
+  "address": "2255 Kūhiō Ave, Honolulu, HI 96815",
+  "start": 2026,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Aloha State Daily reports Nori Bar just opened its Waikiki location on Kūhiō Avenue in April 2026 and gives the contact address as 2255 Kūhiō Ave. The restaurant’s official site confirms the Waikiki location at that address; the task did not list one.",
+  "lat": 21.2794303,
+  "lng": -157.8269253,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://alohastatedaily.com/2026/04/01/nori-bar-hawaii-opens-waikiki-location/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://noribarhawaii.com/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -6747,19 +6769,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Nori Bar",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2797202,
-  "lng": -157.8269234
  },
  {
   "name": "Kani Ka Pila Grille",

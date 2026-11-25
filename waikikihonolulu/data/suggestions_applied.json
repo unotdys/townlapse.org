@@ -672,6 +672,19 @@
     "https://stixasia.com/shops/honolulu-noodle-co/",
     "https://www.honolulumagazine.com/?p=612731"
    ]
+  },
+  {
+   "name": "Nori Bar",
+   "address": "2255 K\u016bhi\u014d Ave, Honolulu, HI 96815",
+   "note": "Aloha State Daily reports Nori Bar just opened its Waikiki location on K\u016bhi\u014d Avenue in April 2026 and gives the contact address as 2255 K\u016bhi\u014d Ave. The restaurant\u2019s official site confirms the Waikiki location at that address; the task did not list one.",
+   "start": 2026,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://alohastatedaily.com/2026/04/01/nori-bar-hawaii-opens-waikiki-location/",
+    "https://noribarhawaii.com/"
+   ]
   }
  ],
  "corrections": [
