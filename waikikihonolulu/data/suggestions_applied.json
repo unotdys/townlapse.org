@@ -2259,6 +2259,21 @@
      "https://www.honolulumagazine.com/?p=530151"
     ]
    }
+  },
+  {
+   "target": "Halekulani Bakery",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "2233 Helumoa Rd",
+    "note": "Halekulani's first branded bakery and restaurant opened in October 2019 with the Halepuna Waikiki hotel (formerly the Waikiki Parc), on the ground floor where Nobu Waikiki used to be. It closed for part of the COVID-19 pandemic and later reopened.",
+    "start": 2019,
+    "approx": false,
+    "links": [
+     "https://www.halekulani.com/dining/halekulani-bakery/",
+     "https://www.halekulani.com/wp-content/uploads/2021/03/2019-10-01-Halepuna-Waikiki-by-Halekulani-Opens.pdf",
+     "https://www.hawaiimagazine.com/halekulani-opens-a-new-bakery-thats-just-as-fab-as-the-hotel/"
+    ]
+   }
   }
  ]
 }
