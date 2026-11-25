@@ -1340,16 +1340,29 @@
  },
  {
   "name": "Hula Grill Waikiki",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "2335 Kalakaua Ave",
+  "start": 2004,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2769825,
-  "lng": -157.8277491
+  "note": "Oceanfront restaurant run by TS Restaurants on the second floor of the Outrigger Waikiki Beach Resort, above Duke's Waikiki. It opened in mid-2004, with dinner service planned to start June 22.",
+  "lat": 21.27715,
+  "lng": -157.8276707,
+  "links": [
+   {
+    "url": "http://the.honoluluadvertiser.com/article/2004/Sep/10/en/en10a.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://archives.starbulletin.com/2004/05/30/business/engle.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www-eur.cvent.com/venues/honolulu/restaurant/hula-grill-waikiki/venue-eccaaed7-76f2-4ea0-b927-c723cc25fbed",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Teddy's Bigger Burgers",

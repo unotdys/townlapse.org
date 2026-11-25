@@ -459,6 +459,21 @@
      "https://www.yelp.com/biz/kuhio-nails-and-spa-honolulu-2"
     ]
    }
+  },
+  {
+   "target": "Hula Grill Waikiki",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "2335 Kalakaua Ave",
+    "note": "Oceanfront restaurant run by TS Restaurants on the second floor of the Outrigger Waikiki Beach Resort, above Duke's Waikiki. It opened in mid-2004, with dinner service planned to start June 22.",
+    "start": 2004,
+    "approx": false,
+    "links": [
+     "http://the.honoluluadvertiser.com/article/2004/Sep/10/en/en10a.html",
+     "https://archives.starbulletin.com/2004/05/30/business/engle.html",
+     "https://www-eur.cvent.com/venues/honolulu/restaurant/hula-grill-waikiki/venue-eccaaed7-76f2-4ea0-b927-c723cc25fbed"
+    ]
+   }
   }
  ]
 }
