@@ -5734,15 +5734,28 @@
  {
   "name": "Starbucks",
   "address": "2345 Kūhiō Ave",
-  "start": 2026,
+  "start": 2024,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Starbucks Café inside the Target store at International Market Place, which opened in late October 2024.",
   "lat": 21.2783385,
-  "lng": -157.8253204
+  "lng": -157.8253204,
+  "links": [
+   {
+    "url": "https://drugstorenews.com/target-sets-9-store-openings-october",
+    "kind": "Article"
+   },
+   {
+    "url": "https://theshelbyreport.com/2025/01/17/beauty-challenges-are-dual-realities-in-isolated-expensive-hawaii/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/?p=735757",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "The Imperial Hawaii Resort",
