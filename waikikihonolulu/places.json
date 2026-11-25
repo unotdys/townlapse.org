@@ -792,6 +792,28 @@
   ]
  },
  {
+  "name": "Topped Waikiki",
+  "address": "333 Royal Hawaiian Ave",
+  "start": 2021,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Topped Waikiki relocated from Kuhio Ave to 333 Royal Hawaiian Ave (Unit B) in May 2021.",
+  "lat": 21.2799474,
+  "lng": -157.8283374,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://alocohawaii.com/article/detail/4526",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.kaukauhawaii.com/storedetail/2045/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -5109,19 +5131,6 @@
     "kind": "Listing"
    }
   ]
- },
- {
-  "name": "Topped Waikiki",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2799774,
-  "lng": -157.8284434
  },
  {
   "name": "Kahala",
