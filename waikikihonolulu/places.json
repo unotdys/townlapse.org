@@ -4702,15 +4702,28 @@
  {
   "name": "Tucker & Bevvy",
   "address": "2424 Kalakaua Ave",
-  "start": 2026,
+  "start": 2017,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Second location of the Australian-style picnic cafe, in the Pualeilani Atrium Shops on the Hyatt Regency Waikiki's ground floor. It was announced in June 2017 to open that October.",
   "lat": 21.2762048,
-  "lng": -157.8253498
+  "lng": -157.8253498,
+  "links": [
+   {
+    "url": "https://hawaiiirl.com/blogs/new-stores-at-hyatt-regency-waikiki-beach-resort-and-spa.html/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hyatt.com/hyatt-regency/en-US/hnlrw/dining",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.tuckerandbevvy.com/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Furusato Sushi",

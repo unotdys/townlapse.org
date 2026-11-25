@@ -1792,6 +1792,20 @@
      "https://www.hawaiireporter.com/?p=34094"
     ]
    }
+  },
+  {
+   "target": "Tucker & Bevvy",
+   "target_address": "2424 Kalakaua Ave",
+   "fields": {
+    "note": "Second location of the Australian-style picnic cafe, in the Pualeilani Atrium Shops on the Hyatt Regency Waikiki's ground floor. It was announced in June 2017 to open that October.",
+    "start": 2017,
+    "approx": true,
+    "links": [
+     "https://hawaiiirl.com/blogs/new-stores-at-hyatt-regency-waikiki-beach-resort-and-spa.html/",
+     "https://www.hyatt.com/hyatt-regency/en-US/hnlrw/dining",
+     "https://www.tuckerandbevvy.com/"
+    ]
+   }
   }
  ]
 }
