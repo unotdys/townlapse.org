@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Connect your AI · Gift a Cycle for Townlapse</title>
+<meta name="robots" content="noindex">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700;800&family=Public+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{--ink:#F3EEE3;--dim:#B9B3A6;--bg:#1C2629;--panel:#243135;--line:#3A4A4F;--yellow:#EBC55A;--pink:#E58C8C;--green:#8FD1A8;
+  --display:"Big Shoulders Display",Impact,"Arial Narrow",sans-serif;--body:"Public Sans",system-ui,-apple-system,"Segoe UI",sans-serif;color-scheme:dark;
+  box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+*,*::before,*::after{box-sizing:inherit}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 17px/1.55 var(--body)}
+main{max-width:620px;margin:0 auto;padding:28px 22px 60px}
+a{color:var(--ink)}
+.home{font:800 26px var(--display);text-decoration:none;letter-spacing:.01em}
+h1{font:800 clamp(40px,8vw,58px)/.98 var(--display);margin:26px 0 8px}
+.gac{margin:0 0 18px;font-size:15px;color:var(--dim)}.gac a{font-weight:600;text-decoration:none}
+.lede{color:var(--dim);margin:0 0 22px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:18px 20px;margin:14px 0}
+.card h2{font:800 24px var(--display);margin:0 0 6px;letter-spacing:.01em}
+.card p{margin:0 0 12px;color:var(--dim)}
+label{display:block;font-weight:600;margin:12px 0 5px;font-size:15px}
+input,select{width:100%;font:16px var(--body);color:var(--ink);background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:11px 12px}
+input.key{font-family:ui-monospace,SFMono-Regular,Menlo,monospace}
+.row{display:flex;gap:10px;flex-wrap:wrap}.row>*{flex:1 1 160px}
+button{font:600 17px var(--body);border:0;border-radius:999px;padding:12px 22px;background:var(--yellow);color:#1b1b1b;cursor:pointer;margin-top:14px}
+button.ghost{background:transparent;color:var(--ink);border:1px solid var(--line)}
+button:disabled{opacity:.55;cursor:default}
+button:focus-visible,input:focus-visible,select:focus-visible,a:focus-visible{outline:3px solid var(--yellow);outline-offset:2px}
+.msg{margin-top:10px;font-size:15px}.err{color:var(--pink)}.ok{color:var(--green)}
+.who{font-weight:600}
+.small{font-size:14px;color:var(--dim)}
+.check{display:flex;gap:10px;align-items:center;font-weight:500}.check input{width:auto;accent-color:var(--yellow)}
+</style>
+</head>
+<body>
+<main>
+  <a class="home" href="/">Townlapse</a>
+  <h1 id="title">Connect your AI</h1>
+  <p class="gac"><a href="https://giftacycle.org">🎁 Gift a Cycle</a> powered by <a href="https://nobgp.com">noBGP</a></p>
+  <p class="lede" id="lede">Loading…</p>
+
+  <div id="body" hidden>
+    <div class="card" id="savedCard" hidden>
+      <h2>Continue</h2>
+      <p>This browser has your donation: <span class="who" id="savedWho"></span></p>
+      <button id="useSaved">Connect as this donor</button>
+    </div>
+
+    <div class="card">
+      <h2>Start a new donation</h2>
+      <p>Your AI researches town history within the budget you set. Every finding is checked before it reaches a map.</p>
+      <div class="row">
+        <div><label for="ai">Your AI</label><select id="ai"><option value="muse">Muse</option><option value="chatgpt">ChatGPT</option><option value="claude">Claude</option><option value="gemini">Gemini</option><option value="grok">Grok</option><option value="copilot">Copilot</option><option value="other">Another AI</option></select></div>
+        <div><label for="per">Assignments a day</label><select id="per"><option>5</option><option selected>10</option><option>20</option><option>40</option></select></div>
+      </div>
+      <div class="row">
+        <div><label for="mode">How</label><select id="mode"><option value="adhoc">Once, when I ask my AI</option><option value="subscription">On a schedule</option></select></div>
+        <div><label for="where">Where</label><select id="where"><option value="neediest">Where it's needed most</option></select></div>
+      </div>
+      <label for="name">Name for the contributor list <span class="small">optional</span></label>
+      <input id="name" maxlength="40" autocomplete="name">
+      <label class="check"><input type="checkbox" id="credit" checked> List me as a contributor</label>
+      <button id="createBtn">Create and connect</button>
+    </div>
+
+    <div class="card">
+      <h2>Already donating?</h2>
+      <p>Paste your donor key (it starts with tld_). You'll find it on your <a href="/donate/me/">donations page</a>.</p>
+      <input class="key" id="keyIn" placeholder="tld_…" autocomplete="off" spellcheck="false">
+      <button class="ghost" id="useKey">Connect with this key</button>
+    </div>
+
+    <p class="small" id="msg" role="status" aria-live="polite"></p>
+    <p class="small"><a href="#" id="deny">Cancel and go back</a> · Your AI only gets research assignments within your budget; it can't see anything else about you.</p>
+  </div>
+</main>
+<script>
+const API = "https://api.townlapse.org/api/tl";
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const req = new URLSearchParams(location.search).get("req");
+let client = "your AI";
+
+function say(t, cls) { $("msg").textContent = t; $("msg").className = "small msg " + (cls || ""); }
+async function approve(body) {
+  document.querySelectorAll("button").forEach(b => b.disabled = true); say("Connecting…");
+  try {
+    const r = await fetch(`${API}/oauth/approve`, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(Object.assign({ req }, body)) });
+    const d = await r.json();
+    if (!r.ok) throw new Error(d.error || "Couldn't connect.");
+    if (d.key) { try { localStorage.setItem("townlapse_donor_key", d.key); } catch {} }
+    if (body.deny) { location.href = d.redirect; return; }
+    say(`Connected as ${d.donor}. Taking you back to ${client}…`, "ok");
+    setTimeout(() => location.href = d.redirect, 900);
+  } catch (e) { say(e.message, "err"); document.querySelectorAll("button").forEach(b => b.disabled = false); }
+}
+
+(async () => {
+  if (!req) { $("lede").textContent = "Open this page from your AI app's \"add connector\" step: it starts the connection for you."; return; }
+  try {
+    const r = await fetch(`${API}/oauth/request?req=${encodeURIComponent(req)}`); const d = await r.json();
+    if (!r.ok) throw new Error(d.error || "This sign-in link isn't valid.");
+    client = d.client || "your AI";
+    $("title").textContent = `Connect ${client}`;
+    $("lede").textContent = `${client} wants to take Townlapse research assignments for you. Choose how to connect; you'll go straight back to ${d.redirect_host || "your app"}.`;
+    $("body").hidden = false;
+  } catch (e) { $("lede").innerHTML = `<span class="err">${esc(e.message)}</span>`; return; }
+  // a donation saved in this browser
+  let saved = null; try { saved = localStorage.getItem("townlapse_donor_key"); } catch {}
+  if (saved) {
+    try { const m = await (await fetch(`${API}/d/me`, { headers: { "x-donor-key": saved } })).json();
+      if (m && m.donor) { $("savedWho").textContent = `${m.donor} · ${m.ai}${m.budget && m.budget.town ? " · " + m.budget.town : ""}`; $("savedCard").hidden = false; $("useSaved").onclick = () => approve({ key: saved }); } } catch {}
+  }
+  try { const reg = await (await fetch("/towns.json")).json();
+    $("where").innerHTML += (reg.towns || []).map(t => `<option value="town:${esc(t.slug)}">${esc(t.name)}</option>`).join(""); } catch {}
+  const guess = /muse|meta/i.test(client) ? "muse" : /chatgpt|openai/i.test(client) ? "chatgpt" : /claude|anthropic/i.test(client) ? "claude" : /gemini|google/i.test(client) ? "gemini" : /grok|xai/i.test(client) ? "grok" : null;
+  if (guess) $("ai").value = guess;
+})();
+
+$("createBtn").onclick = () => {
+  const w = $("where").value, town = w.startsWith("town:") ? w.slice(5) : "";
+  approve({ new: { ai: $("ai").value, mode: $("mode").value, budget_per_day: +$("per").value, scope: town ? "town" : "neediest", town,
+                   name: $("name").value, credit: $("credit").checked } });
+};
+$("useKey").onclick = () => { const k = $("keyIn").value.trim(); if (!/^tld_/.test(k)) { say("That doesn't look like a donor key (it starts with tld_).", "err"); return; } approve({ key: k }); };
+$("deny").onclick = e => { e.preventDefault(); approve({ deny: true }); };
+</script>
+</body>
+</html>
