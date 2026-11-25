@@ -6042,15 +6042,24 @@
  {
   "name": "Junbi",
   "address": "2201 Kalākaua Ave",
-  "start": 2026,
+  "start": 2022,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "A matcha drink shop that opened in November 2022 on the ground floor of Royal Hawaiian Center's Building C, Junbi's first Hawaii location. In late 2026 the company's website listed the Waikiki shop as moving soon.",
   "lat": 21.2783485,
-  "lng": -157.8286924
+  "lng": -157.8286924,
+  "links": [
+   {
+    "url": "https://junbishop.com/pages/locations",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.aloha-street.com/article/2023/01/379571/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Penny's Waikiki Malasadas",

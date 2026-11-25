@@ -2412,6 +2412,19 @@
      "https://kingsandqueenshawaii.com/"
     ]
    }
+  },
+  {
+   "target": "Junbi",
+   "target_address": "2201 Kal\u0101kaua Ave",
+   "fields": {
+    "note": "A matcha drink shop that opened in November 2022 on the ground floor of Royal Hawaiian Center's Building C, Junbi's first Hawaii location. In late 2026 the company's website listed the Waikiki shop as moving soon.",
+    "start": 2022,
+    "approx": false,
+    "links": [
+     "https://junbishop.com/pages/locations",
+     "https://www.aloha-street.com/article/2023/01/379571/"
+    ]
+   }
   }
  ]
 }
