@@ -4017,6 +4017,37 @@
   "start_unknown": true
  },
  {
+  "name": "Webster House",
+  "address": "401 Webster St",
+  "start": 2026,
+  "end": null,
+  "category": "community",
+  "approx": true,
+  "note": "Small downtown retirement community with independent and assisted living, plus a skilled-nursing health center next door at 437 Webster St. It was part of Episcopal Senior Communities by 2014 and is now run by the nonprofit Front Porch; its opening year isn't confirmed yet.",
+  "lat": 37.4503826,
+  "lng": -122.1589102,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloalto.gov/files/assets/public/v/1/from-archive/agendas-minutes-reports/agendas-minutes/city-council-agendas-minutes/2011/110912-doc-letters-set-1.pdf",
+    "kind": "History"
+   },
+   {
+    "url": "https://frontporch.net/community/webster-house/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://issuu.com/paloaltoweekly/docs/2014_02_07.paw.section1/30",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.seniorhousingnet.com/seniorliving-detail/webster-house_401-webster-st_palo-alto_ca_94301-523649",
+    "kind": "Article"
+   }
+  ],
+  "start_unknown": true
+ },
+ {
   "name": "The Prolific Oven",
   "address": "550 Waverley St",
   "start": 1980,

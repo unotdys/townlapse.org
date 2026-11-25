@@ -1321,6 +1321,21 @@
     "https://www.pastheritage.org/Images/awards/2005%20awards/2005%20Parlor.jpg",
     "https://www.pastheritage.org/inv/invH/Homer206.html"
    ]
+  },
+  {
+   "name": "Webster House",
+   "address": "401 Webster St",
+   "note": "Small downtown retirement community with independent and assisted living, plus a skilled-nursing health center next door at 437 Webster St. It was part of Episcopal Senior Communities by 2014 and is now run by the nonprofit Front Porch; its opening year isn't confirmed yet.",
+   "start": null,
+   "end": null,
+   "category": "community",
+   "approx": true,
+   "links": [
+    "https://frontporch.net/community/webster-house/",
+    "https://issuu.com/paloaltoweekly/docs/2014_02_07.paw.section1/30",
+    "https://www.paloalto.gov/files/assets/public/v/1/from-archive/agendas-minutes-reports/agendas-minutes/city-council-agendas-minutes/2011/110912-doc-letters-set-1.pdf",
+    "https://www.seniorhousingnet.com/seniorliving-detail/webster-house_401-webster-st_palo-alto_ca_94301-523649"
+   ]
   }
  ],
  "corrections": [
