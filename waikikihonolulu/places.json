@@ -4197,16 +4197,33 @@
  },
  {
   "name": "Tumi",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "2330 Kalakaua Ave",
+  "start": 2023,
   "end": null,
   "category": "retail",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (bag). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2781108,
-  "lng": -157.8268881
+  "note": "Boutique of the TUMI luggage and travel-goods brand in International Market Place (Suite 112), listed in mall directories by early 2023. It may have opened earlier.",
+  "lat": 21.2783385,
+  "lng": -157.8260782,
+  "links": [
+   {
+    "url": "https://www.mallscenters.com/brands/tumi/hawaii",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.mallsinamerica.com/hawaii/international-market-place",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.tumi.com/store/0000001227",
+    "kind": "Article"
+   },
+   {
+    "url": "https://startpage.mapquest.com/us/hawaii/tumi-store--waikiki-international-market-place-303497110",
+    "kind": "Listing"
+   }
+  ]
  },
  {
   "name": "VINCE.",

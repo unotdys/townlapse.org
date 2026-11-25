@@ -1549,6 +1549,22 @@
      "https://nightriderjewelry.com/nightrider-jewelry-opens-boutique-location-in-honolulu"
     ]
    }
+  },
+  {
+   "target": "Tumi",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "2330 Kalakaua Ave",
+    "note": "Boutique of the TUMI luggage and travel-goods brand in International Market Place (Suite 112), listed in mall directories by early 2023. It may have opened earlier.",
+    "start": 2023,
+    "approx": true,
+    "links": [
+     "https://startpage.mapquest.com/us/hawaii/tumi-store--waikiki-international-market-place-303497110",
+     "https://www.mallscenters.com/brands/tumi/hawaii",
+     "https://www.mallsinamerica.com/hawaii/international-market-place",
+     "https://www.tumi.com/store/0000001227"
+    ]
+   }
   }
  ]
 }
