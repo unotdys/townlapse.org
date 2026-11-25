@@ -103,7 +103,7 @@ async function settings(body) {
 }
 const CONNECTOR = "https://api.townlapse.org/mcp/tl";
 function setupFor(ai, key, b) {
-  const start = `Use the Townlapse connector to help research local history: call get_task, research that assignment on the web, submit_places with anything you can source (never guess), then complete_task with a short note. Repeat until my_budget shows nothing left for today, then tell me what you found.`;
+  const start = `Use the Townlapse connector to help research local history: call get_tasks with count 3, research all three on the web, then report everything in ONE finish_tasks call (only places you can source with a page you opened, never guess, plus a short note per assignment) and set next_count to 3 to get the next batch in the same reply. Repeat until my_budget shows nothing left for today, then tell me what you found. If you hit a tool-call limit, stop and tell me; I'll say continue.`;
   if (ai === "muse") return `<ol><li>Paste into Muse:<pre>Create a custom connector named "Townlapse" for a remote MCP server. URL: ${CONNECTOR} (streamable HTTP). Authentication: an API key sent in the request header x-townlapse-key.</pre></li>
     <li>Click <b>Connect</b> and paste this key into Muse's secure box (not the chat):<div class="key">${esc(key)}</div>If asked, <b>Always allow</b> api.townlapse.org.</li><li>Then paste:<pre>${esc(start)}</pre></li></ol>`;
   const where = ai === "chatgpt" ? "ChatGPT: Settings → Apps &amp; Connectors (Developer mode) → Create" : ai === "claude" ? "Claude: Settings → Connectors → Add custom connector" : "its custom connector (MCP) settings";
