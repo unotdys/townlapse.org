@@ -2118,6 +2118,20 @@
      "https://www.staradvertiser.com/2017/04/04/food/quickbites/a-new-hideout-on-kuhio/"
     ]
    }
+  },
+  {
+   "target": "Leo's Taverna",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "2239 Waikolu Way",
+    "note": "Waikiki branch of a family-owned Greek and Mediterranean restaurant that also has other Honolulu locations, in an outdoor food-stall area at 2239 Waikolu Way. It is open today, but the year it opened hasn't been confirmed.",
+    "start": null,
+    "links": [
+     "https://startpage.mapquest.com/us/hawaii/leos-taverna-waikiki-431044434",
+     "https://www.grubhub.com/restaurant/leos-taverna-waikiki-2239-waikolu-way-honolulu/3210473",
+     "https://www.honolulucoupon.com/post/new-hawaii-food-court-options-are-wooing-diners-part-2/"
+    ]
+   }
   }
  ]
 }

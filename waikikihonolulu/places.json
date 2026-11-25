@@ -5345,16 +5345,30 @@
  },
  {
   "name": "Leo's Taverna",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "2239 Waikolu Way",
+  "start": null,
   "end": null,
   "category": "food",
   "approx": false,
   "start_unknown": true,
   "source": "osm",
-  "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2800014,
-  "lng": -157.8279815
+  "note": "Waikiki branch of a family-owned Greek and Mediterranean restaurant that also has other Honolulu locations, in an outdoor food-stall area at 2239 Waikolu Way. It is open today, but the year it opened hasn't been confirmed.",
+  "lat": 21.2800199,
+  "lng": -157.8280182,
+  "links": [
+   {
+    "url": "https://www.grubhub.com/restaurant/leos-taverna-waikiki-2239-waikolu-way-honolulu/3210473",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulucoupon.com/post/new-hawaii-food-court-options-are-wooing-diners-part-2/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://startpage.mapquest.com/us/hawaii/leos-taverna-waikiki-431044434",
+    "kind": "Listing"
+   }
+  ]
  },
  {
   "name": "Desi's Indian Curry",
