@@ -2614,15 +2614,28 @@
  {
   "name": "Royal Hawaiian Center",
   "address": "2233 Kalākaua Ave",
-  "start": 2026,
+  "start": 1980,
   "end": null,
   "category": "retail",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (mall). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "An open-air shopping and dining center on Helumoa land next to the Royal Hawaiian hotel. It opened around 1979–1980 as the Royal Hawaiian Shopping Center and was rebuilt in a major renovation from 2005 to 2008.",
   "lat": 21.2794795,
-  "lng": -157.830062
+  "lng": -157.830062,
+  "links": [
+   {
+    "url": "https://www.royalhawaiiancenter.com/heritage",
+    "kind": "History"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Royal_Hawaiian_Center",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.ksbe.edu/news/imua/archived/royal-hawaiian-shopping-center-begins-revitalization-efforts",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Hawaii Tile Factory",

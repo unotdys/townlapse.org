@@ -981,6 +981,20 @@
      "https://dining.staradvertiser.com/2013/01/columns/fine-dining-also-includes-unbeatable-lunch-deals/"
     ]
    }
+  },
+  {
+   "target": "Royal Hawaiian Center",
+   "target_address": "2233 Kal\u0101kaua Ave",
+   "fields": {
+    "note": "An open-air shopping and dining center on Helumoa land next to the Royal Hawaiian hotel. It opened around 1979\u20131980 as the Royal Hawaiian Shopping Center and was rebuilt in a major renovation from 2005 to 2008.",
+    "start": 1980,
+    "approx": true,
+    "links": [
+     "https://en.wikipedia.org/wiki/Royal_Hawaiian_Center",
+     "https://www.ksbe.edu/news/imua/archived/royal-hawaiian-shopping-center-begins-revitalization-efforts",
+     "https://www.royalhawaiiancenter.com/heritage"
+    ]
+   }
   }
  ]
 }
