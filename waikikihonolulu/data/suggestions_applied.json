@@ -709,6 +709,20 @@
      "https://www.travelagewest.com/Travel/USA-Canada/Wyland-Waikiki-Resort-and-Spa-To-Become-Courtyard-by-Marriott"
     ]
    }
+  },
+  {
+   "target": "Appetito Craft Pizza & Wine Bar",
+   "target_address": "150 Ka\u02bbiulani Ave",
+   "fields": {
+    "note": "Neapolitan-style pizza and wine bar on the ground floor of the Ohana East hotel, in the former Keoni by Keo's space. It opened in fall 2017 and held its grand opening in January 2018.",
+    "start": 2017,
+    "approx": false,
+    "links": [
+     "https://dining.staradvertiser.com/2021/05/columns/a-la-carte/where-italy-meets-waikiki/",
+     "https://news.outrigger.com/?p=12570",
+     "https://www.honolulumagazine.com/at-last-theres-pizza-at-appetito-craft-pizza-wine-bar/"
+    ]
+   }
   }
  ]
 }

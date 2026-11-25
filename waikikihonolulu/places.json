@@ -1931,15 +1931,28 @@
  {
   "name": "Appetito Craft Pizza & Wine Bar",
   "address": "150 Kaʻiulani Ave",
-  "start": 2026,
+  "start": 2017,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Neapolitan-style pizza and wine bar on the ground floor of the Ohana East hotel, in the former Keoni by Keo's space. It opened in fall 2017 and held its grand opening in January 2018.",
   "lat": 21.2778478,
-  "lng": -157.8246824
+  "lng": -157.8246824,
+  "links": [
+   {
+    "url": "https://dining.staradvertiser.com/2021/05/columns/a-la-carte/where-italy-meets-waikiki/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://news.outrigger.com/?p=12570",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/at-last-theres-pizza-at-appetito-craft-pizza-wine-bar/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "iDo Laundry",
