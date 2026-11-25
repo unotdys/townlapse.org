@@ -113,12 +113,13 @@ textarea.field{resize:vertical;min-height:80px}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
 .credits{font-size:12px;color:var(--ink)}.credits b{color:var(--retail);font-weight:600}.credits a{color:inherit}
 .helpBtn{display:inline-block;text-decoration:none;font:600 13px var(--body);color:var(--ink);border:1px solid var(--line);border-radius:999px;padding:9px 14px}
+.homelink{display:inline-block;font-size:13px;font-weight:600;letter-spacing:.02em;color:inherit;opacity:.75;text-decoration:none;margin:0 0 2px;padding:2px 0}.homelink:hover,.homelink:focus-visible{opacity:1;text-decoration:underline}
 </style>
 </head>
 <body>
 <div id="app">
 <header>
-  <div class="title"><h1>Town and Country Palo Alto</h1><div class="year" id="year" aria-live="polite">1925</div></div>
+  <div class="title"><a class="homelink" id="homelink" href="https://townlapse.org/" hidden>← Townlapse</a><h1>Town and Country Palo Alto</h1><div class="year" id="year" aria-live="polite">1925</div></div>
   <div class="ctrl">
     <button id="play" aria-label="Play through the years">Play</button>
     <div class="scale">
@@ -342,7 +343,7 @@ if(!API || !SITE.api.contact){ $("contactBtn").hidden=true; }
 if(SITE.hub && SITE.hub.slug){ const a=document.createElement("a"); a.className="ghost helpBtn"; a.textContent="Help research";
   a.href=`https://townlapse.org/contribute/?town=${encodeURIComponent(SITE.hub.slug)}`;
   const box=document.querySelector(".foot .btns")||document.querySelector(".foot"); if(box) box.appendChild(a); }
-if(SITE.hub && SITE.hub.url){ const at = SITE.hub.slug ? `townlapse.org/${esc(SITE.hub.slug)}` : "";
+if(SITE.hub && SITE.hub.url){ $("homelink").hidden=false; $("homelink").href=SITE.hub.url; $("homelink").textContent="← "+(SITE.hub.name||"Townlapse"); const at = SITE.hub.slug ? `townlapse.org/${esc(SITE.hub.slug)}` : "";
   $("hubline").innerHTML = `Part of <a href="${SITE.hub.url}">${esc(SITE.hub.name)}</a>${at ? ` · <a href="https://${at}/">${at}</a>` : ""}. Make one for your neighborhood.`; }
 if(SITE.credit) $("hubline").innerHTML += (($("hubline").innerHTML?" ":"")+esc(SITE.credit));
 // creator + contributors (opt-in credits), for towns on Townlapse

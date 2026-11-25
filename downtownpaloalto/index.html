@@ -118,12 +118,13 @@ textarea.field{resize:vertical;min-height:80px}
   .row label:last-child{grid-column:1/-1}
 }
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
+.homelink{display:inline-block;font-size:13px;font-weight:600;letter-spacing:.02em;color:inherit;opacity:.75;text-decoration:none;margin:0 0 2px;padding:2px 0}.homelink:hover,.homelink:focus-visible{opacity:1;text-decoration:underline}
 </style>
 </head>
 <body>
 <div id="app">
 <header>
-  <div class="title"><h1>Downtown Palo Alto</h1><div class="year" id="year" aria-live="polite">1925</div></div>
+  <div class="title"><a class="homelink" href="/">← Townlapse</a><h1>Downtown Palo Alto</h1><div class="year" id="year" aria-live="polite">1925</div></div>
   <div class="ctrl">
     <button id="play" aria-label="Play through the years">Play</button>
     <div class="scale">
