@@ -3577,17 +3577,22 @@
   "lng": -157.8250879
  },
  {
-  "name": "Tommy Bahamas Restaurant and Bar",
+  "name": "Tommy Bahama Restaurant and Bar",
   "address": "298 Beachwalk Dr",
-  "start": 2026,
+  "start": 2015,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Tommy Bahama's restaurant and bar opened October 30, 2015, on the second floor of the brand's three-level Waikiki flagship, which also has a ground-floor store and a rooftop lounge.",
   "lat": 21.2811161,
-  "lng": -157.8307366
+  "lng": -157.8307366,
+  "links": [
+   {
+    "url": "https://www.honolulumagazine.com/tommy-bahamas-new-retail-store-in-waikiki-comes-with-a-restaurant-and-rooftop-lounge/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Ko Tiki Terrace",
