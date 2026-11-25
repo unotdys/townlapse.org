@@ -2163,16 +2163,29 @@
  },
  {
   "name": "Arnold's Beach Bar & Grill",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "339 Saratoga Rd",
+  "start": 1992,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2812827,
-  "lng": -157.8312033
+  "note": "Small tiki-style dive bar on Saratoga Road across from the Waikiki Post Office, said to have opened around 1992 in a building that was once a horse stable. It was reviewed in the local press in 2002 and is still open.",
+  "lat": 21.2813035,
+  "lng": -157.8312563,
+  "links": [
+   {
+    "url": "https://archives.starbulletin.com/2002/12/20/features/barfly.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://mytiki.life/tiki-bars/arnolds-beach-bar",
+    "kind": "Article"
+   },
+   {
+    "url": "https://waikikibeachstays.com/eats-and-drinks/bars/best-tiki-bars-waikiki/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Longs Drugs",

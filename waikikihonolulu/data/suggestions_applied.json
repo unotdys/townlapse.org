@@ -803,6 +803,21 @@
      "https://www.staradvertiser.com/2010/11/28/features/new-memories-for-hard-rock/"
     ]
    }
+  },
+  {
+   "target": "Arnold's Beach Bar & Grill",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "339 Saratoga Rd",
+    "note": "Small tiki-style dive bar on Saratoga Road across from the Waikiki Post Office, said to have opened around 1992 in a building that was once a horse stable. It was reviewed in the local press in 2002 and is still open.",
+    "start": 1992,
+    "approx": true,
+    "links": [
+     "https://archives.starbulletin.com/2002/12/20/features/barfly.html",
+     "https://mytiki.life/tiki-bars/arnolds-beach-bar",
+     "https://waikikibeachstays.com/eats-and-drinks/bars/best-tiki-bars-waikiki/"
+    ]
+   }
   }
  ]
 }
