@@ -1079,6 +1079,21 @@
      "https://www.opentable.com/r/taormina-sicilian-cuisine-honolulu?corrid=34916f07-c680-4e2e-a65c-a2fa37756c72&avt=eyJ2IjoyLCJtIjoxLCJwIjowLCJzIjowLCJuIjowfQ"
     ]
    }
+  },
+  {
+   "target": "Yard House",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "226 Lewers St",
+    "note": "Restaurant and beer hall that opened in February 2007 as one of the first restaurants at the new Waikiki Beach Walk complex. It is still open.",
+    "start": 2007,
+    "approx": false,
+    "links": [
+     "https://archives.starbulletin.com/2008/02/10/business/story01.html",
+     "https://honoluluadvertiser.com/article/2007/Jan/31/il/FP701310359.html",
+     "https://waikikibeachwalk.com/Restaurants/Restaurant-And-Nightlife/Yard-House.htm"
+    ]
+   }
   }
  ]
 }

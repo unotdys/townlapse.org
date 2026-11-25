@@ -2934,16 +2934,29 @@
  },
  {
   "name": "Yard House",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "226 Lewers St",
+  "start": 2007,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.278957,
-  "lng": -157.831378
+  "note": "Restaurant and beer hall that opened in February 2007 as one of the first restaurants at the new Waikiki Beach Walk complex. It is still open.",
+  "lat": 21.2792772,
+  "lng": -157.8309822,
+  "links": [
+   {
+    "url": "https://archives.starbulletin.com/2008/02/10/business/story01.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://honoluluadvertiser.com/article/2007/Jan/31/il/FP701310359.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://waikikibeachwalk.com/Restaurants/Restaurant-And-Nightlife/Yard-House.htm",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Aloha Lovely Nails",
