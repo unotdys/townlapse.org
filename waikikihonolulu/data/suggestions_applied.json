@@ -2014,6 +2014,21 @@
      "https://quiorawaikiki.com/about-us/"
     ]
    }
+  },
+  {
+   "target": "Ala Wai Pantry",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "2211 Ala Wai Blvd",
+    "note": "Convenience store and deli on Ala Wai Boulevard in Waikiki, still open. Business listings give its opening year as about 1969.",
+    "start": 1969,
+    "approx": true,
+    "links": [
+     "https://delicatessens.cmac.ws/ala-wai-pantry-deli/37863/",
+     "https://islandspots.io/oahu/venues/ala-wai-pantry",
+     "https://startpage.mapquest.com/us/hawaii/ala-wai-pantry-275432501"
+    ]
+   }
   }
  ]
 }

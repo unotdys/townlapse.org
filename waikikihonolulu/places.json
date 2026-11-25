@@ -5086,16 +5086,29 @@
  },
  {
   "name": "Ala Wai Pantry",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "2211 Ala Wai Blvd",
+  "start": 1969,
   "end": null,
   "category": "retail",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (convenience). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2815068,
-  "lng": -157.8266164
+  "note": "Convenience store and deli on Ala Wai Boulevard in Waikiki, still open. Business listings give its opening year as about 1969.",
+  "lat": 21.282013,
+  "lng": -157.8267581,
+  "links": [
+   {
+    "url": "https://delicatessens.cmac.ws/ala-wai-pantry-deli/37863/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://islandspots.io/oahu/venues/ala-wai-pantry",
+    "kind": "Article"
+   },
+   {
+    "url": "https://startpage.mapquest.com/us/hawaii/ala-wai-pantry-275432501",
+    "kind": "Listing"
+   }
+  ]
  },
  {
   "name": "Topped Waikiki",
