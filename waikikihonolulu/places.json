@@ -848,6 +848,36 @@
   ]
  },
  {
+  "name": "Sushi Spot Waikiki",
+  "address": "204 Liliʻuokalani Ave",
+  "start": 2022,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Sushi restaurant at the corner of Kuhio and Liliʻuokalani avenues, a Waikiki offshoot of the owner's earlier Sushi Spot in Aiea, open by about 2022. In 2025 it began serving brunch in the same space as Brunch Spot Waikiki.",
+  "lat": 21.2757723,
+  "lng": -157.8223232,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://alohastatedaily.com/2025/08/06/this-waikiki-brunch-spot-is-also-a-sushi-spot",
+    "kind": "Article"
+   },
+   {
+    "url": "https://staradvertiser.com/?p=1214434",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.kaukauhawaii.com/storedetail/2673/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.toasttab.com/local/order/sushispotwaikiki",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -5271,19 +5301,6 @@
   ]
  },
  {
-  "name": "Sushi Spot Waikiki",
-  "address": "204 Liliʻuokalani Ave",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2756417,
-  "lng": -157.8224105
- },
- {
   "name": "United States Post Office",
   "address": "2250 Kalākaua Ave",
   "start": 2026,
@@ -6439,19 +6456,6 @@
   "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2775008,
   "lng": -157.823852
- },
- {
-  "name": "Brunch Spot",
-  "address": "204 Liliʻuokalani Ave",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.27571,
-  "lng": -157.8224731
  },
  {
   "name": "Asana Spa",
