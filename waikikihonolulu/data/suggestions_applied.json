@@ -588,6 +588,20 @@
     "https://www.honolulumagazine.com/?p=374938",
     "https://www.mallsinamerica.com/hawaii/international-market-place/magnolia-ice-cream"
    ]
+  },
+  {
+   "name": "Waikiki Shokudo",
+   "address": "355 Royal Hawaiian Ave, Suite 201, Honolulu, HI 96815",
+   "note": "Westman Corporation's history in Aloha State Daily says Waikiki Shokudo opened on Royal Hawaiian Avenue in February 2024; Honolulu Magazine reported on the new restaurant, and its official page confirms the address.",
+   "start": 2024,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://waikikishokudo.com/restaurant/",
+    "https://www.alohastatedaily.com/2025/02/24/shokudo-is-celebrating-20-years-with-a-special-honey-toast-and-golden-tickets/",
+    "https://www.honolulumagazine.com/shokudo-opens-an-old-school-izakaya-in-waikiki/"
+   ]
   }
  ],
  "corrections": [
