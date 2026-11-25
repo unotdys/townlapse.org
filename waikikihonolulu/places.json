@@ -336,6 +336,28 @@
   ]
  },
  {
+  "name": "KONA Coffee Purveyors",
+  "address": "2330 Kalakaua Ave",
+  "start": 2016,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Flagship cafe of Kona Coffee Purveyors at International Market Place, which opened with the mall's grand opening in August 2016; the roasting company itself was founded in 2008.",
+  "lat": 21.2783385,
+  "lng": -157.8260782,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://oahutravelguidehi.com/kona-coffee-purveyors-review/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelweekly.com/Hawaii-Travel/Insights/Dining-around-International-Market-Place",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -3470,19 +3492,6 @@
   "note": "Open today (bar). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2718213,
   "lng": -157.8218742
- },
- {
-  "name": "KONA Coffee Purveyors",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2788224,
-  "lng": -157.8257634
  },
  {
   "name": "Maui Brewing Company",
