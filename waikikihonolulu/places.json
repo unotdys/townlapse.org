@@ -4960,16 +4960,33 @@
  },
  {
   "name": "Surf Lanai",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "2259 Kalākaua Ave",
+  "start": 2009,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2768585,
-  "lng": -157.8286423
+  "note": "Open-air oceanfront restaurant at The Royal Hawaiian, created from the hotel's former Surf Room during its 2008–2009 renovation and opened when the hotel reopened in 2009. It now serves breakfast overlooking Waikiki Beach.",
+  "lat": 21.2773331,
+  "lng": -157.8289679,
+  "links": [
+   {
+    "url": "https://static1.squarespace.com/static/5d289e4caad70300015b6415/t/5d2b54bfd701760001c166ff/1563120832151/waikiki_wiki-wiki_wire_x_04.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://archives-new.honoluluadvertiser.com/article/2009/Jan/12/ln/hawaii901120347.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.royal-hawaiian.com/dining-overview/surf-lanai/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelweekly.com/Travel-News/Hotel-News/Royal-Hawaiian-reopens",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Royal Hawaiian Bakery",

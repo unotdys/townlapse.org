@@ -1917,6 +1917,22 @@
      "https://www.travelagentcentral.com/destinations/azure-restaurant-opens-at-royal-hawaiian"
     ]
    }
+  },
+  {
+   "target": "Surf Lanai",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "2259 Kal\u0101kaua Ave",
+    "note": "Open-air oceanfront restaurant at The Royal Hawaiian, created from the hotel's former Surf Room during its 2008\u20132009 renovation and opened when the hotel reopened in 2009. It now serves breakfast overlooking Waikiki Beach.",
+    "start": 2009,
+    "approx": false,
+    "links": [
+     "https://archives-new.honoluluadvertiser.com/article/2009/Jan/12/ln/hawaii901120347.html",
+     "https://static1.squarespace.com/static/5d289e4caad70300015b6415/t/5d2b54bfd701760001c166ff/1563120832151/waikiki_wiki-wiki_wire_x_04.pdf",
+     "https://www.royal-hawaiian.com/dining-overview/surf-lanai/",
+     "https://www.travelweekly.com/Travel-News/Hotel-News/Royal-Hawaiian-reopens"
+    ]
+   }
   }
  ]
 }
