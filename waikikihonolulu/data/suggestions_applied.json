@@ -101,6 +101,21 @@
     "https://www.cylex.us.com/company/crystal-nail-salon-22493952.html",
     "https://www.mapquest.com/us/hawaii/crystal-nail-salon-275097211"
    ]
+  },
+  {
+   "name": "Aloha Table Waikiki",
+   "address": "2238 Lau'ula St",
+   "note": "Hawaiian restaurant best known for its Kobe-style loco moco. It closed on June 25, 2025, after about 16 years, when its lease ran out.",
+   "start": 2009,
+   "end": 2025,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://hawaiicalling.com/waikikis-loco-moco-scene-is-shifting-whos-in-whos-out-and-where-to-eat-next/",
+    "https://startpage.mapquest.com/us/hawaii/aloha-table-waikiki-304377262",
+    "https://www.opentable.com/r/aloha-table-honolulu",
+    "https://www.opentable.com/r/aloha-table-honolulu?corrid=1282a08b-1218-4997-817a-e4be4a8b6b42&avt=eyJ2IjoyLCJtIjoxLCJwIjowLCJzIjowLCJuIjowfQ"
+   ]
   }
  ],
  "corrections": [
