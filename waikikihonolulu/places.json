@@ -280,6 +280,32 @@
   ]
  },
  {
+  "name": "Mai Tai Bar",
+  "address": "2259 Kalākaua Ave",
+  "start": 1953,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Beachfront bar at the Royal Hawaiian Hotel, dated to around 1953, when Trader Vic Bergeron created the hotel's Royal Mai Tai using orange and pineapple juice. Bergeron had invented the original Mai Tai in 1944.",
+  "lat": 21.2773331,
+  "lng": -157.8289679,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://savingplaces.org/stories/ocean-views-and-tropical-drinks-at-the-royal-hawaiians-mai-tai-bar",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.royal-hawaiian.com/dining-overview/mai-tai-bar",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelweek.ca/news/the-royal-hawaiian-resort-nightcaps-and-cocktails-at-newly-renovated-the-bar-at-azure/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,

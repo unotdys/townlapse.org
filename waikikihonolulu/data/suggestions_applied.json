@@ -174,6 +174,20 @@
     "https://www.hawaiinewsnow.com/story/37297100/chef-morimoto-opens-two-new-waikiki-restaurants",
     "https://www.prnewswire.com/news-releases/morimoto-asia-waikiki-opens-tomorrow-inside-the-all-new-alohilani-resort-waikiki-beach-300598986.html"
    ]
+  },
+  {
+   "name": "Mai Tai Bar",
+   "address": "2259 Kal\u0101kaua Ave",
+   "note": "Beachfront bar at the Royal Hawaiian Hotel, dated to around 1953, when Trader Vic Bergeron created the hotel's Royal Mai Tai using orange and pineapple juice. Bergeron had invented the original Mai Tai in 1944.",
+   "start": 1953,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://savingplaces.org/stories/ocean-views-and-tropical-drinks-at-the-royal-hawaiians-mai-tai-bar",
+    "https://www.royal-hawaiian.com/dining-overview/mai-tai-bar",
+    "https://www.travelweek.ca/news/the-royal-hawaiian-resort-nightcaps-and-cocktails-at-newly-renovated-the-bar-at-azure/"
+   ]
   }
  ],
  "corrections": [
