@@ -607,6 +607,19 @@
      "https://www.waikikivisitor.com/?p=4276"
     ]
    }
+  },
+  {
+   "target": "Momosan Waikiki",
+   "target_address": "2490 Kal\u0101kaua Ave",
+   "fields": {
+    "note": "Iron Chef Masaharu Morimoto's casual ramen and sake restaurant on the ground floor of the 'Alohilani Resort, across from Kuhio Beach. It opened in May 2018, three months after his Morimoto Asia Waikiki opened one floor above.",
+    "start": 2018,
+    "approx": false,
+    "links": [
+     "https://www.honolulumagazine.com/?p=424002",
+     "https://www.honolulumagazine.com/heres-what-we-think-you-should-order-at-chef-morimotos-two-new-restaurants/"
+    ]
+   }
   }
  ]
 }
