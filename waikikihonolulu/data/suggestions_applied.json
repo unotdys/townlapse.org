@@ -162,6 +162,19 @@
      "https://eggsnthings.com/about/"
     ]
    }
+  },
+  {
+   "target": "Waikiki Brew Company",
+   "target_address": "1945 Kalakaua Ave",
+   "fields": {
+    "note": "Brewpub that opened in 2015 at the corner of Kalakaua Ave and Ala Moana Blvd, Waikiki's first brewery. The company later moved its main brewing to Kakaako, and the Waikiki pub reopened after a full renovation in November 2020.",
+    "start": 2015,
+    "approx": false,
+    "links": [
+     "https://www.honolulumagazine.com/?p=440376",
+     "https://www.waikikibrewing.com/about/"
+    ]
+   }
   }
  ]
 }

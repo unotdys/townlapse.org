@@ -425,15 +425,24 @@
  {
   "name": "Waikiki Brew Company",
   "address": "1945 Kalakaua Ave",
-  "start": 2026,
+  "start": 2015,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (pub). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Brewpub that opened in 2015 at the corner of Kalakaua Ave and Ala Moana Blvd, Waikiki's first brewery. The company later moved its main brewing to Kakaako, and the Waikiki pub reopened after a full renovation in November 2020.",
   "lat": 21.2804199,
-  "lng": -157.8302695
+  "lng": -157.8302695,
+  "links": [
+   {
+    "url": "https://www.honolulumagazine.com/?p=440376",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.waikikibrewing.com/about/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Mac 24/7 Bar & Restaurant",
