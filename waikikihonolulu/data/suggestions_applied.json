@@ -848,6 +848,22 @@
      "https://www.yelp.ca/biz/longs-drugs-honolulu-80"
     ]
    }
+  },
+  {
+   "target": "Nordstrom Rack",
+   "target_address": "2225 Kuhio Ave",
+   "fields": {
+    "address": "2255 Kuhio Ave",
+    "note": "Two-level off-price department store in the former Waikiki Trade Center building, now the Hyatt Centric Waikiki Beach. It opened in spring 2016 and closed permanently on July 27, 2026.",
+    "start": 2016,
+    "end": 2026,
+    "approx": false,
+    "links": [
+     "https://capitaldigest.com/nordstrom-rack-shutters-its-waikiki-location-after-a-decade-leaving-34-workers-in-limbo/",
+     "https://www.hawaiinewsnow.com/2026/06/26/nordstrom-rack-waikiki-close-after-10-years/",
+     "https://www.staradvertiser.com/2026/06/26/breaking-news/nordstrom-rack-in-waikiki-set-to-close-next-month/"
+    ]
+   }
   }
  ]
 }

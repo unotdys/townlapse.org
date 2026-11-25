@@ -2258,16 +2258,29 @@
  },
  {
   "name": "Nordstrom Rack",
-  "address": "2225 Kuhio Ave",
-  "start": 2026,
-  "end": null,
+  "address": "2255 Kuhio Ave",
+  "start": 2016,
+  "end": 2026,
   "category": "retail",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (clothes). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2796315,
-  "lng": -157.826997
+  "note": "Two-level off-price department store in the former Waikiki Trade Center building, now the Hyatt Centric Waikiki Beach. It opened in spring 2016 and closed permanently on July 27, 2026.",
+  "lat": 21.2794303,
+  "lng": -157.8269253,
+  "links": [
+   {
+    "url": "https://capitaldigest.com/nordstrom-rack-shutters-its-waikiki-location-after-a-decade-leaving-34-workers-in-limbo/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hawaiinewsnow.com/2026/06/26/nordstrom-rack-waikiki-close-after-10-years/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.staradvertiser.com/2026/06/26/breaking-news/nordstrom-rack-in-waikiki-set-to-close-next-month/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Wolfgang Puck Express",
