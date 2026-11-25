@@ -841,16 +841,33 @@
  },
  {
   "name": "Duke's Waikiki",
-  "address": "Kalakaua Ave",
-  "start": 2026,
+  "address": "2335 Kalakaua Ave",
+  "start": 1992,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2768421,
-  "lng": -157.8277917
+  "note": "Open-air beachfront restaurant and bar in the Outrigger Waikiki Beach Resort, named for surfer Duke Kahanamoku. TS Restaurants opened it in 1992 as the second Duke's, after the 1989 original on Kauai.",
+  "lat": 21.27715,
+  "lng": -157.8276707,
+  "links": [
+   {
+    "url": "https://news.outrigger.com/wp-content/uploads/2024/06/Kona-PR-053124_Final.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://archives.starbulletin.com/2004/05/30/business/engle.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelweekly.com/Destinations2001-2007/Duke-s-Waikiki-anchors-TS-restaurant-group",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelweekly.com/Hawaii-Travel/Second-Dukes-restaurant-to-open-on-Oahu",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "ABC",

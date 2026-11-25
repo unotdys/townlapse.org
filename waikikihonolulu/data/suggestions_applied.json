@@ -332,6 +332,22 @@
      "https://www.staradvertiser.com/2013/02/25/breaking-news/waikiki-cheesecake-factory-reopens-after-feb-1-fire/"
     ]
    }
+  },
+  {
+   "target": "Duke's Waikiki",
+   "target_address": "Kalakaua Ave",
+   "fields": {
+    "address": "2335 Kalakaua Ave",
+    "note": "Open-air beachfront restaurant and bar in the Outrigger Waikiki Beach Resort, named for surfer Duke Kahanamoku. TS Restaurants opened it in 1992 as the second Duke's, after the 1989 original on Kauai.",
+    "start": 1992,
+    "approx": false,
+    "links": [
+     "https://archives.starbulletin.com/2004/05/30/business/engle.html",
+     "https://news.outrigger.com/wp-content/uploads/2024/06/Kona-PR-053124_Final.pdf",
+     "https://www.travelweekly.com/Destinations2001-2007/Duke-s-Waikiki-anchors-TS-restaurant-group",
+     "https://www.travelweekly.com/Hawaii-Travel/Second-Dukes-restaurant-to-open-on-Oahu"
+    ]
+   }
   }
  ]
 }
