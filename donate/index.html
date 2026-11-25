@@ -218,8 +218,11 @@ function connectorSteps(ai, key, b) {
               : ai === "claude" ? "Settings → Connectors → <b>Add custom connector</b>"
               : "its settings for custom connectors (MCP servers)";
   return `
-    <li><b>Add the Townlapse connector to ${esc(app)}:</b> ${where}. Name it <b>Townlapse</b>, choose <b>No authentication</b>, and use your personal connector URL (it contains your key, so keep it private):
-      <div class="key" id="c1">${esc(url)}</div>${copy("c1","Copy URL")}</li>
+    <li><b>Add the Townlapse connector to ${esc(app)}:</b> ${where}. Name it <b>Townlapse</b> and use this address; leave Client ID and secret empty:
+      <div class="key" id="c0">https://api.townlapse.org/mcp</div>${copy("c0","Copy URL")}
+      ${esc(app)} opens a Townlapse page: choose <b>Continue</b> (this browser remembers your donation) or paste your key. No key goes into ${esc(app)}.
+      <details style="margin-top:8px"><summary class="hint">If ${esc(app)} won't sign in</summary>Use <b>No authentication</b> with your personal connector URL instead (it contains your key, so keep it private):
+      <div class="key" id="c1">${esc(url)}</div>${copy("c1","Copy URL")}</details></li>
     <li><b>Turn the connector on</b> for a new chat, then paste:
       <pre id="c2">${esc(starter(b))}</pre>${copy("c2","Copy")}</li>
     ${b.mode === "subscription" ? `<li><b>Make it recurring.</b> ${scheduleHelp(ai)}</li>` : ""}`;
