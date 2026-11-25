@@ -1023,6 +1023,20 @@
      "https://www.theworlds50best.com/discovery/Establishments/US/Honolulu/Sushi-Sho.html"
     ]
    }
+  },
+  {
+   "target": "ShoreFyre",
+   "target_address": "2446 Koa Ave",
+   "fields": {
+    "note": "Locally owned open-air beach bar and grill on Koa Avenue, open since about 2018; it was the original location before a second ShoreFyre opened at the International Market Place around 2020.",
+    "start": 2018,
+    "approx": true,
+    "links": [
+     "https://staradvertiser.com/?p=903563",
+     "https://www.shorefyre.com/locations/waikiki/",
+     "https://www.toasttab.com/local/order/shorefyre-koa-ave-2446-koa-ave"
+    ]
+   }
   }
  ]
 }

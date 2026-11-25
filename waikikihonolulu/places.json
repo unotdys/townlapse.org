@@ -2714,15 +2714,28 @@
  {
   "name": "ShoreFyre",
   "address": "2446 Koa Ave",
-  "start": 2026,
+  "start": 2018,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Locally owned open-air beach bar and grill on Koa Avenue, open since about 2018; it was the original location before a second ShoreFyre opened at the International Market Place around 2020.",
   "lat": 21.275788,
-  "lng": -157.824286
+  "lng": -157.824286,
+  "links": [
+   {
+    "url": "https://staradvertiser.com/?p=903563",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.shorefyre.com/locations/waikiki/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.toasttab.com/local/order/shorefyre-koa-ave-2446-koa-ave",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Hawaiian Asian Cafe",
