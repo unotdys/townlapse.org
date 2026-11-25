@@ -2592,15 +2592,40 @@
  {
   "name": "Musubi Cafe Iyasume",
   "address": "2427 Kūhiō Ave",
-  "start": 2026,
+  "start": 2014,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Spam musubi cafe on the ground floor of the Pacific Monarch Hotel, which moved here from Koa Avenue in July 2014. The Iyasume chain was founded in Waikiki in 2000 in the Waikiki Sand Villa Hotel.",
   "lat": 21.2764753,
-  "lng": -157.8237064
+  "lng": -157.8237064,
+  "links": [
+   {
+    "url": "https://hawaiifoody.com/foody_areas_eng/view/68/1",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/?p=433202",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.tripadvisor.ca/Restaurant_Review-g60982-d4193593-Reviews-Musubi_Cafe_Iyasume-Honolulu_Oahu_Hawaii.html",
+    "kind": "Listing"
+   },
+   {
+    "url": "https://www.tripadvisor.ca/Restaurant_Review-g60982-d859328-Reviews-or75-Musubi_Cafe_Iyasume-Honolulu_Oahu_Hawaii.html",
+    "kind": "Listing"
+   },
+   {
+    "url": "https://www.tripadvisor.in/Restaurant_Review-g60982-d4193593-Reviews-Musubi_Cafe_Iyasume-Honolulu_Oahu_Hawaii.html",
+    "kind": "Listing"
+   },
+   {
+    "url": "https://www.yelp.com/biz/musubi-cafe-iyasume-honolulu-24",
+    "kind": "Listing"
+   }
+  ]
  },
  {
   "name": "Ginza Bairin",
