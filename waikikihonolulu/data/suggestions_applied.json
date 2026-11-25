@@ -2302,6 +2302,18 @@
      "https://www.queenkapiolani.com/blog/the-history-of-queen-kapiolani-hotel-a-stroll-down-memory-lane"
     ]
    }
+  },
+  {
+   "target": "Camado Ramen Tavern",
+   "target_address": "320 Lewers St",
+   "fields": {
+    "start": 2022,
+    "approx": true,
+    "links": [
+     "https://www.camadoramentavern-waikiki.com/",
+     "https://www.honolulucoupon.com/post/new-eatery-openings-in-august-2022-part-1-a-ramen-izakaya-full-service-sushi-restaurant-a-hollywood-celebrity-owned-burger-shop-and-13-other-spots-worthy-of-mention/"
+    ]
+   }
   }
  ]
 }

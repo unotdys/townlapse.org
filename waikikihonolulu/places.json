@@ -5712,15 +5712,24 @@
  {
   "name": "Camado Ramen Tavern",
   "address": "320 Lewers St",
-  "start": 2026,
+  "start": 2022,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
   "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2807374,
-  "lng": -157.8292975
+  "lng": -157.8292975,
+  "links": [
+   {
+    "url": "https://www.camadoramentavern-waikiki.com/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulucoupon.com/post/new-eatery-openings-in-august-2022-part-1-a-ramen-izakaya-full-service-sushi-restaurant-a-hollywood-celebrity-owned-burger-shop-and-13-other-spots-worthy-of-mention/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Starbucks",
