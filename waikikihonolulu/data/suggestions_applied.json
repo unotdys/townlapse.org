@@ -389,6 +389,23 @@
     "https://static1.squarespace.com/static/5d289e4caad70300017e78fa/1563119849634/waikiki_wiki-wiki_wire_x_45.pdf",
     "https://www.travelagewest.com/Travel/Hotels/Sheraton-Waikiki-Completes-Major-Overhaul"
    ]
+  },
+  {
+   "name": "Honolulu Coffee",
+   "address": "2255 Kalakaua Ave",
+   "note": "Kona coffee cafe and kiosk of the Honolulu-based roaster at the Sheraton Waikiki, one poolside and one near the hotel entrance. Both are still open; when they opened isn't known yet.",
+   "start": null,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://tabelog.com/hawaii/A6001/A600101/60002016/",
+    "https://tabelog.com/hawaii/A6001/A600101/60002017/dtlrvwlst/",
+    "https://www.honolulucoffee.com/pages/cafe-locations",
+    "https://www.honolulucoffee.com/pages/sheraton-waikiki",
+    "https://www.yelp.com/biz/honolulu-coffee-kiosk-sheraton-waikiki-honolulu",
+    "https://www.yelp.com/biz/honolulu-coffee-sheraton-waikiki-poolside-honolulu"
+   ]
   }
  ],
  "corrections": [
