@@ -1,5 +1,19 @@
 {
- "additions": [],
+ "additions": [
+  {
+   "name": "Ting Hau",
+   "address": "717 4th St",
+   "note": "Family-owned Chinese restaurant. Downtown Santa Rosa lists it at 717 4th Street and says it was established in 1999, founded and operated by chef Adam Ling and his family.",
+   "start": 1999,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "http://www.tinghau.com/",
+    "https://www.downtownsantarosa.org/go/ting-hau"
+   ]
+  }
+ ],
  "corrections": [
   {
    "target": "El Coqui",

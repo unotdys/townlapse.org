@@ -1,5 +1,27 @@
 [
  {
+  "name": "Ting Hau",
+  "address": "717 4th St",
+  "start": 1999,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Family-owned Chinese restaurant. Downtown Santa Rosa lists it at 717 4th Street and says it was established in 1999, founded and operated by chef Adam Ling and his family.",
+  "lat": 38.4416293,
+  "lng": -122.7118499,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "http://www.tinghau.com/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.downtownsantarosa.org/go/ting-hau",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Apostolic Bible Church",
   "address": "address not listed",
   "start": 2026,
@@ -124,19 +146,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Ting Hau",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 38.4416011,
-  "lng": -122.7118598
  },
  {
   "name": "Revive Hair Collective",
