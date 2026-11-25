@@ -116,6 +116,21 @@
     "https://www.opentable.com/r/aloha-table-honolulu",
     "https://www.opentable.com/r/aloha-table-honolulu?corrid=1282a08b-1218-4997-817a-e4be4a8b6b42&avt=eyJ2IjoyLCJtIjoxLCJwIjowLCJzIjowLCJuIjowfQ"
    ]
+  },
+  {
+   "name": "Moose McGillycuddy's Pub & Cafe Waikiki",
+   "address": "310 Lewers St",
+   "note": "Waikiki branch of the Moose McGillycuddy's pub and restaurant chain, opened on Lewers Street in 1980. It was boarded up during the 2020 pandemic and later listed as permanently closed, and Tropics Island Grill & Ale House soft-opened at the address in October 2026.",
+   "start": 1980,
+   "end": 2020,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://hawaiiontv.com/moose-mcgillycuddys-hawaii/",
+    "https://www.mauinews.com/news/local-news/2014/05/longtime-front-street-restaurant-shuts-doors/",
+    "https://www.restaurants10.com/US/Honolulu/139403355973/Tropics-Island-Grill-%26-Ale-House-Waikiki",
+    "https://www.staradvertiser.com/2020/09/19/photo-gallery/coronavirus-pandemic-takes-economic-toll-on-hawaii-businesses-forcing-many-to-close/"
+   ]
   }
  ],
  "corrections": [

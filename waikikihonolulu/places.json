@@ -168,6 +168,36 @@
   ]
  },
  {
+  "name": "Moose McGillycuddy's Pub & Cafe Waikiki",
+  "address": "310 Lewers St",
+  "start": 1980,
+  "end": 2020,
+  "category": "food",
+  "approx": true,
+  "note": "Waikiki branch of the Moose McGillycuddy's pub and restaurant chain, opened on Lewers Street in 1980. It was boarded up during the 2020 pandemic and later listed as permanently closed, and Tropics Island Grill & Ale House soft-opened at the address in October 2026.",
+  "lat": 21.2805042,
+  "lng": -157.8294645,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://hawaiiontv.com/moose-mcgillycuddys-hawaii/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.mauinews.com/news/local-news/2014/05/longtime-front-street-restaurant-shuts-doors/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.restaurants10.com/US/Honolulu/139403355973/Tropics-Island-Grill-%26-Ale-House-Waikiki",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.staradvertiser.com/2020/09/19/photo-gallery/coronavirus-pandemic-takes-economic-toll-on-hawaii-businesses-forcing-many-to-close/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
