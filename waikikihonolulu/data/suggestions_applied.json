@@ -1094,6 +1094,24 @@
      "https://waikikibeachwalk.com/Restaurants/Restaurant-And-Nightlife/Yard-House.htm"
     ]
    }
+  },
+  {
+   "target": "Tesla Honolulu-International Market Place",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "2330 Kalakaua Ave",
+    "note": "Tesla showroom and gallery in International Market Place's Banyan Court, opened around 2016\u20132017 after the mall was rebuilt. It closed briefly in March 2019 when Tesla moved sales online, then reopened about a week later.",
+    "start": 2017,
+    "approx": true,
+    "links": [
+     "https://cca.hawaii.gov/wp-content/uploads/2026/03/mvi_170602.pdf",
+     "https://staradvertiser.com/2019/03/06/breaking-news/tesla-closes-international-market-place-store",
+     "https://staradvertiser.com/?p=812264",
+     "https://teslamotorsclub.com/tmc/threads/hawaii-tesla-showroom.55058/page-10",
+     "https://www.businesswire.com/news/home/20160825006372/en/3861982/International-Market-Place-Celebrates-Grand-Opening-Today",
+     "https://www.tesla.com/en_HK/findus/location/store/hiinternationalmarketplace"
+    ]
+   }
   }
  ]
 }

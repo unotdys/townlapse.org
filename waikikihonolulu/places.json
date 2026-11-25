@@ -2869,16 +2869,41 @@
  },
  {
   "name": "Tesla Honolulu-International Market Place",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "2330 Kalakaua Ave",
+  "start": 2017,
   "end": null,
   "category": "retail",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (car). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.277459,
-  "lng": -157.8268379
+  "note": "Tesla showroom and gallery in International Market Place's Banyan Court, opened around 2016–2017 after the mall was rebuilt. It closed briefly in March 2019 when Tesla moved sales online, then reopened about a week later.",
+  "lat": 21.2783385,
+  "lng": -157.8260782,
+  "links": [
+   {
+    "url": "https://cca.hawaii.gov/wp-content/uploads/2026/03/mvi_170602.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://staradvertiser.com/2019/03/06/breaking-news/tesla-closes-international-market-place-store",
+    "kind": "Article"
+   },
+   {
+    "url": "https://staradvertiser.com/?p=812264",
+    "kind": "Article"
+   },
+   {
+    "url": "https://teslamotorsclub.com/tmc/threads/hawaii-tesla-showroom.55058/page-10",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.businesswire.com/news/home/20160825006372/en/3861982/International-Market-Place-Celebrates-Grand-Opening-Today",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.tesla.com/en_HK/findus/location/store/hiinternationalmarketplace",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "ABC",
