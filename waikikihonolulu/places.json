@@ -4926,16 +4926,37 @@
  },
  {
   "name": "Azure Restaurant & Bar",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "2259 Kalākaua Ave",
+  "start": 2009,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2769978,
-  "lng": -157.8290836
+  "note": "Oceanfront restaurant at The Royal Hawaiian hotel, opened in March 2009 after the hotel's renovation, according to the hotel owner Kyo-ya.",
+  "lat": 21.2773331,
+  "lng": -157.8289679,
+  "links": [
+   {
+    "url": "https://www.kyoyahotelsandresorts.com/kyo-ya-history-in-hawaii/",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.aaa.com/tripcanvas/restaurant/azure-the-royal-hawaiian-AA3067",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.azurewaikiki.com/contact-location",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.opentable.com/azure-the-royal-hawaiian-reservations-honolulu",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelagentcentral.com/destinations/azure-restaurant-opens-at-royal-hawaiian",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Surf Lanai",

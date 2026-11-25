@@ -1900,6 +1900,23 @@
      "https://locations.baskinrobbins.com/hi/honolulu/2255-kalakaua-avenue-348657-br"
     ]
    }
+  },
+  {
+   "target": "Azure Restaurant & Bar",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "2259 Kal\u0101kaua Ave",
+    "note": "Oceanfront restaurant at The Royal Hawaiian hotel, opened in March 2009 after the hotel's renovation, according to the hotel owner Kyo-ya.",
+    "start": 2009,
+    "approx": false,
+    "links": [
+     "https://www.aaa.com/tripcanvas/restaurant/azure-the-royal-hawaiian-AA3067",
+     "https://www.azurewaikiki.com/contact-location",
+     "https://www.kyoyahotelsandresorts.com/kyo-ya-history-in-hawaii/",
+     "https://www.opentable.com/azure-the-royal-hawaiian-reservations-honolulu",
+     "https://www.travelagentcentral.com/destinations/azure-restaurant-opens-at-royal-hawaiian"
+    ]
+   }
   }
  ]
 }
