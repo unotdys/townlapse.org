@@ -590,6 +590,23 @@
      "https://www.travelgay.com/venue/tapas-restaurant-and-lanai-bar-honolulu"
     ]
    }
+  },
+  {
+   "target": "JINROKU PACIFIC",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "2427 Kuhio Ave",
+    "note": "Japanese okonomiyaki and teppanyaki restaurant on the ground floor of the Pacific Monarch Hotel, open since September 2008. It is a branch of a Tokyo restaurant founded in 1989.",
+    "start": 2008,
+    "approx": false,
+    "links": [
+     "https://archives-new.honoluluadvertiser.com/article/2008/Nov/28/en/hawaii811270312.html",
+     "https://static1.squarespace.com/static/5d289e4caad70300015b6415/t/5d2b5952a6bfb8000161996f/1563122003231/waikiki_wiki-wiki_wire_ix_41.pdf",
+     "https://www.frommers.com/destinations/oahu/restaurants/jinroku",
+     "https://www.opentable.co.uk/landmark/restaurants-near-mita-station",
+     "https://www.waikikivisitor.com/?p=4276"
+    ]
+   }
   }
  ]
 }
