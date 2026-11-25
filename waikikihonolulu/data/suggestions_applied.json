@@ -241,6 +241,18 @@
     "https://eatinhawaii.blogspot.com/2014/05/kai-coffee-hawaii-opens-at-hyatt.html",
     "https://www.hawaiimomblog.com/2016/06/kai-coffee-hawaii-opens-second-location.html"
    ]
+  },
+  {
+   "name": "Blue Ocean Seafood & Steak",
+   "address": "2449 Kuhio Ave",
+   "note": "Seafood and steak food truck in a converted shipping container at 2449 Kuhio Avenue, in business since 2012.",
+   "start": 2012,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://threebestrated.com/food-trucks-in-honolulu-hi"
+   ]
   }
  ],
  "corrections": [

@@ -398,6 +398,24 @@
   ]
  },
  {
+  "name": "Blue Ocean Seafood & Steak",
+  "address": "2449 Kuhio Ave",
+  "start": 2012,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Seafood and steak food truck in a converted shipping container at 2449 Kuhio Avenue, in business since 2012.",
+  "lat": 21.276272,
+  "lng": -157.8233936,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://threebestrated.com/food-trucks-in-honolulu-hi",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -3696,19 +3714,6 @@
   "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2764755,
   "lng": -157.8234555
- },
- {
-  "name": "Blue Ocean Seafood & Steak",
-  "address": "2449 Kūhiō Ave",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2760816,
-  "lng": -157.8232056
  },
  {
   "name": "Mugen",
