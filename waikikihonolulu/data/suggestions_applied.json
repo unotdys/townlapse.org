@@ -1275,6 +1275,24 @@
      "https://www.opentable.com/r/giovanni-pastrami-honolulu"
     ]
    }
+  },
+  {
+   "target": "The Veranda at the Beachouse",
+   "target_address": "address not listed",
+   "fields": {
+    "name": "The Veranda at the Beachhouse",
+    "address": "2365 Kalakaua Ave",
+    "note": "Oceanfront veranda dining area, known for afternoon tea, at the Beachhouse restaurant in the Moana Surfrider hotel (opened 1901). The Beachhouse concept began around 2007, when the hotel became a Westin resort.",
+    "start": 2007,
+    "approx": true,
+    "links": [
+     "https://archives.midweek.com/content/columns/tabletalk_article/the_beautiful_beachhouse/",
+     "https://static1.squarespace.com/static/5d289e4caad70300015b6415/t/5d2b5b0e2202bd0001f9e368/1563122447270/waikiki_wiki-wiki_wire_ix_27.pdf",
+     "https://www.hawaiimomblog.com/2016/01/a-fabulous-dining-experience-at.html?m=0",
+     "https://www.hospitalitynet.org/news/4031772/first-westin-resort-unveiled-in-waikiki",
+     "https://www.marriott.com/en-us/hotels/hnlwi-moana-surfrider-a-westin-resort-and-spa-waikiki-beach/dining"
+    ]
+   }
   }
  ]
 }
