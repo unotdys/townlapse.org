@@ -6427,15 +6427,32 @@
  {
   "name": "Tim Ho Wan",
   "address": "2201 Kalākaua Ave",
-  "start": 2026,
+  "start": 2018,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "A branch of the Hong Kong dim sum chain known for its Michelin star, it opened at Royal Hawaiian Center in April 2018 in Building B. Around late 2024 it moved to Level 3 of the center's Building A.",
   "lat": 21.279121,
-  "lng": -157.829616
+  "lng": -157.829616,
+  "links": [
+   {
+    "url": "https://timhowanusa.com/?p=8384",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/?p=423834",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.royalhawaiiancenter.com/dining/tim-ho-wan",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.royalhawaiiancenter.com/tim-ho-wan",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Gyu-Kaku",
