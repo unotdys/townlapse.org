@@ -261,6 +261,19 @@
      "https://www.honolulumagazine.com/?p=17062"
     ]
    }
+  },
+  {
+   "target": "Sand People",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "2330 Kalakaua Ave",
+    "note": "Hawaii gift and beach-decor shop in the International Market Place, among the retailers when the rebuilt mall opened on August 25, 2016.",
+    "start": 2016,
+    "approx": false,
+    "links": [
+     "https://eprretailnews.com/2016/08/26/international-market-place-offers-most-sought-after-retailers-and-world-class-restaurants-with-the-opening-of-its-open-air-shopping-center-in-waikiki-24352673954/"
+    ]
+   }
   }
  ]
 }
