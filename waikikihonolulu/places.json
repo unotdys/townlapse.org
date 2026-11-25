@@ -452,6 +452,36 @@
   ]
  },
  {
+  "name": "MCM",
+  "address": "2330 Kalakaua Ave",
+  "start": 2019,
+  "end": null,
+  "category": "retail",
+  "approx": true,
+  "note": "Boutique of the luxury leather goods brand MCM on the first level (Queen's Court) of the International Market Place. It opened around 2019 as part of the brand's U.S. expansion.",
+  "lat": 21.2783385,
+  "lng": -157.8260782,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://img1.wsimg.com/blobby/go/1397965c-59fe-45e5-a291-15538f895f41/downloads/Dec%20Concierge_19.web.pdf?ver=1725499501446",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://ca.mcmworldwide.com/stores/mcm-waikiki/1000001012",
+    "kind": "Article"
+   },
+   {
+    "url": "https://chainstoreage.com/store-spaces/luxury-goods-and-accessories-brand-continues-u-s-expansion",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.simon.com/mall/international-market-place/stores/mcm",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -4164,19 +4194,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "MCM",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "retail",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (fashion accessories). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2780472,
-  "lng": -157.8268908
  },
  {
   "name": "Tumi",
