@@ -2203,15 +2203,32 @@
  {
   "name": "Longs Drugs",
   "address": "2155 Kalakaua Ave",
-  "start": 2026,
+  "start": 2015,
   "end": null,
-  "category": "services",
+  "category": "retail",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (pharmacy). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Longs Drugs, owned by CVS, opened its first Waikiki store here in October 2015. The two-story store with a pharmacy is in the Bank of Hawaii Waikiki Center, in space formerly occupied by Teddy Bear World.",
   "lat": 21.2805872,
-  "lng": -157.830415
+  "lng": -157.830415,
+  "links": [
+   {
+    "url": "https://staradvertiser.com/?p=492337",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.cvs.com/store-locator/honolulu-hi-pharmacies/2155-kalakaua-ave-suite-102-honolulu-hi-96815/storeid=10621",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.midweek.com/longs-drugs-opens-new-store-in-waikiki/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.yelp.ca/biz/longs-drugs-honolulu-80",
+    "kind": "Listing"
+   }
+  ]
  },
  {
   "name": "Aloha Melt",

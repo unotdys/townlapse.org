@@ -832,6 +832,22 @@
      "https://www.honolulumagazine.com/tommy-bahamas-new-retail-store-in-waikiki-comes-with-a-restaurant-and-rooftop-lounge/"
     ]
    }
+  },
+  {
+   "target": "Longs Drugs",
+   "target_address": "2155 Kalakaua Ave",
+   "fields": {
+    "note": "Longs Drugs, owned by CVS, opened its first Waikiki store here in October 2015. The two-story store with a pharmacy is in the Bank of Hawaii Waikiki Center, in space formerly occupied by Teddy Bear World.",
+    "start": 2015,
+    "category": "retail",
+    "approx": false,
+    "links": [
+     "https://staradvertiser.com/?p=492337",
+     "https://www.cvs.com/store-locator/honolulu-hi-pharmacies/2155-kalakaua-ave-suite-102-honolulu-hi-96815/storeid=10621",
+     "https://www.midweek.com/longs-drugs-opens-new-store-in-waikiki/",
+     "https://www.yelp.ca/biz/longs-drugs-honolulu-80"
+    ]
+   }
   }
  ]
 }
