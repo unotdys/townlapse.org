@@ -6297,15 +6297,28 @@
  {
   "name": "Pull-In",
   "address": "227 Lewers St",
-  "start": 2026,
+  "start": 2013,
   "end": null,
   "category": "retail",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (yes). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "French underwear, swimwear and apparel brand whose Waikiki Beach Walk shop opened in December 2013. It is still open.",
   "lat": 21.2792758,
-  "lng": -157.8306661
+  "lng": -157.8306661,
+  "links": [
+   {
+    "url": "http://nadinekamportfolio.blogspot.com/2013/12/pull-in-to-waikiki-for-new-undies.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.pull-in.com/en-ch/pages/store/pullin-honolulu",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.waikikibeachwalk.com/Shops/Apparel/Pullin.htm",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Sunshine Swimwear",
