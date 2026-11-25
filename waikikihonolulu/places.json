@@ -2679,15 +2679,24 @@
  {
   "name": "Sushi Sho",
   "address": "383 Kalaimoku St",
-  "start": 2026,
+  "start": 2016,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Tokyo sushi chef Keiji Nakazawa opened this Edomae omakase counter in the Ritz-Carlton Residences Waikiki in September 2016. It was his first restaurant outside Japan.",
   "lat": 21.2826223,
-  "lng": -157.8298755
+  "lng": -157.8298755,
+  "links": [
+   {
+    "url": "https://www.honolulumagazine.com/now-at-the-ritz-carlton-sushi-sho/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.theworlds50best.com/discovery/Establishments/US/Honolulu/Sushi-Sho.html",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Starbucks Reserve",

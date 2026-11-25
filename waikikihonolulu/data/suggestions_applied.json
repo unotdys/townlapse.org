@@ -1010,6 +1010,19 @@
      "https://www.travelweekly.com/Hawaii-Travel/Hip-new-Surfjack-Hotel-Swim-Club-open-in-Waikiki"
     ]
    }
+  },
+  {
+   "target": "Sushi Sho",
+   "target_address": "383 Kalaimoku St",
+   "fields": {
+    "note": "Tokyo sushi chef Keiji Nakazawa opened this Edomae omakase counter in the Ritz-Carlton Residences Waikiki in September 2016. It was his first restaurant outside Japan.",
+    "start": 2016,
+    "approx": false,
+    "links": [
+     "https://www.honolulumagazine.com/now-at-the-ritz-carlton-sushi-sho/",
+     "https://www.theworlds50best.com/discovery/Establishments/US/Honolulu/Sushi-Sho.html"
+    ]
+   }
   }
  ]
 }
