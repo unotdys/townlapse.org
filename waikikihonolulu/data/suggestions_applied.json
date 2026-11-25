@@ -76,6 +76,18 @@
     "https://waikikishoppingplaza.com/kai-coffee-hawaii/",
     "https://waikikishoppingplaza.com/whats-new-to-eat-in-waikiki/"
    ]
+  },
+  {
+   "name": "Rivals Waikiki",
+   "address": "2211 Kuhio Ave",
+   "note": "Vegas-inspired sports bar and UltraLounge in the Waikiki Malia Hotel, listed as operating since 2011.",
+   "start": 2011,
+   "end": null,
+   "category": "entertainment",
+   "approx": true,
+   "links": [
+    "https://threebestrated.com/sports-bars-in-honolulu-hi"
+   ]
   }
  ],
  "corrections": [
