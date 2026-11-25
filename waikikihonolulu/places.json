@@ -6375,15 +6375,32 @@
  {
   "name": "Blue Ginger",
   "address": "227 Lewers St",
-  "start": 2026,
+  "start": 2007,
   "end": null,
   "category": "retail",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (clothes). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Resort-wear boutique that was on Lewers Street before the redevelopment and was one of the old retailers to return when Waikiki Beach Walk opened around 2007. It is still open.",
   "lat": 21.2789085,
-  "lng": -157.8310283
+  "lng": -157.8310283,
+  "links": [
+   {
+    "url": "https://archives.starbulletin.com/2007/06/01/features/story01.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://archives.starbulletin.com/2008/02/10/business/story02.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://waikikibeachwalk.com/Blog/May-2022/Waikiki-Beach-Walk-Celebrates-15-Years.htm",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.waikikibeachwalk.com/Shopping/Blue-Ginger.htm",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Kolohe",

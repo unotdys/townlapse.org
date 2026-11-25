@@ -2568,6 +2568,21 @@
      "https://www.waikikibeachwalk.com/Dining/Il-Gelato.htm"
     ]
    }
+  },
+  {
+   "target": "Blue Ginger",
+   "target_address": "227 Lewers St",
+   "fields": {
+    "note": "Resort-wear boutique that was on Lewers Street before the redevelopment and was one of the old retailers to return when Waikiki Beach Walk opened around 2007. It is still open.",
+    "start": 2007,
+    "approx": true,
+    "links": [
+     "https://archives.starbulletin.com/2007/06/01/features/story01.html",
+     "https://archives.starbulletin.com/2008/02/10/business/story02.html",
+     "https://waikikibeachwalk.com/Blog/May-2022/Waikiki-Beach-Walk-Celebrates-15-Years.htm",
+     "https://www.waikikibeachwalk.com/Shopping/Blue-Ginger.htm"
+    ]
+   }
   }
  ]
 }
