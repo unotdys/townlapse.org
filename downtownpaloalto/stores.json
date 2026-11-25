@@ -3782,6 +3782,32 @@
   ]
  },
  {
+  "name": "The Parlor",
+  "address": "206 Homer Ave",
+  "start": 2005,
+  "end": 2005,
+  "category": "retail",
+  "approx": true,
+  "note": "Shop in the 1907 Thompson Bakery building, which for decades was the bakery's sales outlet. Its owners won a 2005 Palo Alto Stanford Heritage preservation award for restoring the building. Actual years open were likely longer.",
+  "lat": 37.4424179,
+  "lng": -122.1588169,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.pastheritage.org/Images/awards/2005%20awards/2005%20Parlor.jpg",
+    "kind": "Photo"
+   },
+   {
+    "url": "https://www.pastheritage.org/Awards/2005awards.html",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.pastheritage.org/inv/invH/Homer206.html",
+    "kind": "History"
+   }
+  ]
+ },
+ {
   "name": "Dragon Theatre",
   "address": "535 Alma St",
   "start": 2006,
@@ -7920,6 +7946,24 @@
   "lng": -122.1617581
  },
  {
+  "name": "Joe & The Juice",
+  "address": "240 Hamilton Ave",
+  "start": 2018,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "source": "osm",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
+  "lat": 37.4443528,
+  "lng": -122.1609464,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2017/08/03/joe-the-juice-is-headed-to-palo-alto/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Salt & Straw",
   "address": "250 University Ave",
   "start": 2018,
@@ -7978,24 +8022,6 @@
   "note": "Open today (bank). Listed in OpenStreetMap; first mapped in 2018, which is roughly when it opened.",
   "lat": 37.4487526,
   "lng": -122.1601494
- },
- {
-  "name": "Joe & The Juice",
-  "address": "508 University Ave",
-  "start": 2018,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
-  "lat": 37.4484574,
-  "lng": -122.1588997,
-  "links": [
-   {
-    "url": "https://www.paloaltoonline.com/peninsula-foodist/2017/08/03/joe-the-juice-is-headed-to-palo-alto/",
-    "kind": "Article"
-   }
-  ]
  },
  {
   "name": "Mangosteen",
@@ -8125,15 +8151,15 @@
  },
  {
   "name": "Joe & The Juice",
-  "address": "240 Hamilton Ave",
+  "address": "508 University Ave",
   "start": 2019,
   "end": null,
   "category": "food",
   "approx": true,
   "source": "osm",
   "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
-  "lat": 37.4443528,
-  "lng": -122.1609464
+  "lat": 37.4484574,
+  "lng": -122.1588997
  },
  {
   "name": "Salvaje",

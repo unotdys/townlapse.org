@@ -1307,6 +1307,20 @@
     "https://www.paloaltoonline.com/morgue/news/1995_May_24.MURALS.html",
     "https://www.paloaltoonline.com/weekly/morgue/news/1995_Feb_8.WIDEMANS.html"
    ]
+  },
+  {
+   "name": "The Parlor",
+   "address": "206 Homer Ave",
+   "note": "Shop in the 1907 Thompson Bakery building, which for decades was the bakery's sales outlet. Its owners won a 2005 Palo Alto Stanford Heritage preservation award for restoring the building. Actual years open were likely longer.",
+   "start": 2005,
+   "end": 2005,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "https://www.pastheritage.org/Awards/2005awards.html",
+    "https://www.pastheritage.org/Images/awards/2005%20awards/2005%20Parlor.jpg",
+    "https://www.pastheritage.org/inv/invH/Homer206.html"
+   ]
   }
  ],
  "corrections": [
