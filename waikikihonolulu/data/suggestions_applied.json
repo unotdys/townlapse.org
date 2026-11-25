@@ -723,6 +723,23 @@
      "https://www.honolulumagazine.com/at-last-theres-pizza-at-appetito-craft-pizza-wine-bar/"
     ]
    }
+  },
+  {
+   "target": "Tiki's Grill & Bar",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "2570 Kalakaua Ave",
+    "note": "Retro South Pacific-style tiki restaurant and bar upstairs in the Aston Waikiki Beach Hotel, now the Twin Fin Hotel. It opened in October 2002 and is still open.",
+    "start": 2002,
+    "end": null,
+    "approx": false,
+    "links": [
+     "https://archives.starbulletin.com/2002/09/08/business/engle.html",
+     "https://archives.starbulletin.com/2002/10/20/features/story3.html",
+     "https://tikis.posthaven.com/tag/job%20opening%20restaurant%20manager%20tiki's%20tiki%20oahu%20waikiki%20grill%20bar",
+     "https://www.gohawaii.com/listing/tikis-grill-bar/64"
+    ]
+   }
   }
  ]
 }

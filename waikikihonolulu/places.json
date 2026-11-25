@@ -2008,16 +2008,33 @@
  },
  {
   "name": "Tiki's Grill & Bar",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "2570 Kalakaua Ave",
+  "start": 2002,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2722354,
-  "lng": -157.8230022
+  "note": "Retro South Pacific-style tiki restaurant and bar upstairs in the Aston Waikiki Beach Hotel, now the Twin Fin Hotel. It opened in October 2002 and is still open.",
+  "lat": 21.2723556,
+  "lng": -157.8224714,
+  "links": [
+   {
+    "url": "https://archives.starbulletin.com/2002/09/08/business/engle.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://archives.starbulletin.com/2002/10/20/features/story3.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://tikis.posthaven.com/tag/job%20opening%20restaurant%20manager%20tiki's%20tiki%20oahu%20waikiki%20grill%20bar",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.gohawaii.com/listing/tikis-grill-bar/64",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Aloha Burrito Shop",
