@@ -1009,6 +1009,28 @@
   "start_unknown": true
  },
  {
+  "name": "Liliha",
+  "address": "2330 Kalakaua Ave",
+  "start": 2021,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Liliha Bakery opened its Waikiki location on the 3rd floor Grand Lanai of International Market Place (2330 Kalakaua Ave) in November 2021.",
+  "lat": 21.2783385,
+  "lng": -157.8260782,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://kith.com/blogs/discover/kith-treats-heritage-program-liliha-bakery",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.lilihabakery.com/our-story",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -5617,19 +5639,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Liliha",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2782587,
-  "lng": -157.8263751
  },
  {
   "name": "Halekulani Bakery",

@@ -602,6 +602,19 @@
     "https://www.alohastatedaily.com/2025/02/24/shokudo-is-celebrating-20-years-with-a-special-honey-toast-and-golden-tickets/",
     "https://www.honolulumagazine.com/shokudo-opens-an-old-school-izakaya-in-waikiki/"
    ]
+  },
+  {
+   "name": "Liliha",
+   "address": "2330 Kalakaua Ave",
+   "note": "Liliha Bakery opened its Waikiki location on the 3rd floor Grand Lanai of International Market Place (2330 Kalakaua Ave) in November 2021.",
+   "start": 2021,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://kith.com/blogs/discover/kith-treats-heritage-program-liliha-bakery",
+    "https://www.lilihabakery.com/our-story"
+   ]
   }
  ],
  "corrections": [
