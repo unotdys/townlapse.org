@@ -978,6 +978,37 @@
   ]
  },
  {
+  "name": "Magnolia Ice Cream & Treats",
+  "address": "2330 Kalakaua Ave",
+  "start": 2026,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Filipino-inspired ice cream shop on the second level of International Market Place, known for ube ice cream and halo-halo. The chain opened its first Hawaii scoop shop in Waipahu in 2015, and the year this Waikiki shop opened has not been confirmed.",
+  "lat": 21.2783385,
+  "lng": -157.8260782,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://mallmaverick.imgix.net/property_managers/1/property/705/20190812143834/InternationalMarketPlaceGrandOpening.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://nateeatshawaii.com/food-map/magnolia-ice-cream-and-treats",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/?p=374938",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.mallsinamerica.com/hawaii/international-market-place/magnolia-ice-cream",
+    "kind": "Article"
+   }
+  ],
+  "start_unknown": true
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -5508,19 +5539,6 @@
   "note": "Open today (ice cream). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2787196,
   "lng": -157.8287272
- },
- {
-  "name": "Magnolia Ice Cream and Treats",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (ice cream). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2787075,
-  "lng": -157.825927
  },
  {
   "name": "Na Hoku",
