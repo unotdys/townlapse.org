@@ -420,6 +420,20 @@
     "https://www.cookiecorner.com/pages/store-locations",
     "https://www.marriott.com/en-us/hotels/hnlws-sheraton-waikiki/dining"
    ]
+  },
+  {
+   "name": "Royal Hawaiian Bakery",
+   "address": "2259 Kalakaua Ave, Honolulu, HI 96815",
+   "note": "The Royal Hawaiian's press release and Honolulu Magazine report the bakery opened February 1, 2017; the release lists the resort address as 2259 Kalakaua Avenue.",
+   "start": 2017,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://cdn.marriottnetwork.com/uploads/sites/16/2017/11/royal-hawaiian-hotel-press-releases-January-17-grand-opening-royal-hawaiian-bakery.pdf",
+    "https://www.honolulumagazine.com/something-new-royal-hawaiian-bakery-opens-today/",
+    "https://www.royal-hawaiian.com/dining-overview/royal-hawaiian-bakery/"
+   ]
   }
  ],
  "corrections": [

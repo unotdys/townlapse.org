@@ -696,6 +696,32 @@
   "start_unknown": true
  },
  {
+  "name": "Royal Hawaiian Bakery",
+  "address": "2259 Kalakaua Ave, Honolulu, HI 96815",
+  "start": 2017,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "The Royal Hawaiian's press release and Honolulu Magazine report the bakery opened February 1, 2017; the release lists the resort address as 2259 Kalakaua Avenue.",
+  "lat": 21.2773331,
+  "lng": -157.8289679,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://cdn.marriottnetwork.com/uploads/sites/16/2017/11/royal-hawaiian-hotel-press-releases-January-17-grand-opening-royal-hawaiian-bakery.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/something-new-royal-hawaiian-bakery-opens-today/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.royal-hawaiian.com/dining-overview/royal-hawaiian-bakery/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -4987,19 +5013,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Royal Hawaiian Bakery",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2774373,
-  "lng": -157.8289633
  },
  {
   "name": "Sushi Sho",
