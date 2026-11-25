@@ -5595,15 +5595,28 @@
  {
   "name": "Royal Lobster",
   "address": "2250 Kalākaua Ave",
-  "start": 2026,
+  "start": 2021,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Lobster roll shop on the lower level of Waikiki Shopping Plaza. Honolulu Magazine described it as a new stand in October 2021.",
   "lat": 21.2796168,
-  "lng": -157.8285588
+  "lng": -157.8285588,
+  "links": [
+   {
+    "url": "https://waikikishoppingplaza.com/reasons-to-visit-waikiki-in-2024/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://waikikishoppingplaza.com/whats-new-in-waikiki/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/?p=530151",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Liliha",

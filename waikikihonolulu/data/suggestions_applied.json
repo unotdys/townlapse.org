@@ -2232,6 +2232,20 @@
      "https://www.honolulucoupon.com/post/september-2023-new-restaurants-and-cafe-updates-in-hawaii/"
     ]
    }
+  },
+  {
+   "target": "Royal Lobster",
+   "target_address": "2250 Kal\u0101kaua Ave",
+   "fields": {
+    "note": "Lobster roll shop on the lower level of Waikiki Shopping Plaza. Honolulu Magazine described it as a new stand in October 2021.",
+    "start": 2021,
+    "approx": true,
+    "links": [
+     "https://waikikishoppingplaza.com/reasons-to-visit-waikiki-in-2024/",
+     "https://waikikishoppingplaza.com/whats-new-in-waikiki/",
+     "https://www.honolulumagazine.com/?p=530151"
+    ]
+   }
   }
  ]
 }
