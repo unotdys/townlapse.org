@@ -4078,6 +4078,41 @@
   "start_unknown": true
  },
  {
+  "name": "Webster/Cowper Garage",
+  "address": "520 Webster St",
+  "start": 2026,
+  "end": null,
+  "category": "civic",
+  "approx": true,
+  "note": "City-owned public parking garage of about 590 spaces on the block between Webster and Cowper streets, offering free short-term parking and daily and monthly permits. It is still operating, but the year it opened has not been confirmed.",
+  "lat": 37.4492488,
+  "lng": -122.1577462,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.cityofpaloalto.org/files/assets/public/v/1/agendas-minutes-reports/reports/city-manager-reports-cmrs/year-archive/2012/2530.pdf",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.paloalto.gov/Departments/Transportation/Parking/Parking-Facilities/Downtown-Parking-Facilities/WebsterCowper-Garage-WC",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.paloalto.gov/Departments/Transportation/Transportation-Projects/Downtown-Automated-Parking-Guidance-Systems-APGS",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.paloalto.gov/files/assets/public/v/1/agendas-minutes-reports/reports/city-manager-reports-cmrs/year-archive/2018/sr-9447-modernization-of-lot-j-elevators.pdf",
+    "kind": "History"
+   },
+   {
+    "url": "https://en.parkopedia.com/parking/garage/webster_cowper_garage/94301/palo_alto",
+    "kind": "Article"
+   }
+  ],
+  "start_unknown": true
+ },
+ {
   "name": "The Prolific Oven",
   "address": "550 Waverley St",
   "start": 1980,
@@ -5097,9 +5132,9 @@
   "name": "The Redwood by Chef Julien",
   "address": "450 Bryant St",
   "start": 2022,
-  "end": 2022,
+  "end": 2026,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "news",
   "lat": 37.4461771,
   "lng": -122.1624215,
@@ -5109,7 +5144,7 @@
     "kind": "Article"
    }
   ],
-  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022. Later status unknown."
+  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022."
  },
  {
   "name": "Lima Ruby",
@@ -5530,14 +5565,14 @@
  },
  {
   "name": "La Comida",
-  "address": "429 Bryant St",
+  "address": "450 Bryant St",
   "start": 2026,
   "end": 2026,
   "category": "food",
   "approx": false,
   "source": "news",
-  "lat": 37.4465596,
-  "lng": -122.162491,
+  "lat": 37.4461771,
+  "lng": -122.1624215,
   "links": [
    {
     "url": "https://www.paloaltoonline.com/palo-alto/2026/08/26/avenidas-and-la-comida-to-host-foodie-fundraiser-to-support-older-adults/",

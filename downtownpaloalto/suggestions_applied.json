@@ -1351,6 +1351,22 @@
     "https://ltcnews.com/care/listing/4121",
     "https://npiregistry.cms.hhs.gov/provider-view/1881632347"
    ]
+  },
+  {
+   "name": "Webster/Cowper Garage",
+   "address": "520 Webster St",
+   "note": "City-owned public parking garage of about 590 spaces on the block between Webster and Cowper streets, offering free short-term parking and daily and monthly permits. It is still operating, but the year it opened has not been confirmed.",
+   "start": null,
+   "end": null,
+   "category": "civic",
+   "approx": true,
+   "links": [
+    "https://en.parkopedia.com/parking/garage/webster_cowper_garage/94301/palo_alto",
+    "https://www.cityofpaloalto.org/files/assets/public/v/1/agendas-minutes-reports/reports/city-manager-reports-cmrs/year-archive/2012/2530.pdf",
+    "https://www.paloalto.gov/Departments/Transportation/Parking/Parking-Facilities/Downtown-Parking-Facilities/WebsterCowper-Garage-WC",
+    "https://www.paloalto.gov/Departments/Transportation/Transportation-Projects/Downtown-Automated-Parking-Guidance-Systems-APGS",
+    "https://www.paloalto.gov/files/assets/public/v/1/agendas-minutes-reports/reports/city-manager-reports-cmrs/year-archive/2018/sr-9447-modernization-of-lot-j-elevators.pdf"
+   ]
   }
  ],
  "corrections": [
