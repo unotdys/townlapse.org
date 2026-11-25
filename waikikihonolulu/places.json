@@ -5981,15 +5981,24 @@
  {
   "name": "Mānoa Chocolate",
   "address": "227 Lewers St",
-  "start": 2026,
+  "start": 2024,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (confectionery). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "A Hawaii chocolate maker's Waikiki shop at Waikiki Beach Walk, which opened as a pop-up in December 2024. The company's site lists it as its current Waikiki store.",
   "lat": 21.2793314,
-  "lng": -157.8305792
+  "lng": -157.8305792,
+  "links": [
+   {
+    "url": "https://manoachocolate.com/pages/contact",
+    "kind": "Article"
+   },
+   {
+    "url": "https://pikoaloha.jp/blog/manoa-chocolate-waikiki-store-grand-open/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Kings & Queens",

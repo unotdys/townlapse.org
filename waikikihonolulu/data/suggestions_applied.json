@@ -2385,6 +2385,19 @@
      "https://www.hawaiinewsnow.com/video/2025/11/23/asato-family-shop-hands-out-free-treats-waikiki-grand-opening/"
     ]
    }
+  },
+  {
+   "target": "M\u0101noa Chocolate",
+   "target_address": "227 Lewers St",
+   "fields": {
+    "note": "A Hawaii chocolate maker's Waikiki shop at Waikiki Beach Walk, which opened as a pop-up in December 2024. The company's site lists it as its current Waikiki store.",
+    "start": 2024,
+    "approx": false,
+    "links": [
+     "https://manoachocolate.com/pages/contact",
+     "https://pikoaloha.jp/blog/manoa-chocolate-waikiki-store-grand-open/"
+    ]
+   }
   }
  ]
 }
