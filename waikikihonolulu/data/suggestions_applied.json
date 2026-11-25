@@ -879,6 +879,19 @@
      "https://www.travelweekly.com/Destinations2001-2007/Travel-Weekly-s-Hawaii-E-Letter-January-27-2003"
     ]
    }
+  },
+  {
+   "target": "Kelley O'Neil's",
+   "target_address": "311 Lewers St",
+   "fields": {
+    "note": "Irish pub on Lewers Street known for nightly live music, reported to have operated since about 1994 and mentioned in the local press by 2005.",
+    "start": 1994,
+    "approx": true,
+    "links": [
+     "https://archives.starbulletin.com/2005/03/11/features/barfly.html",
+     "https://howtoliveinhawaii.com/waikiki-nightlife-cocktail-music/"
+    ]
+   }
   }
  ]
 }

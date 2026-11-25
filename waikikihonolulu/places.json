@@ -2341,15 +2341,24 @@
  {
   "name": "Kelley O'Neil's",
   "address": "311 Lewers St",
-  "start": 2026,
+  "start": 1994,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Irish pub on Lewers Street known for nightly live music, reported to have operated since about 1994 and mentioned in the local press by 2005.",
   "lat": 21.2802786,
-  "lng": -157.829442
+  "lng": -157.829442,
+  "links": [
+   {
+    "url": "https://archives.starbulletin.com/2005/03/11/features/barfly.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://howtoliveinhawaii.com/waikiki-nightlife-cocktail-music/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Honolulu Tavern",
