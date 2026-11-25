@@ -1445,6 +1445,20 @@
      "https://www.royalhawaiiancenter.com/press-releases/royal-hawaiian-center-celebrates-hawaii-entrepreneurs-with-house-of-mana-up"
     ]
    }
+  },
+  {
+   "target": "Mugen",
+   "target_address": "2452 Kal\u0101kaua Ave",
+   "fields": {
+    "note": "French-Japanese fine-dining restaurant inside the Espacio hotel. It opened in fall 2019, around the same time as the hotel.",
+    "start": 2019,
+    "approx": false,
+    "links": [
+     "https://www.hawaiimagazine.com/this-waikiki-hotel-and-restaurant-opened-right-before-the-covid-19-pandemic/",
+     "https://www.honolulumagazine.com/heres-a-taste-of-waikikis-luxe-new-french-japanese-eatery/",
+     "https://www.travelweekly.com/Hawaii-Travel/Espacio-Mugen-restaurant-reopens-under-new-chef"
+    ]
+   }
   }
  ]
 }

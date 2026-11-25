@@ -3718,15 +3718,28 @@
  {
   "name": "Mugen",
   "address": "2452 Kalākaua Ave",
-  "start": 2026,
+  "start": 2019,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "French-Japanese fine-dining restaurant inside the Espacio hotel. It opened in fall 2019, around the same time as the hotel.",
   "lat": 21.2746017,
-  "lng": -157.8245457
+  "lng": -157.8245457,
+  "links": [
+   {
+    "url": "https://www.hawaiimagazine.com/this-waikiki-hotel-and-restaurant-opened-right-before-the-covid-19-pandemic/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/heres-a-taste-of-waikikis-luxe-new-french-japanese-eatery/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelweekly.com/Hawaii-Travel/Espacio-Mugen-restaurant-reopens-under-new-chef",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "H&M",
