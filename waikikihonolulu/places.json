@@ -4740,16 +4740,37 @@
  },
  {
   "name": "Kai Market",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "2255 Kalakaua Ave",
+  "start": 2009,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2772297,
-  "lng": -157.8310346
+  "note": "Buffet restaurant featuring locally grown food at the Sheraton Waikiki, opened in August 2009. It is still open.",
+  "lat": 21.27762,
+  "lng": -157.8302445,
+  "links": [
+   {
+    "url": "https://static1.squarespace.com/static/5d289e4caad70300015b6415/t/5d2b51e28406570001ecf3cc/1563120099142/waikiki_wiki-wiki_wire_x_34.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.kyoyahotelsandresorts.com/kyo-ya-history-in-hawaii/",
+    "kind": "History"
+   },
+   {
+    "url": "https://archives-new.honoluluadvertiser.com/article/2009/Aug/08/bz/hawaii908080314.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://archives.starbulletin.com/content/20091216_Farm_finds_home_in_Waikiki.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.gohawaii.com/listing/kai-market/137",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Edge of Waikiki",

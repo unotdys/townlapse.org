@@ -1806,6 +1806,23 @@
      "https://www.tuckerandbevvy.com/"
     ]
    }
+  },
+  {
+   "target": "Kai Market",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "2255 Kalakaua Ave",
+    "note": "Buffet restaurant featuring locally grown food at the Sheraton Waikiki, opened in August 2009. It is still open.",
+    "start": 2009,
+    "approx": false,
+    "links": [
+     "https://archives-new.honoluluadvertiser.com/article/2009/Aug/08/bz/hawaii908080314.html",
+     "https://archives.starbulletin.com/content/20091216_Farm_finds_home_in_Waikiki.html",
+     "https://static1.squarespace.com/static/5d289e4caad70300015b6415/t/5d2b51e28406570001ecf3cc/1563120099142/waikiki_wiki-wiki_wire_x_34.pdf",
+     "https://www.gohawaii.com/listing/kai-market/137",
+     "https://www.kyoyahotelsandresorts.com/kyo-ya-history-in-hawaii/"
+    ]
+   }
   }
  ]
 }
