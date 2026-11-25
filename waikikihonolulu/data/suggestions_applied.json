@@ -2356,6 +2356,22 @@
      "https://www.hawaiimagazine.com/imperial-hawaii-legacy-and-tradition/"
     ]
    }
+  },
+  {
+   "target": "ABC",
+   "target_address": "2169 Kalia Rd",
+   "fields": {
+    "note": "ABC Stores No. 206 applied for a liquor license at the Outrigger Reef Waikiki Beach Resort in April 2023 and opened around mid-2023. It is a convenience store that is still open.",
+    "start": 2023,
+    "approx": true,
+    "links": [
+     "https://outrigger.com/hawaii/oahu/outrigger-reef-waikiki-beach-resort/activities/retail-directory",
+     "https://statelegals.staradvertiser.com/2023/04/21/0001413096-01/",
+     "https://www.mapquest.com/us/hawaii/abc-stores-12317053",
+     "https://www.outrigger.com/hawaii/oahu/outrigger-reef-waikiki-beach-resort/activities/retail-directory",
+     "https://www.tripadvisor.co.uk/Hotel_Review-g60982-d87052-Reviews-or1750-OUTRIGGER_Reef_Waikiki_Beach_Resort-Honolulu_Oahu_Hawaii.html"
+    ]
+   }
   }
  ]
 }

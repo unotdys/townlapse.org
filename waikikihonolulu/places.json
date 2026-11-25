@@ -5925,15 +5925,36 @@
  {
   "name": "ABC",
   "address": "2169 Kalia Rd",
-  "start": 2026,
+  "start": 2023,
   "end": null,
   "category": "retail",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (convenience). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "ABC Stores No. 206 applied for a liquor license at the Outrigger Reef Waikiki Beach Resort in April 2023 and opened around mid-2023. It is a convenience store that is still open.",
   "lat": 21.2781296,
-  "lng": -157.8330054
+  "lng": -157.8330054,
+  "links": [
+   {
+    "url": "https://outrigger.com/hawaii/oahu/outrigger-reef-waikiki-beach-resort/activities/retail-directory",
+    "kind": "Article"
+   },
+   {
+    "url": "https://statelegals.staradvertiser.com/2023/04/21/0001413096-01/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.outrigger.com/hawaii/oahu/outrigger-reef-waikiki-beach-resort/activities/retail-directory",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.mapquest.com/us/hawaii/abc-stores-12317053",
+    "kind": "Listing"
+   },
+   {
+    "url": "https://www.tripadvisor.co.uk/Hotel_Review-g60982-d87052-Reviews-or1750-OUTRIGGER_Reef_Waikiki_Beach_Resort-Honolulu_Oahu_Hawaii.html",
+    "kind": "Listing"
+   }
+  ]
  },
  {
   "name": "Asato's",
