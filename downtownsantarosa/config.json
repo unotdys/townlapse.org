@@ -1,0 +1,185 @@
+{
+  "title": "Downtown Santa Rosa",
+  "description": "Slide through time to see which shops, restaurants and theaters stood in Downtown Santa Rosa from 1900 to today.",
+  "startYear": 1900,
+  "geocodeSuffix": "Santa Rosa, California",
+  "area": {
+    "polygon": [
+      [
+        38.431507,
+        -122.725569
+      ],
+      [
+        38.431507,
+        -122.702631
+      ],
+      [
+        38.449473,
+        -122.702631
+      ],
+      [
+        38.449473,
+        -122.725569
+      ]
+    ]
+  },
+  "map": {
+    "bearing": 0,
+    "bottom": {
+      "name": "",
+      "point": [
+        38.431507,
+        -122.7141
+      ]
+    },
+    "top": {
+      "name": "",
+      "point": [
+        38.449473,
+        -122.7141
+      ]
+    },
+    "mainStreet": {
+      "name": "5th Street",
+      "point": [
+        38.44049,
+        -122.7141
+      ]
+    },
+    "streetLabels": [
+      [
+        "5th Street",
+        38.4411,
+        -122.71454
+      ],
+      [
+        "3rd Street",
+        38.43954,
+        -122.71369
+      ],
+      [
+        "4th Street",
+        38.44106,
+        -122.71281
+      ],
+      [
+        "College Avenue",
+        38.44563,
+        -122.71706
+      ],
+      [
+        "Brookwood Avenue",
+        38.44201,
+        -122.70517
+      ],
+      [
+        "Santa Rosa Avenue",
+        38.43619,
+        -122.71221
+      ],
+      [
+        "D Street",
+        38.44102,
+        -122.71225
+      ],
+      [
+        "E Street",
+        38.44057,
+        -122.70971
+      ],
+      [
+        "B Street",
+        38.4413,
+        -122.71678
+      ],
+      [
+        "Mendocino Avenue",
+        38.44417,
+        -122.71646
+      ]
+    ]
+  },
+  "imagery": {
+    "_note": "Satellite/aerial tiles. Check the provider's terms for your use; swap in another XYZ tile URL if needed.",
+    "url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
+    "attribution": "Imagery &copy; Esri, Maxar, Earthstar Geographics",
+    "maxNativeZoom": 19
+  },
+  "api": {
+    "url": "https://api.townlapse.org/api/dpa",
+    "contact": false
+  },
+  "github": {
+    "repo": "unotdys/townlapse.org"
+  },
+  "hub": {
+    "name": "Townlapse",
+    "url": "https://townlapse.org/",
+    "slug": "downtownsantarosa"
+  },
+  "streets": [
+    "5th Street",
+    "3rd Street",
+    "4th Street",
+    "College Avenue",
+    "Brookwood Avenue",
+    "Santa Rosa Avenue",
+    "D Street",
+    "E Street",
+    "B Street",
+    "Mendocino Avenue",
+    "A Street",
+    "6th Street",
+    "7th Street",
+    "Morgan Street",
+    "Davis Street",
+    "Beaver Street",
+    "10th Street",
+    "2nd Street",
+    "Ross Street",
+    "Sonoma Avenue",
+    "Humboldt Street",
+    "Orchard Street",
+    "Ripley Street",
+    "Montgomery Drive",
+    "West 3rd Street",
+    "Wilson Street",
+    "Hendley Street",
+    "Healdsburg Avenue",
+    "Maple Avenue",
+    "West 9th Street",
+    "North Street",
+    "9th Street",
+    "Tupper Street",
+    "Benton Street",
+    "Carrillo Street",
+    "Pierson Street",
+    "Railroad Street",
+    "1st Street",
+    "McDonald Avenue",
+    "South E Street",
+    "Bennett Valley Road",
+    "Cleveland Avenue",
+    "Glenn Street",
+    "Olive Street",
+    "Stewart Street",
+    "Brown Street",
+    "Denton Way",
+    "Ripley Court",
+    "Sebastopol Avenue",
+    "Bosley Street",
+    "Riley Street",
+    "Clark Street",
+    "Roberts Avenue",
+    "13th Street",
+    "Chestnut Street",
+    "Lincoln Street",
+    "King Street",
+    "8th Street",
+    "Armory Drive",
+    "West 8th Street"
+  ],
+  "city": "Santa Rosa",
+  "region": "California",
+  "country": "United States"
+}
