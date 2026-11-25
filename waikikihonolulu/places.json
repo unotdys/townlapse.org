@@ -504,6 +504,24 @@
   ]
  },
  {
+  "name": "American Wagyu Eatery",
+  "address": "2525 Cartwright Rd",
+  "start": 2022,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Giftly reports the eatery opened in June 2022. ALOCO identifies its Waikiki food truck at 2525 Cartwright Rd.",
+  "lat": 21.2729781,
+  "lng": -157.8215234,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://alocohawaii.com/article/detail/38?page=3",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -4341,19 +4359,6 @@
   "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.272838,
   "lng": -157.8214086
- },
- {
-  "name": "American Wagyu Eatery",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2731645,
-  "lng": -157.8216354
  },
  {
   "name": "Starbucks",
