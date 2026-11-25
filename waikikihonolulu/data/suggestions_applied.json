@@ -533,6 +533,21 @@
      "https://mytiki.life/tiki-bars/tikis-meeting-spot-waikiki"
     ]
    }
+  },
+  {
+   "target": "Seaside Bar & Grill",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "2256 Kuhio Ave",
+    "note": "Casual bar and grill on Kuhio Avenue known for cheap breakfasts. Travel listings from 2006 said it had been around since 1996, and it is still open.",
+    "start": 1996,
+    "approx": true,
+    "links": [
+     "https://www.airbnb.com/things-to-do/places/1344477",
+     "https://www.browniebites.net/seaside-bar-grill-review-waikiki-hawaii/",
+     "https://www.travellerspoint.com/forum.cfm?thread=24062"
+    ]
+   }
   }
  ]
 }

@@ -1509,16 +1509,29 @@
  },
  {
   "name": "Seaside Bar & Grill",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "2256 Kuhio Ave",
+  "start": 1996,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2801722,
-  "lng": -157.8267674
+  "note": "Casual bar and grill on Kuhio Avenue known for cheap breakfasts. Travel listings from 2006 said it had been around since 1996, and it is still open.",
+  "lat": 21.2802579,
+  "lng": -157.8268156,
+  "links": [
+   {
+    "url": "https://www.airbnb.com/things-to-do/places/1344477",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.browniebites.net/seaside-bar-grill-review-waikiki-hawaii/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travellerspoint.com/forum.cfm?thread=24062",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Amnesia Sound Lounge",
