@@ -2404,17 +2404,34 @@
   "lng": -157.8258169
  },
  {
-  "name": "Tucker & Bevvy Picnic food",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
+  "name": "Tucker & Bevvy Picnic Food",
+  "address": "2586 Kalakaua Ave",
+  "start": 2013,
+  "end": 2026,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2715756,
-  "lng": -157.8226652
+  "note": "Australian-style takeout picnic cafe that opened in fall 2013 in the Park Shore Waikiki hotel. It closed on April 1, 2026, and an açaí shop took over the space.",
+  "lat": 21.2719973,
+  "lng": -157.822408,
+  "links": [
+   {
+    "url": "https://alohastatedaily.com/2026/05/07/oakberry-hawaii-is-opening-in-honolulu/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://eatinhawaii.blogspot.com/2014/07/wake-up-to-tucker-bevvy-breakfast.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://gotravelhawaii.com/hawaii-travel-blog/top-3-places-eat-like-aussie-hawaii/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://thecatdish.com/page/44/?sa=X&ved=0CDQQ9QEwDji0AWoVChMIhqnfrqvzxgIVFDCICh3m2ANP",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Banán",

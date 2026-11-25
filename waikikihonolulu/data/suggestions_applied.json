@@ -907,6 +907,24 @@
      "https://howtoliveinhawaii.com/waikiki-nightlife-cocktail-music/"
     ]
    }
+  },
+  {
+   "target": "Tucker & Bevvy Picnic food",
+   "target_address": "address not listed",
+   "fields": {
+    "name": "Tucker & Bevvy Picnic Food",
+    "address": "2586 Kalakaua Ave",
+    "note": "Australian-style takeout picnic cafe that opened in fall 2013 in the Park Shore Waikiki hotel. It closed on April 1, 2026, and an a\u00e7a\u00ed shop took over the space.",
+    "start": 2013,
+    "end": 2026,
+    "approx": false,
+    "links": [
+     "https://alohastatedaily.com/2026/05/07/oakberry-hawaii-is-opening-in-honolulu/",
+     "https://eatinhawaii.blogspot.com/2014/07/wake-up-to-tucker-bevvy-breakfast.html",
+     "https://gotravelhawaii.com/hawaii-travel-blog/top-3-places-eat-like-aussie-hawaii/",
+     "https://thecatdish.com/page/44/?sa=X&ved=0CDQQ9QEwDji0AWoVChMIhqnfrqvzxgIVFDCICh3m2ANP"
+    ]
+   }
   }
  ]
 }
