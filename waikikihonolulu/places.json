@@ -4446,15 +4446,24 @@
  {
   "name": "Kai Coffee",
   "address": "2490 Kalākaua Ave",
-  "start": 2026,
+  "start": 2019,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Kai Coffee Hawaii's third location, a street-facing cafe in the 'Alohilani Resort Waikiki Beach. A June 2019 trade-press report said it had opened that spring.",
   "lat": 21.2747564,
-  "lng": -157.8235105
+  "lng": -157.8235105,
+  "links": [
+   {
+    "url": "https://freshcup.com/cafe-crawl-honolulu-hawaii/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.alohilaniresort.com/dining/kai-coffee/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "SWELL Restaurant and Pool Bar",
@@ -6760,15 +6769,24 @@
  {
   "name": "Kai Coffee",
   "address": "2490 Kalākaua Ave",
-  "start": 2026,
+  "start": 2019,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Kai Coffee Hawaii's third location, a street-facing cafe in the 'Alohilani Resort Waikiki Beach. A June 2019 trade-press report said it had opened that spring.",
   "lat": 21.2741823,
-  "lng": -157.8239351
+  "lng": -157.8239351,
+  "links": [
+   {
+    "url": "https://freshcup.com/cafe-crawl-honolulu-hawaii/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.alohilaniresort.com/dining/kai-coffee/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Hoku Wireless",

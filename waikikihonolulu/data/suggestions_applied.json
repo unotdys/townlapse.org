@@ -1649,6 +1649,19 @@
      "https://www.honolulumagazine.com/this-waikiki-oasis-has-pasta-roman-sandwiches-and-a-crack-seed-sundae-with-mochi-crunch/"
     ]
    }
+  },
+  {
+   "target": "Kai Coffee",
+   "target_address": "2490 Kal\u0101kaua Ave",
+   "fields": {
+    "note": "Kai Coffee Hawaii's third location, a street-facing cafe in the 'Alohilani Resort Waikiki Beach. A June 2019 trade-press report said it had opened that spring.",
+    "start": 2019,
+    "approx": true,
+    "links": [
+     "https://freshcup.com/cafe-crawl-honolulu-hawaii/",
+     "https://www.alohilaniresort.com/dining/kai-coffee/"
+    ]
+   }
   }
  ]
 }
