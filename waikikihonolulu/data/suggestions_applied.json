@@ -2453,6 +2453,20 @@
      "https://www.royalhawaiiancenter.com/dean-and-deluca"
     ]
    }
+  },
+  {
+   "target": "TsuruTonTan",
+   "target_address": "2233 Kal\u0101kaua Ave",
+   "fields": {
+    "note": "TsuruTonTan Udon Noodle Brasserie, a restaurant from the Japanese udon chain, opened on June 14, 2018, on the third level of Building B at Royal Hawaiian Center. It was the chain's first Hawaii location.",
+    "start": 2018,
+    "approx": false,
+    "links": [
+     "https://www.hawaiimomblog.com/2018/11/tsurutontan-udon-noodle-brasserie.html?m=1",
+     "https://www.kpg.gr.jp/news/cate-8b1zb/det-hi1zb.html",
+     "https://www.thisweekhawaii.com/2018/07/25/something-delicious-tsurutontan-udon-noodle-brasserie-hawaii"
+    ]
+   }
   }
  ]
 }

@@ -6116,15 +6116,28 @@
  {
   "name": "TsuruTonTan",
   "address": "2233 Kalākaua Ave",
-  "start": 2026,
+  "start": 2018,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "TsuruTonTan Udon Noodle Brasserie, a restaurant from the Japanese udon chain, opened on June 14, 2018, on the third level of Building B at Royal Hawaiian Center. It was the chain's first Hawaii location.",
   "lat": 21.278721,
-  "lng": -157.8294248
+  "lng": -157.8294248,
+  "links": [
+   {
+    "url": "https://www.hawaiimomblog.com/2018/11/tsurutontan-udon-noodle-brasserie.html?m=1",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.kpg.gr.jp/news/cate-8b1zb/det-hi1zb.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.thisweekhawaii.com/2018/07/25/something-delicious-tsurutontan-udon-noodle-brasserie-hawaii",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Lemuria Crystal Shop",
