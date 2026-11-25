@@ -4137,16 +4137,33 @@
  },
  {
   "name": "Nightrider",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "2330 Kalakaua Ave",
+  "start": 2018,
   "end": null,
   "category": "retail",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (jewelry). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2779332,
-  "lng": -157.8266255
+  "note": "NightRider Jewelry's first Hawaii boutique, in the Banyan Court of International Market Place. It opened in early 2018 and held its official blessing and grand opening on November 17, 2018.",
+  "lat": 21.2783385,
+  "lng": -157.8260782,
+  "links": [
+   {
+    "url": "https://brightlight.biz/nightrider-jewelry-opens-in-honolulu/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://nightriderjewelry.com/locations/honolulu-hawaii",
+    "kind": "Article"
+   },
+   {
+    "url": "https://nightriderjewelry.com/nightrider-jewelry-in-honolulu-sets-november-17-2018-for-official-store-blessing-ceremony-grand-opening-party",
+    "kind": "Article"
+   },
+   {
+    "url": "https://nightriderjewelry.com/nightrider-jewelry-opens-boutique-location-in-honolulu",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "MCM",
