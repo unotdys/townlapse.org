@@ -5095,15 +5095,24 @@
  {
   "name": "Hawaiian Aroma Caffe",
   "address": "150 Kaʻiulani Ave",
-  "start": 2026,
+  "start": 2017,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Cafe on the second floor of the OHANA Waikiki East hotel (now Outrigger Waikiki Paradise), in the former Kimo Bean space, reached by a stairway from Kaiulani Avenue. It was scheduled to open in December 2017 and is still open.",
   "lat": 21.277744,
-  "lng": -157.8248263
+  "lng": -157.8248263,
+  "links": [
+   {
+    "url": "https://www.hawaiianaromacaffe.com/articles-and-events/two-new-waikiki-cafe-locations",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hawaiianaromacaffe.com/locations/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Waikiki Market",
