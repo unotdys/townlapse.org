@@ -1688,6 +1688,22 @@
      "https://www.alohilaniresort.com/dining/swell-bar/"
     ]
    }
+  },
+  {
+   "target": "Kuhio Beach Grill",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "2552 Kalakaua Ave",
+    "note": "Buffet restaurant in the Waikiki Beach Marriott Resort & Spa. It was serving Hawaiian dinner buffets by April 2011 and is still open.",
+    "start": 2011,
+    "approx": true,
+    "links": [
+     "https://gayot.com/restaurants/hawaiinews/archive-april-2011.html",
+     "https://www.kuhiobeachgrill.com/",
+     "https://www.marriott.com/en-us/hotels/hnlmc-waikiki-beach-marriott-resort-and-spa/dining",
+     "https://www.opentable.com/r/kuhio-beach-grill-honolulu-1"
+    ]
+   }
   }
  ]
 }
