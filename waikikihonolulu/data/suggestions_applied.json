@@ -635,6 +635,22 @@
      "https://www.matchacafe-maiko.com/eng/news/index.php?page=5"
     ]
    }
+  },
+  {
+   "target": "Crackin' Kitchen",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "2330 Kalakaua Ave",
+    "note": "Hawaiian-Cajun seafood boil restaurant on an upper floor of International Market Place, open there by late 2022. It reopened in October 2024 after a brief Health Department closure.",
+    "start": 2022,
+    "approx": true,
+    "links": [
+     "https://health.hawaii.gov/news/files/2024/10/News-Release-DOH-Approves-Reopening-of-Crackin-Kitchen_kw-mn.pdf",
+     "https://www.hinowdaily.com/2022/10/24/crackin-kitchen-brings-cajun-cuisine-inspired-by-spirit-hawaii/",
+     "https://www.honolulucoupon.com/post/new-restaurants-and-shop-openings-in-hawaii-in-july-2022-malasadas-and-cookie-shops-a-dry-head-spa-and-more-a-total-of-17-openings/",
+     "https://www.mallsinamerica.com/hawaii/international-market-place/crackin-kitchen"
+    ]
+   }
   }
  ]
 }

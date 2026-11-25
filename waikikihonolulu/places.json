@@ -1761,16 +1761,33 @@
  },
  {
   "name": "Crackin' Kitchen",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "2330 Kalakaua Ave",
+  "start": 2022,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2800518,
-  "lng": -157.8274325
+  "note": "Hawaiian-Cajun seafood boil restaurant on an upper floor of International Market Place, open there by late 2022. It reopened in October 2024 after a brief Health Department closure.",
+  "lat": 21.2783385,
+  "lng": -157.8260782,
+  "links": [
+   {
+    "url": "https://health.hawaii.gov/news/files/2024/10/News-Release-DOH-Approves-Reopening-of-Crackin-Kitchen_kw-mn.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.hinowdaily.com/2022/10/24/crackin-kitchen-brings-cajun-cuisine-inspired-by-spirit-hawaii/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulucoupon.com/post/new-restaurants-and-shop-openings-in-hawaii-in-july-2022-malasadas-and-cookie-shops-a-dry-head-spa-and-more-a-total-of-17-openings/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.mallsinamerica.com/hawaii/international-market-place/crackin-kitchen",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Honolulu Cookie Company",
