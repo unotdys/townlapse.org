@@ -814,6 +814,40 @@
   ]
  },
  {
+  "name": "Waikiki Market",
+  "address": "2380 Kuhio Ave",
+  "start": 2023,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "note": "Grocery store on the second floor of the Lilia Waikiki apartment tower, opened on January 11, 2023 on the former site of the Food Pantry store. It closed in spring 2026 for renovation and reopened that August.",
+  "lat": 21.278464,
+  "lng": -157.8244616,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://alohastatedaily.com/2026/08/24/waikiki-market-and-olili-are-re-opening-this-week/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://spectrumlocalnews.com/hi/hawaii/news/2023/01/06/a-grocery-store-is-opening-in-waikiki",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hawaiinewsnow.com/2022/12/14/new-waikiki-market-opens-this-week-former-food-pantry-site/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/?p=606944",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.waikikimarkethawaii.com/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -5166,19 +5200,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Waikiki Market",
-  "address": "2380 Kuhio Ave",
-  "start": 2026,
-  "end": null,
-  "category": "retail",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (supermarket). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2783192,
-  "lng": -157.8245994
  },
  {
   "name": "Balenciaga",

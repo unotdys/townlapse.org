@@ -487,6 +487,22 @@
     "https://alocohawaii.com/article/detail/4526",
     "https://www.kaukauhawaii.com/storedetail/2045/"
    ]
+  },
+  {
+   "name": "Waikiki Market",
+   "address": "2380 Kuhio Ave",
+   "note": "Grocery store on the second floor of the Lilia Waikiki apartment tower, opened on January 11, 2023 on the former site of the Food Pantry store. It closed in spring 2026 for renovation and reopened that August.",
+   "start": 2023,
+   "end": null,
+   "category": "food",
+   "approx": false,
+   "links": [
+    "https://alohastatedaily.com/2026/08/24/waikiki-market-and-olili-are-re-opening-this-week/",
+    "https://spectrumlocalnews.com/hi/hawaii/news/2023/01/06/a-grocery-store-is-opening-in-waikiki",
+    "https://www.hawaiinewsnow.com/2022/12/14/new-waikiki-market-opens-this-week-former-food-pantry-site/",
+    "https://www.honolulumagazine.com/?p=606944",
+    "https://www.waikikimarkethawaii.com/"
+   ]
   }
  ],
  "corrections": [
