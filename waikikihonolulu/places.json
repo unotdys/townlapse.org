@@ -254,6 +254,32 @@
   ]
  },
  {
+  "name": "Morimoto Asia Waikiki",
+  "address": "2490 Kalakaua Ave",
+  "start": 2018,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "note": "Pan-Asian restaurant by Iron Chef Masaharu Morimoto and the signature restaurant of the 'Alohilani Resort Waikiki Beach. It opened to the public on February 15, 2018.",
+  "lat": 21.2760811,
+  "lng": -157.8257486,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.alohilaniresort.com/press/morimoto-asia-waikiki-opens-tomorrow-inside-new-alohilani-resort-waikiki-beach/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hawaiinewsnow.com/story/37297100/chef-morimoto-opens-two-new-waikiki-restaurants",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.prnewswire.com/news-releases/morimoto-asia-waikiki-opens-tomorrow-inside-the-all-new-alohilani-resort-waikiki-beach-300598986.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,

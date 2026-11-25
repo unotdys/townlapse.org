@@ -160,6 +160,20 @@
     "https://starbuckseverywhere.net/Oahu.htm",
     "https://www.sirved.com/restaurant/honolulu-hawaii-usa/starbucks/840475/menus"
    ]
+  },
+  {
+   "name": "Morimoto Asia Waikiki",
+   "address": "2490 Kalakaua Ave",
+   "note": "Pan-Asian restaurant by Iron Chef Masaharu Morimoto and the signature restaurant of the 'Alohilani Resort Waikiki Beach. It opened to the public on February 15, 2018.",
+   "start": 2018,
+   "end": null,
+   "category": "food",
+   "approx": false,
+   "links": [
+    "https://www.alohilaniresort.com/press/morimoto-asia-waikiki-opens-tomorrow-inside-new-alohilani-resort-waikiki-beach/",
+    "https://www.hawaiinewsnow.com/story/37297100/chef-morimoto-opens-two-new-waikiki-restaurants",
+    "https://www.prnewswire.com/news-releases/morimoto-asia-waikiki-opens-tomorrow-inside-the-all-new-alohilani-resort-waikiki-beach-300598986.html"
+   ]
   }
  ],
  "corrections": [
