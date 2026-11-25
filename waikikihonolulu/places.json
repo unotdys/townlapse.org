@@ -1589,15 +1589,24 @@
  {
   "name": "Sato Seafood",
   "address": "2310 Kūhiō Ave",
-  "start": 2026,
+  "start": 2021,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Poke shop that serves bowls made with local ahi. It opened in Waikiki on December 31, 2021.",
   "lat": 21.27962,
-  "lng": -157.8261126
+  "lng": -157.8261126,
+  "links": [
+   {
+    "url": "https://marketspread.com/vendor/54732/sato-seafood/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://staradvertiser.com/?p=1093448",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "JINROKU PACIFIC",

@@ -562,6 +562,19 @@
      "https://www.hawaiinewsnow.com/story/37692982/fire-investigators-discover-live-ammo-inside-abandoned-waikiki-gun-range"
     ]
    }
+  },
+  {
+   "target": "Sato Seafood",
+   "target_address": "2310 K\u016bhi\u014d Ave",
+   "fields": {
+    "note": "Poke shop that serves bowls made with local ahi. It opened in Waikiki on December 31, 2021.",
+    "start": 2021,
+    "approx": false,
+    "links": [
+     "https://marketspread.com/vendor/54732/sato-seafood/",
+     "https://staradvertiser.com/?p=1093448"
+    ]
+   }
   }
  ]
 }
