@@ -4563,16 +4563,25 @@
  },
  {
   "name": "d.k Steakhouse",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "2552 Kalakaua Ave",
+  "start": 2004,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2731643,
-  "lng": -157.8229322
+  "note": "Steakhouse from chef D.K. Kodama on the third floor of the Waikiki Beach Marriott Resort & Spa, next to Sansei. It opened in fall 2004, took the d.k Steak House name that December and is still open.",
+  "lat": 21.2734513,
+  "lng": -157.8224713,
+  "links": [
+   {
+    "url": "https://the.honoluluadvertiser.com/article/2004/Dec/01/il/il19ataste.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/fuud-d-k-steakhouse-in-waikiki/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Honolulu Cookie Company",

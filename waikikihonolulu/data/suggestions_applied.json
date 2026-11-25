@@ -1718,6 +1718,20 @@
      "https://archives.starbulletin.com/2004/03/18/business/engle.html"
     ]
    }
+  },
+  {
+   "target": "d.k Steakhouse",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "2552 Kalakaua Ave",
+    "note": "Steakhouse from chef D.K. Kodama on the third floor of the Waikiki Beach Marriott Resort & Spa, next to Sansei. It opened in fall 2004, took the d.k Steak House name that December and is still open.",
+    "start": 2004,
+    "approx": false,
+    "links": [
+     "https://the.honoluluadvertiser.com/article/2004/Dec/01/il/il19ataste.html",
+     "https://www.honolulumagazine.com/fuud-d-k-steakhouse-in-waikiki/"
+    ]
+   }
   }
  ]
 }
