@@ -1217,6 +1217,22 @@
      "https://en.wikipedia.org/wiki/Royal_Hawaiian_Hotel"
     ]
    }
+  },
+  {
+   "target": "Dukes Lane Market & Eatery",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "2255 Kuhio Ave",
+    "note": "ABC Stores' upscale market and food hall on the ground floor of the Hyatt Centric Waikiki Beach, the former Waikiki Trade Center, at Kuhio Avenue and Dukes Lane. It opened on July 5, 2017.",
+    "start": 2017,
+    "category": "food",
+    "approx": false,
+    "links": [
+     "https://dining.staradvertiser.com/2020/08/columns/restaurant-insider-with-anne-lee/dukes-lane-market-eatery/",
+     "https://www.hawaiimagazine.com/content/dukes-lane-and-street-give-food-court-upscale-makeover-waikiki",
+     "https://www.honolulumagazine.com/our-top-5-best-eats-at-dukes-lane-market-eatery/"
+    ]
+   }
   }
  ]
 }

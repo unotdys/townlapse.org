@@ -3274,16 +3274,29 @@
  },
  {
   "name": "Dukes Lane Market & Eatery",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "2255 Kuhio Ave",
+  "start": 2017,
   "end": null,
-  "category": "retail",
+  "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (supermarket). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2796028,
-  "lng": -157.8266621
+  "note": "ABC Stores' upscale market and food hall on the ground floor of the Hyatt Centric Waikiki Beach, the former Waikiki Trade Center, at Kuhio Avenue and Dukes Lane. It opened on July 5, 2017.",
+  "lat": 21.2794303,
+  "lng": -157.8269253,
+  "links": [
+   {
+    "url": "https://dining.staradvertiser.com/2020/08/columns/restaurant-insider-with-anne-lee/dukes-lane-market-eatery/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hawaiimagazine.com/content/dukes-lane-and-street-give-food-court-upscale-makeover-waikiki",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/our-top-5-best-eats-at-dukes-lane-market-eatery/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "The Veranda at the Beachouse",
