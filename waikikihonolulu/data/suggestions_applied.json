@@ -1635,6 +1635,20 @@
      "https://www.mallgang.com/hawaii/international-market-place/stores/vans"
     ]
    }
+  },
+  {
+   "target": "Piccola Onda",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "Kealohilani Ave (behind \u02bbAlohilani Resort, 2490 Kalakaua Ave)",
+    "note": "Italian food truck that opened in late February 2021 on Kealohilani Avenue, behind the \u02bbAlohilani Resort, according to HAWAI\u02bbI Magazine and Honolulu Magazine.",
+    "start": 2021,
+    "approx": false,
+    "links": [
+     "https://www.hawaiimagazine.com/get-authentic-italian-fare-and-new-school-ice-cream-from-these-hidden-waikiki-spots/",
+     "https://www.honolulumagazine.com/this-waikiki-oasis-has-pasta-roman-sandwiches-and-a-crack-seed-sundae-with-mochi-crunch/"
+    ]
+   }
   }
  ]
 }

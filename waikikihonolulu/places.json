@@ -4424,15 +4424,24 @@
  {
   "name": "Piccola Onda",
   "address": "address not listed",
-  "start": 2026,
+  "start": 2021,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Italian food truck that opened in late February 2021 on Kealohilani Avenue, behind the ʻAlohilani Resort, according to HAWAIʻI Magazine and Honolulu Magazine.",
   "lat": 21.2744639,
-  "lng": -157.8240228
+  "lng": -157.8240228,
+  "links": [
+   {
+    "url": "https://www.hawaiimagazine.com/get-authentic-italian-fare-and-new-school-ice-cream-from-these-hidden-waikiki-spots/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/this-waikiki-oasis-has-pasta-roman-sandwiches-and-a-crack-seed-sundae-with-mochi-crunch/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Kai Coffee",
