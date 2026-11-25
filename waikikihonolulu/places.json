@@ -3439,15 +3439,24 @@
  {
   "name": "Island Vintage Wine Bar",
   "address": "2301 Kalākaua Ave",
-  "start": 2026,
+  "start": 2019,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (bar). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Wine bar with self-serve wine dispensers on the second level of Royal Hawaiian Center's Building C, run by the owner of the Island Vintage Coffee cafe next door. It held its grand opening on August 8, 2019, and is still open today.",
   "lat": 21.2782115,
-  "lng": -157.828536
+  "lng": -157.828536,
+  "links": [
+   {
+    "url": "https://www.honolulumagazine.com/oahus-new-self-serve-wine-bar-takes-you-from-brunch-to-dinner/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.royalhawaiiancenter.com/press-releases/island-vintage-wine-bar-opens-its-doors-at-royal-hawaiian-center",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Hula’s Bar and Lei Stand",

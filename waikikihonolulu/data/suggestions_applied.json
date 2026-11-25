@@ -1308,6 +1308,19 @@
      "https://www.travelweekly.com/Hawaii-Travel/Romer-House-Waikiki-opens-in-June"
     ]
    }
+  },
+  {
+   "target": "Island Vintage Wine Bar",
+   "target_address": "2301 Kal\u0101kaua Ave",
+   "fields": {
+    "note": "Wine bar with self-serve wine dispensers on the second level of Royal Hawaiian Center's Building C, run by the owner of the Island Vintage Coffee cafe next door. It held its grand opening on August 8, 2019, and is still open today.",
+    "start": 2019,
+    "approx": false,
+    "links": [
+     "https://www.honolulumagazine.com/oahus-new-self-serve-wine-bar-takes-you-from-brunch-to-dinner/",
+     "https://www.royalhawaiiancenter.com/press-releases/island-vintage-wine-bar-opens-its-doors-at-royal-hawaiian-center"
+    ]
+   }
   }
  ]
 }
