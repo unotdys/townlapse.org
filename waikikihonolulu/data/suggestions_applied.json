@@ -474,6 +474,21 @@
      "https://www-eur.cvent.com/venues/honolulu/restaurant/hula-grill-waikiki/venue-eccaaed7-76f2-4ea0-b927-c723cc25fbed"
     ]
    }
+  },
+  {
+   "target": "RumFire",
+   "target_address": "2255 Kal\u0101kaua Ave",
+   "fields": {
+    "note": "Oceanfront restaurant and rum bar on the ground floor of the Sheraton Waikiki, opened in early 2008. It was later remodeled and is still open.",
+    "start": 2008,
+    "approx": false,
+    "links": [
+     "https://the.honoluluadvertiser.com/article/2008/Feb/22/en/hawaii802220305.html",
+     "https://www.rlb.com/americas/projects/rumfire-at-the-sheraton-waikiki/",
+     "https://www.travelagentcentral.com/destinations/rumfire-heats-up-waikiki",
+     "https://www.travelweekly.com/Hawaii-Travel/Sheraton-Waikiki-revamps-RumFire"
+    ]
+   }
   }
  ]
 }

@@ -1380,15 +1380,32 @@
  {
   "name": "RumFire",
   "address": "2255 Kalākaua Ave",
-  "start": 2026,
+  "start": 2008,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (bar). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Oceanfront restaurant and rum bar on the ground floor of the Sheraton Waikiki, opened in early 2008. It was later remodeled and is still open.",
   "lat": 21.2768656,
-  "lng": -157.8303232
+  "lng": -157.8303232,
+  "links": [
+   {
+    "url": "https://the.honoluluadvertiser.com/article/2008/Feb/22/en/hawaii802220305.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.rlb.com/americas/projects/rumfire-at-the-sheraton-waikiki/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelagentcentral.com/destinations/rumfire-heats-up-waikiki",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelweekly.com/Hawaii-Travel/Sheraton-Waikiki-revamps-RumFire",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Dean & Deluca’s",
