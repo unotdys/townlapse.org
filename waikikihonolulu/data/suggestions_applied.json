@@ -1565,6 +1565,22 @@
      "https://www.tumi.com/store/0000001227"
     ]
    }
+  },
+  {
+   "target": "VINCE.",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "2330 Kalakaua Ave",
+    "note": "Boutique of the Vince men's and women's clothing brand at International Market Place. It opened around 2017, among the later arrivals after the rebuilt mall reopened in August 2016.",
+    "start": 2017,
+    "approx": true,
+    "links": [
+     "https://jobs.recruiter.com/jobs/11051913364-part-time-sales-associate-international-market-place-hi",
+     "https://www.mallscenters.com/brands/stores/vince/honolulu--hawaii--intenrational-market-place",
+     "https://www.simon.com/mall/international-market-place/map/vince/",
+     "https://www.travelagewest.com/Travel/Hawaii/A-Shopper-s-Guide-to-New-Offerings-in-Hawaii"
+    ]
+   }
   }
  ]
 }
