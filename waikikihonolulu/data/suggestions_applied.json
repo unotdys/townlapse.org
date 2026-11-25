@@ -2583,6 +2583,19 @@
      "https://www.waikikibeachwalk.com/Shopping/Blue-Ginger.htm"
     ]
    }
+  },
+  {
+   "target": "Kolohe",
+   "target_address": "227 Lewers St",
+   "fields": {
+    "note": "Flagship store of a Hawaii handcrafted jewelry brand, which opened at Waikiki Beach Walk in 2021. Kolohe's store page still lists it as open.",
+    "start": 2021,
+    "approx": false,
+    "links": [
+     "https://shopkolohe.com/pages/kolohestores",
+     "https://www.waikikibeachwalk.com/Blog/September-2021/Local-Celebrities-at-Waikiki-Beach-Walk.htm"
+    ]
+   }
   }
  ]
 }

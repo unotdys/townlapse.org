@@ -6405,15 +6405,24 @@
  {
   "name": "Kolohe",
   "address": "227 Lewers St",
-  "start": 2026,
+  "start": 2021,
   "end": null,
   "category": "retail",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (jewelry). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Flagship store of a Hawaii handcrafted jewelry brand, which opened at Waikiki Beach Walk in 2021. Kolohe's store page still lists it as open.",
   "lat": 21.2791197,
-  "lng": -157.8308339
+  "lng": -157.8308339,
+  "links": [
+   {
+    "url": "https://shopkolohe.com/pages/kolohestores",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.waikikibeachwalk.com/Blog/September-2021/Local-Celebrities-at-Waikiki-Beach-Walk.htm",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Tim Ho Wan",
