@@ -3527,15 +3527,32 @@
  {
   "name": "Bario Ramen",
   "address": "2250 Kalākaua Ave",
-  "start": 2026,
+  "start": 2017,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Ramen Bario opened in 2017 at Waikiki Yokocho, the Japanese food alley in the basement of Waikiki Shopping Plaza. After a stint at Ala Moana, it later reopened in its old space, now part of the STIX Asia food hall.",
   "lat": 21.279299,
-  "lng": -157.828227
+  "lng": -157.828227,
+  "links": [
+   {
+    "url": "https://dining.staradvertiser.com/2023/12/columns/a-la-carte/authentic-flavors-shine-at-food-hall/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://dining.staradvertiser.com/?p=46313",
+    "kind": "Article"
+   },
+   {
+    "url": "https://en.prnasia.com/releases/global/First_phase_Opening_Completed_with_14_Restaurants_at_Japanese_Food_Alley_in_Hawaii-173992.shtml",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulucoupon.com/post/january-2024-new-cafe-and-restaurant-openings-in-hawaii/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "In Between",
