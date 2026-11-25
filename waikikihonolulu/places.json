@@ -2652,16 +2652,29 @@
  },
  {
   "name": "Mahina and Sun's",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "412 Lewers St",
+  "start": 2016,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2819828,
-  "lng": -157.8281537
+  "note": "Chef Ed Kenney's island-cuisine restaurant in the Surfjack Hotel & Swim Club, opened in spring 2016. It was his first restaurant in Waikiki.",
+  "lat": 21.2820881,
+  "lng": -157.8281776,
+  "links": [
+   {
+    "url": "https://www.afar.com/places/mahina-and-suns-honolulu?p=98",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/?p=38071",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelweekly.com/Hawaii-Travel/Hip-new-Surfjack-Hotel-Swim-Club-open-in-Waikiki",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Sushi Sho",
