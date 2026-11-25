@@ -559,6 +559,20 @@
     "https://www.hinowdaily.com/2021/10/26/enjoy-delicious-food-great-cocktails-and-sports-at-skybox-taphouse-in-waikiki/",
     "https://www.skyboxtaphouse.com/about/"
    ]
+  },
+  {
+   "name": "Mitsuwa Marketplace",
+   "address": "2330 Kalakaua Ave",
+   "note": "The Japanese supermarket chain's first Hawaii store, which opened in May 2017 on the second level of International Market Place near Saks Fifth Avenue. Its food court was later remodeled and renamed The Japan.",
+   "start": 2017,
+   "end": null,
+   "category": "retail",
+   "approx": false,
+   "links": [
+    "https://mitsuwa.com/hw/",
+    "https://www.hawaiimomblog.com/2017/05/now-open-mitsuwa-marketplace.html",
+    "https://www.travelweekly.com/Hawaii-Travel/Japanese-market-opens-in-Hawaii"
+   ]
   }
  ],
  "corrections": [

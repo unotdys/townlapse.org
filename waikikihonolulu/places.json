@@ -952,6 +952,32 @@
   ]
  },
  {
+  "name": "Mitsuwa Marketplace",
+  "address": "2330 Kalakaua Ave",
+  "start": 2017,
+  "end": null,
+  "category": "retail",
+  "approx": false,
+  "note": "The Japanese supermarket chain's first Hawaii store, which opened in May 2017 on the second level of International Market Place near Saks Fifth Avenue. Its food court was later remodeled and renamed The Japan.",
+  "lat": 21.2783385,
+  "lng": -157.8260782,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://mitsuwa.com/hw/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hawaiimomblog.com/2017/05/now-open-mitsuwa-marketplace.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelweekly.com/Hawaii-Travel/Japanese-market-opens-in-Hawaii",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -5482,19 +5508,6 @@
   "note": "Open today (ice cream). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2787196,
   "lng": -157.8287272
- },
- {
-  "name": "Mitsuwa Marketplace",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "retail",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (supermarket). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.27884,
-  "lng": -157.8261657
  },
  {
   "name": "Magnolia Ice Cream and Treats",
