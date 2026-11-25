@@ -1124,15 +1124,24 @@
  {
   "name": "Central Pacific Bank",
   "address": "333 Seaside Ave",
-  "start": 2026,
+  "start": 1979,
   "end": null,
   "category": "services",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (bank). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Central Pacific Bank's Waikiki Branch, a street-level bank branch on Seaside Avenue. FDIC records date the branch office to September 1979.",
   "lat": 21.2796316,
-  "lng": -157.8274564
+  "lng": -157.8274564,
+  "links": [
+   {
+    "url": "https://banks-america.com/branch/243623-central-pacific-bank-waikiki-branch/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.cpb.bank/locations/waikiki-branch",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Golf",
