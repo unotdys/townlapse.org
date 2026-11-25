@@ -2462,15 +2462,28 @@
  {
   "name": "Tanaka of Tokyo",
   "address": "150 Kaʻiulani Ave",
-  "start": 2026,
+  "start": 2015,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Teppanyaki restaurant (Tanaka of Tokyo East) on the ground floor of the OHANA Waikiki East hotel. It opened in fall 2015 in the former Round Table Pizza space after moving from King's Village.",
   "lat": 21.2776803,
-  "lng": -157.824903
+  "lng": -157.824903,
+  "links": [
+   {
+    "url": "https://dining.staradvertiser.com/2021/06/columns/a-la-carte/3-cheers-for-3-honolulu-locations/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://news.outrigger.com/2015/08/03/ohana-waikiki-east-hotel-to-welcome-new-tanaka-of-tokyo-restaurant-this-fall/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.superpages.com/honolulu-hi/bpp/tanaka-of-tokyo-east-463276524",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Hy's Steakhouse",

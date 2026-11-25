@@ -925,6 +925,20 @@
      "https://thecatdish.com/page/44/?sa=X&ved=0CDQQ9QEwDji0AWoVChMIhqnfrqvzxgIVFDCICh3m2ANP"
     ]
    }
+  },
+  {
+   "target": "Tanaka of Tokyo",
+   "target_address": "150 Ka\u02bbiulani Ave",
+   "fields": {
+    "note": "Teppanyaki restaurant (Tanaka of Tokyo East) on the ground floor of the OHANA Waikiki East hotel. It opened in fall 2015 in the former Round Table Pizza space after moving from King's Village.",
+    "start": 2015,
+    "approx": false,
+    "links": [
+     "https://dining.staradvertiser.com/2021/06/columns/a-la-carte/3-cheers-for-3-honolulu-locations/",
+     "https://news.outrigger.com/2015/08/03/ohana-waikiki-east-hotel-to-welcome-new-tanaka-of-tokyo-restaurant-this-fall/",
+     "https://www.superpages.com/honolulu-hi/bpp/tanaka-of-tokyo-east-463276524"
+    ]
+   }
   }
  ]
 }
