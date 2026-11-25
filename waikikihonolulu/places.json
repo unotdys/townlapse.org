@@ -4658,16 +4658,33 @@
  },
  {
   "name": "SWIM Restaurant and Bar",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "2424 Kalakaua Ave",
+  "start": 2011,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.276259,
-  "lng": -157.8255207
+  "note": "Poolside restaurant and bar on the third-floor pool deck of the Hyatt Regency Waikiki Beach Resort & Spa. It opened around 2011 as part of the hotel's third-floor renovation and serves American and local Hawaiian food.",
+  "lat": 21.276067,
+  "lng": -157.8250901,
+  "links": [
+   {
+    "url": "https://static1.squarespace.com/static/5d289e4caad70300015b6415/t/5d2a9c763c390a000174f565/1563073659445/VOL_XV-03__2014_-_Hokulani_Waikiki.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://hyattregencywaikikibeach.com/dine-and-drink/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.gohawaii.com/listing/swim/1687",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hawaiireporter.com/?p=34094",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Kirin Restaurant",

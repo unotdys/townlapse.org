@@ -1762,6 +1762,22 @@
      "https://www.hyatt.com/hyatt-regency/en-US/hnlrw-hyatt-regency-waikiki-beach-resort-and-spa/dining"
     ]
    }
+  },
+  {
+   "target": "SWIM Restaurant and Bar",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "2424 Kalakaua Ave",
+    "note": "Poolside restaurant and bar on the third-floor pool deck of the Hyatt Regency Waikiki Beach Resort & Spa. It opened around 2011 as part of the hotel's third-floor renovation and serves American and local Hawaiian food.",
+    "start": 2011,
+    "approx": true,
+    "links": [
+     "https://hyattregencywaikikibeach.com/dine-and-drink/",
+     "https://static1.squarespace.com/static/5d289e4caad70300015b6415/t/5d2a9c763c390a000174f565/1563073659445/VOL_XV-03__2014_-_Hokulani_Waikiki.pdf",
+     "https://www.gohawaii.com/listing/swim/1687",
+     "https://www.hawaiireporter.com/?p=34094"
+    ]
+   }
   }
  ]
 }
