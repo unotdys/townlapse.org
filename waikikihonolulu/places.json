@@ -3623,15 +3623,36 @@
  {
   "name": "Ko Tiki Terrace",
   "address": "2425 Kūhiō Ave",
-  "start": 2026,
+  "start": 2020,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (bar). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Poolside tiki bar and restaurant at the Aqua Bamboo Waikiki hotel, which replaced an earlier pizza restaurant on the site. Tourism listings described it as newly opened in early 2020.",
   "lat": 21.2767752,
-  "lng": -157.8241979
+  "lng": -157.8241979,
+  "links": [
+   {
+    "url": "https://honoluluvibes.com/ko-tiki-terrace-brings-back-charm-of-hawaii-tiki-bar-dining-in-waikiki/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://honoluluvibes.com/ko-tiki-terrace-brings-back-charm-of-hawaii-tiki-bar-dining-in-waikiki/?shared=email&msg=fail",
+    "kind": "Article"
+   },
+   {
+    "url": "https://media.gohawaii.com/whats-new-oahu-apr-jun-2020",
+    "kind": "Article"
+   },
+   {
+    "url": "https://startpage.mapquest.com/us/hawaii/ko-tiki-terrace-425506092",
+    "kind": "Listing"
+   },
+   {
+    "url": "https://www.tripadvisor.co.nz/ShowUserReviews-g60982-d19796559-r744915044-Ko_Tiki_Terrace-Honolulu_Oahu_Hawaii.html",
+    "kind": "Listing"
+   }
+  ]
  },
  {
   "name": "Mana Up",

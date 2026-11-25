@@ -1401,6 +1401,22 @@
      "https://www.honolulucoupon.com/post/january-2024-new-cafe-and-restaurant-openings-in-hawaii/"
     ]
    }
+  },
+  {
+   "target": "Ko Tiki Terrace",
+   "target_address": "2425 K\u016bhi\u014d Ave",
+   "fields": {
+    "note": "Poolside tiki bar and restaurant at the Aqua Bamboo Waikiki hotel, which replaced an earlier pizza restaurant on the site. Tourism listings described it as newly opened in early 2020.",
+    "start": 2020,
+    "approx": true,
+    "links": [
+     "https://honoluluvibes.com/ko-tiki-terrace-brings-back-charm-of-hawaii-tiki-bar-dining-in-waikiki/",
+     "https://honoluluvibes.com/ko-tiki-terrace-brings-back-charm-of-hawaii-tiki-bar-dining-in-waikiki/?shared=email&msg=fail",
+     "https://media.gohawaii.com/whats-new-oahu-apr-jun-2020",
+     "https://startpage.mapquest.com/us/hawaii/ko-tiki-terrace-425506092",
+     "https://www.tripadvisor.co.nz/ShowUserReviews-g60982-d19796559-r744915044-Ko_Tiki_Terrace-Honolulu_Oahu_Hawaii.html"
+    ]
+   }
   }
  ]
 }
