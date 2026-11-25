@@ -331,6 +331,19 @@
     "https://www.hawaiinewsnow.com/2023/07/16/celebrate-national-ice-cream-day-with-hawaii-flavors-like-honey-furikake-crack-seed-delight/",
     "https://www.honolulumagazine.com/local-ice-cream/"
    ]
+  },
+  {
+   "name": "Queensbreak Restaurant",
+   "address": "2552 Kalakaua Ave",
+   "note": "The resort announced completion of its renovation in August 2021, including the new Queensbreak outdoor restaurant. Queensbreak lists its address as 2552 Kalakaua Ave.",
+   "start": 2021,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.prnewswire.com/news-releases/waikiki-beach-marriott-resort--spa-debuts-property-wide-multi-million-dollar-reimagination-301361265.html",
+    "https://www.queensbreak.com/"
+   ]
   }
  ],
  "corrections": [

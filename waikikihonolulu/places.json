@@ -544,6 +544,28 @@
   ]
  },
  {
+  "name": "Queensbreak Restaurant",
+  "address": "2552 Kalakaua Ave",
+  "start": 2021,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "The resort announced completion of its renovation in August 2021, including the new Queensbreak outdoor restaurant. Queensbreak lists its address as 2552 Kalakaua Ave.",
+  "lat": 21.2734513,
+  "lng": -157.8224713,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.prnewswire.com/news-releases/waikiki-beach-marriott-resort--spa-debuts-property-wide-multi-million-dollar-reimagination-301361265.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.queensbreak.com/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -4488,19 +4510,6 @@
   ]
  },
  {
-  "name": "Queensbreak Restaurant",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.273987,
-  "lng": -157.8222094
- },
- {
   "name": "Kuhio Beach Grill",
   "address": "address not listed",
   "start": 2026,
@@ -4512,19 +4521,6 @@
   "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2732053,
   "lng": -157.8231426
- },
- {
-  "name": "Queensbreak Bar",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (bar). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.273856,
-  "lng": -157.822206
  },
  {
   "name": "Sansei Seafood Restaurant & Sushi Bar",
