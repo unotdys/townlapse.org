@@ -6003,15 +6003,28 @@
  {
   "name": "Kings & Queens",
   "address": "2424 Kalākaua Ave",
-  "start": 2026,
+  "start": 2025,
   "end": null,
   "category": "retail",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (clothes). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Locally owned clothing and beach gear shop on the ground floor of the Hyatt Regency Waikīkī, in the former Dylan's Candy Bar space. It soft-opened in November 2025 and held its grand opening that December.",
   "lat": 21.2759199,
-  "lng": -157.8252003
+  "lng": -157.8252003,
+  "links": [
+   {
+    "url": "https://alohastatedaily.com/2025/11/20/inside-scoop-asatos-waikiki-shop-is-opening-this-sunday",
+    "kind": "Article"
+   },
+   {
+    "url": "https://ameblo.jp/jhawaii/entry-12949737726.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://kingsandqueenshawaii.com/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Kira x miffy",
