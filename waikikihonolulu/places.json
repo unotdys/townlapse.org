@@ -6349,15 +6349,28 @@
  {
   "name": "Il Gelato",
   "address": "227 Lewers St",
-  "start": 2026,
+  "start": 2024,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (ice cream). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Gelato shop at Waikiki Beach Walk that opened on February 26, 2024, as the local Il Gelato chain's seventh Oahu location. It is still open.",
   "lat": 21.2791617,
-  "lng": -157.8307951
+  "lng": -157.8307951,
+  "links": [
+   {
+    "url": "https://waikikibeachwalk.com/Blog/February-2024/How-to-Enjoy-the-Sweet-Life-in-Waikiki.htm",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.toasttab.com/local/order/il-gelato-hawaii-lewers-st",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.waikikibeachwalk.com/Dining/Il-Gelato.htm",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Blue Ginger",

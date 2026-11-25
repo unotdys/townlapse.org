@@ -2554,6 +2554,20 @@
      "https://www.waikikibeachwalk.com/Shops/Apparel/Pullin.htm"
     ]
    }
+  },
+  {
+   "target": "Il Gelato",
+   "target_address": "227 Lewers St",
+   "fields": {
+    "note": "Gelato shop at Waikiki Beach Walk that opened on February 26, 2024, as the local Il Gelato chain's seventh Oahu location. It is still open.",
+    "start": 2024,
+    "approx": false,
+    "links": [
+     "https://waikikibeachwalk.com/Blog/February-2024/How-to-Enjoy-the-Sweet-Life-in-Waikiki.htm",
+     "https://www.toasttab.com/local/order/il-gelato-hawaii-lewers-st",
+     "https://www.waikikibeachwalk.com/Dining/Il-Gelato.htm"
+    ]
+   }
   }
  ]
 }
