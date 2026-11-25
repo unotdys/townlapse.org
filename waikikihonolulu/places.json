@@ -3357,15 +3357,24 @@
  {
   "name": "Giovanni Pastrami",
   "address": "227 Lewers St",
-  "start": 2026,
+  "start": 2007,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (pub). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "New York-style deli, pizzeria and sports bar that opened at Waikiki Beach Walk around 2007, soon after the complex's first tenants. Still open today.",
   "lat": 21.2790975,
-  "lng": -157.830718
+  "lng": -157.830718,
+  "links": [
+   {
+    "url": "https://archives.starbulletin.com/2008/01/06/features/eater.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.opentable.com/r/giovanni-pastrami-honolulu",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Izakaya 855-ALOHA",
