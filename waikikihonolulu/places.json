@@ -6194,15 +6194,32 @@
  {
   "name": "Mahaloha Burger",
   "address": "2233 Kalākaua Ave",
-  "start": 2026,
+  "start": 2010,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "A burger restaurant serving Hawaii-raised grass-fed beef, founded in 2010 by a Honolulu-born chef in the Pāʻina Lānai food court on the second floor of Royal Hawaiian Center. It is the chain's original location.",
   "lat": 21.2787466,
-  "lng": -157.8293618
+  "lng": -157.8293618,
+  "links": [
+   {
+    "url": "http://www.mahalohaburger.com/investment/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://mahalohaburger.com/our-story/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hawaiimomblog.com/2016/06/mahaloha-burger-royal-hawaiian-center.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/?p=35218",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Stix Asia",

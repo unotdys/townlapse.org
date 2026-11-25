@@ -2495,6 +2495,21 @@
      "https://www.jeffsetter.com/blog/stix-asia-waikiki/"
     ]
    }
+  },
+  {
+   "target": "Mahaloha Burger",
+   "target_address": "2233 Kal\u0101kaua Ave",
+   "fields": {
+    "note": "A burger restaurant serving Hawaii-raised grass-fed beef, founded in 2010 by a Honolulu-born chef in the P\u0101\u02bbina L\u0101nai food court on the second floor of Royal Hawaiian Center. It is the chain's original location.",
+    "start": 2010,
+    "approx": false,
+    "links": [
+     "http://www.mahalohaburger.com/investment/",
+     "https://mahalohaburger.com/our-story/",
+     "https://www.hawaiimomblog.com/2016/06/mahaloha-burger-royal-hawaiian-center.html",
+     "https://www.honolulumagazine.com/?p=35218"
+    ]
+   }
   }
  ]
 }
