@@ -2439,6 +2439,20 @@
      "https://www.aloha-street.com/article/2023/01/379571/"
     ]
    }
+  },
+  {
+   "target": "Dean & Deluca",
+   "target_address": "2233 Kal\u0101kaua Ave",
+   "fields": {
+    "note": "Dean & DeLuca's second Hawaii store, a grab-and-go shop, opened in November 2017 on the first floor of Building B at Royal Hawaiian Center, in the space Royal Fish had left. It sells takeout food and merchandise sold only in Hawaii.",
+    "start": 2017,
+    "approx": false,
+    "links": [
+     "https://static1.squarespace.com/static/5d289e4caad70300015b6415/t/5d2a8ed5bcb3f20001297fa9/1563070175854/VOL_XVIII-11_NOVEMBER_2017._WTMSID.pdf",
+     "https://www.deandeluca-hawaii.com/location/royal-hawaiian-center/",
+     "https://www.royalhawaiiancenter.com/dean-and-deluca"
+    ]
+   }
   }
  ]
 }

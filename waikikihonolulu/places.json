@@ -6090,15 +6090,28 @@
  {
   "name": "Dean & Deluca",
   "address": "2233 Kalākaua Ave",
-  "start": 2026,
+  "start": 2017,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Dean & DeLuca's second Hawaii store, a grab-and-go shop, opened in November 2017 on the first floor of Building B at Royal Hawaiian Center, in the space Royal Fish had left. It sells takeout food and merchandise sold only in Hawaii.",
   "lat": 21.2785981,
-  "lng": -157.8295222
+  "lng": -157.8295222,
+  "links": [
+   {
+    "url": "https://static1.squarespace.com/static/5d289e4caad70300015b6415/t/5d2a8ed5bcb3f20001297fa9/1563070175854/VOL_XVIII-11_NOVEMBER_2017._WTMSID.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.deandeluca-hawaii.com/location/royal-hawaiian-center/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.royalhawaiiancenter.com/dean-and-deluca",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "TsuruTonTan",
