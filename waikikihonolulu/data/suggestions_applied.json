@@ -818,6 +818,20 @@
      "https://waikikibeachstays.com/eats-and-drinks/bars/best-tiki-bars-waikiki/"
     ]
    }
+  },
+  {
+   "target": "Tommy Bahama",
+   "target_address": "298 Beachwalk Dr",
+   "fields": {
+    "note": "Tommy Bahama's three-level Waikiki flagship opened October 30, 2015, with a ground-floor store, a second-floor restaurant and a rooftop lounge. It took over a building that previously housed Burberry and Hawaiian Island Creations.",
+    "start": 2015,
+    "approx": false,
+    "links": [
+     "https://hospitalitydesign.com/news/f-b/tommy-bahama-restaurant-bar-store-opens-on-oahu",
+     "https://prnewswire.com/news-releases/tommy-bahama-brings-its-relaxed-lifestyle-to-waikiki-300173122.html",
+     "https://www.honolulumagazine.com/tommy-bahamas-new-retail-store-in-waikiki-comes-with-a-restaurant-and-rooftop-lounge/"
+    ]
+   }
   }
  ]
 }

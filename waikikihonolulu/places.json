@@ -2151,15 +2151,28 @@
  {
   "name": "Tommy Bahama",
   "address": "298 Beachwalk Dr",
-  "start": 2026,
+  "start": 2015,
   "end": null,
   "category": "retail",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (clothes). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Tommy Bahama's three-level Waikiki flagship opened October 30, 2015, with a ground-floor store, a second-floor restaurant and a rooftop lounge. It took over a building that previously housed Burberry and Hawaiian Island Creations.",
   "lat": 21.2811902,
-  "lng": -157.8307419
+  "lng": -157.8307419,
+  "links": [
+   {
+    "url": "https://hospitalitydesign.com/news/f-b/tommy-bahama-restaurant-bar-store-opens-on-oahu",
+    "kind": "Article"
+   },
+   {
+    "url": "https://prnewswire.com/news-releases/tommy-bahama-brings-its-relaxed-lifestyle-to-waikiki-300173122.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/tommy-bahamas-new-retail-store-in-waikiki-comes-with-a-restaurant-and-rooftop-lounge/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Arnold's Beach Bar & Grill",
