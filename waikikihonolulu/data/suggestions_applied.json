@@ -146,6 +146,20 @@
     "https://www.midweek.com/?p=38012",
     "https://www.travelagewest.com/Travel/Hotels/Sample-Local-Beers-at-Hyatt-Regency-Waikiki"
    ]
+  },
+  {
+   "name": "Starbucks Reserve",
+   "address": "2255 Kuhio Ave",
+   "note": "Starbucks in the former Waikiki Trade Center at Kuhio and Seaside avenues, reportedly open since 2000. In 2017 it added Hawaii's first Starbucks Reserve coffee bar, decorated with island-inspired designs and a mural by a local artist.",
+   "start": 2017,
+   "end": null,
+   "category": "food",
+   "approx": false,
+   "links": [
+    "https://eprretailnews.com/2017/04/14/starbucks-waikiki-store-the-first-in-hawaii-to-feature-a-starbucks-reserve-coffee-bar-83545655/",
+    "https://starbuckseverywhere.net/Oahu.htm",
+    "https://www.sirved.com/restaurant/honolulu-hawaii-usa/starbucks/840475/menus"
+   ]
   }
  ],
  "corrections": [

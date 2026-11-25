@@ -228,6 +228,32 @@
   ]
  },
  {
+  "name": "Starbucks Reserve",
+  "address": "2255 Kuhio Ave",
+  "start": 2017,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "note": "Starbucks in the former Waikiki Trade Center at Kuhio and Seaside avenues, reportedly open since 2000. In 2017 it added Hawaii's first Starbucks Reserve coffee bar, decorated with island-inspired designs and a mural by a local artist.",
+  "lat": 21.2794303,
+  "lng": -157.8269253,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://eprretailnews.com/2017/04/14/starbucks-waikiki-store-the-first-in-hawaii-to-feature-a-starbucks-reserve-coffee-bar-83545655/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://starbuckseverywhere.net/Oahu.htm",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.sirved.com/restaurant/honolulu-hawaii-usa/starbucks/840475/menus",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -2697,19 +2723,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Starbucks Reserve",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2797874,
-  "lng": -157.8269666
  },
  {
   "name": "ShoreFyre",
