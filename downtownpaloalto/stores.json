@@ -3860,6 +3860,36 @@
   ]
  },
  {
+  "name": "Lytton Gardens Health Care Center",
+  "address": "437 Webster St",
+  "start": 2006,
+  "end": null,
+  "category": "services",
+  "approx": true,
+  "note": "Skilled nursing and rehabilitation facility with 145 licensed beds, run by Lytton Gardens, Inc. and listed here by 2006. State records now list it as Webster House, and it may be considerably older.",
+  "lat": 37.4500396,
+  "lng": -122.1582018,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://frontporch.net/community/webster-house/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://hcai.ca.gov/facility/webster-house/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://ltcnews.com/care/listing/4121",
+    "kind": "Article"
+   },
+   {
+    "url": "https://npiregistry.cms.hhs.gov/provider-view/1881632347",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Lytton Roasting Company",
   "address": "401 Lytton Ave",
   "start": 2007,
@@ -4143,14 +4173,14 @@
  },
  {
   "name": "Coupa Cafe",
-  "address": "Ramona St",
+  "address": "111 Lytton Ave",
   "start": 2004,
   "end": 2004,
   "category": "food",
   "approx": true,
   "source": "news",
-  "lat": 37.4455052,
-  "lng": -122.1625455,
+  "lat": 37.4445426,
+  "lng": -122.1652665,
   "links": [
    {
     "url": "https://www.paloaltoonline.com/peninsula-foodist/2016/01/26/now-open-second-coupa-cafe-in-palo-alto/",
@@ -5067,9 +5097,9 @@
   "name": "The Redwood by Chef Julien",
   "address": "450 Bryant St",
   "start": 2022,
-  "end": 2026,
+  "end": 2022,
   "category": "food",
-  "approx": false,
+  "approx": true,
   "source": "news",
   "lat": 37.4461771,
   "lng": -122.1624215,
@@ -5079,7 +5109,7 @@
     "kind": "Article"
    }
   ],
-  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022."
+  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022. Later status unknown."
  },
  {
   "name": "Lima Ruby",
@@ -5500,14 +5530,14 @@
  },
  {
   "name": "La Comida",
-  "address": "450 Bryant St",
+  "address": "429 Bryant St",
   "start": 2026,
   "end": 2026,
   "category": "food",
   "approx": false,
   "source": "news",
-  "lat": 37.4461771,
-  "lng": -122.1624215,
+  "lat": 37.4465596,
+  "lng": -122.162491,
   "links": [
    {
     "url": "https://www.paloaltoonline.com/palo-alto/2026/08/26/avenidas-and-la-comida-to-host-foodie-fundraiser-to-support-older-adults/",
@@ -7977,24 +8007,6 @@
   "lng": -122.1617581
  },
  {
-  "name": "Joe & The Juice",
-  "address": "240 Hamilton Ave",
-  "start": 2018,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
-  "lat": 37.4443528,
-  "lng": -122.1609464,
-  "links": [
-   {
-    "url": "https://www.paloaltoonline.com/peninsula-foodist/2017/08/03/joe-the-juice-is-headed-to-palo-alto/",
-    "kind": "Article"
-   }
-  ]
- },
- {
   "name": "Salt & Straw",
   "address": "250 University Ave",
   "start": 2018,
@@ -8053,6 +8065,24 @@
   "note": "Open today (bank). Listed in OpenStreetMap; first mapped in 2018, which is roughly when it opened.",
   "lat": 37.4487526,
   "lng": -122.1601494
+ },
+ {
+  "name": "Joe & The Juice",
+  "address": "508 University Ave",
+  "start": 2018,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "source": "osm",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
+  "lat": 37.4484574,
+  "lng": -122.1588997,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2017/08/03/joe-the-juice-is-headed-to-palo-alto/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Mangosteen",
@@ -8182,15 +8212,15 @@
  },
  {
   "name": "Joe & The Juice",
-  "address": "508 University Ave",
+  "address": "240 Hamilton Ave",
   "start": 2019,
   "end": null,
   "category": "food",
   "approx": true,
   "source": "osm",
   "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
-  "lat": 37.4484574,
-  "lng": -122.1588997
+  "lat": 37.4443528,
+  "lng": -122.1609464
  },
  {
   "name": "Salvaje",

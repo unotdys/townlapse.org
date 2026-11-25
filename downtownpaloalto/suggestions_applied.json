@@ -1336,6 +1336,21 @@
     "https://www.paloalto.gov/files/assets/public/v/1/from-archive/agendas-minutes-reports/agendas-minutes/city-council-agendas-minutes/2011/110912-doc-letters-set-1.pdf",
     "https://www.seniorhousingnet.com/seniorliving-detail/webster-house_401-webster-st_palo-alto_ca_94301-523649"
    ]
+  },
+  {
+   "name": "Lytton Gardens Health Care Center",
+   "address": "437 Webster St",
+   "note": "Skilled nursing and rehabilitation facility with 145 licensed beds, run by Lytton Gardens, Inc. and listed here by 2006. State records now list it as Webster House, and it may be considerably older.",
+   "start": 2006,
+   "end": null,
+   "category": "services",
+   "approx": true,
+   "links": [
+    "https://frontporch.net/community/webster-house/",
+    "https://hcai.ca.gov/facility/webster-house/",
+    "https://ltcnews.com/care/listing/4121",
+    "https://npiregistry.cms.hhs.gov/provider-view/1881632347"
+   ]
   }
  ],
  "corrections": [
