@@ -148,6 +148,20 @@
      "https://www.travelagentcentral.com/destinations/royal-hawaiian-center-opens-five-o-bar-lounge"
     ]
    }
+  },
+  {
+   "target": "Eggs'n Things Restaurant",
+   "target_address": "2464 Kal\u0101kaua Ave",
+   "fields": {
+    "name": "Eggs 'n Things Waikiki Beach Eggspress",
+    "note": "A quick-service and takeout branch of the Waikiki breakfast chain, which started on Ena Road in 1974. It opened in late 2011 in the lobby of the Waikiki Circle Hotel.",
+    "start": 2011,
+    "approx": false,
+    "links": [
+     "https://dining.staradvertiser.com/?p=4497",
+     "https://eggsnthings.com/about/"
+    ]
+   }
   }
  ]
 }

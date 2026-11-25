@@ -375,17 +375,26 @@
   ]
  },
  {
-  "name": "Eggs'n Things Restaurant",
+  "name": "Eggs 'n Things Waikiki Beach Eggspress",
   "address": "2464 Kalākaua Ave",
-  "start": 2026,
+  "start": 2011,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "A quick-service and takeout branch of the Waikiki breakfast chain, which started on Ena Road in 1974. It opened in late 2011 in the lobby of the Waikiki Circle Hotel.",
   "lat": 21.2748129,
-  "lng": -157.8242859
+  "lng": -157.8242859,
+  "links": [
+   {
+    "url": "https://dining.staradvertiser.com/?p=4497",
+    "kind": "Article"
+   },
+   {
+    "url": "https://eggsnthings.com/about/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "ABC",
