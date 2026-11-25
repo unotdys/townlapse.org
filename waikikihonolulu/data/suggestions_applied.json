@@ -1065,6 +1065,20 @@
      "https://www.toasttab.com/local/order/shorefyre-koa-ave-2446-koa-ave"
     ]
    }
+  },
+  {
+   "target": "Taormina",
+   "target_address": "227 Lewers St",
+   "fields": {
+    "note": "Sicilian restaurant on Lewers Street that opened in fall 2007 and is still serving Southern Italian food.",
+    "start": 2007,
+    "approx": false,
+    "links": [
+     "https://archives-new.honoluluadvertiser.com/article/2007/Nov/02/en/hawaii711020302.html",
+     "https://www.opentable.com/r/taormina-sicilian-cuisine-honolulu",
+     "https://www.opentable.com/r/taormina-sicilian-cuisine-honolulu?corrid=34916f07-c680-4e2e-a65c-a2fa37756c72&avt=eyJ2IjoyLCJtIjoxLCJwIjowLCJzIjowLCJuIjowfQ"
+    ]
+   }
   }
  ]
 }
