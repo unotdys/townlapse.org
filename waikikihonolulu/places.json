@@ -937,15 +937,32 @@
  {
   "name": "Blue Note Hawaii",
   "address": "2335 Kalakaua Ave",
-  "start": 2026,
+  "start": 2016,
   "end": null,
   "category": "entertainment",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (nightclub). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Live music club in the Outrigger Waikiki Beach Resort, in the former Society of Seven showroom. Blue Note Entertainment Group held its grand opening in January 2016 after soft-opening shows from late December 2015.",
   "lat": 21.27715,
-  "lng": -157.8276707
+  "lng": -157.8276707,
+  "links": [
+   {
+    "url": "https://news.outrigger.com/2015/12/18/legendary-jazz-club-opens-blue-note-hawaii-in-the-outrigger-waikiki-beach-resort/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hawaiimagazine.com/blue-note-hawaii-is-waikikis-newest-oasis-of-jazz/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.outrigger.com/hawaii/oahu/outrigger-waikiki-beach-resort/activities/blue-note-hawaii",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.staradvertiser.com/2015/06/25/business/blue-note-jazz-club-expanding-to-hawaii-and-china/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Kai Coffee",

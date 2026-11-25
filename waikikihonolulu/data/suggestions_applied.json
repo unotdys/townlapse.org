@@ -363,6 +363,21 @@
      "https://www.cheeseburgernation.com/about/"
     ]
    }
+  },
+  {
+   "target": "Blue Note Hawaii",
+   "target_address": "2335 Kalakaua Ave",
+   "fields": {
+    "note": "Live music club in the Outrigger Waikiki Beach Resort, in the former Society of Seven showroom. Blue Note Entertainment Group held its grand opening in January 2016 after soft-opening shows from late December 2015.",
+    "start": 2016,
+    "approx": false,
+    "links": [
+     "https://news.outrigger.com/2015/12/18/legendary-jazz-club-opens-blue-note-hawaii-in-the-outrigger-waikiki-beach-resort/",
+     "https://www.hawaiimagazine.com/blue-note-hawaii-is-waikikis-newest-oasis-of-jazz/",
+     "https://www.outrigger.com/hawaii/oahu/outrigger-waikiki-beach-resort/activities/blue-note-hawaii",
+     "https://www.staradvertiser.com/2015/06/25/business/blue-note-jazz-club-expanding-to-hawaii-and-china/"
+    ]
+   }
   }
  ]
 }
