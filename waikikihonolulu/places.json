@@ -5216,16 +5216,29 @@
  },
  {
   "name": "Seoul Tofu House",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "2299 Kuhio Ave",
+  "start": 2019,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2794244,
-  "lng": -157.8263535
+  "note": "Korean soft tofu stew restaurant that opened in late January 2019 at 2299 Kuhio Ave, on the ground floor of The Laylow hotel. It is listed as open today.",
+  "lat": 21.2792525,
+  "lng": -157.8265059,
+  "links": [
+   {
+    "url": "https://www.honolulumagazine.com/?p=428639",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/?p=45859",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.kaukauhawaii.com/storedetail/2139/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Hideout",

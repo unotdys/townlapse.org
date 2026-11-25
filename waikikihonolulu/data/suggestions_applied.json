@@ -2058,6 +2058,21 @@
      "https://startpage.mapquest.com/us/hawaii/ala-wai-pantry-275432501"
     ]
    }
+  },
+  {
+   "target": "Seoul Tofu House",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "2299 Kuhio Ave",
+    "note": "Korean soft tofu stew restaurant that opened in late January 2019 at 2299 Kuhio Ave, on the ground floor of The Laylow hotel. It is listed as open today.",
+    "start": 2019,
+    "approx": false,
+    "links": [
+     "https://www.honolulumagazine.com/?p=428639",
+     "https://www.honolulumagazine.com/?p=45859",
+     "https://www.kaukauhawaii.com/storedetail/2139/"
+    ]
+   }
   }
  ]
 }
