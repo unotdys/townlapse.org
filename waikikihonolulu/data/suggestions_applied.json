@@ -318,6 +318,19 @@
     "https://alocohawaii.com/article/detail/38?page=3",
     "https://www.giftly.com/gift-card/american-wagyu-eatery-honolulu"
    ]
+  },
+  {
+   "name": "Double Fat Ice Cream",
+   "address": "124 Kealohilani Ave",
+   "note": "Hawaii News Now says Double Fat Ice Cream was established in Hawaii in 2021 and located behind the Alohilani Resort. Honolulu Magazine identifies its location as the resort at 124 Kealohilani Ave.",
+   "start": 2021,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.hawaiinewsnow.com/2023/07/16/celebrate-national-ice-cream-day-with-hawaii-flavors-like-honey-furikake-crack-seed-delight/",
+    "https://www.honolulumagazine.com/local-ice-cream/"
+   ]
   }
  ],
  "corrections": [
