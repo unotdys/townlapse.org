@@ -5682,15 +5682,32 @@
  {
   "name": "Deck",
   "address": "150 Kapahulu Ave",
-  "start": 2026,
+  "start": 2018,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Open-air restaurant and bar on the third-floor deck of the Queen Kapiolani Hotel, overlooking Diamond Head and Kapiolani Park. It opened in October 2018 as part of the hotel's $35 million renovation.",
   "lat": 21.2718589,
-  "lng": -157.8210512
+  "lng": -157.8210512,
+  "links": [
+   {
+    "url": "https://www.queenkapiolani.com/blog/the-history-of-queen-kapiolani-hotel-a-stroll-down-memory-lane",
+    "kind": "History"
+   },
+   {
+    "url": "https://hospitalitydesign.com/news/queen-kapiolani-nears-completion-35-million-refresh/64469",
+    "kind": "Article"
+   },
+   {
+    "url": "https://opentable.com/r/deck-honolulu",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.jtb-hawaii.com/en/ourservices/ourservices-mice/deck",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Camado Ramen Tavern",

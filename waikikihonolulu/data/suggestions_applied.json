@@ -2287,6 +2287,21 @@
      "https://lrb.hawaii.gov/wp-content/uploads/1987_ConventionCenterSiteSelectionStudy.pdf"
     ]
    }
+  },
+  {
+   "target": "Deck",
+   "target_address": "150 Kapahulu Ave",
+   "fields": {
+    "note": "Open-air restaurant and bar on the third-floor deck of the Queen Kapiolani Hotel, overlooking Diamond Head and Kapiolani Park. It opened in October 2018 as part of the hotel's $35 million renovation.",
+    "start": 2018,
+    "approx": false,
+    "links": [
+     "https://hospitalitydesign.com/news/queen-kapiolani-nears-completion-35-million-refresh/64469",
+     "https://opentable.com/r/deck-honolulu",
+     "https://www.jtb-hawaii.com/en/ourservices/ourservices-mice/deck",
+     "https://www.queenkapiolani.com/blog/the-history-of-queen-kapiolani-hotel-a-stroll-down-memory-lane"
+    ]
+   }
   }
  ]
 }
