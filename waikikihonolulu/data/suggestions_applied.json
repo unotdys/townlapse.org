@@ -677,6 +677,21 @@
      "https://sg.trip.com/hotels/honolulu-hotel-detail-732084/kuhio-banyan-hotel/"
     ]
    }
+  },
+  {
+   "target": "Siam Square",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "408 Lewers St",
+    "note": "Thai restaurant on the second floor of a small building at Lewers Street and Kuhio Avenue. A local newspaper reviewed it in 2008, and listings say it has been open since about 1999.",
+    "start": 1999,
+    "approx": true,
+    "links": [
+     "https://archives.starbulletin.com/content/20081221_waikiki_cafe_a_surprise_find.html",
+     "https://threebestrated.com/thai-restaurants-in-honolulu-hi",
+     "https://www.waikikivisitor.com/?p=2645"
+    ]
+   }
   }
  ]
 }
