@@ -391,6 +391,18 @@
      "https://www.staradvertiser.com/2015/06/25/business/blue-note-jazz-club-expanding-to-hawaii-and-china/"
     ]
    }
+  },
+  {
+   "target": "Slice of Waikiki",
+   "target_address": "333 Seaside Ave",
+   "fields": {
+    "note": "Pizza shop that moved to Seaside Avenue in November 2024. It had sold pizza from a small window on Kuhio Avenue since 2011.",
+    "start": 2024,
+    "approx": false,
+    "links": [
+     "https://alohastatedaily.com/2025/01/30/get-a-slice-of-this/"
+    ]
+   }
   }
  ]
 }

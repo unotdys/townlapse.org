@@ -1093,15 +1093,20 @@
  {
   "name": "Slice of Waikiki",
   "address": "333 Seaside Ave",
-  "start": 2026,
+  "start": 2024,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Pizza shop that moved to Seaside Avenue in November 2024. It had sold pizza from a small window on Kuhio Avenue since 2011.",
   "lat": 21.2795162,
-  "lng": -157.8275668
+  "lng": -157.8275668,
+  "links": [
+   {
+    "url": "https://alohastatedaily.com/2025/01/30/get-a-slice-of-this/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Musubi & Bento IYASUME",
