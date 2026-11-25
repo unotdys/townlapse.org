@@ -5064,16 +5064,25 @@
  },
  {
   "name": "Quiora",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "383 Kalaimoku St",
+  "start": 2019,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2822082,
-  "lng": -157.8296489
+  "note": "Restaurant serving Italian and Mediterranean food with Hawaiian ingredients, in the Diamond Head Tower of The Ritz-Carlton Residences, Waikiki Beach. Local press reported it opened around the end of August 2019.",
+  "lat": 21.2826896,
+  "lng": -157.8301788,
+  "links": [
+   {
+    "url": "https://magazine.hawaiifoody.com/en/restaurant-food-en/quiora20200120-2/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://quiorawaikiki.com/about-us/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Ala Wai Pantry",

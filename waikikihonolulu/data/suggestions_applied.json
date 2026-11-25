@@ -2000,6 +2000,20 @@
      "https://www.hawaiianaromacaffe.com/locations/"
     ]
    }
+  },
+  {
+   "target": "Quiora",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "383 Kalaimoku St",
+    "note": "Restaurant serving Italian and Mediterranean food with Hawaiian ingredients, in the Diamond Head Tower of The Ritz-Carlton Residences, Waikiki Beach. Local press reported it opened around the end of August 2019.",
+    "start": 2019,
+    "approx": true,
+    "links": [
+     "https://magazine.hawaiifoody.com/en/restaurant-food-en/quiora20200120-2/",
+     "https://quiorawaikiki.com/about-us/"
+    ]
+   }
   }
  ]
 }
