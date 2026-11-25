@@ -133,6 +133,21 @@
      "https://oahulocal.com/hys-steak-house-waikiki-50-years-history/"
     ]
    }
+  },
+  {
+   "target": "Five-O Bar & Lounge",
+   "target_address": "Kal\u0101kaua Ave",
+   "fields": {
+    "address": "2301 Kal\u0101kaua Ave",
+    "note": "Bar and lounge that opened in August 2011 on the second floor of Royal Hawaiian Center, near the Paina Lanai food court, replacing the former Grove Bar. Still open today.",
+    "start": 2011,
+    "approx": false,
+    "links": [
+     "https://eatinhawaii.blogspot.com/2011/08/rhc-welcomes-five-0-bar-lounge.html",
+     "https://www.honolulumagazine.com/party-pics-five-o-bar-lounge-grand-opening/",
+     "https://www.travelagentcentral.com/destinations/royal-hawaiian-center-opens-five-o-bar-lounge"
+    ]
+   }
   }
  ]
 }

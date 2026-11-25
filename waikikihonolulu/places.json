@@ -350,16 +350,29 @@
  },
  {
   "name": "Five-O Bar & Lounge",
-  "address": "Kalākaua Ave",
-  "start": 2026,
+  "address": "2301 Kalākaua Ave",
+  "start": 2011,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (bar). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2785475,
-  "lng": -157.829064
+  "note": "Bar and lounge that opened in August 2011 on the second floor of Royal Hawaiian Center, near the Paina Lanai food court, replacing the former Grove Bar. Still open today.",
+  "lat": 21.2776805,
+  "lng": -157.8275662,
+  "links": [
+   {
+    "url": "https://eatinhawaii.blogspot.com/2011/08/rhc-welcomes-five-0-bar-lounge.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/party-pics-five-o-bar-lounge-grand-opening/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelagentcentral.com/destinations/royal-hawaiian-center-opens-five-o-bar-lounge",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Eggs'n Things Restaurant",
