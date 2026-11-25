@@ -790,15 +790,28 @@
  {
   "name": "Holoholo Café & Market",
   "address": "2330 Kuhio Ave",
-  "start": 2026,
+  "start": 2016,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Café, market and beer-and-wine bar inside the Hilton Garden Inn Waikiki Beach, run by Food Pantry, Ltd. (Foodland's parent company). It opened with the hotel in mid-2016.",
   "lat": 21.2790624,
-  "lng": -157.8254623
+  "lng": -157.8254623,
+  "links": [
+   {
+    "url": "https://hospitalitydesign.com/news/largest-hilton-garden-inn-to-open-on-oahu/17334",
+    "kind": "Article"
+   },
+   {
+    "url": "https://johnnyjet.com/live-from-waikiki-hawaii-receives-largest-hilton-garden-inn-in-the-world/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hilton.com/en/hotels/hnlkugi-hilton-garden-inn-waikiki-beach/dining",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "The Cheesecake Factory",

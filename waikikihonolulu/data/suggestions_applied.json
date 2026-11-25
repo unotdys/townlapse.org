@@ -304,6 +304,20 @@
      "https://www.trip.com/hotels/honolulu-hotel-detail-3645514/aqua-ohia-waikiki/"
     ]
    }
+  },
+  {
+   "target": "Holoholo Caf\u00e9 & Market",
+   "target_address": "2330 Kuhio Ave",
+   "fields": {
+    "note": "Caf\u00e9, market and beer-and-wine bar inside the Hilton Garden Inn Waikiki Beach, run by Food Pantry, Ltd. (Foodland's parent company). It opened with the hotel in mid-2016.",
+    "start": 2016,
+    "approx": true,
+    "links": [
+     "https://hospitalitydesign.com/news/largest-hilton-garden-inn-to-open-on-oahu/17334",
+     "https://johnnyjet.com/live-from-waikiki-hawaii-receives-largest-hilton-garden-inn-in-the-world/",
+     "https://www.hilton.com/en/hotels/hnlkugi-hilton-garden-inn-waikiki-beach/dining"
+    ]
+   }
   }
  ]
 }
