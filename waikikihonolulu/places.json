@@ -306,6 +306,36 @@
   ]
  },
  {
+  "name": "Kuhio Beach Hula Mound",
+  "address": "2453 Kalakaua Ave",
+  "start": 2000,
+  "end": null,
+  "category": "landmark",
+  "approx": false,
+  "note": "An open-air hula mound on Kuhio Beach across from the Hyatt Regency, built in the city's first phase of Kuhio Beach improvements. The new beach park was blessed in August 2000 and the mound opened with a concert, and the free Kuhio Beach Hula Show is performed there.",
+  "lat": 21.2762138,
+  "lng": -157.8258775,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://tripoutside.com/browse/item:Honolulu_Historical_Sightseeing_Bike_Tour:i1ve5xgmsqvf5kket5da6hy6rpwaskj6gqxgcrgdejw98n3m",
+    "kind": "History"
+   },
+   {
+    "url": "https://archives.starbulletin.com/2000/08/08/news/story4.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://gohawaii.com/islands/o%CA%BBahu/events/kuhio-beach-hula-show",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.aaa.com/tripcanvas/attraction/kuhio-beach-VA103290",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -2700,19 +2730,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "The Beach Bar",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (bar). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2763137,
-  "lng": -157.8269783
  },
  {
   "name": "Royal Hawaiian Center",
