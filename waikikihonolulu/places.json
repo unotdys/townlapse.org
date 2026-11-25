@@ -3010,16 +3010,25 @@
  },
  {
   "name": "Aloha Lovely Nails",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "226 Lewers St",
+  "start": 2015,
   "end": null,
   "category": "services",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (beauty). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2796969,
-  "lng": -157.8307491
+  "note": "Nail salon at the Waikiki Beach Walk shopping center that opened around 2014–2015, offering Japanese-style nail art along with waxing and lash services. It is still open.",
+  "lat": 21.2792772,
+  "lng": -157.8309822,
+  "links": [
+   {
+    "url": "https://img1.wsimg.com/blobby/go/1397965c-59fe-45e5-a291-15538f895f41/downloads/Nov%20Concierge%202014%20web.pdf?ver=1744267196588",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.midweek.com/?p=54284",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Kaiwa teppan & sushi",

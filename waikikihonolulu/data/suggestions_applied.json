@@ -1144,6 +1144,20 @@
      "https://www.yelp.com/biz/musubi-cafe-iyasume-honolulu-24"
     ]
    }
+  },
+  {
+   "target": "Aloha Lovely Nails",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "226 Lewers St",
+    "note": "Nail salon at the Waikiki Beach Walk shopping center that opened around 2014\u20132015, offering Japanese-style nail art along with waxing and lash services. It is still open.",
+    "start": 2015,
+    "approx": true,
+    "links": [
+     "https://img1.wsimg.com/blobby/go/1397965c-59fe-45e5-a291-15538f895f41/downloads/Nov%20Concierge%202014%20web.pdf?ver=1744267196588",
+     "https://www.midweek.com/?p=54284"
+    ]
+   }
   }
  ]
 }
