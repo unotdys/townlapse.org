@@ -1083,6 +1083,36 @@
   ]
  },
  {
+  "name": "Breakout Waikiki",
+  "address": "227 Lewers St",
+  "start": 2019,
+  "end": null,
+  "category": "entertainment",
+  "approx": false,
+  "note": "Live-action escape room venue at Waikiki Beach Walk. It moved here from its first location at King's Village and held a grand re-opening in May 2019.",
+  "lat": 21.2790315,
+  "lng": -157.830914,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://escaperoom.com/venue-game/breakout-waikiki-the-hero-honolulu-hi-usa-1",
+    "kind": "Article"
+   },
+   {
+    "url": "https://waikikibeachwalk.com/Blog/September-2024/How-Your-Team-Wins-at-Waikiki-Beach-Walk.htm",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.jeffsetter.com/blog/breakout-waikiki-escape-room/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.staradvertiser.com/2016/03/08/features/new-escape-themed-businesses-challenge-customers-to-break-out/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -6263,19 +6293,6 @@
   "note": "Open today (clothes). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2793595,
   "lng": -157.8305369
- },
- {
-  "name": "Breakout Waikiki",
-  "address": "227 Lewers St",
-  "start": 2026,
-  "end": null,
-  "category": "retail",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (yes). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2793144,
-  "lng": -157.8304514
  },
  {
   "name": "Pull-In",
