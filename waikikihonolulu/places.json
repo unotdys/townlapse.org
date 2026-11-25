@@ -908,6 +908,28 @@
   ]
  },
  {
+  "name": "Genius Lounge Japanese Sake Bar ＆ Dining",
+  "address": "346 Lewers St",
+  "start": 2009,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Genius Lounge Japanese Sake Bar & Dining opened in November 2009 at 346 Lewers St in Waikiki.",
+  "lat": 21.2812462,
+  "lng": -157.8289092,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://geniusloungehawaiiusa.com/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://geniusloungehawaiiusa.com/honolulu-waikiki-genius-lounge-hawaii-about",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -5399,19 +5421,6 @@
     "kind": "Listing"
    }
   ]
- },
- {
-  "name": "Genius Lounge Japanese Sake Bar ＆ Dining",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2812893,
-  "lng": -157.8289335
  },
  {
   "name": "Skybox Taphouse",
