@@ -2510,6 +2510,21 @@
      "https://www.honolulumagazine.com/?p=35218"
     ]
    }
+  },
+  {
+   "target": "Stix Asia",
+   "target_address": "2250 Kal\u0101kaua Ave",
+   "fields": {
+    "note": "Asian food hall on the lower level of Waikiki Shopping Plaza, in the space of the former Waikiki Yokocho food hall. It soft-opened in December 2022 and held its grand opening on February 6, 2023.",
+    "start": 2022,
+    "approx": false,
+    "links": [
+     "https://staradvertiser.com/2023/01/31/food/raise-your-chopstix/",
+     "https://stixasia.com/press/",
+     "https://www.hawaiimagazine.com/stix-asia-food-hall-brings-17-new-asian-restaurants-to-waikiki/",
+     "https://www.honolulumagazine.com/?p=613925"
+    ]
+   }
   }
  ]
 }

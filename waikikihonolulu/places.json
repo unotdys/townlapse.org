@@ -6224,15 +6224,32 @@
  {
   "name": "Stix Asia",
   "address": "2250 Kalākaua Ave",
-  "start": 2026,
+  "start": 2022,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (food court). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Asian food hall on the lower level of Waikiki Shopping Plaza, in the space of the former Waikiki Yokocho food hall. It soft-opened in December 2022 and held its grand opening on February 6, 2023.",
   "lat": 21.2791023,
-  "lng": -157.828597
+  "lng": -157.828597,
+  "links": [
+   {
+    "url": "https://staradvertiser.com/2023/01/31/food/raise-your-chopstix/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://stixasia.com/press/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hawaiimagazine.com/stix-asia-food-hall-brings-17-new-asian-restaurants-to-waikiki/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/?p=613925",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Reyn Spooner",
