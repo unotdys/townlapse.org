@@ -190,6 +190,22 @@
      "https://www.hotel-online.com/News/PR2007_2nd/Apr07_PrinceKuhio.html"
     ]
    }
+  },
+  {
+   "target": "Tiki's Meeting Spot",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "2280 Kuhio Ave",
+    "note": "Tiki bar in the Ohia Waikiki Studio Suites building, renamed from Lava Tube around May 2025. It closed in April 2026 when its lease ended ahead of renovations.",
+    "start": 2025,
+    "end": 2026,
+    "approx": true,
+    "links": [
+     "https://mytiki.life/tiki-bars/p26?layout=summary&q&sort=dateCreated&page=13",
+     "https://mytiki.life/tiki-bars/tikis-meeting-spot-waikiki",
+     "https://www.restaurantji.com/hi/honolulu/lava-tube-/comments/"
+    ]
+   }
   }
  ]
 }

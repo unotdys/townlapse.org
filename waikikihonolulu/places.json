@@ -476,16 +476,29 @@
  },
  {
   "name": "Tiki's Meeting Spot",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
+  "address": "2280 Kuhio Ave",
+  "start": 2025,
+  "end": 2026,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (bar). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2798931,
-  "lng": -157.8264528
+  "note": "Tiki bar in the Ohia Waikiki Studio Suites building, renamed from Lava Tube around May 2025. It closed in April 2026 when its lease ended ahead of renovations.",
+  "lat": 21.2800036,
+  "lng": -157.8263329,
+  "links": [
+   {
+    "url": "https://mytiki.life/tiki-bars/p26?layout=summary&q&sort=dateCreated&page=13",
+    "kind": "Article"
+   },
+   {
+    "url": "https://mytiki.life/tiki-bars/tikis-meeting-spot-waikiki",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.restaurantji.com/hi/honolulu/lava-tube-/comments/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "TR Fire Grill",
