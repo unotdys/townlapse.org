@@ -248,6 +248,18 @@
      "https://www.paloaltoonline.com/uncategorized/2010/07/09/shop-talk-74/"
     ]
    }
+  },
+  {
+   "target": "Izzy's Brooklyn Bagels",
+   "target_address": "477 South California Ave",
+   "fields": {
+    "start": 1996,
+    "approx": true,
+    "links": [
+     "https://www.paloaltoonline.com/morgue/news/1996_Jun_19.SHOP19.html",
+     "https://www.paloaltoonline.com/palo-alto/2023/09/14/schmear-campaign-peninsula-bagel-shops-with-east-coast-roots-prepare-for-rosh-hashanah-and-yom-kippur-feasts/"
+    ]
+   }
   }
  ]
 }
