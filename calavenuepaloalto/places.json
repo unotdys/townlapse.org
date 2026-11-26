@@ -1571,15 +1571,28 @@
  {
   "name": "Daigo",
   "address": "2363 Birch St",
-  "start": 2026,
+  "start": 2019,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Second location of a San Francisco sushi restaurant, serving Japanese appetizers, nigiri, sashimi and omakase. It opened in spring 2019 in the former Homma's Brown Rice Sushi space and is still listed at this address.",
   "lat": 37.427858,
-  "lng": -122.1442605
+  "lng": -122.1442605,
+  "links": [
+   {
+    "url": "https://daigopaloalto.com/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://n2v.paloaltoonline.com/blogs/p/2019/03/28/san-francisco-sushi-restaurant-expanding-to-palo-alto",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/ae/2019/06/20/summer-restaurant-openings-abound/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Victoria Ballet",

@@ -742,6 +742,20 @@
      "https://www.paloaltoonline.com/blogs/2023/03/28/new-palo-alto-sushi-spot-highlights-late-night-hours-and-affordable-prices/"
     ]
    }
+  },
+  {
+   "target": "Daigo",
+   "target_address": "2363 Birch St",
+   "fields": {
+    "note": "Second location of a San Francisco sushi restaurant, serving Japanese appetizers, nigiri, sashimi and omakase. It opened in spring 2019 in the former Homma's Brown Rice Sushi space and is still listed at this address.",
+    "start": 2019,
+    "approx": false,
+    "links": [
+     "https://daigopaloalto.com/",
+     "https://n2v.paloaltoonline.com/blogs/p/2019/03/28/san-francisco-sushi-restaurant-expanding-to-palo-alto",
+     "https://www.paloaltoonline.com/ae/2019/06/20/summer-restaurant-openings-abound/"
+    ]
+   }
   }
  ]
 }
