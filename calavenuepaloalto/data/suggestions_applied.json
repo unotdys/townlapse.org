@@ -1202,6 +1202,18 @@
      "https://www.thegoodsalad.com/the-good-salad-story"
     ]
    }
+  },
+  {
+   "target": "Jerusalem Baptist Church",
+   "target_address": "398 Sheridan Ave",
+   "fields": {
+    "note": "Organized in 1945, the congregation bought this corner of Sheridan Avenue and Ash Street in 1947 and moved into its church here in 1950. It is still an active place of worship.",
+    "start": 1950,
+    "approx": false,
+    "links": [
+     "https://www.jerusalemchurch.org/about"
+    ]
+   }
   }
  ]
 }

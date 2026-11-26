@@ -2515,15 +2515,20 @@
  {
   "name": "Jerusalem Baptist Church",
   "address": "398 Sheridan Ave",
-  "start": 2026,
+  "start": 1950,
   "end": null,
   "category": "worship",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (place of worship). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Organized in 1945, the congregation bought this corner of Sheridan Avenue and Ash Street in 1947 and moved into its church here in 1950. It is still an active place of worship.",
   "lat": 37.4254124,
-  "lng": -122.1421129
+  "lng": -122.1421129,
+  "links": [
+   {
+    "url": "https://www.jerusalemchurch.org/about",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Mollie Stone's",
