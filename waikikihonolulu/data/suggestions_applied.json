@@ -1185,6 +1185,21 @@
     "https://newsroom.hyatt.com/2011-12-08-HYATT-PLACE-WAIKIKI-BEACH-CELEBRATES-OPENING-OF-PALI-TOWER",
     "https://www.franchising.com/news/20120417_hyatt_place_waikiki_beach_celebrates_opening_of_di.html"
    ]
+  },
+  {
+   "name": "Waikiki Beach Marriott Resort & Spa",
+   "address": "2552 Kalakaua Ave",
+   "note": "Marriott bought the Hawaiian Regent Hotel, which opened in 1971, in November 2000 and renamed it the Waikiki Beach Marriott Resort. A $60 million renovation was finished in early 2002.",
+   "start": 2000,
+   "end": null,
+   "category": "hotel",
+   "approx": false,
+   "links": [
+    "https://archives.starbulletin.com/2000/11/14/business/story3.html",
+    "https://archives.starbulletin.com/2001/07/27/business/story1.html",
+    "https://labor.hawaii.gov/wdc/files/2020/06/WARN-2020.06.04-Waikiki-Beach-Marriott-Resort-Spa.pdf",
+    "https://www.hotel-online.com/News/PressReleases2000_4th/Nov00_WaikikiMarriott.html"
+   ]
   }
  ],
  "corrections": [

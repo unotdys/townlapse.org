@@ -2081,6 +2081,36 @@
   ]
  },
  {
+  "name": "Waikiki Beach Marriott Resort & Spa",
+  "address": "2552 Kalakaua Ave",
+  "start": 2000,
+  "end": null,
+  "category": "hotel",
+  "approx": false,
+  "note": "Marriott bought the Hawaiian Regent Hotel, which opened in 1971, in November 2000 and renamed it the Waikiki Beach Marriott Resort. A $60 million renovation was finished in early 2002.",
+  "lat": 21.2734513,
+  "lng": -157.8224713,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://labor.hawaii.gov/wdc/files/2020/06/WARN-2020.06.04-Waikiki-Beach-Marriott-Resort-Spa.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://archives.starbulletin.com/2000/11/14/business/story3.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://archives.starbulletin.com/2001/07/27/business/story1.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hotel-online.com/News/PressReleases2000_4th/Nov00_WaikikiMarriott.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -9301,19 +9331,6 @@
   "note": "Open today (tea). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2800006,
   "lng": -157.831834
- },
- {
-  "name": "Waikiki Beach Marriott Resort & Spa",
-  "address": "2552 Kalākaua Ave",
-  "start": 2026,
-  "end": null,
-  "category": "hotel",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2734781,
-  "lng": -157.8224627
  },
  {
   "name": "Waikiki Grand Hotel",
