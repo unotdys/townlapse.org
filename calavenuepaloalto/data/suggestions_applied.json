@@ -462,6 +462,19 @@
     "https://www.paloaltoonline.com/blogs/2023/08/17/bistronomie-by-baum-on-california-avenue-closes-its-doors-after-13-years-of-luxury-french-food/",
     "https://www.paloaltoonline.com/peninsula-foodist/2020/07/20/two-michelin-stars-to-go-palo-altos-high-end-baume-pivots-to-takeout/"
    ]
+  },
+  {
+   "name": "Fire Oak & Barley",
+   "address": "341 California Ave",
+   "note": "A fast-casual restaurant built around a wood-burning pizza oven, serving pizzas, sandwiches, salads and local beer and wine. It opened in August 2015 and closed in April 2016.",
+   "start": 2015,
+   "end": 2016,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "http://www.paloaltoonline.com/blogs/p/2015/07/22/coming-soon-fire-oak--barley-in-palo-alto",
+    "https://www.paloaltoonline.com/blogs/2016/04/18/fire-oak-barley-shutters-in-palo-alto/"
+   ]
   }
  ],
  "corrections": [

@@ -832,6 +832,28 @@
   ]
  },
  {
+  "name": "Fire Oak & Barley",
+  "address": "341 California Ave",
+  "start": 2015,
+  "end": 2016,
+  "category": "food",
+  "approx": true,
+  "note": "A fast-casual restaurant built around a wood-burning pizza oven, serving pizzas, sandwiches, salads and local beer and wine. It opened in August 2015 and closed in April 2016.",
+  "lat": 37.4269611,
+  "lng": -122.1440867,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "http://www.paloaltoonline.com/blogs/p/2015/07/22/coming-soon-fire-oak--barley-in-palo-alto",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2016/04/18/fire-oak-barley-shutters-in-palo-alto/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Rara",
   "address": "201 South California Ave",
   "start": 2023,
