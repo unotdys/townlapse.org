@@ -10366,15 +10366,28 @@
  {
   "name": "United States Army Museum of Hawaii",
   "address": "2131 Kalia Rd",
-  "start": 2026,
+  "start": 1976,
   "end": null,
   "category": "community",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (museum). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Army museum inside Battery Randolph, a former coastal artillery battery at Fort DeRussy. It opened on December 7, 1976, and reopened in 2023 after a renovation.",
   "lat": 21.2790279,
-  "lng": -157.8338345
+  "lng": -157.8338345,
+  "links": [
+   {
+    "url": "https://en.wikipedia.org/wiki/U.S._Army_Museum_of_Hawaii",
+    "kind": "History"
+   },
+   {
+    "url": "https://home.army.mil/hawaii/army-museum",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.army.mil/article-amp/192041/ring_of_steel_protected_oahu_from_invasion_but_not_from_attack_by_air",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Waikiki Shopping Plaza",

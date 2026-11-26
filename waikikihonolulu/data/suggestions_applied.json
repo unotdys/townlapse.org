@@ -4116,6 +4116,20 @@
      "https://www.travelweekly.com/Hotels/Honolulu/The-Twin-Fin-p58483517"
     ]
    }
+  },
+  {
+   "target": "United States Army Museum of Hawaii",
+   "target_address": "2131 Kalia Rd",
+   "fields": {
+    "note": "Army museum inside Battery Randolph, a former coastal artillery battery at Fort DeRussy. It opened on December 7, 1976, and reopened in 2023 after a renovation.",
+    "start": 1976,
+    "approx": false,
+    "links": [
+     "https://en.wikipedia.org/wiki/U.S._Army_Museum_of_Hawaii",
+     "https://home.army.mil/hawaii/army-museum",
+     "https://www.army.mil/article-amp/192041/ring_of_steel_protected_oahu_from_invasion_but_not_from_attack_by_air"
+    ]
+   }
   }
  ]
 }
