@@ -42,6 +42,19 @@
     "https://newsroom.bmo.com/2023-02-01-BMO-Completes-Acquisition-of-Bank-of-the-West",
     "https://usbranches.bmo.com/ca/palo-alto/bmo121/"
    ]
+  },
+  {
+   "name": "Valero",
+   "address": "1963 El Camino Real",
+   "note": "A Valero gas station operates at 1963 El Camino Real. A January 2008 Palo Alto Online report already identifies the station at this address as Valero, the earliest year found for the Valero name here.",
+   "start": 2008,
+   "end": null,
+   "category": "services",
+   "approx": true,
+   "links": [
+    "https://locations.valero.com/en-us/LocationDetails/Index/1963-EL-CAMINO-REAL/0000005664",
+    "https://www.paloaltoonline.com/news/2008/01/09/news-digest-170/"
+   ]
   }
  ],
  "corrections": [

@@ -82,6 +82,28 @@
   ]
  },
  {
+  "name": "Valero",
+  "address": "1963 El Camino Real",
+  "start": 2008,
+  "end": null,
+  "category": "services",
+  "approx": true,
+  "note": "A Valero gas station operates at 1963 El Camino Real. A January 2008 Palo Alto Online report already identifies the station at this address as Valero, the earliest year found for the Valero name here.",
+  "lat": 37.4281941,
+  "lng": -122.1492064,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://locations.valero.com/en-us/LocationDetails/Index/1963-EL-CAMINO-REAL/0000005664",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2008/01/09/news-digest-170/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Rara",
   "address": "201 South California Ave",
   "start": 2023,
@@ -1828,19 +1850,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Valero",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "retail",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (convenience). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4281662,
-  "lng": -122.1491778
  },
  {
   "name": "Iman Community Association",
