@@ -918,6 +918,19 @@
      "https://www.qsrmagazine.com/news/starbird-expands-with-two-openings-in-the-bay-area/"
     ]
    }
+  },
+  {
+   "target": "SIGNAL Coffee (Sunday Pop Up)",
+   "target_address": "400 South California Ave",
+   "fields": {
+    "note": "Sunday stand at the California Avenue Farmers' Market run by Signal, a coffee roaster based in Alameda. It joined the market in August 2025 and sells espresso drinks and whole-bean coffee.",
+    "start": 2025,
+    "approx": false,
+    "links": [
+     "https://paloalto.org/food-and-drink/coffee-roasters/",
+     "https://www.instagram.com/p/DNdVRwwR95a/"
+    ]
+   }
   }
  ]
 }

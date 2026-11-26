@@ -1958,15 +1958,24 @@
  {
   "name": "SIGNAL Coffee (Sunday Pop Up)",
   "address": "400 South California Ave",
-  "start": 2026,
+  "start": 2025,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Sunday stand at the California Avenue Farmers' Market run by Signal, a coffee roaster based in Alameda. It joined the market in August 2025 and sells espresso drinks and whole-bean coffee.",
   "lat": 37.4252882,
-  "lng": -122.1458875
+  "lng": -122.1458875,
+  "links": [
+   {
+    "url": "https://www.instagram.com/p/DNdVRwwR95a/",
+    "kind": "Photo"
+   },
+   {
+    "url": "https://paloalto.org/food-and-drink/coffee-roasters/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Wow Tea",
