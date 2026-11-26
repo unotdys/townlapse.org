@@ -299,6 +299,21 @@
      "https://www.paloaltoonline.com/peninsula-foodist/2015/06/15/pop-tea-bar-replaces-beans-n-bites-cafe/"
     ]
    }
+  },
+  {
+   "target": "California Barber Shop",
+   "target_address": "441 Cambridge Ave",
+   "fields": {
+    "note": "Barber shop on Cambridge Ave, open at least since 2020, when local news named it among the Palo Alto barbershops briefly reopened during the pandemic. It is still open, and its actual opening year may be earlier.",
+    "start": 2020,
+    "approx": true,
+    "links": [
+     "https://barbershopsusa.pages.dev/ca/palo-alto/california-barber-shop/",
+     "https://startpage.mapquest.com/us/california/california-barber-shop-11807395",
+     "https://www.paloaltoonline.com/news/2020/07/13/santa-clara-county-reverses-health-order-reclosing-hair-salons-and-gyms/",
+     "https://www.paloaltoonline.com/wp-content/uploads/2024/01/2023_10_06.paw_.section1.pdf"
+    ]
+   }
   }
  ]
 }

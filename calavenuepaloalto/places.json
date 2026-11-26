@@ -549,15 +549,32 @@
  {
   "name": "California Barber Shop",
   "address": "441 Cambridge Ave",
-  "start": 2026,
+  "start": 2020,
   "end": null,
   "category": "services",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (hairdresser). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Barber shop on Cambridge Ave, open at least since 2020, when local news named it among the Palo Alto barbershops briefly reopened during the pandemic. It is still open, and its actual opening year may be earlier.",
   "lat": 37.4265282,
-  "lng": -122.145708
+  "lng": -122.145708,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/wp-content/uploads/2024/01/2023_10_06.paw_.section1.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://barbershopsusa.pages.dev/ca/palo-alto/california-barber-shop/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2020/07/13/santa-clara-county-reverses-health-order-reclosing-hair-salons-and-gyms/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://startpage.mapquest.com/us/california/california-barber-shop-11807395",
+    "kind": "Listing"
+   }
+  ]
  },
  {
   "name": "Privado Hair Design",
