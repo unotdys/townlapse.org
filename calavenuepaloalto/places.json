@@ -937,15 +937,24 @@
  {
   "name": "Palo Alto Eyeworks",
   "address": "461 South California Ave",
-  "start": 2026,
+  "start": 1992,
   "end": null,
   "category": "services",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (optician). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Optician on California Ave. The shop says it has served Palo Alto since 1992, and a 2009 visitors guide lists it at this address.",
   "lat": 37.4255829,
-  "lng": -122.1452331
+  "lng": -122.1452331,
+  "links": [
+   {
+    "url": "https://paloaltoeyeworks.net/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://silo.tips/download/o-the-midpeninsula-discover-where-to-go-to-play-dine-shop-or-relax",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Hairshaper's Club",

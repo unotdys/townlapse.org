@@ -478,6 +478,19 @@
      "https://www.cspaloalto.org/reading-room"
     ]
    }
+  },
+  {
+   "target": "Palo Alto Eyeworks",
+   "target_address": "461 South California Ave",
+   "fields": {
+    "note": "Optician on California Ave. The shop says it has served Palo Alto since 1992, and a 2009 visitors guide lists it at this address.",
+    "start": 1992,
+    "approx": true,
+    "links": [
+     "https://paloaltoeyeworks.net/",
+     "https://silo.tips/download/o-the-midpeninsula-discover-where-to-go-to-play-dine-shop-or-relax"
+    ]
+   }
   }
  ]
 }
