@@ -540,6 +540,28 @@
   ]
  },
  {
+  "name": "Amigos de Palo Alto",
+  "address": "1611 Stanford Ave",
+  "start": 2011,
+  "end": null,
+  "category": "services",
+  "approx": true,
+  "note": "Spanish-immersion preschool and childcare program at the University Lutheran Church address on Stanford Ave. It was listed here by December 2011 and still gives this address today.",
+  "lat": 37.418679,
+  "lng": -122.1559099,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.amigosdepaloalto.com/child-care-programs",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/uncategorized/2011/12/09/winter-class-guide-2/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Rara",
   "address": "201 South California Ave",
   "start": 2023,
