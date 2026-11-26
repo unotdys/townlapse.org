@@ -1229,6 +1229,20 @@
      "https://www.paloaltoonline.com/news/2023/11/30/great-urban-design-or-affront-to-democracy-high-rise-project-ignites-debate-over-city-growth/"
     ]
    }
+  },
+  {
+   "target": "Panda Express",
+   "target_address": "2310 El Camino Real",
+   "fields": {
+    "note": "Opened in April 2011 after a former restaurant on the site was converted; still open today.",
+    "start": 2011,
+    "approx": false,
+    "links": [
+     "https://palyvoice.com/27281/news/node-27281/",
+     "https://www.paloaltoonline.com/real-estate/2011/01/07/building-permits-220/",
+     "https://www.pandaexpress.com/locations/ca/palo-alto/1924"
+    ]
+   }
   }
  ]
 }

@@ -2628,15 +2628,28 @@
  {
   "name": "Panda Express",
   "address": "2310 El Camino Real",
-  "start": 2026,
+  "start": 2011,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Opened in April 2011 after a former restaurant on the site was converted; still open today.",
   "lat": 37.4252732,
-  "lng": -122.1468558
+  "lng": -122.1468558,
+  "links": [
+   {
+    "url": "https://palyvoice.com/27281/news/node-27281/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/real-estate/2011/01/07/building-permits-220/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.pandaexpress.com/locations/ca/palo-alto/1924",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Provident Credit Union",
