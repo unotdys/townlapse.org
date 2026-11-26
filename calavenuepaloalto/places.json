@@ -2715,15 +2715,29 @@
  {
   "name": "FedEx Office",
   "address": "249 South California Ave",
-  "start": 2026,
+  "start": null,
   "end": null,
   "category": "services",
-  "approx": false,
+  "approx": true,
   "start_unknown": true,
   "source": "osm",
-  "note": "Open today (copyshop). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "A longtime copy, print and shipping store, open before 2019. It reopened in a smaller space in early 2019 after the building was divided into two storefronts.",
   "lat": 37.4279037,
-  "lng": -122.1431273
+  "lng": -122.1431273,
+  "links": [
+   {
+    "url": "https://local.fedex.com/en-us/ca/palo-alto/office-5101",
+    "kind": "Article"
+   },
+   {
+    "url": "https://poynton.ca/notes/mac/DocuTechs_I_ve_known.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2019/04/25/shop-talk-pizza-chicago-relocates-new-retailers-set-to-move-to-cal-ave-2/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Superior Court Palo Alto Courthouse",

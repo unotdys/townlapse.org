@@ -1271,6 +1271,20 @@
      "https://www.paloaltoonline.com/news/2022/03/24/with-diy-projects-on-the-rise-nob-hill-hardware-expands-into-palo-alto/"
     ]
    }
+  },
+  {
+   "target": "FedEx Office",
+   "target_address": "249 South California Ave",
+   "fields": {
+    "note": "A longtime copy, print and shipping store, open before 2019. It reopened in a smaller space in early 2019 after the building was divided into two storefronts.",
+    "start": null,
+    "approx": true,
+    "links": [
+     "https://local.fedex.com/en-us/ca/palo-alto/office-5101",
+     "https://poynton.ca/notes/mac/DocuTechs_I_ve_known.html",
+     "https://www.paloaltoonline.com/news/2019/04/25/shop-talk-pizza-chicago-relocates-new-retailers-set-to-move-to-cal-ave-2/"
+    ]
+   }
   }
  ]
 }
