@@ -738,6 +738,19 @@
     "https://onolicioushawaii.com/?p=15765",
     "https://www.honolulumagazine.com/honolulu-skewer-houses-new-locale-has-a-new-twist-diy-tabletop-grilling/"
    ]
+  },
+  {
+   "name": "bb.q Chicken",
+   "address": "2250 Kalakaua Ave",
+   "note": "bb.q Chicken opened its third Hawaii location, a Korean fried chicken restaurant, at 2250 Kalakaua Ave, Suite 114, in Waikiki Shopping Plaza in 2025.",
+   "start": 2025,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://alohastatedaily.com/2025/04/30/new-korean-fried-chicken-spot-in-honolulu/",
+    "https://waikikishoppingplaza.com/mor-eats-local-favorites-now-open-in-waikiki/"
+   ]
   }
  ],
  "corrections": [

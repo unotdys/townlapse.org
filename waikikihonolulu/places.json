@@ -1253,6 +1253,28 @@
   ]
  },
  {
+  "name": "bb.q Chicken",
+  "address": "2250 Kalakaua Ave",
+  "start": 2025,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "bb.q Chicken opened its third Hawaii location, a Korean fried chicken restaurant, at 2250 Kalakaua Ave, Suite 114, in Waikiki Shopping Plaza in 2025.",
+  "lat": 21.2792987,
+  "lng": -157.8285137,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://alohastatedaily.com/2025/04/30/new-korean-fried-chicken-spot-in-honolulu/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://waikikishoppingplaza.com/mor-eats-local-favorites-now-open-in-waikiki/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -7259,19 +7281,6 @@
   "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2797686,
   "lng": -157.8285016
- },
- {
-  "name": "bb.q Chicken",
-  "address": "2250 Kalākaua Ave",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2797604,
-  "lng": -157.8286345
  },
  {
   "name": "Noa",
