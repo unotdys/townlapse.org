@@ -405,6 +405,23 @@
     "https://startpage.mapquest.com/us/california/cambridge-optometry-265415739",
     "https://www.cambridgeoptometry.com/our-doctors.html"
    ]
+  },
+  {
+   "name": "Smith Andersen Editions",
+   "address": "440 Pepper Ave",
+   "note": "A fine-art press and gallery known for monotypes and monoprints, which moved here from Homer Avenue downtown. It closed in 2016 after its owner died, and the press equipment later went to the Palo Alto Art Center.",
+   "start": 1984,
+   "end": 2016,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "https://en.wikipedia.org/wiki/Paula_Kirkeby",
+    "https://www.artsy.net/show/mark-moore-fine-art-kara-maria-cloud-crystals-in-association-with-atelier-blu-rose/info",
+    "https://www.cityofpaloalto.org/files/assets/public/v/1/agendas-minutes-reports/reports/city-manager-reports-cmrs/year-archive/2017/id-7995.pdf",
+    "https://www.paloaltoonline.com/ae/2015/05/14/the-beat-goes-on/",
+    "https://www.paloaltoonline.com/weekly/morgue/2003/2003_10_15.monotype.html",
+    "https://www.scu.edu/news-and-events/press-releases/2017/march-2017/-de-saisset-presents-unique-and-multiple-selections-from-smith-andersen-editions.html"
+   ]
   }
  ],
  "corrections": [
