@@ -3557,6 +3557,20 @@
      "https://www.pakalolocollective.com/"
     ]
    }
+  },
+  {
+   "target": "Ululani's Shave Ice",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "349 Seaside Ave",
+    "note": "Waikiki branch of the Maui-founded Ululani's Hawaiian Shave Ice, in the former Jamba Juice space on Seaside Avenue near the Hyatt Centric. It had its grand opening on October 4, 2025, as the chain's 15th location and fourth on O'ahu.",
+    "start": 2025,
+    "approx": false,
+    "links": [
+     "https://alohastatedaily.com/2025/10/02/ululanis-hawaiian-shave-ice-just-opened-in-waikiki/",
+     "https://hawaii.com/blog/new-restaurants-oahu-2025"
+    ]
+   }
   }
  ]
 }
