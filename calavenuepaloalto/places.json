@@ -1501,15 +1501,24 @@
  {
   "name": "Palo Alto Shell",
   "address": "2200 El Camino Real",
-  "start": 2026,
+  "start": 2014,
   "end": null,
-  "category": "retail",
-  "approx": false,
-  "start_unknown": true,
+  "category": "services",
+  "approx": true,
   "source": "osm",
-  "note": "Open today (car repair). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Shell gas station and auto repair shop on El Camino Real. Its own dated posts show it open at this address by 2014, and it is still open today.",
   "lat": 37.4256614,
-  "lng": -122.147526
+  "lng": -122.147526,
+  "links": [
+   {
+    "url": "http://paloalto.gov/files/assets/public/agendas-minutes-reports/reports/city-manager-reports-cmrs/year-archive/2020/id-11005-tobacco-retail-permit-4.64-ordinance-revisions.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.paloaltoshell.com/blog/archives/2014",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Shell",

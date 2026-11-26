@@ -702,6 +702,20 @@
      "https://www.paloaltoonline.com/peninsula-foodist/2019/01/23/tacos-and-avocado-toast-palo-altos-backyard-brew-adds-food-menu/"
     ]
    }
+  },
+  {
+   "target": "Palo Alto Shell",
+   "target_address": "2200 El Camino Real",
+   "fields": {
+    "note": "Shell gas station and auto repair shop on El Camino Real. Its own dated posts show it open at this address by 2014, and it is still open today.",
+    "start": 2014,
+    "category": "services",
+    "approx": true,
+    "links": [
+     "http://paloalto.gov/files/assets/public/agendas-minutes-reports/reports/city-manager-reports-cmrs/year-archive/2020/id-11005-tobacco-retail-permit-4.64-ordinance-revisions.pdf",
+     "https://www.paloaltoshell.com/blog/archives/2014"
+    ]
+   }
   }
  ]
 }
