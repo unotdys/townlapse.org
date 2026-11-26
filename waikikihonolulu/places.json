@@ -1275,6 +1275,28 @@
   ]
  },
  {
+  "name": "Aloha Hot Dog & Banh Mi",
+  "address": "2250 Kalakaua Ave",
+  "start": 2024,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Aloha Hot Dog & Banh Mi, a Vietnamese-Hawaiian fusion stall serving hot dogs on Hawaiian buns and banh mi sandwiches, opened in 2024 on the lower level of Waikiki Shopping Plaza at 2250 Kalakaua Ave, Unit LL105.",
+  "lat": 21.2792987,
+  "lng": -157.8285137,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://sagemenu.com/honolulu/aloha-hotdog-and-banh-mi-honolulu/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://waikikishoppingplaza.com/new-year-new-eats/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -7255,19 +7277,6 @@
   "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2805307,
   "lng": -157.8279465
- },
- {
-  "name": "Aloha Hot Dog & Banh Mi",
-  "address": "2250 Kalākaua Ave",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2797178,
-  "lng": -157.8284458
  },
  {
   "name": "Waffle and Berry",
