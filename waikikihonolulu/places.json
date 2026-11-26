@@ -7341,15 +7341,24 @@
  {
   "name": "Kyoto Katsuda",
   "address": "2250 Kalākaua Ave",
-  "start": 2026,
+  "start": 2025,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Beef katsu restaurant from Kyoto, Japan, where the chain has four shops. It opened its first U.S. location in late August 2025 in the Stix Asia food hall on the lower level of Waikīkī Shopping Plaza.",
   "lat": 21.2791216,
-  "lng": -157.8285017
+  "lng": -157.8285017,
+  "links": [
+   {
+    "url": "https://alohastatedaily.com/2025/09/03/kyoto-katsuda-which-specializes-in-premium-beef-katsu-is-now-open-in-honolulu/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/kyoto-katsuda/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Allegrini Italian Deli & Market",
