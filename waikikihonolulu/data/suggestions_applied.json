@@ -2882,6 +2882,19 @@
      "https://www.yelp.com/biz/sams-kitchen-honolulu"
     ]
    }
+  },
+  {
+   "target": "Acai Republic",
+   "target_address": "2462 K\u016bhi\u014d Ave",
+   "fields": {
+    "note": "A\u00e7a\u00ed bowl and smoothie shop on K\u016bhi\u014d Avenue, open by October 2024 when a social media post described it as newly opened. Still listed as open in OpenStreetMap.",
+    "start": 2024,
+    "approx": true,
+    "links": [
+     "https://www.doordash.com/business/acai-republic-8887/",
+     "https://www.instagram.com/reel/DDNIf6-TjWP/"
+    ]
+   }
   }
  ]
 }

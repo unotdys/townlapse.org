@@ -7141,15 +7141,24 @@
  {
   "name": "Acai Republic",
   "address": "2462 Kūhiō Ave",
-  "start": 2026,
+  "start": 2024,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Açaí bowl and smoothie shop on Kūhiō Avenue, open by October 2024 when a social media post described it as newly opened. Still listed as open in OpenStreetMap.",
   "lat": 21.2759072,
-  "lng": -157.8226316
+  "lng": -157.8226316,
+  "links": [
+   {
+    "url": "https://www.instagram.com/reel/DDNIf6-TjWP/",
+    "kind": "Photo"
+   },
+   {
+    "url": "https://www.doordash.com/business/acai-republic-8887/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Cafe Nene",
