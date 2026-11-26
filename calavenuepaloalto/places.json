@@ -1706,15 +1706,24 @@
  {
   "name": "Nitoboxing",
   "address": "261 South California Ave",
-  "start": 2026,
+  "start": 2023,
   "end": null,
   "category": "fitness",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
   "note": "Open today (fitness centre). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 37.4277592,
-  "lng": -122.1434445
+  "lng": -122.1434445,
+  "links": [
+   {
+    "url": "https://paloalto.org/living/gyms-and-fitness/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2022/12/07/punching-bags-kettlebells-and-hawaiian-vibes-boxing-gym-set-to-open-on-cal-ave/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Sun of Wolf",

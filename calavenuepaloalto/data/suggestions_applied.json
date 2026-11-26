@@ -809,6 +809,18 @@
      "https://www.paloaltoonline.com/palo-alto/2025/09/30/square-pie-guys-brings-its-detroit-style-pizza-to-palo-altos-cal-ave/"
     ]
    }
+  },
+  {
+   "target": "Nitoboxing",
+   "target_address": "261 South California Ave",
+   "fields": {
+    "start": 2023,
+    "approx": true,
+    "links": [
+     "https://paloalto.org/living/gyms-and-fitness/",
+     "https://www.paloaltoonline.com/news/2022/12/07/punching-bags-kettlebells-and-hawaiian-vibes-boxing-gym-set-to-open-on-cal-ave/"
+    ]
+   }
   }
  ]
 }
