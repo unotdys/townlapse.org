@@ -2577,6 +2577,40 @@
   ]
  },
  {
+  "name": "Wyndham at Waikiki Beach Walk",
+  "address": "227 Lewers St",
+  "start": 2006,
+  "end": null,
+  "category": "hotel",
+  "approx": true,
+  "note": "Wyndham timeshare resort with 195 units in two towers, redeveloped from former Ohana hotel buildings during the Waikiki Beach Walk project and opened for guests in November 2006. It now operates as Club Wyndham at Waikiki Beach Walk.",
+  "lat": 21.2790315,
+  "lng": -157.830914,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://energy.hawaii.gov/wp-content/uploads/2012/04/Wyndham-Waikiki-2014-Press-Package-20141.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://greenbusiness.hawaii.gov/wp-content/uploads/2017/01/Wyndham_2014.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.waikikibeachwalk.com/PDFs/WBW-MediaKit.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://clubwyndham.wyndhamdestinations.com/us/en/resorts/wyndham-hotels-resorts/united-states-of-america/hawaii/honolulu/club-wyndham-at-waikiki-beach-walk?msockid=314153a1ea9e648e16544543eb73658d",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.wyndhamhotels.com/wyndham-vacations/honolulu-hawaii/club-wyndham-vr-waikiki-beach-walk/overview",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -10174,19 +10208,6 @@
   "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2791105,
   "lng": -157.8315679
- },
- {
-  "name": "Waikiki Beach Walk",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "retail",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (mall). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2794409,
-  "lng": -157.8310231
  },
  {
   "name": "ABC",
