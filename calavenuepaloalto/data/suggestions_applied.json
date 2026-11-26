@@ -110,6 +110,22 @@
      "https://www.paloaltoonline.com/blogs/2016/10/05/zareens-opens-friday-in-palo-alto/"
     ]
    }
+  },
+  {
+   "target": "Common Ground",
+   "target_address": "559 College Ave",
+   "fields": {
+    "note": "Organic garden supply store and education center that sold gardening products and taught classes. Founded in Palo Alto in 1972 at 225 El Camino Real, it moved here in 2001 and closed on October 11, 2014.",
+    "start": 2001,
+    "end": 2014,
+    "category": "retail",
+    "approx": false,
+    "links": [
+     "https://gardenbriefs.blogspot.com/2006/09/common-ground-marks-34th-year-of.html",
+     "https://www.metroactive.com/best-of-silicon-valley/2011/shopping-services/editor-picks.html",
+     "https://www.paloaltoonline.com/uncategorized/2014/10/17/shop-talk-160/"
+    ]
+   }
   }
  ]
 }

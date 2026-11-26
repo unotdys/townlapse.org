@@ -203,15 +203,28 @@
  {
   "name": "Common Ground",
   "address": "559 College Ave",
-  "start": 2026,
-  "end": null,
+  "start": 2001,
+  "end": 2014,
   "category": "retail",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (vacant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Organic garden supply store and education center that sold gardening products and taught classes. Founded in Palo Alto in 1972 at 225 El Camino Real, it moved here in 2001 and closed on October 11, 2014.",
   "lat": 37.4255661,
-  "lng": -122.1479394
+  "lng": -122.1479394,
+  "links": [
+   {
+    "url": "https://gardenbriefs.blogspot.com/2006/09/common-ground-marks-34th-year-of.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.metroactive.com/best-of-silicon-valley/2011/shopping-services/editor-picks.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/uncategorized/2014/10/17/shop-talk-160/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Bistro Elan",
