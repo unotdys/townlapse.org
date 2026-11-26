@@ -2783,6 +2783,40 @@
   ]
  },
  {
+  "name": "The Ritz-Carlton Residences, Waikiki Beach",
+  "address": "383 Kalaimoku St",
+  "start": 2016,
+  "end": null,
+  "category": "hotel",
+  "approx": false,
+  "note": "Oahu's first Ritz-Carlton property, a luxury condo-hotel that opened in July 2016 with its 38-story first tower. Its second tower, the Diamond Head Tower, opened in October 2018 and completed the resort.",
+  "lat": 21.2826896,
+  "lng": -157.8301788,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://prnewswire.com/news-releases/opening-of-the-ritz-carlton-residences-waikiki-beach-ushers-in-a-new-era-of-luxury-travel-to-waikiki-300299801.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://prnewswire.com/news-releases/the-ritz-carlton-residences-waikiki-beach-to-debut-resort-completion-with-opening-of-new-diamond-head-tower-on-october-15-300712904.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.gohawaii.com/listing/the-ritz-carlton-residences-waikiki-beach/85693",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.ritzcarlton.com/en/hotels/hnlrr-the-ritz-carlton-residences-waikiki-beach/overview/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelweekly.com/Hawaii-Travel/Ritz-Carlton-full-strength-Waikiki",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -10328,19 +10362,6 @@
   "note": "Open today (clothes). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.281496,
   "lng": -157.8302504
- },
- {
-  "name": "The Ritz-Carlton",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "hotel",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2821821,
-  "lng": -157.8299038
  },
  {
   "name": "United States Army Museum of Hawaii",

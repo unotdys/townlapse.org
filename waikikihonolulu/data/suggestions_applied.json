@@ -1561,6 +1561,22 @@
     "https://www.hilton.com/en/hotels/hnlwbgv-hokulani-waikiki-by-hilton-grand-vacations",
     "https://www.travelindustrywire.com/article76122.html"
    ]
+  },
+  {
+   "name": "The Ritz-Carlton Residences, Waikiki Beach",
+   "address": "383 Kalaimoku St",
+   "note": "Oahu's first Ritz-Carlton property, a luxury condo-hotel that opened in July 2016 with its 38-story first tower. Its second tower, the Diamond Head Tower, opened in October 2018 and completed the resort.",
+   "start": 2016,
+   "end": null,
+   "category": "hotel",
+   "approx": false,
+   "links": [
+    "https://prnewswire.com/news-releases/opening-of-the-ritz-carlton-residences-waikiki-beach-ushers-in-a-new-era-of-luxury-travel-to-waikiki-300299801.html",
+    "https://prnewswire.com/news-releases/the-ritz-carlton-residences-waikiki-beach-to-debut-resort-completion-with-opening-of-new-diamond-head-tower-on-october-15-300712904.html",
+    "https://www.gohawaii.com/listing/the-ritz-carlton-residences-waikiki-beach/85693",
+    "https://www.ritzcarlton.com/en/hotels/hnlrr-the-ritz-carlton-residences-waikiki-beach/overview/",
+    "https://www.travelweekly.com/Hawaii-Travel/Ritz-Carlton-full-strength-Waikiki"
+   ]
   }
  ],
  "corrections": [
