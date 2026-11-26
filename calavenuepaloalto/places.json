@@ -452,6 +452,28 @@
   ]
  },
  {
+  "name": "Casa dei Bambini",
+  "address": "457 College Ave",
+  "start": 1992,
+  "end": null,
+  "category": "services",
+  "approx": true,
+  "note": "A Montessori preschool and kindergarten with Mandarin and Spanish immersion. Its Palo Alto campus at 457 College Ave says it has operated since 1992 and remains open.",
+  "lat": 37.4267404,
+  "lng": -122.1467216,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://cdeib.com/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/real-estate/2019/03/15/neighborhood-snapshot-the-original-college-town/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Rara",
   "address": "201 South California Ave",
   "start": 2023,

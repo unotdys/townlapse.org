@@ -247,6 +247,19 @@
     "https://www.paloaltoonline.com/news/2013/08/30/its-future-uncertain-jjf-market-to-close-2/",
     "https://www.paloaltoonline.com/uncategorized/2007/04/25/jjf-when-family-community-ties-are-stronger-than-chains/"
    ]
+  },
+  {
+   "name": "Casa dei Bambini",
+   "address": "457 College Ave",
+   "note": "A Montessori preschool and kindergarten with Mandarin and Spanish immersion. Its Palo Alto campus at 457 College Ave says it has operated since 1992 and remains open.",
+   "start": 1992,
+   "end": null,
+   "category": "services",
+   "approx": true,
+   "links": [
+    "https://cdeib.com/",
+    "https://www.paloaltoonline.com/real-estate/2019/03/15/neighborhood-snapshot-the-original-college-town/"
+   ]
   }
  ],
  "corrections": [
