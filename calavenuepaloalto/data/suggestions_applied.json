@@ -616,6 +616,21 @@
      "https://www.bestprosintown.com/ca/palo-alto/serenity-nails-/comments/"
     ]
    }
+  },
+  {
+   "target": "Palo Alto Fitness Club",
+   "target_address": "310 South California Ave",
+   "fields": {
+    "note": "Private personal-training studio, also known as Palo Alto Fit, which moved here from Portage Ave after its owners bought 310-320 California Ave in 2023. It took over the space of the Performance Gaines gym and opened here around 2025.",
+    "start": 2025,
+    "approx": true,
+    "links": [
+     "https://paloaltofit.com/palo-alto-fit/",
+     "https://www.facebook.com/reel/4081775502060002/",
+     "https://www.paloalto.gov/Departments/Planning-Development-Services/Current-Planning/Projects/310-California-Avenue",
+     "https://www.paloaltoonline.com/palo-alto/2024/09/17/palo-alto-residents-open-california-cafe-at-former-site-of-printers-cafe/"
+    ]
+   }
   }
  ]
 }
