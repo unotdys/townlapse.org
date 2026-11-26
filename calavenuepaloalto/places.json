@@ -255,15 +255,28 @@
  {
   "name": "ZombieRunner Coffee",
   "address": "344 South California Ave",
-  "start": 2026,
+  "start": 2020,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Coffee shop that moved here in 2020 from its earlier California Avenue spot in an old movie theater building. That spot opened in 2008 as a combined running store and cafe.",
   "lat": 37.4270747,
-  "lng": -122.1444724
+  "lng": -122.1444724,
+  "links": [
+   {
+    "url": "https://www.ZombieRunner.com/pages/about-us",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2021/11/05/a-failing-street-as-vacancies-plague-california-avenue-can-the-shopping-district-make-a-comeback/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.zombierunner.com/pages/about-us",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Kali Greek Kitchen",

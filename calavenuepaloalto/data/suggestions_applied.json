@@ -141,6 +141,20 @@
      "https://www.paloaltoonline.com/uncategorized/2014/10/17/shop-talk-160/"
     ]
    }
+  },
+  {
+   "target": "ZombieRunner Coffee",
+   "target_address": "344 South California Ave",
+   "fields": {
+    "note": "Coffee shop that moved here in 2020 from its earlier California Avenue spot in an old movie theater building. That spot opened in 2008 as a combined running store and cafe.",
+    "start": 2020,
+    "approx": false,
+    "links": [
+     "https://www.ZombieRunner.com/pages/about-us",
+     "https://www.paloaltoonline.com/news/2021/11/05/a-failing-street-as-vacancies-plague-california-avenue-can-the-shopping-district-make-a-comeback/",
+     "https://www.zombierunner.com/pages/about-us"
+    ]
+   }
   }
  ]
 }
