@@ -1363,6 +1363,28 @@
   ]
  },
  {
+  "name": "Allegrini Italian Deli & Market",
+  "address": "2250 Kalakaua Ave",
+  "start": 2024,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Allegrini Mozzarella, an authentic Italian deli and market, opened at 2250 Kalakaua Ave in the Waikiki Shopping Plaza's lower level at the end of 2024, after previously operating in Downtown Honolulu.",
+  "lat": 21.2792987,
+  "lng": -157.8285137,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://allegriniitaliandelimarkethi.com/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://waikikishoppingplaza.com/new-year-new-eats/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -7442,19 +7464,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Allegrini Italian Deli & Market",
-  "address": "2250 Kalākaua Ave",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2795565,
-  "lng": -157.8284357
  },
  {
   "name": "Haleiwa Town Shave Ice",

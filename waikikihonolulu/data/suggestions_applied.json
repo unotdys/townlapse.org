@@ -803,6 +803,19 @@
     "https://waikikishoppingplaza.com/mor-eats-local-favorites-now-open-in-waikiki/",
     "https://www.hawaiisam.com/"
    ]
+  },
+  {
+   "name": "Allegrini Italian Deli & Market",
+   "address": "2250 Kalakaua Ave",
+   "note": "Allegrini Mozzarella, an authentic Italian deli and market, opened at 2250 Kalakaua Ave in the Waikiki Shopping Plaza's lower level at the end of 2024, after previously operating in Downtown Honolulu.",
+   "start": 2024,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://allegriniitaliandelimarkethi.com/",
+    "https://waikikishoppingplaza.com/new-year-new-eats/"
+   ]
   }
  ],
  "corrections": [
