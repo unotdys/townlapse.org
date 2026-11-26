@@ -1783,6 +1783,40 @@
   ]
  },
  {
+  "name": "Hyatt Regency Waikiki Beach Resort and Spa",
+  "address": "2424 Kalakaua Ave",
+  "start": 1976,
+  "end": null,
+  "category": "hotel",
+  "approx": false,
+  "note": "Large beachfront hotel with twin octagonal towers, built in 1976 by developer Chris Hemmeter on the site of the demolished Waikiki Biltmore Hotel. It still operates under the Hyatt Regency name.",
+  "lat": 21.276067,
+  "lng": -157.8250901,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://files.hawaii.gov/dbedt/visitor/visitor-plant/vpi2005.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Waikiki_Biltmore_Hotel",
+    "kind": "Article"
+   },
+   {
+    "url": "https://sah-archipedia.org/buildings/HI-01-OA144",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hyatt.com/hyatt-regency/en-US/hnlrw-hyatt-regency-waikiki-beach-resort-and-spa/dining",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelweekly.com/Hotels/Honolulu/Hyatt-Regency-Waikiki-Beach-Resort-Spa-p3908250",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -8774,19 +8808,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Hyatt Regency Waikiki Beach Resort and Spa",
-  "address": "2424 Kalākaua Ave",
-  "start": 2026,
-  "end": null,
-  "category": "hotel",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2761645,
-  "lng": -157.8251831
  },
  {
   "name": "United States Post Office",

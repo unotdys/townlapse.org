@@ -1028,6 +1028,22 @@
     "https://www.hospitalitynet.org/news/4030948/hilton-waikiki-prince-kuhio-joins-the-hilton-family-of-hotels-in-hawaii",
     "https://www.travelweekly.com/Hotels/Honolulu/Hilton-Waikiki-Beach-p4149632"
    ]
+  },
+  {
+   "name": "Hyatt Regency Waikiki Beach Resort and Spa",
+   "address": "2424 Kalakaua Ave",
+   "note": "Large beachfront hotel with twin octagonal towers, built in 1976 by developer Chris Hemmeter on the site of the demolished Waikiki Biltmore Hotel. It still operates under the Hyatt Regency name.",
+   "start": 1976,
+   "end": null,
+   "category": "hotel",
+   "approx": false,
+   "links": [
+    "https://en.wikipedia.org/wiki/Waikiki_Biltmore_Hotel",
+    "https://files.hawaii.gov/dbedt/visitor/visitor-plant/vpi2005.pdf",
+    "https://sah-archipedia.org/buildings/HI-01-OA144",
+    "https://www.hyatt.com/hyatt-regency/en-US/hnlrw-hyatt-regency-waikiki-beach-resort-and-spa/dining",
+    "https://www.travelweekly.com/Hotels/Honolulu/Hyatt-Regency-Waikiki-Beach-Resort-Spa-p3908250"
+   ]
   }
  ],
  "corrections": [
