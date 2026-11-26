@@ -8624,15 +8624,40 @@
  {
   "name": "Fendi",
   "address": "2301 Kalākaua Ave",
-  "start": 2026,
+  "start": 2016,
   "end": null,
   "category": "retail",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (clothes). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Italian luxury fashion house at Royal Hawaiian Center, first in Building A and from about 2017 in a two-level boutique in Building C. In 2024 it closed its Ala Moana store and opened a larger 3,186 sq ft boutique here, which is still open today.",
   "lat": 21.2784783,
-  "lng": -157.8285545
+  "lng": -157.8285545,
+  "links": [
+   {
+    "url": "https://static1.squarespace.com/static/5d289e4caad70300015b6415/t/5d2a8d3abbc96600019a5137/1563069758237/VOL_XVIII_-_01__JANUARY_2017_final.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://au.lifestyle.yahoo.com/fendi-relocates-honolulu-store-royal-211430653.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://theimpression.com/?p=11316604",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.fendi.com/ca-en/store-locator/united-states/royal-hawaiian-shopping-center",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.royalhawaiiancenter.com/fendi",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.staradvertiser.com/2016/08/16/business/luxury-womens-store-fendi-will-expand-waikiki-presence/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Moncler",

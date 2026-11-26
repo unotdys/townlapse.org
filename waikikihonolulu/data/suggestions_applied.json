@@ -3335,6 +3335,23 @@
      "https://www.twinfinwaikiki.com/dining/"
     ]
    }
+  },
+  {
+   "target": "Fendi",
+   "target_address": "2301 Kal\u0101kaua Ave",
+   "fields": {
+    "note": "Italian luxury fashion house at Royal Hawaiian Center, first in Building A and from about 2017 in a two-level boutique in Building C. In 2024 it closed its Ala Moana store and opened a larger 3,186 sq ft boutique here, which is still open today.",
+    "start": 2016,
+    "approx": true,
+    "links": [
+     "https://au.lifestyle.yahoo.com/fendi-relocates-honolulu-store-royal-211430653.html",
+     "https://static1.squarespace.com/static/5d289e4caad70300015b6415/t/5d2a8d3abbc96600019a5137/1563069758237/VOL_XVIII_-_01__JANUARY_2017_final.pdf",
+     "https://theimpression.com/?p=11316604",
+     "https://www.fendi.com/ca-en/store-locator/united-states/royal-hawaiian-shopping-center",
+     "https://www.royalhawaiiancenter.com/fendi",
+     "https://www.staradvertiser.com/2016/08/16/business/luxury-womens-store-fendi-will-expand-waikiki-presence/"
+    ]
+   }
   }
  ]
 }
