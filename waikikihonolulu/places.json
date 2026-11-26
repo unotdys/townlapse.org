@@ -2051,6 +2051,36 @@
   ]
  },
  {
+  "name": "Hyatt Place Waikiki Beach",
+  "address": "175 Paoakalani Ave",
+  "start": 2011,
+  "end": null,
+  "category": "hotel",
+  "approx": false,
+  "note": "Hawaii's first Hyatt Place, created by renovating and rebranding the former Ocean Resort Hotel Waikiki. Its Pali Tower opened on December 8, 2011, and its Diamond Head Tower followed in April 2012.",
+  "lat": 21.2731609,
+  "lng": -157.8213432,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://archive.hotelbusiness.com/kokua-hospitality-to-continue-managing-hyatt-place-waikiki-beach-hotel/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://newsroom.hyatt.com/2011-01-20-HYATT-ANNOUNCES-FRANCHISE-AGREEMENT-TO-REBRAND-OCEAN-RESORT-HOTEL-WAIKIKI-AS-HYATT-PLACE-WAIKIKI-BEACH",
+    "kind": "Article"
+   },
+   {
+    "url": "https://newsroom.hyatt.com/2011-12-08-HYATT-PLACE-WAIKIKI-BEACH-CELEBRATES-OPENING-OF-PALI-TOWER",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.franchising.com/news/20120417_hyatt_place_waikiki_beach_celebrates_opening_of_di.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -9163,19 +9193,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Hyatt Place Waikiki Beach",
-  "address": "175 Paoakalani Ave",
-  "start": 2026,
-  "end": null,
-  "category": "hotel",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.27325,
-  "lng": -157.8213612
  },
  {
   "name": "Ewa Hotel",
