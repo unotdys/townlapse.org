@@ -1101,15 +1101,20 @@
  {
   "name": "Imperial Treasure",
   "address": "151 South California Ave",
-  "start": 2026,
+  "start": 2023,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Chinese restaurant that opened in late 2023 in the Palo Alto Central building, in the space that used to be Peking Duck.",
   "lat": 37.4284709,
-  "lng": -122.1424046
+  "lng": -122.1424046,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/mountain-view/2023/12/07/five-new-palo-alto-eateries-serving-everything-from-jar-cakes-to-nepalese-food/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Pure Barre",

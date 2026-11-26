@@ -537,6 +537,18 @@
      "https://www.paloaltoonline.com/news/2021/11/05/a-failing-street-as-vacancies-plague-california-avenue-can-the-shopping-district-make-a-comeback/"
     ]
    }
+  },
+  {
+   "target": "Imperial Treasure",
+   "target_address": "151 South California Ave",
+   "fields": {
+    "note": "Chinese restaurant that opened in late 2023 in the Palo Alto Central building, in the space that used to be Peking Duck.",
+    "start": 2023,
+    "approx": false,
+    "links": [
+     "https://www.paloaltoonline.com/mountain-view/2023/12/07/five-new-palo-alto-eateries-serving-everything-from-jar-cakes-to-nepalese-food/"
+    ]
+   }
   }
  ]
 }
