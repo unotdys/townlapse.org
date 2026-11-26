@@ -784,6 +784,28 @@
   ]
  },
  {
+  "name": "Cho's Mandarin Dim Sum",
+  "address": "213 South California Ave",
+  "start": 1979,
+  "end": 2014,
+  "category": "food",
+  "approx": true,
+  "note": "A small Chinese restaurant serving dim sum from a counter in front of a tiny open kitchen. It served its last customers on March 15, 2014.",
+  "lat": 37.4281279,
+  "lng": -122.1431237,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://insurancenewsnet.com/oarticle/Chos-to-close-in-Palo-Alto-a-452037",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2014/01/28/chos-on-california-avenue-to-close/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Rara",
   "address": "201 South California Ave",
   "start": 2023,
