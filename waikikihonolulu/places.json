@@ -7120,11 +7120,20 @@
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Small coffee shop on Kaʻiulani Avenue that announced it was officially open in May 2026. It serves espresso drinks made with beans from an Oahu roaster.",
   "lat": 21.2775008,
-  "lng": -157.823852
+  "lng": -157.823852,
+  "links": [
+   {
+    "url": "https://www.instagram.com/p/DYlZkQVPZyE/",
+    "kind": "Photo"
+   },
+   {
+    "url": "https://cremaapp.com/coffee/hawaii/honolulu",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Asana Spa",

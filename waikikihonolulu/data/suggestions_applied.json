@@ -2838,6 +2838,19 @@
      "https://www.kamukura-waikiki.com/about"
     ]
    }
+  },
+  {
+   "target": "Cafe Nene",
+   "target_address": "209 Ka\u02bbiulani Ave",
+   "fields": {
+    "note": "Small coffee shop on Ka\u02bbiulani Avenue that announced it was officially open in May 2026. It serves espresso drinks made with beans from an Oahu roaster.",
+    "start": 2026,
+    "approx": false,
+    "links": [
+     "https://cremaapp.com/coffee/hawaii/honolulu",
+     "https://www.instagram.com/p/DYlZkQVPZyE/"
+    ]
+   }
   }
  ]
 }
