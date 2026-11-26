@@ -2429,6 +2429,22 @@
      "https://www.yelp.com/biz/coupa-caf%C3%A9-lytton-palo-alto"
     ]
    }
+  },
+  {
+   "target": "Pampas",
+   "target_address": "529 Alma St",
+   "fields": {
+    "note": "Brazilian churrascaria, where waiters bring grilled meats on skewers to the table. It opened on April 29, 2008 in a remodeled building on Alma Street and was billed as the first churrasco-style restaurant in the South Bay.",
+    "start": 2008,
+    "approx": false,
+    "links": [
+     "https://metrosiliconvalley.com/metro/06.25.08/dining-0826.html",
+     "https://sf.eater.com/2008/4/29/6797701/the-dish-pampas-debuts-tonight-brings-buzz-south",
+     "https://www.foodgal.com/2008/04/a-meat-y-opening/print/",
+     "https://www.paloaltoonline.com/news/2008/01/16/shop-talk-37/",
+     "https://www.sfgate.com/restaurants/article/What-s-New-Pampas-opens-in-Palo-Alto-3286075.php"
+    ]
+   }
   }
  ]
 }

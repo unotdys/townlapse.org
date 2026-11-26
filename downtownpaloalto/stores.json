@@ -1087,6 +1087,40 @@
   ]
  },
  {
+  "name": "Pampas",
+  "address": "529 Alma St",
+  "start": 2008,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "source": "osm",
+  "note": "Brazilian churrascaria, where waiters bring grilled meats on skewers to the table. It opened on April 29, 2008 in a remodeled building on Alma Street and was billed as the first churrasco-style restaurant in the South Bay.",
+  "lat": 37.4429817,
+  "lng": -122.162906,
+  "links": [
+   {
+    "url": "https://metrosiliconvalley.com/metro/06.25.08/dining-0826.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://sf.eater.com/2008/4/29/6797701/the-dish-pampas-debuts-tonight-brings-buzz-south",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.foodgal.com/2008/04/a-meat-y-opening/print/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2008/01/16/shop-talk-37/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.sfgate.com/restaurants/article/What-s-New-Pampas-opens-in-Palo-Alto-3286075.php",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Sprout",
   "address": "168 University Ave",
   "start": 2008,
@@ -4582,6 +4616,24 @@
   "note": "Coffee shop. Palo Alto Online's Peninsula Foodist reported it opening in 2015. Later status unknown."
  },
  {
+  "name": "Gong Cha",
+  "address": "429 Waverley St",
+  "start": 2015,
+  "end": 2015,
+  "category": "food",
+  "approx": true,
+  "source": "news",
+  "lat": 37.4476333,
+  "lng": -122.1610727,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/06/another-milk-tea-chain-setting-up-shop-in-palo-alto/",
+    "kind": "Article"
+   }
+  ],
+  "note": "Milk tea shop. Palo Alto Online's Peninsula Foodist reported it opening in 2015. Later status unknown."
+ },
+ {
   "name": "B+B",
   "address": "420 Ramona St",
   "start": 2015,
@@ -7799,24 +7851,6 @@
   ]
  },
  {
-  "name": "Gong Cha",
-  "address": "439 Waverley St",
-  "start": 2015,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2015.",
-  "lat": 37.4477131,
-  "lng": -122.1607332,
-  "links": [
-   {
-    "url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/06/another-milk-tea-chain-setting-up-shop-in-palo-alto/",
-    "kind": "Article"
-   }
-  ]
- },
- {
   "name": "Cielo",
   "address": "477 University Ave",
   "start": 2015,
@@ -7991,6 +8025,18 @@
   "lng": -122.1621102
  },
  {
+  "name": "Gong Cha",
+  "address": "439 Waverley St",
+  "start": 2017,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "source": "osm",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened.",
+  "lat": 37.4477131,
+  "lng": -122.1607332
+ },
+ {
   "name": "The Patio",
   "address": "412 Emerson St",
   "start": 2017,
@@ -8033,18 +8079,6 @@
   ]
  },
  {
-  "name": "Pampas",
-  "address": "529 Alma St",
-  "start": 2018,
-  "end": null,
-  "category": "food",
-  "approx": true,
-  "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; first mapped in 2018, which is roughly when it opened.",
-  "lat": 37.4429817,
-  "lng": -122.162906
- },
- {
   "name": "Onigilly",
   "address": "164 University Ave",
   "start": 2018,
@@ -8085,24 +8119,6 @@
   "note": "Open today (jewelry). Listed in OpenStreetMap; first mapped in 2018, which is roughly when it opened.",
   "lat": 37.4448873,
   "lng": -122.1617581
- },
- {
-  "name": "Joe & The Juice",
-  "address": "240 Hamilton Ave",
-  "start": 2018,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
-  "lat": 37.4443528,
-  "lng": -122.1609464,
-  "links": [
-   {
-    "url": "https://www.paloaltoonline.com/peninsula-foodist/2017/08/03/joe-the-juice-is-headed-to-palo-alto/",
-    "kind": "Article"
-   }
-  ]
  },
  {
   "name": "Salt & Straw",
@@ -8163,6 +8179,24 @@
   "note": "Open today (bank). Listed in OpenStreetMap; first mapped in 2018, which is roughly when it opened.",
   "lat": 37.4487526,
   "lng": -122.1601494
+ },
+ {
+  "name": "Joe & The Juice",
+  "address": "508 University Ave",
+  "start": 2018,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "source": "osm",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
+  "lat": 37.4484574,
+  "lng": -122.1588997,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2017/08/03/joe-the-juice-is-headed-to-palo-alto/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Mangosteen",
@@ -8292,15 +8326,15 @@
  },
  {
   "name": "Joe & The Juice",
-  "address": "508 University Ave",
+  "address": "240 Hamilton Ave",
   "start": 2019,
   "end": null,
   "category": "food",
   "approx": true,
   "source": "osm",
   "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
-  "lat": 37.4484574,
-  "lng": -122.1588997
+  "lat": 37.4443528,
+  "lng": -122.1609464
  },
  {
   "name": "Salvaje",
