@@ -1145,6 +1145,19 @@
     "https://www.hawaiimomblog.com/2021/06/international-market-place-announces.html?m=0",
     "https://www.walltowall.com/news_posts/wall-to-wall-studios-creates-branding-for-la-pina-cantina-at-the-international-market-place"
    ]
+  },
+  {
+   "name": "Big Island Burger",
+   "address": "2250 Kalakaua Ave",
+   "note": "Big Island Burger opened at the end of 2024 in Unit 102 of the Waikiki Shopping Plaza.",
+   "start": 2024,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://bigislandburger.net/location/",
+    "https://waikikishoppingplaza.com/new-year-new-eats/"
+   ]
   }
  ],
  "corrections": [
