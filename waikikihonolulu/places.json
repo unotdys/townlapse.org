@@ -2757,6 +2757,32 @@
   ]
  },
  {
+  "name": "Hokulani Waikiki by Hilton Grand Vacations",
+  "address": "2181 Kalakaua Ave",
+  "start": 2013,
+  "end": null,
+  "category": "hotel",
+  "approx": false,
+  "note": "Hilton Grand Vacations timeshare resort at Kalakaua Avenue and Lewers Street, built in place of the former OHANA Islander Waikiki Hotel. It opened in December 2013 and held its grand opening in January 2014.",
+  "lat": 21.2800637,
+  "lng": -157.8302695,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.greenlodgingnews.com/hokulani-waikiki-earns-leed-certified-status/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hilton.com/en/hotels/hnlwbgv-hokulani-waikiki-by-hilton-grand-vacations",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelindustrywire.com/article76122.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -10263,19 +10289,6 @@
   "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2790242,
   "lng": -157.8306922
- },
- {
-  "name": "Hokulani Waikiki",
-  "address": "2181 Kalākaua Ave",
-  "start": 2026,
-  "end": null,
-  "category": "hotel",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2800619,
-  "lng": -157.8303156
  },
  {
   "name": "Embassy Suites by Hilton Waikiki Beach Walk",

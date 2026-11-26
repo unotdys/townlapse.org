@@ -1547,6 +1547,20 @@
     "https://www.oyster.com/hawaii/hotels/hotel-renew/",
     "https://www.travelweekly.com/Travel-News/Hotel-News/Hotel-Renew-to-bring-boutique-chic-to-Waikiki"
    ]
+  },
+  {
+   "name": "Hokulani Waikiki by Hilton Grand Vacations",
+   "address": "2181 Kalakaua Ave",
+   "note": "Hilton Grand Vacations timeshare resort at Kalakaua Avenue and Lewers Street, built in place of the former OHANA Islander Waikiki Hotel. It opened in December 2013 and held its grand opening in January 2014.",
+   "start": 2013,
+   "end": null,
+   "category": "hotel",
+   "approx": false,
+   "links": [
+    "https://www.greenlodgingnews.com/hokulani-waikiki-earns-leed-certified-status/",
+    "https://www.hilton.com/en/hotels/hnlwbgv-hokulani-waikiki-by-hilton-grand-vacations",
+    "https://www.travelindustrywire.com/article76122.html"
+   ]
   }
  ],
  "corrections": [
