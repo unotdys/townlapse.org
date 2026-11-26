@@ -1158,6 +1158,18 @@
     "https://bigislandburger.net/location/",
     "https://waikikishoppingplaza.com/new-year-new-eats/"
    ]
+  },
+  {
+   "name": "Secret Spot",
+   "address": "2299 Kuhio Ave",
+   "note": "Secret Spot Honolulu, a caf\u00e9-bar and live-music venue in Space A of The Laylow Waikiki, held its grand opening beginning June 17, 2024.",
+   "start": 2024,
+   "end": null,
+   "category": "entertainment",
+   "approx": true,
+   "links": [
+    "https://waikikiwasted.com/bars/secret-spot.html"
+   ]
   }
  ],
  "corrections": [

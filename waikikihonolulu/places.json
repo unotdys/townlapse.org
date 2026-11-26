@@ -2033,6 +2033,24 @@
   ]
  },
  {
+  "name": "Secret Spot",
+  "address": "2299 Kuhio Ave",
+  "start": 2024,
+  "end": null,
+  "category": "entertainment",
+  "approx": true,
+  "note": "Secret Spot Honolulu, a café-bar and live-music venue in Space A of The Laylow Waikiki, held its grand opening beginning June 17, 2024.",
+  "lat": 21.2792525,
+  "lng": -157.8265059,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://waikikiwasted.com/bars/secret-spot.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -8796,19 +8814,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Secret Spot",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2793461,
-  "lng": -157.8262761
  },
  {
   "name": "Hale Nui Tattoo Co.",
