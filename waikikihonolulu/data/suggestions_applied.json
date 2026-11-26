@@ -1059,6 +1059,23 @@
     "https://www.outrigger.com/hawaii/oahu/outrigger-waikiki-beach-resort",
     "https://www.outrigger.com/hawaii/oahu/outrigger-waikiki-beach-resort/faq"
    ]
+  },
+  {
+   "name": "Waikiki Resort Hotel",
+   "address": "2460 Koa Ave",
+   "note": "Nineteen-story hotel on Koa Avenue, built around 1970 and still operating. It had a major renovation in 2008.",
+   "start": 1970,
+   "end": null,
+   "category": "hotel",
+   "approx": true,
+   "links": [
+    "https://City-data.com/articles/Waikiki-Resort-Hotel-Honolulu-Hawaii.html",
+    "https://files.hawaii.gov/dbedt/visitor/visitor-plant/vpi2005.pdf",
+    "https://www.cvent.com/venues/honolulu/hotel/waikiki-resort-hotel/venue-f0c87791-f9ac-4101-a023-e5a20769fcb6",
+    "https://www.gohawaii.com/listing/waikiki-resort-hotel/82",
+    "https://www.govinfo.gov/content/pkg/FR-1996-06-21/pdf/96-14403.pdf",
+    "https://www.travelweekly.com/Hotels/Honolulu/Waikiki-Resort-Hotel-p4337887"
+   ]
   }
  ],
  "corrections": [

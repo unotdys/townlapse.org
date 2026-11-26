@@ -1847,6 +1847,44 @@
   ]
  },
  {
+  "name": "Waikiki Resort Hotel",
+  "address": "2460 Koa Ave",
+  "start": 1970,
+  "end": null,
+  "category": "hotel",
+  "approx": true,
+  "note": "Nineteen-story hotel on Koa Avenue, built around 1970 and still operating. It had a major renovation in 2008.",
+  "lat": 21.2753073,
+  "lng": -157.8235814,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://files.hawaii.gov/dbedt/visitor/visitor-plant/vpi2005.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.govinfo.gov/content/pkg/FR-1996-06-21/pdf/96-14403.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://City-data.com/articles/Waikiki-Resort-Hotel-Honolulu-Hawaii.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.cvent.com/venues/honolulu/hotel/waikiki-resort-hotel/venue-f0c87791-f9ac-4101-a023-e5a20769fcb6",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.gohawaii.com/listing/waikiki-resort-hotel/82",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelweekly.com/Hotels/Honolulu/Waikiki-Resort-Hotel-p4337887",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -8899,19 +8937,6 @@
   "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2746615,
   "lng": -157.8241192
- },
- {
-  "name": "Waikiki Resort Hotel",
-  "address": "2460 Koa Ave",
-  "start": 2026,
-  "end": null,
-  "category": "hotel",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2753143,
-  "lng": -157.8236134
  },
  {
   "name": "Stay Hotel Waikiki",
