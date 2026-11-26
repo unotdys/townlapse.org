@@ -711,6 +711,19 @@
     "http://www.hawaiigunclub.com/",
     "https://shootingranges.co/listing/waikiki-hawaii-gun-club/"
    ]
+  },
+  {
+   "name": "Aloha Greek",
+   "address": "2375 Kuhio Ave",
+   "note": "Aloha Greek Waikiki, a self-serve frozen Greek yogurt shop, opened in March 2026 at 2375 Kuhio Ave in Waikiki.",
+   "start": 2026,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://alohastatedaily.com/2026/05/19/new-frozen-greek-yogurt-spot-in-honolulu/",
+    "https://kanreki-travel.himemode.com/en/piko-kitchen-aloha-greek/"
+   ]
   }
  ],
  "corrections": [
