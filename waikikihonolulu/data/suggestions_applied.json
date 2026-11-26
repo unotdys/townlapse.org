@@ -945,6 +945,19 @@
     "https://dining.staradvertiser.com/?p=46320",
     "https://www.kaukauhawaii.com/editornews/227043/"
    ]
+  },
+  {
+   "name": "Ramen Baikohken",
+   "address": "2250 Kal\u0101kaua Ave",
+   "note": "Waikiki branch of a Michelin-listed ramen shop from Asahikawa, Hokkaido. It opened in February 2017 in the Waikiki Yokocho food alley in the basement of Waikiki Shopping Plaza, then reopened in the same space when the STIX Asia food hall launched in 2023.",
+   "start": 2017,
+   "end": null,
+   "category": "food",
+   "approx": false,
+   "links": [
+    "https://www.honolulumagazine.com/stix-asia-food-hall-now-open-waikiki/",
+    "https://www.honolulumagazine.com/will-hawaiis-thriving-dining-scene-bring-michelin-ratings-to-our-restaurants/"
+   ]
   }
  ],
  "corrections": [
