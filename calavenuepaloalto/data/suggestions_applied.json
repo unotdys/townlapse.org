@@ -355,6 +355,19 @@
      "https://www.paloaltoonline.com/blogs/2022/05/12/palo-alto-location-of-popular-austrian-restaurant-naschmarkt-opens-may-17/"
     ]
    }
+  },
+  {
+   "target": "Cambridge Optometry",
+   "target_address": "2307 Birch St",
+   "fields": {
+    "note": "Full-service eye care practice that moved to the corner of Birch St and Cambridge Ave around 2024, after about fifteen years down the street at 250 Cambridge Ave. Still open.",
+    "start": 2024,
+    "approx": true,
+    "links": [
+     "http://www.cambridgeoptometry.com/",
+     "https://www.paloaltoonline.com/wp-content/uploads/2026/02/2026_02_06.paw_.section1.pdf"
+    ]
+   }
   }
  ]
 }
