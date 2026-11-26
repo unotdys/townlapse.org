@@ -338,6 +338,19 @@
     "https://www.paloaltoonline.com/news/2018/01/05/as-college-terrace-market-closes-community-asks-whats-next/",
     "https://www.paloaltoonline.com/news/2020/01/08/as-khourys-market-closes-building-owner-seeks-to-get-out-of-paying-140000-in-fines/"
    ]
+  },
+  {
+   "name": "Khoury's Market",
+   "address": "501 Oxford Ave",
+   "note": "Family-run full-service grocery store that soft-opened in College Terrace Centre in January 2019. It announced its closure about a year later, in January 2020.",
+   "start": 2019,
+   "end": 2020,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/news/2019/01/11/khourys-market-soft-opens-in-college-terrace/",
+    "https://www.paloaltoonline.com/news/2020/01/04/another-market-bites-the-dust-at-college-terrace-centre/"
+   ]
   }
  ],
  "corrections": [
