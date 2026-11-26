@@ -1467,6 +1467,28 @@
   ]
  },
  {
+  "name": "Udon Yama",
+  "address": "2250 Kalakaua Ave",
+  "start": 2023,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Udon Yama, a Japanese restaurant serving handmade Sanuki udon, opened in February 2023 as one of the original tenants of the STIX ASIA food hall on the lower level of the Waikiki Shopping Plaza at 2250 Kalakaua Ave.",
+  "lat": 21.2792987,
+  "lng": -157.8285137,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.hawaiimagazine.com/stix-asia-food-hall-brings-17-new-asian-restaurants-to-waikiki/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.qsrmagazine.com/news/asian-food-hall-stix-asia-opens-waikiki-hawaii/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -7602,19 +7624,6 @@
   "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2790879,
   "lng": -157.8285331
- },
- {
-  "name": "Udon Yama",
-  "address": "2250 Kalākaua Ave",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2791839,
-  "lng": -157.8286444
  },
  {
   "name": "Diesel",

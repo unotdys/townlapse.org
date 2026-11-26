@@ -859,6 +859,19 @@
     "https://waikikishoppingplaza.com/new-year-new-eats/",
     "https://www.haleiwatownshaveice.com/"
    ]
+  },
+  {
+   "name": "Udon Yama",
+   "address": "2250 Kalakaua Ave",
+   "note": "Udon Yama, a Japanese restaurant serving handmade Sanuki udon, opened in February 2023 as one of the original tenants of the STIX ASIA food hall on the lower level of the Waikiki Shopping Plaza at 2250 Kalakaua Ave.",
+   "start": 2023,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.hawaiimagazine.com/stix-asia-food-hall-brings-17-new-asian-restaurants-to-waikiki/",
+    "https://www.qsrmagazine.com/news/asian-food-hall-stix-asia-opens-waikiki-hawaii/"
+   ]
   }
  ],
  "corrections": [
