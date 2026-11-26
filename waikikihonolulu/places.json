@@ -8718,15 +8718,36 @@
  {
   "name": "The Buffet at Hyatt",
   "address": "2424 Kalākaua Ave",
-  "start": 2026,
+  "start": 2018,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Dinner buffet at the Hyatt Regency Waikiki Beach Resort and Spa that opened around February 2018 under a new executive chef. It closed for a time and returned in mid-2023.",
   "lat": 21.2758208,
-  "lng": -157.8251425
+  "lng": -157.8251425,
+  "links": [
+   {
+    "url": "https://www.hawaiimagazine.com/?p=119939",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/?p=653128",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hotelmanagement.net/food-beverage/new-restaurant-executive-chef-tap-at-honolulu-hyatt-regency",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hyatt.com/hyatt-regency/en-US/hnlrw-hyatt-regency-waikiki-beach-resort-and-spa/dining",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelweekly.com/Hawaii-Travel/Insights/From-new-chef-a-fresh-take-on-buffets-at-Hyatt-Regency-Waikiki",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Hilton Waikiki Beach",
