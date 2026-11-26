@@ -234,6 +234,19 @@
     "https://www.paloalto.gov/files/assets/public/v/1/community-services/human-services/child-care/fy25-licensed-child-care-centers.pdf",
     "https://www.paloaltoonline.com/real-estate/2006/04/28/college-terrace-2/"
    ]
+  },
+  {
+   "name": "JJ&F Market",
+   "address": "520 College Ave",
+   "note": "A family-run neighborhood grocery market in College Terrace. It was founded in 1948 and had to leave in September 2013 when its lease ended for redevelopment.",
+   "start": 1948,
+   "end": 2013,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/news/2013/08/30/its-future-uncertain-jjf-market-to-close-2/",
+    "https://www.paloaltoonline.com/uncategorized/2007/04/25/jjf-when-family-community-ties-are-stronger-than-chains/"
+   ]
   }
  ],
  "corrections": [
