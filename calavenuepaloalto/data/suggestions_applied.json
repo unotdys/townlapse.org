@@ -644,6 +644,21 @@
      "https://www.paloaltoonline.com/food/2025/09/22/the-team-behind-palo-altos-michelin-starred-protege-debuts-bar-underdog-along-california-avenue/"
     ]
    }
+  },
+  {
+   "target": "iTalico",
+   "target_address": "341 South California Ave",
+   "fields": {
+    "note": "Italian restaurant from the owners of nearby Ter\u00fan, opened in July 2016. It took over the space of the short-lived Fire, Oak & Barley.",
+    "start": 2016,
+    "approx": false,
+    "links": [
+     "https://n2v.paloaltoonline.com/blogs/p/print/2016/04/18/fire-oak--barley-shutters-in-palo-alto",
+     "https://www.identitagolose.com/sito/en/95/16038/dal-mondo/211/211/211/the-authors.html",
+     "https://www.paloaltoonline.com/ae/2016/11/03/rustic-and-refined/",
+     "https://www.paloaltoonline.com/peninsula-foodist/2016/07/25/opening-alert-italico-in-palo-alto/"
+    ]
+   }
   }
  ]
 }

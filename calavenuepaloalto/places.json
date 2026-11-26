@@ -1337,15 +1337,32 @@
  {
   "name": "iTalico",
   "address": "341 South California Ave",
-  "start": 2026,
+  "start": 2016,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Italian restaurant from the owners of nearby Terún, opened in July 2016. It took over the space of the short-lived Fire, Oak & Barley.",
   "lat": 37.4269611,
-  "lng": -122.1440867
+  "lng": -122.1440867,
+  "links": [
+   {
+    "url": "https://n2v.paloaltoonline.com/blogs/p/print/2016/04/18/fire-oak--barley-shutters-in-palo-alto",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.identitagolose.com/sito/en/95/16038/dal-mondo/211/211/211/the-authors.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/ae/2016/11/03/rustic-and-refined/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2016/07/25/opening-alert-italico-in-palo-alto/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Casual Chic Salon",
