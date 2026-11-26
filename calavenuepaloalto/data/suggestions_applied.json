@@ -260,6 +260,19 @@
     "https://cdeib.com/",
     "https://www.paloaltoonline.com/real-estate/2019/03/15/neighborhood-snapshot-the-original-college-town/"
    ]
+  },
+  {
+   "name": "Living Wisdom School",
+   "address": "456 College Ave",
+   "note": "Private elementary and middle school that teaches through hands-on projects and includes daily yoga and meditation. It has been at this address since the early 1990s and is still open.",
+   "start": 1992,
+   "end": null,
+   "category": "services",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/uncategorized/2017/05/12/summer-class-guide-4/",
+    "https://www.privateschoolreview.com/living-wisdom-school-of-palo-alto-profile"
+   ]
   }
  ],
  "corrections": [
