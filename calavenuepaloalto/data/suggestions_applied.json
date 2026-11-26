@@ -1023,6 +1023,19 @@
      "https://www.labodeguita.com/faq/"
     ]
    }
+  },
+  {
+   "target": "Ume Tea",
+   "target_address": "421 South California Ave",
+   "fields": {
+    "start": 2022,
+    "approx": true,
+    "links": [
+     "https://eatcrush.com/r/ume-tea-palo-alto/",
+     "https://stanforddaily.com/2022/01/12/your-guide-to-the-best-boba-spots-near-campus/",
+     "https://www.paloaltoonline.com/news/2021/11/05/a-failing-street-as-vacancies-plague-california-avenue-can-the-shopping-district-make-a-comeback/"
+    ]
+   }
   }
  ]
 }

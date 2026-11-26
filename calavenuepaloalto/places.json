@@ -2159,15 +2159,28 @@
  {
   "name": "Ume Tea",
   "address": "421 South California Ave",
-  "start": 2026,
+  "start": 2022,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
   "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 37.4261227,
-  "lng": -122.1447035
+  "lng": -122.1447035,
+  "links": [
+   {
+    "url": "https://eatcrush.com/r/ume-tea-palo-alto/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://stanforddaily.com/2022/01/12/your-guide-to-the-best-boba-spots-near-campus/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2021/11/05/a-failing-street-as-vacancies-plague-california-avenue-can-the-shopping-district-make-a-comeback/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "College Terrace Library",
