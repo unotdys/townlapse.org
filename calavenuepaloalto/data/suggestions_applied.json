@@ -83,6 +83,19 @@
      "https://www.paloaltoonline.com/palo-alto/2026/09/23/top-chef-alumni-introduce-new-menus-to-2-palo-alto-restaurants/"
     ]
    }
+  },
+  {
+   "target": "Vitality Bowls",
+   "target_address": "213 South California Ave",
+   "fields": {
+    "note": "Superfood cafe serving acai bowls, smoothies and juices, which opened in July 2015 in the former Cho's dim sum space.",
+    "start": 2015,
+    "approx": false,
+    "links": [
+     "https://franchise.vitalitybowls.com/category/uncategorized/",
+     "https://www.paloaltoonline.com/ae/2014/12/26/shop-talk-mings-last-day-acai-comes-to-cal-ave/"
+    ]
+   }
   }
  ]
 }

@@ -142,15 +142,24 @@
  {
   "name": "Vitality Bowls",
   "address": "213 South California Ave",
-  "start": 2026,
+  "start": 2015,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Superfood cafe serving acai bowls, smoothies and juices, which opened in July 2015 in the former Cho's dim sum space.",
   "lat": 37.4281279,
-  "lng": -122.1431237
+  "lng": -122.1431237,
+  "links": [
+   {
+    "url": "https://franchise.vitalitybowls.com/category/uncategorized/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/ae/2014/12/26/shop-talk-mings-last-day-acai-comes-to-cal-ave/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Zareen's",
