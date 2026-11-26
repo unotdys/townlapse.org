@@ -1679,6 +1679,32 @@
   ]
  },
  {
+  "name": "Ao Gelato",
+  "address": "2250 Kalakaua Ave",
+  "start": 2023,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "note": "Gelato shop run by Nana's Green Tea, making gelato with premium teas and tropical fruits. It was one of the original eateries at the February 2023 opening of the STIX ASIA food hall on the lower level of Waikiki Shopping Plaza.",
+  "lat": 21.2792987,
+  "lng": -157.8285137,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://dining.staradvertiser.com/?p=44988",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hawaiimagazine.com/stix-asia-food-hall-brings-17-new-asian-restaurants-to-waikiki/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/stix-asia-food-hall-now-open-waikiki/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -8516,19 +8542,6 @@
   "note": "Open today (deli). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2820309,
   "lng": -157.8288953
- },
- {
-  "name": "Ao Gelato",
-  "address": "2250 Kalākaua Ave",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (ice cream). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2794081,
-  "lng": -157.828376
  },
  {
   "name": "Tempura Kiki",
