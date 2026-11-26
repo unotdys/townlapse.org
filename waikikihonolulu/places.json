@@ -1907,6 +1907,32 @@
   ]
  },
  {
+  "name": "Ka Laʻi Waikiki Beach, LXR Hotels & Resorts",
+  "address": "223 Saratoga Rd",
+  "start": 2024,
+  "end": null,
+  "category": "hotel",
+  "approx": false,
+  "note": "Luxury condo-hotel on Saratoga Road that joined Hilton's LXR Hotels & Resorts on February 7, 2024. It was previously the Trump International Hotel Waikiki, and its owners bought out the Trump licensing agreement before the rebrand.",
+  "lat": 21.2794259,
+  "lng": -157.832077,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Ka_La%CA%BBi_Waikiki_Beach_Hotel",
+    "kind": "Article"
+   },
+   {
+    "url": "https://hawaiimagazine.com/?p=129195",
+    "kind": "Article"
+   },
+   {
+    "url": "https://stories.hilton.com/releases/lxr-hotels-resorts-debuts-in-hawaii-with-opening-of-ka-lai-waikiki-beach",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -9002,19 +9028,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Ka Laʻi Waikiki Beach, LXR Hotels & Resorts",
-  "address": "223 Saratoga Rd",
-  "start": 2026,
-  "end": null,
-  "category": "hotel",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.279415,
-  "lng": -157.8320774
  },
  {
   "name": "'Alohilani Resort Waikiki Beach",
