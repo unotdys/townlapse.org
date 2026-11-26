@@ -1274,6 +1274,19 @@
     "https://www.guidestar.org/profile/99-0179392",
     "https://www.waikikicommunitycenter.org/get-involved"
    ]
+  },
+  {
+   "name": "Denny's",
+   "address": "208 Kapahulu Avenue, Honolulu, HI 96815",
+   "note": "Hawaii Lodging & Tourism Association's July 2018 archive reports attending the new Denny's grand opening at the Kuhio/Kapahulu intersection; Denny's current location directory confirms 208 Kapahulu Avenue.",
+   "start": 2018,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://locations.dennys.com/hi/honolulu",
+    "https://www.hawaiilodging.org/blog/archives/07-2018"
+   ]
   }
  ],
  "corrections": [
