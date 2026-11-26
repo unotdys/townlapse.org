@@ -437,6 +437,19 @@
      "https://www.paloaltoonline.com/news/2007/05/09/shop-talk-19/"
     ]
    }
+  },
+  {
+   "target": "La Jolie Nail Spa",
+   "target_address": "364 South California Ave",
+   "fields": {
+    "note": "A nail salon that opened around 2007 in space California Paint and Wallpaper had given up next door. Local press reported it as coming soon in June 2007, and it is still open.",
+    "start": 2007,
+    "approx": true,
+    "links": [
+     "https://lajolienailspa94306.com/",
+     "https://www.paloaltoonline.com/news/2007/06/20/shop-talk-know-knew-books-tries-a-survival-tactic-2/"
+    ]
+   }
   }
  ]
 }

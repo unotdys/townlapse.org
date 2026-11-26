@@ -867,15 +867,24 @@
  {
   "name": "La Jolie Nail Spa",
   "address": "364 South California Ave",
-  "start": 2026,
+  "start": 2007,
   "end": null,
   "category": "services",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (beauty). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "A nail salon that opened around 2007 in space California Paint and Wallpaper had given up next door. Local press reported it as coming soon in June 2007, and it is still open.",
   "lat": 37.4269106,
-  "lng": -122.1445814
+  "lng": -122.1445814,
+  "links": [
+   {
+    "url": "https://lajolienailspa94306.com/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2007/06/20/shop-talk-know-knew-books-tries-a-survival-tactic-2/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Campus Barber Shop",
