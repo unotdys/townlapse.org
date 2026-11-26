@@ -6917,15 +6917,28 @@
  {
   "name": "Han no Daidokoro",
   "address": "2380 Kuhio Ave",
-  "start": 2026,
+  "start": 2024,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Japanese yakiniku restaurant serving A5 wagyu on the ground floor of the Lilia Waikiki tower. It opened on December 13, 2024 as the second Hawaii location of the Honolulu restaurant.",
   "lat": 21.2782405,
-  "lng": -157.8245952
+  "lng": -157.8245952,
+  "links": [
+   {
+    "url": "https://alohastatedaily.com/2025/01/09/this-japanese-yakiniku-spot-expands-to-waikiki/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/45-pau-hana-for-2-han-no-daidokoro/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.opentable.com/r/han-no-daidokoro-waikiki-honolulu",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Green Lady Cocktail Room",
