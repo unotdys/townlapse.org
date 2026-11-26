@@ -2641,6 +2641,36 @@
   ]
  },
  {
+  "name": "Romer House Waikiki",
+  "address": "415 Nahua St",
+  "start": 2024,
+  "end": null,
+  "category": "hotel",
+  "approx": false,
+  "note": "Adults-only hotel that opened June 1, 2024 after a $29 million renovation of a 1960 building, first built as the Royal Prince Apartment Building and later known as the Pearl Hotel. It was billed as Oahu's first adults-only hotel.",
+  "lat": 21.2793382,
+  "lng": -157.8251099,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://buildingindustryhawaii.com/2024/11/spotlight-on-success-waikikis-hidden-gem-shines-brightly/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.gohawaii.com/listing/romer-house-waik%C4%ABk%C4%AB/119327",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hospitalitynet.org/announcement/41011205.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelpulse.com/news/hotels-and-resorts/romer-house-waikiki-to-become-oahu-s-first-adults-only-hotel",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -9874,19 +9904,6 @@
   "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2768331,
   "lng": -157.8239602
- },
- {
-  "name": "Romer House Waikiki",
-  "address": "415 Nahua St",
-  "start": 2026,
-  "end": null,
-  "category": "hotel",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2793697,
-  "lng": -157.8250774
  },
  {
   "name": "Holiday Surf",
