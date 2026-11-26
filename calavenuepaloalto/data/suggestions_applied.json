@@ -659,6 +659,19 @@
      "https://www.paloaltoonline.com/peninsula-foodist/2016/07/25/opening-alert-italico-in-palo-alto/"
     ]
    }
+  },
+  {
+   "target": "Raw Smoke Shop",
+   "target_address": "265 South California Ave",
+   "fields": {
+    "note": "Tobacco shop on California Avenue next to Pilates V. Local news reported in April 2019 that its storefront was ready to open after its permit was finalized that March, and it is still open today.",
+    "start": 2019,
+    "approx": true,
+    "links": [
+     "https://www.paloaltoonline.com/ae/2018/06/07/shop-talk-cigar-house-closes-new-gym-bakery-2/",
+     "https://www.paloaltoonline.com/ae/2019/04/18/shop-talk-pizza-chicago-relocates-new-retailers-set-to-move-to-cal-ave/"
+    ]
+   }
   }
  ]
 }

@@ -1406,15 +1406,24 @@
  {
   "name": "Raw Smoke Shop",
   "address": "265 South California Ave",
-  "start": 2026,
+  "start": 2019,
   "end": null,
   "category": "retail",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (tobacco). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Tobacco shop on California Avenue next to Pilates V. Local news reported in April 2019 that its storefront was ready to open after its permit was finalized that March, and it is still open today.",
   "lat": 37.4276947,
-  "lng": -122.1435128
+  "lng": -122.1435128,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/ae/2018/06/07/shop-talk-cigar-house-closes-new-gym-bakery-2/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/ae/2019/04/18/shop-talk-pizza-chicago-relocates-new-retailers-set-to-move-to-cal-ave/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Real Produce International Market",
