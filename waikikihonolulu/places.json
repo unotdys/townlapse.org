@@ -9914,15 +9914,36 @@
  {
   "name": "The Twin Fin",
   "address": "2570 Kalākaua Ave",
-  "start": 2026,
+  "start": 2022,
   "end": null,
   "category": "hotel",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Surf-themed hotel at Kalakaua and Paoakalani avenues, across from Kuhio Beach, run by Highgate. It opened on November 1, 2022, after a renovation of the former Aston Waikiki Beach Hotel, and is still open.",
   "lat": 21.2723326,
-  "lng": -157.8224677
+  "lng": -157.8224677,
+  "links": [
+   {
+    "url": "https://new.www.vaxvacationaccess.com/hotelinformation/hotelinformation.aspx?AnchorStore=TIV&HotelId=HNLAWBH&RemoteSourceCode=LtmsHotel&SubsiteCode=TIV&VendorCode=TIV&destinationcode=HNL&gsPrefHotelCode=HNLAWBH&gsVendor=TIV",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hawaiimagazine.com/twin-fin-hotel-waikiki/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.prnewswire.com/news-releases/waikiki-ushers-in-a-new-wave-of-hospitality-with-the-twin-fins-grand-opening-301663980.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelweekly.com/Hawaii-Travel/Waikiki-Twin-Fin-hotel-prime-location",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelweekly.com/Hotels/Honolulu/The-Twin-Fin-p58483517",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Queen Kapiolani Hotel",
