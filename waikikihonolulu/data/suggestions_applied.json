@@ -2866,6 +2866,22 @@
      "https://www.honolulumagazine.com/hala-tree-cafe-waikiki/"
     ]
    }
+  },
+  {
+   "target": "Sam's Kitchen",
+   "target_address": "2425 K\u016bhi\u014d Ave",
+   "fields": {
+    "note": "Casual plate-lunch restaurant known for garlic shrimp, which moved from Royal Hawaiian Avenue to the poolside terrace of the Bamboo Waikiki hotel sometime between late 2023 and 2025. It is still open there.",
+    "start": 2025,
+    "approx": true,
+    "links": [
+     "https://startpage.mapquest.com/us/hawaii/sams-kitchen-639659662",
+     "https://wanderlog.com/place/details/24512/sams-kitchen",
+     "https://workitberk.blogspot.com/2023/11/eat-in-honolulu-sams-kitchen.html",
+     "https://www.tripadvisor.ie/Restaurant_Review-g60982-d1955501-Reviews-Sam_s_Kitchen-Honolulu_Oahu_Hawaii.html",
+     "https://www.yelp.com/biz/sams-kitchen-honolulu"
+    ]
+   }
   }
  ]
 }

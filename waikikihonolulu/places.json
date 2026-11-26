@@ -7060,15 +7060,36 @@
  {
   "name": "Sam's Kitchen",
   "address": "2425 Kūhiō Ave",
-  "start": 2026,
+  "start": 2025,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Casual plate-lunch restaurant known for garlic shrimp, which moved from Royal Hawaiian Avenue to the poolside terrace of the Bamboo Waikiki hotel sometime between late 2023 and 2025. It is still open there.",
   "lat": 21.2767816,
-  "lng": -157.8241154
+  "lng": -157.8241154,
+  "links": [
+   {
+    "url": "https://wanderlog.com/place/details/24512/sams-kitchen",
+    "kind": "Article"
+   },
+   {
+    "url": "https://workitberk.blogspot.com/2023/11/eat-in-honolulu-sams-kitchen.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://startpage.mapquest.com/us/hawaii/sams-kitchen-639659662",
+    "kind": "Listing"
+   },
+   {
+    "url": "https://www.tripadvisor.ie/Restaurant_Review-g60982-d1955501-Reviews-Sam_s_Kitchen-Honolulu_Oahu_Hawaii.html",
+    "kind": "Listing"
+   },
+   {
+    "url": "https://www.yelp.com/biz/sams-kitchen-honolulu",
+    "kind": "Listing"
+   }
+  ]
  },
  {
   "name": "Ride and Grind",
