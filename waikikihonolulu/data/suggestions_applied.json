@@ -1636,6 +1636,21 @@
     "https://company-histories.com/Outrigger-Enterprises-Inc-Company-History.html",
     "https://www.trip.com/hotels/honolulu-hotel-detail-2197468/outrigger-reef-waikiki-beach-resort/"
    ]
+  },
+  {
+   "name": "White Sands Hotel",
+   "address": "431 Nohonani St",
+   "note": "Low-rise hotel on Nohonani Street built in 1957, with its rooms set around a courtyard pool. It reopened in 2021 after a retro-style renovation and is still operating.",
+   "start": 1957,
+   "end": null,
+   "category": "hotel",
+   "approx": false,
+   "links": [
+    "https://guide.michelin.com/en/hotels-stays/honolulu/white-sands-hotel-12518",
+    "https://www.hawaiimagazine.com/these-vintage-inspired-hotels-will-transport-you-to-waikikis-golden-age/",
+    "https://www.hospitalitynet.org/announcement/41006317/white-sands-hotel.html",
+    "https://www.travelweekly.com/Hawaii-Travel/Insights/White-Sands-Hotel-reopening-with-60s-vibe-Waikiki-Hawaii"
+   ]
   }
  ],
  "corrections": [
