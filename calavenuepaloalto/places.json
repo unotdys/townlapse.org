@@ -998,6 +998,28 @@
   ]
  },
  {
+  "name": "Pizz'a Chicago",
+  "address": "2305 El Camino Real",
+  "start": 2019,
+  "end": 2022,
+  "category": "food",
+  "approx": true,
+  "note": "Pizz'a Chicago was a deep-dish pizza restaurant that moved here in 2019 from its longtime site farther south on El Camino Real, taking over the former Pieology space. Struggling after COVID, it planned in late 2022 to move to a smaller, mostly takeout space on El Camino Real.",
+  "lat": 37.4257198,
+  "lng": -122.1464687,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/news/2019/04/25/shop-talk-pizza-chicago-relocates-new-retailers-set-to-move-to-cal-ave-2/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2022/12/05/palo-altos-pizza-chicago-not-ready-to-quit-and-seeks-funds-to-support-downsizing/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Rara",
   "address": "201 South California Ave",
   "start": 2023,
