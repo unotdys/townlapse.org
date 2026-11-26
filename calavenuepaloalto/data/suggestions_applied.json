@@ -631,6 +631,19 @@
      "https://www.paloaltoonline.com/palo-alto/2024/09/17/palo-alto-residents-open-california-cafe-at-former-site-of-printers-cafe/"
     ]
    }
+  },
+  {
+   "target": "Bar Underdog",
+   "target_address": "299, #110 South California Ave",
+   "fields": {
+    "note": "Cocktail and wine bar from the team behind the Michelin-starred Prot\u00e9g\u00e9, in the former Calave wine bar space. It held its grand opening on September 18, 2025.",
+    "start": 2025,
+    "approx": false,
+    "links": [
+     "https://www.foodgal.com/2025/09/underdog-takes-flight-in-palo-alto/",
+     "https://www.paloaltoonline.com/food/2025/09/22/the-team-behind-palo-altos-michelin-starred-protege-debuts-bar-underdog-along-california-avenue/"
+    ]
+   }
   }
  ]
 }

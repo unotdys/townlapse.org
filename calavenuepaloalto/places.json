@@ -1315,15 +1315,24 @@
  {
   "name": "Bar Underdog",
   "address": "299, #110 South California Ave",
-  "start": 2026,
+  "start": 2025,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (bar). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Cocktail and wine bar from the team behind the Michelin-starred Protégé, in the former Calave wine bar space. It held its grand opening on September 18, 2025.",
   "lat": 37.4273997,
-  "lng": -122.1437192
+  "lng": -122.1437192,
+  "links": [
+   {
+    "url": "https://www.foodgal.com/2025/09/underdog-takes-flight-in-palo-alto/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/food/2025/09/22/the-team-behind-palo-altos-michelin-starred-protege-debuts-bar-underdog-along-california-avenue/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "iTalico",
