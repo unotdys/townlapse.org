@@ -3599,6 +3599,19 @@
      "https://www.opentable.com/r/olili-honolulu"
     ]
    }
+  },
+  {
+   "target": "Piko Kitchen + Bar",
+   "target_address": "2380 Kuhio Ave",
+   "fields": {
+    "start": 2023,
+    "approx": true,
+    "links": [
+     "https://alohastatedaily.com/2025/02/20/piko-kitchen-bars-5-burger-during-pau-hana/",
+     "https://hawaiimagazine.com/meet-the-new-residents-to-waikikis-restaurant-scene/",
+     "https://pikowaikikihawaii.com"
+    ]
+   }
   }
  ]
 }

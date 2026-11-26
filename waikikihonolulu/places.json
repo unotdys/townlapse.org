@@ -8774,15 +8774,28 @@
  {
   "name": "Piko Kitchen + Bar",
   "address": "2380 Kuhio Ave",
-  "start": 2026,
+  "start": 2023,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
   "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2782954,
-  "lng": -157.8246253
+  "lng": -157.8246253,
+  "links": [
+   {
+    "url": "https://alohastatedaily.com/2025/02/20/piko-kitchen-bars-5-burger-during-pau-hana/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://hawaiimagazine.com/meet-the-new-residents-to-waikikis-restaurant-scene/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://pikowaikikihawaii.com",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Secret Spot",
