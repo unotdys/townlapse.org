@@ -1214,6 +1214,21 @@
      "https://www.jerusalemchurch.org/about"
     ]
    }
+  },
+  {
+   "target": "Mollie Stone's",
+   "target_address": "164 South California Ave",
+   "fields": {
+    "note": "Supermarket that has been on California Avenue since about 1990, when the chain came to Palo Alto. In 2023 a housing development that would include a new Mollie Stone's was proposed for the site.",
+    "start": 1990,
+    "approx": true,
+    "links": [
+     "https://core-secure-graphics.grocerywebsite.com/Customizations/parent_sites/3/retailers/2579/images/pdfs/Announces_Installation_EV_Charging_Stations_PaloAlto.pdf",
+     "https://www.paloalto.gov/News-Articles/City-Manager/Two-156-California-Avenue-Housing-Development-Options-Now-Available-For-Council-Review",
+     "https://www.paloaltoonline.com/news/2023/11/21/high-rise-development-proposed-for-mollie-stones-site-in-palo-alto/",
+     "https://www.paloaltoonline.com/news/2023/11/30/great-urban-design-or-affront-to-democracy-high-rise-project-ignites-debate-over-city-growth/"
+    ]
+   }
   }
  ]
 }
