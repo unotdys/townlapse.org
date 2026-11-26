@@ -256,6 +256,28 @@
   ]
  },
  {
+  "name": "Caffe Machiavello",
+  "address": "195 Page Mill Road",
+  "start": 2018,
+  "end": 2020,
+  "category": "food",
+  "approx": true,
+  "note": "Family-run restaurant on the ground floor of the Park Plaza Apartments, serving Roman-style pinsa, Peruvian dishes and other international food. It opened in August 2018 and was still operating in 2020.",
+  "lat": 37.4264022,
+  "lng": -122.1389959,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/ae/2018/09/27/a-health-scare-then-a-new-restaurant/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.prweb.com/releases/Minority_owned_Family_Business_Feeds_People_in_Need_During_the_COVID_19_Outbreak/prweb17306781.htm",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Rara",
   "address": "201 South California Ave",
   "start": 2023,

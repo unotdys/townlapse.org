@@ -138,6 +138,19 @@
     "https://www.paloaltoonline.com/news/2014/07/10/members-of-page-mill-ymca-protest-closure/",
     "https://www.paloaltoonline.com/news/2014/07/11/members-of-page-mill-y-protest-its-closure/"
    ]
+  },
+  {
+   "name": "Caffe Machiavello",
+   "address": "195 Page Mill Road",
+   "note": "Family-run restaurant on the ground floor of the Park Plaza Apartments, serving Roman-style pinsa, Peruvian dishes and other international food. It opened in August 2018 and was still operating in 2020.",
+   "start": 2018,
+   "end": 2020,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/ae/2018/09/27/a-health-scare-then-a-new-restaurant/",
+    "https://www.prweb.com/releases/Minority_owned_Family_Business_Feeds_People_in_Need_During_the_COVID_19_Outbreak/prweb17306781.htm"
+   ]
   }
  ],
  "corrections": [
