@@ -1985,6 +1985,32 @@
   ]
  },
  {
+  "name": "La Piña Cantina",
+  "address": "2330 Kalakaua Ave",
+  "start": 2021,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Mexican cantina serving margaritas, tequila and Mexican dishes in the Kūhiō Ave Food Hall on Level 1 of International Market Place. It was one of the hall's first two vendors when the hall opened in spring 2021.",
+  "lat": 21.2783385,
+  "lng": -157.8260782,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://kuhioavenuefoodhall.com/location/la-pina/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hawaiimomblog.com/2021/06/international-market-place-announces.html?m=0",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.walltowall.com/news_posts/wall-to-wall-studios-creates-branding-for-la-pina-cantina-at-the-international-market-place",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -8436,19 +8462,6 @@
   "note": "Open today (ice cream). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2799597,
   "lng": -157.8270957
- },
- {
-  "name": "La Piña Cantina",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (bar). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2789755,
-  "lng": -157.8258824
  },
  {
   "name": "Lahaina Shave Ice",
