@@ -6834,15 +6834,32 @@
  {
   "name": "The Capital Grille",
   "address": "2380 Kuhio Ave",
-  "start": 2026,
+  "start": 2025,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Steakhouse on the ground floor of the Lilia Waikiki tower, opened on September 10, 2025 as the chain's first Hawaii location. It is still open.",
   "lat": 21.2781036,
-  "lng": -157.8244744
+  "lng": -157.8244744,
+  "links": [
+   {
+    "url": "https://alohastatedaily.com/2025/09/09/the-capital-grille-is-opening-in-waikiki",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.einpresswire.com/article/845785625/the-capital-grille-opens-at-lilia-waikiki-bringing-elevated-dining-to-honolulu",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hawaiinewsnow.com/2026/10/12/capital-grille-waikiki-celebrates-first-anniversary-with-special-early-bird-menu/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulucoupon.com/post/%f0%9f%8c%ba-new-cafe-restaurant-openings-in-hawaii-september-2025/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Han no Daidokoro",

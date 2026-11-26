@@ -2683,6 +2683,21 @@
      "https://www.honolulumagazine.com/listings/2020-hawaii-restaurant-guide/kani-ka-pila-grille/"
     ]
    }
+  },
+  {
+   "target": "The Capital Grille",
+   "target_address": "2380 Kuhio Ave",
+   "fields": {
+    "note": "Steakhouse on the ground floor of the Lilia Waikiki tower, opened on September 10, 2025 as the chain's first Hawaii location. It is still open.",
+    "start": 2025,
+    "approx": false,
+    "links": [
+     "https://alohastatedaily.com/2025/09/09/the-capital-grille-is-opening-in-waikiki",
+     "https://www.einpresswire.com/article/845785625/the-capital-grille-opens-at-lilia-waikiki-bringing-elevated-dining-to-honolulu",
+     "https://www.hawaiinewsnow.com/2026/10/12/capital-grille-waikiki-celebrates-first-anniversary-with-special-early-bird-menu/",
+     "https://www.honolulucoupon.com/post/%f0%9f%8c%ba-new-cafe-restaurant-openings-in-hawaii-september-2025/"
+    ]
+   }
   }
  ]
 }
