@@ -1553,6 +1553,36 @@
   ]
  },
  {
+  "name": "Joya",
+  "address": "339 University Ave",
+  "lat": 37.4465055,
+  "lng": -122.1612594,
+  "start": 2008,
+  "end": 2023,
+  "approx": true,
+  "source": "osm-history",
+  "note": "Latin-inspired tapas restaurant and lounge that opened in August 2008. It closed after about 15 years, and Khazana later took over the space.",
+  "category": "food",
+  "links": [
+   {
+    "url": "https://www.mv-voice.com/?p=313943",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.opentable.com/rest_profile.aspx?rid=98287",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/uncategorized/2008/11/21/a-new-jewel-on-university/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.sfgate.com/travel/streetdate/article/University-Avenue-Palo-Alto-2303818.php",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "St. Thomas Aquinas Church",
   "address": "751 Waverley St",
   "start": 1902,
@@ -5395,9 +5425,9 @@
   "name": "The Redwood by Chef Julien",
   "address": "450 Bryant St",
   "start": 2022,
-  "end": 2022,
+  "end": 2026,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "news",
   "lat": 37.4461771,
   "lng": -122.1624215,
@@ -5407,7 +5437,7 @@
     "kind": "Article"
    }
   ],
-  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022. Later status unknown."
+  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022."
  },
  {
   "name": "Lima Ruby",
@@ -5828,14 +5858,14 @@
  },
  {
   "name": "La Comida",
-  "address": "429 Bryant St",
+  "address": "450 Bryant St",
   "start": 2026,
   "end": 2026,
   "category": "food",
   "approx": false,
   "source": "news",
-  "lat": 37.4465596,
-  "lng": -122.162491,
+  "lat": 37.4461771,
+  "lng": -122.1624215,
   "links": [
    {
     "url": "https://www.paloaltoonline.com/palo-alto/2026/08/26/avenidas-and-la-comida-to-host-foodie-fundraiser-to-support-older-adults/",
@@ -8287,6 +8317,24 @@
   "lng": -122.1617581
  },
  {
+  "name": "Joe & The Juice",
+  "address": "240 Hamilton Ave",
+  "start": 2018,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "source": "osm",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
+  "lat": 37.4443528,
+  "lng": -122.1609464,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2017/08/03/joe-the-juice-is-headed-to-palo-alto/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Salt & Straw",
   "address": "250 University Ave",
   "start": 2018,
@@ -8345,24 +8393,6 @@
   "note": "Open today (bank). Listed in OpenStreetMap; first mapped in 2018, which is roughly when it opened.",
   "lat": 37.4487526,
   "lng": -122.1601494
- },
- {
-  "name": "Joe & The Juice",
-  "address": "508 University Ave",
-  "start": 2018,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
-  "lat": 37.4484574,
-  "lng": -122.1588997,
-  "links": [
-   {
-    "url": "https://www.paloaltoonline.com/peninsula-foodist/2017/08/03/joe-the-juice-is-headed-to-palo-alto/",
-    "kind": "Article"
-   }
-  ]
  },
  {
   "name": "Mangosteen",
@@ -8492,15 +8522,15 @@
  },
  {
   "name": "Joe & The Juice",
-  "address": "240 Hamilton Ave",
+  "address": "508 University Ave",
   "start": 2019,
   "end": null,
   "category": "food",
   "approx": true,
   "source": "osm",
   "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
-  "lat": 37.4443528,
-  "lng": -122.1609464
+  "lat": 37.4484574,
+  "lng": -122.1588997
  },
  {
   "name": "Salvaje",
@@ -11438,18 +11468,6 @@
   "source": "osm-history",
   "note": "Yes. On OpenStreetMap 2023\u20132023; actual years open may differ.",
   "category": "retail"
- },
- {
-  "name": "Joya",
-  "address": "339 University Ave",
-  "lat": 37.4465055,
-  "lng": -122.1612594,
-  "start": 2023,
-  "end": 2023,
-  "approx": true,
-  "source": "osm-history",
-  "note": "Restaurant. On OpenStreetMap 2023\u20132023; actual years open may differ.",
-  "category": "food"
  },
  {
   "name": "Qualia Contemporary Art",

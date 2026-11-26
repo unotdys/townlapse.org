@@ -2539,6 +2539,22 @@
      "https://www.sfgate.com/restaurants/article/What-s-New-Pampas-opens-in-Palo-Alto-3286075.php"
     ]
    }
+  },
+  {
+   "target": "Joya",
+   "target_address": "339 University Ave",
+   "fields": {
+    "note": "Latin-inspired tapas restaurant and lounge that opened in August 2008. It closed after about 15 years, and Khazana later took over the space.",
+    "start": 2008,
+    "end": 2023,
+    "approx": true,
+    "links": [
+     "https://www.mv-voice.com/?p=313943",
+     "https://www.opentable.com/rest_profile.aspx?rid=98287",
+     "https://www.paloaltoonline.com/uncategorized/2008/11/21/a-new-jewel-on-university/",
+     "https://www.sfgate.com/travel/streetdate/article/University-Avenue-Palo-Alto-2303818.php"
+    ]
+   }
   }
  ]
 }
