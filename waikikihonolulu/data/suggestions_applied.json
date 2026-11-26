@@ -3584,6 +3584,21 @@
      "https://hawaii.com/blog/new-restaurants-oahu-2025"
     ]
    }
+  },
+  {
+   "target": "'Olili",
+   "target_address": "2380 Kuhio Ave",
+   "fields": {
+    "note": "Restaurant serving contemporary island cuisine inside Waikiki Market, on the second floor of the Lilia Waikiki tower. It opened in 2023, closed with the market in spring 2026 for renovation, and reopened on August 25, 2026.",
+    "start": 2023,
+    "approx": false,
+    "links": [
+     "https://alohastatedaily.com/2026/08/24/waikiki-market-and-olili-are-re-opening-this-week/",
+     "https://oliliwaikikihawaii.com",
+     "https://www.hawaiimomblog.com/2023/09/restaurant-olili-inside-waikiki-market.html",
+     "https://www.opentable.com/r/olili-honolulu"
+    ]
+   }
   }
  ]
 }
