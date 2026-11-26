@@ -569,6 +569,22 @@
     "https://www.paloaltoonline.com/news/2019/04/25/shop-talk-pizza-chicago-relocates-new-retailers-set-to-move-to-cal-ave-2/",
     "https://www.paloaltoonline.com/peninsula-foodist/2022/12/05/palo-altos-pizza-chicago-not-ready-to-quit-and-seeks-funds-to-support-downsizing/"
    ]
+  },
+  {
+   "name": "Olive Garden",
+   "address": "2515 El Camino Real",
+   "note": "Italian chain restaurant that had been on El Camino Real for at least ten years by 2014. It closed on May 21, 2016, and the site was later redeveloped as a mixed-use building.",
+   "start": 2004,
+   "end": 2016,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "http://paloalto.gov/files/assets/public/agendas-minutes-reports/reports/city-manager-reports-cmrs/year-archive/2018/id-9255-2515-ecr-vesting-tentative-map.pdf?t=69845.13",
+    "https://n2v.paloaltoonline.com/blogs/p/2016/05/30/olive-garden-shutters-in-palo-alto",
+    "https://olive-garden.pissedconsumer.com/48/RT-P.html",
+    "https://www.paloaltoonline.com/uncategorized/2011/03/18/bland-food-and-lots-of-it/",
+    "https://www.paloaltoonline.com/uncategorized/2014/11/14/shop-talk-162/"
+   ]
   }
  ],
  "corrections": [
