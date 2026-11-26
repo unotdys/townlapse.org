@@ -1885,6 +1885,28 @@
   ]
  },
  {
+  "name": "Stay Hotel Waikiki",
+  "address": "2424 Koa Ave",
+  "start": 2011,
+  "end": null,
+  "category": "hotel",
+  "approx": false,
+  "note": "Hotel on Koa Avenue in a building that was long a dormitory for University of Hawaiʻi students. It opened as a budget hotel in 2011.",
+  "lat": 21.2763325,
+  "lng": -157.824453,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.revealedtravelguides.com/resort-reviews/stay-hotel-waikiki/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.stayhotelwaikiki.com/contact-and-location",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -8937,19 +8959,6 @@
   "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2746615,
   "lng": -157.8241192
- },
- {
-  "name": "Stay Hotel Waikiki",
-  "address": "2424 Koa Ave",
-  "start": 2026,
-  "end": null,
-  "category": "hotel",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2763325,
-  "lng": -157.824453
  },
  {
   "name": "ABC",

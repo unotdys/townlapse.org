@@ -1076,6 +1076,19 @@
     "https://www.govinfo.gov/content/pkg/FR-1996-06-21/pdf/96-14403.pdf",
     "https://www.travelweekly.com/Hotels/Honolulu/Waikiki-Resort-Hotel-p4337887"
    ]
+  },
+  {
+   "name": "Stay Hotel Waikiki",
+   "address": "2424 Koa Ave",
+   "note": "Hotel on Koa Avenue in a building that was long a dormitory for University of Hawai\u02bbi students. It opened as a budget hotel in 2011.",
+   "start": 2011,
+   "end": null,
+   "category": "hotel",
+   "approx": false,
+   "links": [
+    "https://www.revealedtravelguides.com/resort-reviews/stay-hotel-waikiki/",
+    "https://www.stayhotelwaikiki.com/contact-and-location"
+   ]
   }
  ],
  "corrections": [
