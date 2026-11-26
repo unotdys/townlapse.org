@@ -1011,6 +1011,18 @@
      "https://www.city-data.com/banks/banks-Palo-Alto-California.html"
     ]
    }
+  },
+  {
+   "target": "La Bodeguita Del Medio",
+   "target_address": "463 South California Ave",
+   "fields": {
+    "start": 1997,
+    "approx": true,
+    "links": [
+     "https://punchmagazine.com/havana-haven/",
+     "https://www.labodeguita.com/faq/"
+    ]
+   }
   }
  ]
 }

@@ -2137,15 +2137,24 @@
  {
   "name": "La Bodeguita Del Medio",
   "address": "463 South California Ave",
-  "start": 2026,
+  "start": 1997,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
   "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 37.42544,
-  "lng": -122.1451989
+  "lng": -122.1451989,
+  "links": [
+   {
+    "url": "https://punchmagazine.com/havana-haven/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.labodeguita.com/faq/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Ume Tea",
