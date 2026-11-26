@@ -373,15 +373,24 @@
  {
   "name": "Mediterranean Wraps",
   "address": "433 South California Ave",
-  "start": 2026,
+  "start": 2007,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Counter-service Mediterranean restaurant that moved here from a tiny space two doors away at 425 California Ave. The move was planned in 2006 and reported done by late 2007; it is still open.",
   "lat": 37.4259857,
-  "lng": -122.1448832
+  "lng": -122.1448832,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/news/2006/03/08/shop-talk-sophias-returns-with-a-big-plus/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2007/11/14/shop-talk-34/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Vin Vino Wine",

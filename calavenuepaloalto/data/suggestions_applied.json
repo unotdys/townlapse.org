@@ -208,6 +208,19 @@
      "https://www.paloaltoonline.com/uncategorized/2011/12/16/shop-talk-100/"
     ]
    }
+  },
+  {
+   "target": "Mediterranean Wraps",
+   "target_address": "433 South California Ave",
+   "fields": {
+    "note": "Counter-service Mediterranean restaurant that moved here from a tiny space two doors away at 425 California Ave. The move was planned in 2006 and reported done by late 2007; it is still open.",
+    "start": 2007,
+    "approx": true,
+    "links": [
+     "https://www.paloaltoonline.com/news/2006/03/08/shop-talk-sophias-returns-with-a-big-plus/",
+     "https://www.paloaltoonline.com/news/2007/11/14/shop-talk-34/"
+    ]
+   }
   }
  ]
 }
