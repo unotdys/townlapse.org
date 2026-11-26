@@ -863,6 +863,20 @@
      "https://www.trybayarea.com/post/jar-cakes-at-gk-pastry-in-mountain-view"
     ]
    }
+  },
+  {
+   "target": "Electric Bike Center",
+   "target_address": "2123 El Camino Real",
+   "fields": {
+    "note": "An electric bike shop that sells and repairs e-bikes. Its listings show promotions at this address from 2023 onward, and it is still open.",
+    "start": 2023,
+    "approx": true,
+    "links": [
+     "https://business.google.com/v/electric-bike-center-palo-alto/013198692389868354243/f8d0/_",
+     "https://ebikelocal.com/shops/california/palo-alto-ca/electric-bike-center-palo-alto-palo-alto-ca/",
+     "https://www.levyelectric.com/shop/palo-alto/electric-bike-center-palo-alto"
+    ]
+   }
   }
  ]
 }

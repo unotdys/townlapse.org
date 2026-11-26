@@ -1806,15 +1806,28 @@
  {
   "name": "Electric Bike Center",
   "address": "2123 El Camino Real",
-  "start": 2026,
+  "start": 2023,
   "end": null,
   "category": "retail",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (bicycle). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "An electric bike shop that sells and repairs e-bikes. Its listings show promotions at this address from 2023 onward, and it is still open.",
   "lat": 37.4269402,
-  "lng": -122.1479954
+  "lng": -122.1479954,
+  "links": [
+   {
+    "url": "https://business.google.com/v/electric-bike-center-palo-alto/013198692389868354243/f8d0/_",
+    "kind": "Article"
+   },
+   {
+    "url": "https://ebikelocal.com/shops/california/palo-alto-ca/electric-bike-center-palo-alto-palo-alto-ca/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.levyelectric.com/shop/palo-alto/electric-bike-center-palo-alto",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Valero",
