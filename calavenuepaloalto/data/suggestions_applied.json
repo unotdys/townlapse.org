@@ -273,6 +273,19 @@
     "https://www.paloaltoonline.com/uncategorized/2017/05/12/summer-class-guide-4/",
     "https://www.privateschoolreview.com/living-wisdom-school-of-palo-alto-profile"
    ]
+  },
+  {
+   "name": "Avenue Baptist Church",
+   "address": "398 Sheridan Ave",
+   "note": "A Baptist congregation dedicated in 2014 that moved its worship service to the Palo Alto/Stanford area in October 2015. It holds Sunday services in the Jerusalem Baptist Church building.",
+   "start": 2015,
+   "end": null,
+   "category": "worship",
+   "approx": true,
+   "links": [
+    "http://www.avebaptistchurch.org/Contact-Us.html",
+    "https://avebaptistchurch.org/about"
+   ]
   }
  ],
  "corrections": [

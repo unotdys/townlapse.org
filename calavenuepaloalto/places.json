@@ -496,6 +496,28 @@
   ]
  },
  {
+  "name": "Avenue Baptist Church",
+  "address": "398 Sheridan Ave",
+  "start": 2015,
+  "end": null,
+  "category": "worship",
+  "approx": true,
+  "note": "A Baptist congregation dedicated in 2014 that moved its worship service to the Palo Alto/Stanford area in October 2015. It holds Sunday services in the Jerusalem Baptist Church building.",
+  "lat": 37.4254152,
+  "lng": -122.1419948,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "http://www.avebaptistchurch.org/Contact-Us.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://avebaptistchurch.org/about",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Rara",
   "address": "201 South California Ave",
   "start": 2023,
@@ -2900,24 +2922,6 @@
    },
    {
     "url": "https://www.thegoodsalad.com/the-good-salad-story",
-    "kind": "Article"
-   }
-  ]
- },
- {
-  "name": "Jerusalem Baptist Church",
-  "address": "398 Sheridan Ave",
-  "start": 1950,
-  "end": null,
-  "category": "worship",
-  "approx": false,
-  "source": "osm",
-  "note": "Organized in 1945, the congregation bought this corner of Sheridan Avenue and Ash Street in 1947 and moved into its church here in 1950. It is still an active place of worship.",
-  "lat": 37.4254124,
-  "lng": -122.1421129,
-  "links": [
-   {
-    "url": "https://www.jerusalemchurch.org/about",
     "kind": "Article"
    }
   ]
