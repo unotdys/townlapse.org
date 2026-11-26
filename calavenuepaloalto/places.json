@@ -351,15 +351,24 @@
  {
   "name": "Joanie's Cafe",
   "address": "405 South California Ave",
-  "start": 2026,
+  "start": 2011,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Breakfast and lunch cafe that moved here in 2011 from 447 California Ave, a few doors away, where Pastis Bistro then opened. It is still open today.",
   "lat": 37.4263873,
-  "lng": -122.1445693
+  "lng": -122.1445693,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2015/07/28/palo-alto-pastis-owner-to-open-second-french-restaurant/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/uncategorized/2011/12/16/shop-talk-100/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Mediterranean Wraps",

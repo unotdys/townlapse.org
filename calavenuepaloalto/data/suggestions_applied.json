@@ -195,6 +195,19 @@
      "https://www.paloaltoonline.com/ae/2022/10/13/how-a-palo-alto-couple-is-seeking-to-foster-community-through-their-new-game-store/"
     ]
    }
+  },
+  {
+   "target": "Joanie's Cafe",
+   "target_address": "405 South California Ave",
+   "fields": {
+    "note": "Breakfast and lunch cafe that moved here in 2011 from 447 California Ave, a few doors away, where Pastis Bistro then opened. It is still open today.",
+    "start": 2011,
+    "approx": false,
+    "links": [
+     "https://www.paloaltoonline.com/blogs/2015/07/28/palo-alto-pastis-owner-to-open-second-french-restaurant/",
+     "https://www.paloaltoonline.com/uncategorized/2011/12/16/shop-talk-100/"
+    ]
+   }
   }
  ]
 }
