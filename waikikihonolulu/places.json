@@ -9141,15 +9141,28 @@
  {
   "name": "Halekulani Hotel",
   "address": "2199 Kalia Rd",
-  "start": 2026,
+  "start": 1984,
   "end": null,
   "category": "hotel",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Juliet and Clifford Kimball bought a hotel on this site and named it the Halekulani in 1917. Mitsui Fudosan bought it in 1981 and rebuilt it, keeping the historic Main Building, and the current hotel had its grand opening in 1984.",
   "lat": 21.2779707,
-  "lng": -157.8319436
+  "lng": -157.8319436,
+  "links": [
+   {
+    "url": "https://www.halekulani.com/wp-content/uploads/2025/03/Fact-Sheet_Halekulani-.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Halekulani_(hotel",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.mitsuifudosan.co.jp/english/corporate/news/2018/1023/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Hyatt Place Waikiki Beach",

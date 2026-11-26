@@ -3624,6 +3624,20 @@
      "https://pikowaikikihawaii.com"
     ]
    }
+  },
+  {
+   "target": "Halekulani Hotel",
+   "target_address": "2199 Kalia Rd",
+   "fields": {
+    "note": "Juliet and Clifford Kimball bought a hotel on this site and named it the Halekulani in 1917. Mitsui Fudosan bought it in 1981 and rebuilt it, keeping the historic Main Building, and the current hotel had its grand opening in 1984.",
+    "start": 1984,
+    "approx": false,
+    "links": [
+     "https://en.wikipedia.org/wiki/Halekulani_(hotel)",
+     "https://www.halekulani.com/wp-content/uploads/2025/03/Fact-Sheet_Halekulani-.pdf",
+     "https://www.mitsuifudosan.co.jp/english/corporate/news/2018/1023/"
+    ]
+   }
   }
  ]
 }
