@@ -1955,6 +1955,36 @@
   ]
  },
  {
+  "name": "Halepuna Waikiki by Halekulani",
+  "address": "2233 Helumoa Rd",
+  "start": 2019,
+  "end": null,
+  "category": "hotel",
+  "approx": false,
+  "note": "Sister hotel of the Halekulani, across the street from it, created by a year-long renovation of the former Waikiki Parc Hotel. It welcomed its first guests on October 25, 2019, closed during the 2020 pandemic and reopened on April 1, 2021.",
+  "lat": 21.2781791,
+  "lng": -157.8307938,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://hawaiimagazine.com/?p=45024",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.halekulani.com/halepuna-waikiki-by-halekulani-opens/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.halepuna.com/halepuna-waikiki-by-halekulani-to-reopen-april-1-2021/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelweekly.com/Hawaii-Travel/Halepuna-Waikiki-welcomes-first-guests?ct=hawaii",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -9015,19 +9045,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Halepuna Waikiki by Halekulani",
-  "address": "2233 Helumoa Rd",
-  "start": 2026,
-  "end": null,
-  "category": "hotel",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2781645,
-  "lng": -157.8307938
  },
  {
   "name": "Halekulani Hotel",
