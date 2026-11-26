@@ -7277,15 +7277,36 @@
  {
   "name": "Asana Spa",
   "address": "2500 Kuhio Ave",
-  "start": 2026,
+  "start": 2024,
   "end": null,
   "category": "services",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (massage). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Day spa offering massage and other treatments that opened in late 2024 inside the Hilton Waikiki Beach Resort & Spa.",
   "lat": 21.2752232,
-  "lng": -157.8220841
+  "lng": -157.8220841,
+  "links": [
+   {
+    "url": "https://fresha.com/a/asana-spa-at-hilton-waikiki-beach-honolulu-2500-kuhio-avenue-k69ss2pk",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.asanaspawaikiki.com/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hilton.com/en/hotels/hnlwahf-hilton-waikiki-beach-resort-and-spa/things-to-do/spa",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.webnewswire.com/2024/11/17/hilton-waikiki-beach-resort-spa-unveils-asana-spa-a-new-sanctuary-of-relaxation-in-waikiki/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.webnewswire.com/2024/11/17/hilton-waikiki-beach-resort-spa-unveils-asana-spa-a-new-sanctuary-of-relaxation-in-waikiki/?noamp=mobile",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Honolulu Skewer House",
