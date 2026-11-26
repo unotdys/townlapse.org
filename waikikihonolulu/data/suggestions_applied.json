@@ -1622,6 +1622,20 @@
     "https://news.outrigger.com/?p=6827",
     "https://the.honoluluadvertiser.com/article/2009/Apr/20/bz/hawaii904200314.html"
    ]
+  },
+  {
+   "name": "Outrigger Reef Waikiki Beach Resort",
+   "address": "2169 Kalia Rd",
+   "note": "Beachfront hotel designed by Roy Kelley that opened in 1955 as the Reef Hotel, and later operated under the Outrigger name as the Outrigger Reef Waikiki Beach Resort.",
+   "start": 1955,
+   "end": null,
+   "category": "hotel",
+   "approx": false,
+   "links": [
+    "https://community.village.virginia.edu/greenbooks/content/reef-hotel",
+    "https://company-histories.com/Outrigger-Enterprises-Inc-Company-History.html",
+    "https://www.trip.com/hotels/honolulu-hotel-detail-2197468/outrigger-reef-waikiki-beach-resort/"
+   ]
   }
  ],
  "corrections": [

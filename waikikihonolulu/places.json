@@ -2907,6 +2907,32 @@
   ]
  },
  {
+  "name": "Outrigger Reef Waikiki Beach Resort",
+  "address": "2169 Kalia Rd",
+  "start": 1955,
+  "end": null,
+  "category": "hotel",
+  "approx": false,
+  "note": "Beachfront hotel designed by Roy Kelley that opened in 1955 as the Reef Hotel, and later operated under the Outrigger name as the Outrigger Reef Waikiki Beach Resort.",
+  "lat": 21.2782479,
+  "lng": -157.8327924,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://company-histories.com/Outrigger-Enterprises-Inc-Company-History.html",
+    "kind": "History"
+   },
+   {
+    "url": "https://community.village.virginia.edu/greenbooks/content/reef-hotel",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.trip.com/hotels/honolulu-hotel-detail-2197468/outrigger-reef-waikiki-beach-resort/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -10556,19 +10582,6 @@
   "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2814154,
   "lng": -157.8277325
- },
- {
-  "name": "Outrigger Reef Waikiki Beach Resort",
-  "address": "2169 Kalia Rd",
-  "start": 2026,
-  "end": null,
-  "category": "hotel",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2782835,
-  "lng": -157.8327981
  },
  {
   "name": "White Sands Hotel",
