@@ -10556,14 +10556,28 @@
   "name": "Five Star Poke",
   "address": "206 Kapuni St",
   "start": 2026,
-  "end": null,
+  "end": 2026,
   "category": "food",
-  "approx": false,
+  "approx": true,
   "start_unknown": true,
   "source": "osm",
-  "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Poke food truck on Kapuni Street in Waikiki, known for its homemade sauces. It closed in 2026 when its lease at this location ended. The year it opened isn't known yet.",
   "lat": 21.2762309,
-  "lng": -157.8228654
+  "lng": -157.8228654,
+  "links": [
+   {
+    "url": "https://frankiapp.com/business/five-star-poke-128476.md",
+    "kind": "Article"
+   },
+   {
+    "url": "https://funergygroup.com/fivestarpoke",
+    "kind": "Article"
+   },
+   {
+    "url": "https://startpage.mapquest.com/us/hawaii/five-star-poke-430183848",
+    "kind": "Listing"
+   }
+  ]
  },
  {
   "name": "Thai Tacos",

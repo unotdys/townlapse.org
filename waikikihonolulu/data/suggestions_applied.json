@@ -4220,6 +4220,20 @@
      "https://www.army.mil/article-amp/192041/ring_of_steel_protected_oahu_from_invasion_but_not_from_attack_by_air"
     ]
    }
+  },
+  {
+   "target": "Five Star Poke",
+   "target_address": "206 Kapuni St",
+   "fields": {
+    "note": "Poke food truck on Kapuni Street in Waikiki, known for its homemade sauces. It closed in 2026 when its lease at this location ended. The year it opened isn't known yet.",
+    "end": 2026,
+    "approx": true,
+    "links": [
+     "https://frankiapp.com/business/five-star-poke-128476.md",
+     "https://funergygroup.com/fivestarpoke",
+     "https://startpage.mapquest.com/us/hawaii/five-star-poke-430183848"
+    ]
+   }
   }
  ]
 }
