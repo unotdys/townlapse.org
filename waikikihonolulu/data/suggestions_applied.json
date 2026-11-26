@@ -1332,6 +1332,19 @@
     "https://www.lonelyplanet.com/pois/1563154",
     "https://www.onlyinyourstate.com/hawaii/cuckoo-coconuts-hi/"
    ]
+  },
+  {
+   "name": "Wayfinder Waikiki",
+   "address": "2375 Ala Wai Boulevard, Honolulu, HI 96815",
+   "note": "The hotel's site reports an initial opening January 9, 2023. A later announcement places the official grand opening in May 2023 at 2375 Ala Wai Boulevard.",
+   "start": 2023,
+   "end": null,
+   "category": "hotel",
+   "approx": true,
+   "links": [
+    "https://www.hospitalitynet.org/announcement/41009587/new-boutique-lifestyle-property-wayfinder-waikiki-officially-opens",
+    "https://www.wayfinderwaikiki.com/press/lanilani/"
+   ]
   }
  ],
  "corrections": [

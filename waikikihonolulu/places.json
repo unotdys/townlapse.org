@@ -2347,6 +2347,28 @@
   ]
  },
  {
+  "name": "Wayfinder Waikiki",
+  "address": "2375 Ala Wai Boulevard, Honolulu, HI 96815",
+  "start": 2023,
+  "end": null,
+  "category": "hotel",
+  "approx": true,
+  "note": "The hotel's site reports an initial opening January 9, 2023. A later announcement places the official grand opening in May 2023 at 2375 Ala Wai Boulevard.",
+  "lat": 21.278717,
+  "lng": -157.8232232,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.hospitalitynet.org/announcement/41009587/new-boutique-lifestyle-property-wayfinder-waikiki-officially-opens",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.wayfinderwaikiki.com/press/lanilani/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -9858,19 +9880,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Wayfinder Waikiki",
-  "address": "2375 Ala Wai Blvd",
-  "start": 2026,
-  "end": null,
-  "category": "hotel",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.278746,
-  "lng": -157.8231507
  },
  {
   "name": "Park Shore Waikiki",
