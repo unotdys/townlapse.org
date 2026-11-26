@@ -880,6 +880,36 @@
   ]
  },
  {
+  "name": "St. Mark's Episcopal Church",
+  "address": "600 Colorado Ave",
+  "start": 1948,
+  "end": null,
+  "category": "worship",
+  "approx": false,
+  "note": "Episcopal congregation formed in 1948 by families from All Saints downtown. It first met at the Lucie Stern Children's Theatre and moved into its new chapel on Colorado Avenue in December 1948.",
+  "lat": 37.4317335,
+  "lng": -122.1299027,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://saint-marks.com/wp-content/uploads/2022/01/NewcomerGuide2021.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://saint-marks.com/history/a-temporary-home/",
+    "kind": "History"
+   },
+   {
+    "url": "https://saint-marks.com/history/in-the-beginning/",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2014/12/05/class-guide-15/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Rara",
   "address": "201 South California Ave",
   "start": 2023,
