@@ -491,6 +491,20 @@
      "https://silo.tips/download/o-the-midpeninsula-discover-where-to-go-to-play-dine-shop-or-relax"
     ]
    }
+  },
+  {
+   "target": "Namaste",
+   "target_address": "447 South California Ave",
+   "fields": {
+    "note": "Indian restaurant, part of a small regional chain that began in Monterey. Palo Alto Weekly readers named it the best new food or drink spot in 2023, and it is still open.",
+    "start": 2023,
+    "approx": true,
+    "links": [
+     "https://namasteindiabistro.com/palo-alto",
+     "https://www.opentable.com/r/namaste-indian-cuisine-palo-alto",
+     "https://www.paloaltoonline.com/best-of/2023-best-of/2023/11/16/best-of-2023/"
+    ]
+   }
   }
  ]
 }
