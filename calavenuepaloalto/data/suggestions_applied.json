@@ -1077,6 +1077,21 @@
      "https://www.terunpizza.com/about"
     ]
    }
+  },
+  {
+   "target": "Jin Sho",
+   "target_address": "454 South California Ave",
+   "fields": {
+    "note": "Japanese restaurant and sushi bar that opened in late 2007 and is still open at the same address.",
+    "start": 2007,
+    "approx": false,
+    "links": [
+     "https://paloalto.org/directory/restaurants/jin-sho/",
+     "https://www.aaa.com/tripcanvas/restaurant/jin-sho-AA18035",
+     "https://www.foodnut.com/495/jin-sho-restaurant-review-palo-alto/",
+     "https://www.paloaltoonline.com/news/2007/11/14/shop-talk-34/"
+    ]
+   }
   }
  ]
 }

@@ -2259,15 +2259,32 @@
  {
   "name": "Jin Sho",
   "address": "454 South California Ave",
-  "start": 2026,
+  "start": 2007,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Japanese restaurant and sushi bar that opened in late 2007 and is still open at the same address.",
   "lat": 37.4258882,
-  "lng": -122.1455063
+  "lng": -122.1455063,
+  "links": [
+   {
+    "url": "https://paloalto.org/directory/restaurants/jin-sho/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.aaa.com/tripcanvas/restaurant/jin-sho-AA18035",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.foodnut.com/495/jin-sho-restaurant-review-palo-alto/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2007/11/14/shop-talk-34/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Hotel California",
