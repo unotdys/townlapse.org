@@ -42,6 +42,20 @@
      "https://www.paloaltoonline.com/peninsula-foodist/2016/05/03/sol-family-takes-over-szechwan-cafe-on-california-avenue/"
     ]
    }
+  },
+  {
+   "target": "Ramen Kowa",
+   "target_address": "445 South California Ave",
+   "fields": {
+    "note": "Japanese ramen restaurant that opened in November 2020, during the pandemic, and also serves karaage and curry. Still open today.",
+    "start": 2020,
+    "approx": false,
+    "links": [
+     "https://spinach.guide/venues/ramen-kowa-123930/",
+     "https://verdemagazine.com/ramen-kowa-new-ramen-restaurant-arrives-in-palo-alto",
+     "https://www.ramenkowa.com/"
+    ]
+   }
   }
  ]
 }

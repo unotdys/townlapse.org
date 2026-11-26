@@ -72,15 +72,28 @@
  {
   "name": "Ramen Kowa",
   "address": "445 South California Ave",
-  "start": 2026,
+  "start": 2020,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Japanese ramen restaurant that opened in November 2020, during the pandemic, and also serves karaage and curry. Still open today.",
   "lat": 37.4258154,
-  "lng": -122.1450389
+  "lng": -122.1450389,
+  "links": [
+   {
+    "url": "https://spinach.guide/venues/ramen-kowa-123930/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://verdemagazine.com/ramen-kowa-new-ramen-restaurant-arrives-in-palo-alto",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.ramenkowa.com/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Cafe Pro Bono",
