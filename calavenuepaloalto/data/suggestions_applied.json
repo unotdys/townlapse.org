@@ -55,6 +55,20 @@
     "https://locations.valero.com/en-us/LocationDetails/Index/1963-EL-CAMINO-REAL/0000005664",
     "https://www.paloaltoonline.com/news/2008/01/09/news-digest-170/"
    ]
+  },
+  {
+   "name": "Antonio's Nut House",
+   "address": "321 California Ave",
+   "note": "A long-running dive bar that moved in 1971 into a building first built in 1938 as a drive-in Safeway grocery. It closed in August 2020, during the COVID-19 shutdowns.",
+   "start": 1971,
+   "end": 2020,
+   "category": "food",
+   "approx": false,
+   "links": [
+    "https://www.cityofpaloalto.org/files/assets/public/v/1/agendas-minutes-reports/reports/city-manager-reports-cmrs/year-archive/2004/06-june/3429.pdf",
+    "https://www.paloaltoonline.com/news/2022/01/05/new-plan-would-refurbish-partially-demolish-nut-house-building/",
+    "https://www.paloaltoonline.com/peninsula-foodist/2020/08/21/palo-altos-last-dive-bar-the-beloved-nut-house-calls-it-quits-for-now-we-just-cant-afford-it-anymore/"
+   ]
   }
  ],
  "corrections": [

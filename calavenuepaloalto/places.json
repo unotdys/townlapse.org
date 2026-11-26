@@ -104,6 +104,32 @@
   ]
  },
  {
+  "name": "Antonio's Nut House",
+  "address": "321 California Ave",
+  "start": 1971,
+  "end": 2020,
+  "category": "food",
+  "approx": false,
+  "note": "A long-running dive bar that moved in 1971 into a building first built in 1938 as a drive-in Safeway grocery. It closed in August 2020, during the COVID-19 shutdowns.",
+  "lat": 37.4270351,
+  "lng": -122.1438432,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.cityofpaloalto.org/files/assets/public/v/1/agendas-minutes-reports/reports/city-manager-reports-cmrs/year-archive/2004/06-june/3429.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2022/01/05/new-plan-would-refurbish-partially-demolish-nut-house-building/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2020/08/21/palo-altos-last-dive-bar-the-beloved-nut-house-calls-it-quits-for-now-we-just-cant-afford-it-anymore/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Rara",
   "address": "201 South California Ave",
   "start": 2023,
