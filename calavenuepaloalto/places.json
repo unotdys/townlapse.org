@@ -2207,15 +2207,28 @@
  {
   "name": "Country Sun",
   "address": "440 South California Ave",
-  "start": 2026,
+  "start": 1980,
   "end": null,
   "category": "retail",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
   "note": "Open today (supermarket). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 37.4261704,
-  "lng": -122.1453755
+  "lng": -122.1453755,
+  "links": [
+   {
+    "url": "https://countrysun.com/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2023/12/11/back-in-business-country-sun-to-remain-open/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2024/01/02/customers-buy-country-sun-avert-closure/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Terún Pizzeria",

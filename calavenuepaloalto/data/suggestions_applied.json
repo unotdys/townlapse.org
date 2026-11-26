@@ -1050,6 +1050,19 @@
      "https://www.pastheritage.org/inv/invWY/Wellesley2300.html"
     ]
    }
+  },
+  {
+   "target": "Country Sun",
+   "target_address": "440 South California Ave",
+   "fields": {
+    "start": 1980,
+    "approx": true,
+    "links": [
+     "https://countrysun.com/",
+     "https://www.paloaltoonline.com/news/2023/12/11/back-in-business-country-sun-to-remain-open/",
+     "https://www.paloaltoonline.com/news/2024/01/02/customers-buy-country-sun-avert-closure/"
+    ]
+   }
   }
  ]
 }
