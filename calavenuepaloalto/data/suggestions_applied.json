@@ -1285,6 +1285,21 @@
      "https://www.paloaltoonline.com/news/2019/04/25/shop-talk-pizza-chicago-relocates-new-retailers-set-to-move-to-cal-ave-2/"
     ]
    }
+  },
+  {
+   "target": "Superior Court Palo Alto Courthouse",
+   "target_address": "270 Grant Ave",
+   "fields": {
+    "note": "Palo Alto branch of the Santa Clara County Superior Court, now used for criminal cases. A mural painted in 1961 on a hallway wall suggests the courthouse was in use by about then; the exact opening year is not documented.",
+    "start": 1961,
+    "approx": true,
+    "links": [
+     "https://padailypost.com/2025/02/19/tribe-naacp-want-mural-in-palo-alto-courthouse-removed/",
+     "https://santaclara.courts.ca.gov/general-information/locations-contact-info/santa-clara-county-courthouse-locations#hours",
+     "https://santaclara.courts.ca.gov/location/palo-alto-courthouse",
+     "https://www.paloaltoonline.com/palo-alto/2025/02/14/santa-clara-county-courthouse-mural-is-racist-advocates-say/"
+    ]
+   }
   }
  ]
 }

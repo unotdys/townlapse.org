@@ -2742,15 +2742,32 @@
  {
   "name": "Superior Court Palo Alto Courthouse",
   "address": "270 Grant Ave",
-  "start": 2026,
+  "start": 1961,
   "end": null,
   "category": "civic",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (courthouse). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Palo Alto branch of the Santa Clara County Superior Court, now used for criminal cases. A mural painted in 1961 on a hallway wall suggests the courthouse was in use by about then; the exact opening year is not documented.",
   "lat": 37.4270174,
-  "lng": -122.1423046
+  "lng": -122.1423046,
+  "links": [
+   {
+    "url": "https://santaclara.courts.ca.gov/general-information/locations-contact-info/santa-clara-county-courthouse-locations#hours",
+    "kind": "History"
+   },
+   {
+    "url": "https://santaclara.courts.ca.gov/location/palo-alto-courthouse",
+    "kind": "History"
+   },
+   {
+    "url": "https://padailypost.com/2025/02/19/tribe-naacp-want-mural-in-palo-alto-courthouse-removed/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/palo-alto/2025/02/14/santa-clara-county-courthouse-mural-is-racist-advocates-say/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Sundance The Steakhouse",
