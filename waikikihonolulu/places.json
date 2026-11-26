@@ -5964,15 +5964,28 @@
  {
   "name": "The Sunrise Shack",
   "address": "2335 Kalākaua Ave",
-  "start": 2026,
+  "start": 2018,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Smoothie bowl and coffee shack at the entrance of the Outrigger Waikiki Beach Resort, opened in July 2018 as the second location of the North Shore surfer-founded cafe. In late 2026 it was temporarily closed for renovation, with reopening planned for early 2027.",
   "lat": 21.2772218,
-  "lng": -157.8272927
+  "lng": -157.8272927,
+  "links": [
+   {
+    "url": "https://news.outrigger.com/2018/07/23/the-sunrise-shack-now-open-at-outrigger-waikiki-beach-resort/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.sunriseshackhawaii.com/blogs/news/welcome-to-the-sunrise-shack-blog-page",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.sunriseshackhawaii.com/pages/outrigger-waikiki-beach-resort",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "The Sunrise Shack",
