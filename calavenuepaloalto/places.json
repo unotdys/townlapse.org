@@ -2385,15 +2385,28 @@
  {
   "name": "Summit Bicycles",
   "address": "392 South California Ave",
-  "start": 2026,
+  "start": 2017,
   "end": null,
   "category": "retail",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (bicycle). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Bicycle shop that moved into the former Accent Arts space at Ash Street in spring 2017, with an April opening planned. Still open today.",
   "lat": 37.4267518,
-  "lng": -122.1448955
+  "lng": -122.1448955,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/ae/2017/03/16/shop-talk-new-kitchen-shop-bike-store/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.summitbicycles.com/about/palo-alto-pg420.htm",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.trekbikes.com/ca/en_CA/store/381184/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Ananda Church of Self-Realization",

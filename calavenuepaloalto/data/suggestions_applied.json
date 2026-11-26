@@ -1133,6 +1133,20 @@
      "https://www.macprices.net/columns/hildreth_leo/070628_AT&T-Stores-Near-Apple-with-iPhones-on-June29.shtml"
     ]
    }
+  },
+  {
+   "target": "Summit Bicycles",
+   "target_address": "392 South California Ave",
+   "fields": {
+    "note": "Bicycle shop that moved into the former Accent Arts space at Ash Street in spring 2017, with an April opening planned. Still open today.",
+    "start": 2017,
+    "approx": false,
+    "links": [
+     "https://www.paloaltoonline.com/ae/2017/03/16/shop-talk-new-kitchen-shop-bike-store/",
+     "https://www.summitbicycles.com/about/palo-alto-pg420.htm",
+     "https://www.trekbikes.com/ca/en_CA/store/381184/"
+    ]
+   }
   }
  ]
 }
