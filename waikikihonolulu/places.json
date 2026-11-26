@@ -8354,11 +8354,24 @@
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (ice cream). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Shave ice shop on the ground level of the Twin Fin Hotel, serving chef-designed and savory shave ice. It soft-opened in January 2026, later added a speakeasy cocktail lounge behind the shop, and is still open.",
   "lat": 21.2721521,
-  "lng": -157.8229387
+  "lng": -157.8229387,
+  "links": [
+   {
+    "url": "https://alohastatedaily.com/2026/01/14/sinicestir-shave-ice-opens-in-honolulu",
+    "kind": "Article"
+   },
+   {
+    "url": "https://alohastatedaily.com/2026/07/23/sinicestir-speakeasy-opens-in-honolulu/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.twinfinwaikiki.com/dining/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "'Olili",

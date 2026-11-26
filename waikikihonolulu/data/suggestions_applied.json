@@ -3239,6 +3239,20 @@
      "https://www.twinfinwaikiki.com/beach-candy/"
     ]
    }
+  },
+  {
+   "target": "Sin-Ice-Stir Shave Ice",
+   "target_address": "2570 Kal\u0101kaua Ave",
+   "fields": {
+    "note": "Shave ice shop on the ground level of the Twin Fin Hotel, serving chef-designed and savory shave ice. It soft-opened in January 2026, later added a speakeasy cocktail lounge behind the shop, and is still open.",
+    "start": 2026,
+    "approx": false,
+    "links": [
+     "https://alohastatedaily.com/2026/01/14/sinicestir-shave-ice-opens-in-honolulu",
+     "https://alohastatedaily.com/2026/07/23/sinicestir-speakeasy-opens-in-honolulu/",
+     "https://www.twinfinwaikiki.com/dining/"
+    ]
+   }
   }
  ]
 }
