@@ -7920,12 +7920,25 @@
   "start": 2026,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (ice cream). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Ice cream shop on Kūhiō Avenue in Waikiki. Its Better Business Bureau profile lists the business as starting in March 2026.",
   "lat": 21.2759288,
-  "lng": -157.823
+  "lng": -157.823,
+  "links": [
+   {
+    "url": "https://www.instagram.com/hammerheadicecream/",
+    "kind": "Photo"
+   },
+   {
+    "url": "https://www.bbb.org/us/hi/honolulu/profile/ice-cream/hammerhead-ice-cream-1296-1000200113",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/hammerhead-ice-cream-waikiki/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Smokey's",

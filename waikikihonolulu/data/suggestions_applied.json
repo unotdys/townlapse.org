@@ -3150,6 +3150,20 @@
      "https://www.royalhawaiiancenter.com/press-releases/doraku-unveils-renovated-restaurant-and-exclusive-dishes-at-royal-hawaiian-center"
     ]
    }
+  },
+  {
+   "target": "Hammerhead Ice Cream Co.",
+   "target_address": "2463 K\u016bhi\u014d Ave",
+   "fields": {
+    "note": "Ice cream shop on K\u016bhi\u014d Avenue in Waikiki. Its Better Business Bureau profile lists the business as starting in March 2026.",
+    "start": 2026,
+    "approx": true,
+    "links": [
+     "https://www.bbb.org/us/hi/honolulu/profile/ice-cream/hammerhead-ice-cream-1296-1000200113",
+     "https://www.honolulumagazine.com/hammerhead-ice-cream-waikiki/",
+     "https://www.instagram.com/hammerheadicecream/"
+    ]
+   }
   }
  ]
 }
