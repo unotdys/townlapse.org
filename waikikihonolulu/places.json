@@ -2499,6 +2499,36 @@
   ]
  },
  {
+  "name": "Hilton Garden Inn Waikiki Beach",
+  "address": "2330 Kuhio Ave",
+  "start": 2016,
+  "end": null,
+  "category": "hotel",
+  "approx": false,
+  "note": "Hilton Garden Inn hotel on Kuhio Avenue across from International Market Place, opened in June 2016 as the brand's first property on Oahu. It took over and fully renovated the former Ohana Waikiki West hotel.",
+  "lat": 21.2789502,
+  "lng": -157.8251127,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://gohawaii.com/listing/hilton-garden-inn-waikiki-beach/84193",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.aaa.com/tripcanvas/hotel/hilton-garden-inn-waikiki-beach-95056",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hilton.com/en/hotels/hnlkugi-hilton-garden-inn-waikiki-beach/hotel-info/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.prnewswire.com/news-releases/hilton-worldwide-opens-first-hilton-garden-inn-property-on-oahu-300287418.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -10057,19 +10087,6 @@
   "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2801664,
   "lng": -157.8315317
- },
- {
-  "name": "Hilton Garden Inn Waikiki Beach",
-  "address": "2330 Kuhio Ave",
-  "start": 2026,
-  "end": null,
-  "category": "hotel",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.278937,
-  "lng": -157.8251021
  },
  {
   "name": "Moana Surfrider",

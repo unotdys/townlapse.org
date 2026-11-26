@@ -1415,6 +1415,21 @@
     "https://www.aaa.com/travelinfo/hi/honolulu/hotels/aston-waikiki-circle-hotel-99587.html",
     "https://www.travelweekly.com/Hawaii-Travel/Castle-Resorts-is-taking-over-management-of-Waikiki-Circle-Hotel"
    ]
+  },
+  {
+   "name": "Hilton Garden Inn Waikiki Beach",
+   "address": "2330 Kuhio Ave",
+   "note": "Hilton Garden Inn hotel on Kuhio Avenue across from International Market Place, opened in June 2016 as the brand's first property on Oahu. It took over and fully renovated the former Ohana Waikiki West hotel.",
+   "start": 2016,
+   "end": null,
+   "category": "hotel",
+   "approx": false,
+   "links": [
+    "https://gohawaii.com/listing/hilton-garden-inn-waikiki-beach/84193",
+    "https://www.aaa.com/tripcanvas/hotel/hilton-garden-inn-waikiki-beach-95056",
+    "https://www.hilton.com/en/hotels/hnlkugi-hilton-garden-inn-waikiki-beach/hotel-info/",
+    "https://www.prnewswire.com/news-releases/hilton-worldwide-opens-first-hilton-garden-inn-property-on-oahu-300287418.html"
+   ]
   }
  ],
  "corrections": [
