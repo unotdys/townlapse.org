@@ -3061,6 +3061,22 @@
      "https://www.webnewswire.com/2024/11/17/hilton-waikiki-beach-resort-spa-unveils-asana-spa-a-new-sanctuary-of-relaxation-in-waikiki/?noamp=mobile"
     ]
    }
+  },
+  {
+   "target": "Louis Vuitton",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "2200 Kalakaua Ave",
+    "note": "Louis Vuitton's largest Hawaii boutique, in the 1929 Gump Building, a historic landmark. The company bought the building in 1991 and opened the store in October 1992 after restoring it.",
+    "start": 1992,
+    "approx": false,
+    "links": [
+     "https://imagesofoldhawaii.com/gumps",
+     "https://imagesofoldhawaii.com/tag/waikiki/",
+     "https://us.louisvuitton.com/eng-us/point-of-sale/usa/louis-vuitton-honolulu-gumps-building",
+     "https://www.hawaiimagazine.com/remembering-gumps-treasure-house-of-the-pacific/"
+    ]
+   }
   }
  ]
 }

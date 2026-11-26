@@ -7540,16 +7540,33 @@
  },
  {
   "name": "Louis Vuitton",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "2200 Kalakaua Ave",
+  "start": 1992,
   "end": null,
   "category": "retail",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (clothes). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2800772,
-  "lng": -157.829554
+  "note": "Louis Vuitton's largest Hawaii boutique, in the 1929 Gump Building, a historic landmark. The company bought the building in 1991 and opened the store in October 1992 after restoring it.",
+  "lat": 21.280003,
+  "lng": -157.829631,
+  "links": [
+   {
+    "url": "https://imagesofoldhawaii.com/gumps",
+    "kind": "Article"
+   },
+   {
+    "url": "https://imagesofoldhawaii.com/tag/waikiki/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://us.louisvuitton.com/eng-us/point-of-sale/usa/louis-vuitton-honolulu-gumps-building",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hawaiimagazine.com/remembering-gumps-treasure-house-of-the-pacific/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Doraku Sushi",
