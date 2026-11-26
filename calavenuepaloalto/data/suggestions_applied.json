@@ -769,6 +769,19 @@
      "https://www.victoriaballetofficial.com/about"
     ]
    }
+  },
+  {
+   "target": "Massage Therapy Center",
+   "target_address": "368 South California Ave",
+   "fields": {
+    "note": "Founded in 1971 on Everett Avenue as The Massage Center, it moved to California Avenue in 1981 as Body Therapy Center. It took the Massage Therapy Center name in 2006 and still offers therapeutic massage here.",
+    "start": 1981,
+    "approx": true,
+    "links": [
+     "https://massagetherapypaloalto.com/zen-living/reduce-chronic-inflammation-slow-down-aging/",
+     "https://www.paloaltoonline.com/community/2024/03/31/retiring-massage-therapist-reflects-on-the-evolution-of-business-in-palo-alto/"
+    ]
+   }
   }
  ]
 }

@@ -1619,15 +1619,24 @@
  {
   "name": "Massage Therapy Center",
   "address": "368 South California Ave",
-  "start": 2026,
+  "start": 1981,
   "end": null,
   "category": "services",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (massage). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Founded in 1971 on Everett Avenue as The Massage Center, it moved to California Avenue in 1981 as Body Therapy Center. It took the Massage Therapy Center name in 2006 and still offers therapeutic massage here.",
   "lat": 37.4268427,
-  "lng": -122.1446622
+  "lng": -122.1446622,
+  "links": [
+   {
+    "url": "https://massagetherapypaloalto.com/zen-living/reduce-chronic-inflammation-slow-down-aging/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/community/2024/03/31/retiring-massage-therapist-reflects-on-the-evolution-of-business-in-palo-alto/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "The Cosmetic Collective",
