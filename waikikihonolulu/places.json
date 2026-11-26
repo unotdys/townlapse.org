@@ -1653,6 +1653,32 @@
   ]
  },
  {
+  "name": "Sushi Matsuri",
+  "address": "2250 Kalakaua Ave",
+  "start": 2023,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "note": "Sushi counter from Japan's Setouchi region serving nigiri and maki in the STIX ASIA food hall on the lower level of Waikiki Shopping Plaza. It was one of the 13 restaurants open at the food hall's grand opening on February 6, 2023.",
+  "lat": 21.2792987,
+  "lng": -157.8285137,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://dining.staradvertiser.com/2023/12/columns/a-la-carte/authentic-flavors-shine-at-food-hall/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://greateatshawaii.blogspot.com/2023/04/sushi-matsuri.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/stix-asia-food-hall-now-open-waikiki/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -8490,19 +8516,6 @@
   "note": "Open today (deli). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2820309,
   "lng": -157.8288953
- },
- {
-  "name": "Sushi Matsuri",
-  "address": "2250 Kalākaua Ave",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2792582,
-  "lng": -157.828563
  },
  {
   "name": "Ao Gelato",

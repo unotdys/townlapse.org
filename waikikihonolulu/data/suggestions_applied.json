@@ -958,6 +958,20 @@
     "https://www.honolulumagazine.com/stix-asia-food-hall-now-open-waikiki/",
     "https://www.honolulumagazine.com/will-hawaiis-thriving-dining-scene-bring-michelin-ratings-to-our-restaurants/"
    ]
+  },
+  {
+   "name": "Sushi Matsuri",
+   "address": "2250 Kalakaua Ave",
+   "note": "Sushi counter from Japan's Setouchi region serving nigiri and maki in the STIX ASIA food hall on the lower level of Waikiki Shopping Plaza. It was one of the 13 restaurants open at the food hall's grand opening on February 6, 2023.",
+   "start": 2023,
+   "end": null,
+   "category": "food",
+   "approx": false,
+   "links": [
+    "https://dining.staradvertiser.com/2023/12/columns/a-la-carte/authentic-flavors-shine-at-food-hall/",
+    "https://greateatshawaii.blogspot.com/2023/04/sushi-matsuri.html",
+    "https://www.honolulumagazine.com/stix-asia-food-hall-now-open-waikiki/"
+   ]
   }
  ],
  "corrections": [
