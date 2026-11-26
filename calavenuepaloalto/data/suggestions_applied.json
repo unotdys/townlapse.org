@@ -69,6 +69,19 @@
     "https://www.paloaltoonline.com/news/2022/01/05/new-plan-would-refurbish-partially-demolish-nut-house-building/",
     "https://www.paloaltoonline.com/peninsula-foodist/2020/08/21/palo-altos-last-dive-bar-the-beloved-nut-house-calls-it-quits-for-now-we-just-cant-afford-it-anymore/"
    ]
+  },
+  {
+   "name": "Village Stationers",
+   "address": "310 South California Ave",
+   "note": "Village Stationers moved its Palo Alto store to California Avenue in 2002. The California Avenue location closed in 2016.",
+   "start": 2002,
+   "end": 2016,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/news/2015/11/25/accent-arts-village-stationers-to-leave-california-avenue/",
+    "https://www.paloaltoonline.com/news/2019/08/08/village-people-prepare-to-close-up-shop/"
+   ]
   }
  ],
  "corrections": [
