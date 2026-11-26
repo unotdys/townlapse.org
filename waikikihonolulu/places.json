@@ -1553,6 +1553,28 @@
   ]
  },
  {
+  "name": "Honolulu Cookie Company",
+  "address": "2250 Kalākaua Ave",
+  "start": 2020,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Company history dates the Waikiki Shopping Plaza store opening to 2020; its store locator identifies this address.",
+  "lat": 21.2792987,
+  "lng": -157.8285137,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.honolulucookie.com/content/about-us.asp",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulucookie.com/content/store-locations.asp",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -3220,19 +3242,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Honolulu Cookie Company",
-  "address": "358 Royal Hawaiian Ave",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (bakery). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2805668,
-  "lng": -157.8281395
  },
  {
   "name": "Playbar",

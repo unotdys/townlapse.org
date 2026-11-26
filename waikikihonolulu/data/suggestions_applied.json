@@ -903,6 +903,19 @@
     "https://www.thisweekhawaii.com/2021/03/16/checking-in-with-alison-bo-tanaka-of-tanaka-of-tokyo",
     "https://www.waikikishoppingplaza.com/dining/tanaka-of-tokyo-central"
    ]
+  },
+  {
+   "name": "Honolulu Cookie Company",
+   "address": "2250 Kal\u0101kaua Ave",
+   "note": "Company history dates the Waikiki Shopping Plaza store opening to 2020; its store locator identifies this address.",
+   "start": 2020,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.honolulucookie.com/content/about-us.asp",
+    "https://www.honolulucookie.com/content/store-locations.asp"
+   ]
   }
  ],
  "corrections": [
