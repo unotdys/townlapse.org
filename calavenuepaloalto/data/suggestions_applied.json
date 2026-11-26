@@ -1174,6 +1174,19 @@
      "https://www.postallocations.com/ca/palo-alto/cambridge"
     ]
    }
+  },
+  {
+   "target": "Cardinal Bike Shop",
+   "target_address": "1955 El Camino Real",
+   "fields": {
+    "note": "Bicycle shop on El Camino Real that sells and repairs bikes, open at least since 2009, when local news mentioned it. It is still open at 1955 El Camino Real, and it may have opened earlier.",
+    "start": 2009,
+    "approx": true,
+    "links": [
+     "https://www.cardinalbikes.com/product-list/lighting-wg1104/?&rb_ct=39&sort=priceasc&startrow=180",
+     "https://www.paloaltoonline.com/news/2009/01/02/bike-sales-cruising-despite-recession/"
+    ]
+   }
   }
  ]
 }

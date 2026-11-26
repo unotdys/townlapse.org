@@ -2463,15 +2463,24 @@
  {
   "name": "Cardinal Bike Shop",
   "address": "1955 El Camino Real",
-  "start": 2026,
+  "start": 2009,
   "end": null,
   "category": "retail",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (bicycle). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Bicycle shop on El Camino Real that sells and repairs bikes, open at least since 2009, when local news mentioned it. It is still open at 1955 El Camino Real, and it may have opened earlier.",
   "lat": 37.4283016,
-  "lng": -122.1493928
+  "lng": -122.1493928,
+  "links": [
+   {
+    "url": "https://www.cardinalbikes.com/product-list/lighting-wg1104/?&rb_ct=39&sort=priceasc&startrow=180",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2009/01/02/bike-sales-cruising-despite-recession/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "The Good Salad",
