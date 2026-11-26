@@ -13,6 +13,20 @@
     "http://www.paloaltoonline.com/news/2013/02/23/shop-talk-burgers-bison-and-more",
     "https://www.sfweekly.com/dining/transition-to-fall-with-bistro-elans-duck-confit-and-scallops/article_2b316e3e-fb60-5a86-9e22-f4b265bb7b31.html"
    ]
+  },
+  {
+   "name": "Sun of Wolf",
+   "address": "406 South California Ave",
+   "note": "Sun of Wolf opened to the public on June 27, 2018, at 406 South California Avenue, serving modern Mexican plates and cocktails. It remains open on California Avenue next to Palo Alto Sol.",
+   "start": 2018,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://paloalto.org/food-and-drink/mexican-and-latin/",
+    "https://punchmagazine.com/family-food-sun-of-wolf/",
+    "https://www.paloaltoonline.com/blogs/2018/06/25/opening-alert-sun-of-wolf-in-palo-alto/"
+   ]
   }
  ],
  "corrections": [

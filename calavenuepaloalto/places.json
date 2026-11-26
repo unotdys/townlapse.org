@@ -26,6 +26,32 @@
   ]
  },
  {
+  "name": "Sun of Wolf",
+  "address": "406 South California Ave",
+  "start": 2018,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Sun of Wolf opened to the public on June 27, 2018, at 406 South California Avenue, serving modern Mexican plates and cocktails. It remains open on California Avenue next to Palo Alto Sol.",
+  "lat": 37.4266464,
+  "lng": -122.1449835,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://paloalto.org/food-and-drink/mexican-and-latin/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://punchmagazine.com/family-food-sun-of-wolf/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2018/06/25/opening-alert-sun-of-wolf-in-palo-alto/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Rara",
   "address": "201 South California Ave",
   "start": 2023,
@@ -1724,19 +1750,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Sun of Wolf",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4266188,
-  "lng": -122.1448412
  },
  {
   "name": "GK Pastry",
