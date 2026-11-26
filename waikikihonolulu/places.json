@@ -1515,6 +1515,44 @@
   ]
  },
  {
+  "name": "Tanaka of Tokyo",
+  "address": "2250 Kalākaua Ave",
+  "start": 1978,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "note": "The original Hawaii location of the Tanaka of Tokyo teppanyaki steakhouse, now called Tanaka of Tokyo Central, opened in Waikiki Shopping Plaza in 1978. It reportedly moved from the plaza's fourth floor to its third floor in 2012.",
+  "lat": 21.2792987,
+  "lng": -157.8285137,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://dining.staradvertiser.com/2018/03/columns/a-la-carte/tanaka-fires-grill-40th/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://news.outrigger.com/?p=6827",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hawaiibusiness.com/tanaka-of-tokyo-restaurant-chain-founder-shares-tales-of-survival-as-he-passes-baton/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.tanakaoftokyo.com/locations",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.thisweekhawaii.com/2021/03/16/checking-in-with-alison-bo-tanaka-of-tanaka-of-tokyo",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.waikikishoppingplaza.com/dining/tanaka-of-tokyo-central",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -7849,19 +7887,6 @@
   "note": "Open today (clothes). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.277391,
   "lng": -157.8273544
- },
- {
-  "name": "Tanaka of Tokyo",
-  "address": "2250 Kalākaua Ave",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2793073,
-  "lng": -157.8288343
  },
  {
   "name": "alo",
