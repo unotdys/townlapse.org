@@ -1523,15 +1523,24 @@
  {
   "name": "Shell",
   "address": "2200 El Camino Real",
-  "start": 2026,
+  "start": 2014,
   "end": null,
   "category": "retail",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
   "note": "Open today (convenience). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 37.4257422,
-  "lng": -122.147612
+  "lng": -122.147612,
+  "links": [
+   {
+    "url": "https://nixle.us/FL3KH",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoshell.com/blog/archives/2014",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "MJ Sushi",
