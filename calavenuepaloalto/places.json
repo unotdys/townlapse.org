@@ -1041,15 +1041,36 @@
  {
   "name": "The Cobblery",
   "address": "410 South California Ave",
-  "start": 2026,
+  "start": 1940,
   "end": null,
-  "category": "retail",
-  "approx": false,
-  "start_unknown": true,
+  "category": "services",
+  "approx": true,
   "source": "osm",
-  "note": "Open today (shoes). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Family-run shoe repair shop that also sells footwear, dating to 1940 and earlier known as Paul's European Cobblery. It started in a smaller storefront nearby on the street before settling at 410 California Ave.",
   "lat": 37.4265529,
-  "lng": -122.1448945
+  "lng": -122.1448945,
+  "links": [
+   {
+    "url": "https://footwearplusmagazine.com/?p=470",
+    "kind": "Article"
+   },
+   {
+    "url": "https://midpenpost.org/2021/07/09/the-cobblery-quality-craftsmanship-stands-the-test-of-time/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/best-of/2018/07/20/best-of-2018-services/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2006/02/15/shoptalk-trader-joes-a-no-for-town-country/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2021/11/05/a-failing-street-as-vacancies-plague-california-avenue-can-the-shopping-district-make-a-comeback/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Omomi",

@@ -520,6 +520,23 @@
      "https://www.paloaltoonline.com/blogs/2015/11/25/la-bohme-now-open-on-california-avenue/"
     ]
    }
+  },
+  {
+   "target": "The Cobblery",
+   "target_address": "410 South California Ave",
+   "fields": {
+    "note": "Family-run shoe repair shop that also sells footwear, dating to 1940 and earlier known as Paul's European Cobblery. It started in a smaller storefront nearby on the street before settling at 410 California Ave.",
+    "start": 1940,
+    "category": "services",
+    "approx": true,
+    "links": [
+     "https://footwearplusmagazine.com/?p=470",
+     "https://midpenpost.org/2021/07/09/the-cobblery-quality-craftsmanship-stands-the-test-of-time/",
+     "https://www.paloaltoonline.com/best-of/2018/07/20/best-of-2018-services/",
+     "https://www.paloaltoonline.com/news/2006/02/15/shoptalk-trader-joes-a-no-for-town-country/",
+     "https://www.paloaltoonline.com/news/2021/11/05/a-failing-street-as-vacancies-plague-california-avenue-can-the-shopping-district-make-a-comeback/"
+    ]
+   }
   }
  ]
 }
