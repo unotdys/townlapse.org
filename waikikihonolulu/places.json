@@ -9844,15 +9844,20 @@
  {
   "name": "Little Italy",
   "address": "349 Royal Hawaiian Ave",
-  "start": 2026,
+  "start": 2022,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Italian restaurant on Royal Hawaiian Avenue that opened in early 2022, listed among Waikiki's February 2022 restaurant openings. It is still operating.",
   "lat": 21.2803335,
-  "lng": -157.8279712
+  "lng": -157.8279712,
+  "links": [
+   {
+    "url": "https://hawaiinisumu.com/article/2570",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Wayfinder Waikiki",

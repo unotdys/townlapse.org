@@ -3843,6 +3843,18 @@
      "https://www.sfgate.com/hawaii/article/lucoral-museum-hawaii-waikiki-20302586.php"
     ]
    }
+  },
+  {
+   "target": "Little Italy",
+   "target_address": "349 Royal Hawaiian Ave",
+   "fields": {
+    "note": "Italian restaurant on Royal Hawaiian Avenue that opened in early 2022, listed among Waikiki's February 2022 restaurant openings. It is still operating.",
+    "start": 2022,
+    "approx": false,
+    "links": [
+     "https://hawaiinisumu.com/article/2570"
+    ]
+   }
   }
  ]
 }
