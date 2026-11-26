@@ -1430,6 +1430,18 @@
     "https://www.hilton.com/en/hotels/hnlkugi-hilton-garden-inn-waikiki-beach/hotel-info/",
     "https://www.prnewswire.com/news-releases/hilton-worldwide-opens-first-hilton-garden-inn-property-on-oahu-300287418.html"
    ]
+  },
+  {
+   "name": "Moana Surfrider",
+   "address": "2365 Kalakaua Avenue, Honolulu, HI 96815",
+   "note": "Historic Hotels of America identifies this address and the original Moana Hotel opening on March 11, 1901. Moana Surfrider is its current name, so the year refers to the original hotel.",
+   "start": 1901,
+   "end": null,
+   "category": "hotel",
+   "approx": true,
+   "links": [
+    "https://www.historichotels.org/us/hotels-resorts/moana-surfrider-a-westin-resort-and-spa"
+   ]
   }
  ],
  "corrections": [

@@ -2529,6 +2529,24 @@
   ]
  },
  {
+  "name": "Moana Surfrider",
+  "address": "2365 Kalakaua Avenue, Honolulu, HI 96815",
+  "start": 1901,
+  "end": null,
+  "category": "hotel",
+  "approx": true,
+  "note": "Historic Hotels of America identifies this address and the original Moana Hotel opening on March 11, 1901. Moana Surfrider is its current name, so the year refers to the original hotel.",
+  "lat": 21.276499,
+  "lng": -157.8268852,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.historichotels.org/us/hotels-resorts/moana-surfrider-a-westin-resort-and-spa",
+    "kind": "History"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -10087,19 +10105,6 @@
   "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2801664,
   "lng": -157.8315317
- },
- {
-  "name": "Moana Surfrider",
-  "address": "2365 Kalākaua Ave",
-  "start": 2026,
-  "end": null,
-  "category": "hotel",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2764654,
-  "lng": -157.8267015
  },
  {
   "name": "Wyndham at Wahikiki Beach Walk",
