@@ -932,6 +932,28 @@
   ]
  },
  {
+  "name": "Freebirds",
+  "address": "2305 El Camino Real",
+  "start": 2013,
+  "end": 2015,
+  "category": "food",
+  "approx": false,
+  "note": "Freebirds was a fast-casual burrito restaurant near California Avenue that opened in January 2013 and closed in March 2015. Pieology took over its space later in 2015.",
+  "lat": 37.4257198,
+  "lng": -122.1464687,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2015/03/27/freebirds-palo-alto-shutters/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2015/07/29/opening-alert-pieology-in-palo-alto/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Rara",
   "address": "201 South California Ave",
   "start": 2023,

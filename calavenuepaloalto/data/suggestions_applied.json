@@ -517,6 +517,19 @@
     "https://www.7-eleven.com/locations/ca/palo%20alto/708-colorado-ave-14315",
     "https://www.paloaltoonline.com/news/2011/08/18/few-details-in-robbery-of-palo-alto-7-eleven/"
    ]
+  },
+  {
+   "name": "Freebirds",
+   "address": "2305 El Camino Real",
+   "note": "Freebirds was a fast-casual burrito restaurant near California Avenue that opened in January 2013 and closed in March 2015. Pieology took over its space later in 2015.",
+   "start": 2013,
+   "end": 2015,
+   "category": "food",
+   "approx": false,
+   "links": [
+    "https://www.paloaltoonline.com/blogs/2015/03/27/freebirds-palo-alto-shutters/",
+    "https://www.paloaltoonline.com/blogs/2015/07/29/opening-alert-pieology-in-palo-alto/"
+   ]
   }
  ],
  "corrections": [
