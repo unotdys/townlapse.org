@@ -2455,6 +2455,24 @@
   ]
  },
  {
+  "name": "Royal Hawaiian Hotel",
+  "address": "2259 Kalakaua Ave",
+  "start": 1927,
+  "end": null,
+  "category": "hotel",
+  "approx": false,
+  "note": "Beachfront hotel on Kalakaua Avenue that opened on February 1, 1927, according to the Historic Hawai‘i Foundation. It is still operating.",
+  "lat": 21.2773331,
+  "lng": -157.8289679,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://historichawaii.org/historic-property-oa/royal-hawaiian-hotel/",
+    "kind": "History"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -9984,24 +10002,6 @@
    },
    {
     "url": "https://www.travelweekly.com/Hotels/Honolulu/The-Twin-Fin-p58483517",
-    "kind": "Article"
-   }
-  ]
- },
- {
-  "name": "Royal Hawaiian Hotel",
-  "address": "2259 Kalākaua Ave",
-  "start": 1927,
-  "end": null,
-  "category": "hotel",
-  "approx": false,
-  "source": "osm",
-  "note": "The beachfront Royal Hawaiian Hotel, known as the Pink Palace of the Pacific, opened on February 1, 1927. The U.S. military used it as a rest and recreation center during World War II, and it closed for renovation from June 2008 to January 2009.",
-  "lat": 21.2773458,
-  "lng": -157.8288494,
-  "links": [
-   {
-    "url": "https://en.wikipedia.org/wiki/Royal_Hawaiian_Hotel",
     "kind": "Article"
    }
   ]

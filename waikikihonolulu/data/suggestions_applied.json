@@ -1389,6 +1389,18 @@
     "https://www.travelweek.ca/news/now-open-the-residences-at-waikiki-beach-tower/",
     "https://www.travelweekly.com/Hotels/Honolulu/Aston-Waikiki-Beach-Tower-p56567104"
    ]
+  },
+  {
+   "name": "Royal Hawaiian Hotel",
+   "address": "2259 Kalakaua Ave",
+   "note": "Beachfront hotel on Kalakaua Avenue that opened on February 1, 1927, according to the Historic Hawai\u2018i Foundation. It is still operating.",
+   "start": 1927,
+   "end": null,
+   "category": "hotel",
+   "approx": false,
+   "links": [
+    "https://historichawaii.org/historic-property-oa/royal-hawaiian-hotel/"
+   ]
   }
  ],
  "corrections": [
