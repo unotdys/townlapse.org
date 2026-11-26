@@ -518,6 +518,28 @@
   ]
  },
  {
+  "name": "University Lutheran Church",
+  "address": "1611 Stanford Ave",
+  "start": 1968,
+  "end": null,
+  "category": "worship",
+  "approx": false,
+  "note": "Lutheran congregation and campus ministry in College Terrace, chartered in 1966. Its church building on Stanford Avenue was dedicated in April 1968.",
+  "lat": 37.418679,
+  "lng": -122.1559099,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/news/2019/12/13/palo-alto-churches-offer-a-space-to-deal-with-sadness-during-the-holidays/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.universitylutheran.church/who-we-are.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Rara",
   "address": "201 South California Ave",
   "start": 2023,

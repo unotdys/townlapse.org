@@ -286,6 +286,19 @@
     "http://www.avebaptistchurch.org/Contact-Us.html",
     "https://avebaptistchurch.org/about"
    ]
+  },
+  {
+   "name": "University Lutheran Church",
+   "address": "1611 Stanford Ave",
+   "note": "Lutheran congregation and campus ministry in College Terrace, chartered in 1966. Its church building on Stanford Avenue was dedicated in April 1968.",
+   "start": 1968,
+   "end": null,
+   "category": "worship",
+   "approx": false,
+   "links": [
+    "https://www.paloaltoonline.com/news/2019/12/13/palo-alto-churches-offer-a-space-to-deal-with-sadness-during-the-holidays/",
+    "https://www.universitylutheran.church/who-we-are.html"
+   ]
   }
  ],
  "corrections": [
