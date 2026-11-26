@@ -1475,15 +1475,28 @@
  {
   "name": "Backyard Brew",
   "address": "444 South California Ave",
-  "start": 2026,
+  "start": 2017,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Outdoor courtyard coffee cafe that officially opened in early 2017 in the former Toscano Garden decor shop space. It added a food menu in 2019 and was temporarily closed by the city in February 2025 over permit violations.",
   "lat": 37.4260921,
-  "lng": -122.1454798
+  "lng": -122.1454798,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/palo-alto-city/2025/02/28/backyard-brew-ordered-to-shut-down-for-permit-violations/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2017/02/01/backyard-brew-opens-in-palo-alto/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2019/01/23/tacos-and-avocado-toast-palo-altos-backyard-brew-adds-food-menu/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Palo Alto Shell",

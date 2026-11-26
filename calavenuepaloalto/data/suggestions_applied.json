@@ -688,6 +688,20 @@
      "https://www.paloaltoonline.com/news/2020/12/20/around-town-new-college-terrace-grocery-store-set-to-open-before-christmas-day/"
     ]
    }
+  },
+  {
+   "target": "Backyard Brew",
+   "target_address": "444 South California Ave",
+   "fields": {
+    "note": "Outdoor courtyard coffee cafe that officially opened in early 2017 in the former Toscano Garden decor shop space. It added a food menu in 2019 and was temporarily closed by the city in February 2025 over permit violations.",
+    "start": 2017,
+    "approx": false,
+    "links": [
+     "https://www.paloaltoonline.com/palo-alto-city/2025/02/28/backyard-brew-ordered-to-shut-down-for-permit-violations/",
+     "https://www.paloaltoonline.com/peninsula-foodist/2017/02/01/backyard-brew-opens-in-palo-alto/",
+     "https://www.paloaltoonline.com/peninsula-foodist/2019/01/23/tacos-and-avocado-toast-palo-altos-backyard-brew-adds-food-menu/"
+    ]
+   }
   }
  ]
 }
