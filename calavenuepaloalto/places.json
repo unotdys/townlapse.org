@@ -226,6 +226,36 @@
   ]
  },
  {
+  "name": "Page Mill YMCA",
+  "address": "755 Page Mill Road",
+  "start": 1979,
+  "end": 2014,
+  "category": "fitness",
+  "approx": false,
+  "note": "A YMCA gym in the basement of the Palo Alto Square complex, opened in 1979. It closed on Oct. 1, 2014, when the YMCA decided not to renew its lease, despite protests from members.",
+  "lat": 37.4197478,
+  "lng": -122.1426551,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.nbcbayarea.com/news/local/YMCA-to-Shut-Down-35-Year-Old-Palo-Alto-Facility-266820981.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2014/06/24/page-mill-road-ymca-to-close-oct-1/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2014/07/10/members-of-page-mill-ymca-protest-closure/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2014/07/11/members-of-page-mill-y-protest-its-closure/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Rara",
   "address": "201 South California Ave",
   "start": 2023,
