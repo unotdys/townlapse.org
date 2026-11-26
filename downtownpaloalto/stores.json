@@ -3767,6 +3767,28 @@
   ]
  },
  {
+  "name": "Kiki's Candy",
+  "address": "540 Emerson St",
+  "start": 2003,
+  "end": 2005,
+  "category": "food",
+  "approx": true,
+  "note": "Popular downtown candy store that opened in 2003. Around 2005 it moved to Fabian Way in south Palo Alto because of rising rents and parking problems.",
+  "lat": 37.444061,
+  "lng": -122.1621374,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/news/2007/05/23/shop-talk-26/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.sfgate.com/bayarea/article/A-sucker-for-sweets-now-she-owns-the-candy-store-2622323.php",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "House of Bagels",
   "address": "526 University Ave",
   "start": 2004,

@@ -1380,6 +1380,19 @@
     "http://homeravenue.org/Walk_Tour.htm",
     "https://www.paloaltoonline.com/morgue/real_estate/1994_Feb_11.HOME11.html"
    ]
+  },
+  {
+   "name": "Kiki's Candy",
+   "address": "540 Emerson St",
+   "note": "Popular downtown candy store that opened in 2003. Around 2005 it moved to Fabian Way in south Palo Alto because of rising rents and parking problems.",
+   "start": 2003,
+   "end": 2005,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/news/2007/05/23/shop-talk-26/",
+    "https://www.sfgate.com/bayarea/article/A-sucker-for-sweets-now-she-owns-the-candy-store-2622323.php"
+   ]
   }
  ],
  "corrections": [
