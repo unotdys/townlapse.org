@@ -390,6 +390,21 @@
     "https://www.paloaltoonline.com/blogs/2014/10/16/palo-altos-3gs-cafe-sold-to-new-owners/",
     "https://www.paloaltoonline.com/peninsula-foodist/2015/06/15/pop-tea-bar-replaces-beans-n-bites-cafe/"
    ]
+  },
+  {
+   "name": "Cambridge Optometry",
+   "address": "250 Cambridge Ave",
+   "note": "Eye care practice and eyewear shop at this address for about fifteen years. In 2024 it moved a short way down the street to the corner of Birch St and Cambridge Ave.",
+   "start": 2009,
+   "end": 2024,
+   "category": "services",
+   "approx": true,
+   "links": [
+    "https://cambridgeoptometry.com/",
+    "https://reviews.birdeye.com/cambridge-optometry-155768572205734",
+    "https://startpage.mapquest.com/us/california/cambridge-optometry-265415739",
+    "https://www.cambridgeoptometry.com/our-doctors.html"
+   ]
   }
  ],
  "corrections": [

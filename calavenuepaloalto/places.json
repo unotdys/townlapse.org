@@ -694,6 +694,36 @@
   ]
  },
  {
+  "name": "Cambridge Optometry",
+  "address": "250 Cambridge Ave",
+  "start": 2009,
+  "end": 2024,
+  "category": "services",
+  "approx": true,
+  "note": "Eye care practice and eyewear shop at this address for about fifteen years. In 2024 it moved a short way down the street to the corner of Birch St and Cambridge Ave.",
+  "lat": 37.4289889,
+  "lng": -122.144316,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://cambridgeoptometry.com/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://reviews.birdeye.com/cambridge-optometry-155768572205734",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.cambridgeoptometry.com/our-doctors.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://startpage.mapquest.com/us/california/cambridge-optometry-265415739",
+    "kind": "Listing"
+   }
+  ]
+ },
+ {
   "name": "Rara",
   "address": "201 South California Ave",
   "start": 2023,
