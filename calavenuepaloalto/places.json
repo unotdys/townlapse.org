@@ -797,15 +797,24 @@
  {
   "name": "First Republic Bank",
   "address": "2275 West El Camino Real",
-  "start": 2026,
+  "start": 2002,
   "end": null,
   "category": "services",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (bank). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "First Republic Bank branch near El Camino Real and Cambridge Avenue, established in May 2002. First Republic was acquired by JPMorgan Chase in 2023.",
   "lat": 37.4258925,
-  "lng": -122.1467528
+  "lng": -122.1467528,
+  "links": [
+   {
+    "url": "https://www.city-data.com/banks/banks-Palo-Alto-California.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2017/05/15/shop-talk-new-mall-stores-chez-tj-pursues-revamp/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Spoke & Weal",

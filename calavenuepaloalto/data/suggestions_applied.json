@@ -397,6 +397,19 @@
      "https://www.pip.com/PaloAltoCA233"
     ]
    }
+  },
+  {
+   "target": "First Republic Bank",
+   "target_address": "2275 West El Camino Real",
+   "fields": {
+    "note": "First Republic Bank branch near El Camino Real and Cambridge Avenue, established in May 2002. First Republic was acquired by JPMorgan Chase in 2023.",
+    "start": 2002,
+    "approx": false,
+    "links": [
+     "https://www.city-data.com/banks/banks-Palo-Alto-California.html",
+     "https://www.paloaltoonline.com/news/2017/05/15/shop-talk-new-mall-stores-chez-tj-pursues-revamp/"
+    ]
+   }
   }
  ]
 }
