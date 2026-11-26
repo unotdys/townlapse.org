@@ -998,15 +998,32 @@
  {
   "name": "La Bohème",
   "address": "415 South California Ave",
-  "start": 2026,
+  "start": 2015,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "French bistro from the owner of Pastis that opened in November 2015 in the former Chez Franc hot dog space. It is still open.",
   "lat": 37.4262726,
-  "lng": -122.1446482
+  "lng": -122.1446482,
+  "links": [
+   {
+    "url": "https://www.almanacnews.com/ae/2016/03/17/joie-de-vivre/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.opentable.com/r/la-boheme-palo-alto",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2015/07/28/palo-alto-pastis-owner-to-open-second-french-restaurant/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2015/11/25/la-bohme-now-open-on-california-avenue/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "California Avenue Optometry",

@@ -505,6 +505,21 @@
      "https://www.paloaltoonline.com/best-of/2023-best-of/2023/11/16/best-of-2023/"
     ]
    }
+  },
+  {
+   "target": "La Boh\u00e8me",
+   "target_address": "415 South California Ave",
+   "fields": {
+    "note": "French bistro from the owner of Pastis that opened in November 2015 in the former Chez Franc hot dog space. It is still open.",
+    "start": 2015,
+    "approx": false,
+    "links": [
+     "https://www.almanacnews.com/ae/2016/03/17/joie-de-vivre/",
+     "https://www.opentable.com/r/la-boheme-palo-alto",
+     "https://www.paloaltoonline.com/blogs/2015/07/28/palo-alto-pastis-owner-to-open-second-french-restaurant/",
+     "https://www.paloaltoonline.com/blogs/2015/11/25/la-bohme-now-open-on-california-avenue/"
+    ]
+   }
   }
  ]
 }
