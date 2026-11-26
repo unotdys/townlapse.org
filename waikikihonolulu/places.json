@@ -8976,15 +8976,32 @@
  {
   "name": "Sheraton Princess Kaiulani Hotel",
   "address": "120 Kaʻiulani Ave",
-  "start": 2026,
+  "start": 1955,
   "end": null,
   "category": "hotel",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Matson opened the Princess Kaiulani Hotel in June 1955 on part of the former ʻĀinahau estate, and at 11 stories it was then Hawaii's tallest building. Sheraton later took it over, and the 29-story ʻĀinahau Tower was added in 1970.",
   "lat": 21.2775585,
-  "lng": -157.8258789
+  "lng": -157.8258789,
+  "links": [
+   {
+    "url": "https://files.hawaii.gov/dbedt/visitor/visitor-plant/vpi2005.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.govinfo.gov/content/pkg/FR-1996-06-21/pdf/96-14403.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Sheraton_Princess_Kaiulani_Hotel",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelagewest.com/Travel/Hotels/Princess-Kaiulani-Marks-50th-Anniversary",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Ka Laʻi Waikiki Beach, LXR Hotels & Resorts",

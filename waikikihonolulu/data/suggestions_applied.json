@@ -3471,6 +3471,21 @@
      "https://www.espaciowaikiki.com/contact-us/"
     ]
    }
+  },
+  {
+   "target": "Sheraton Princess Kaiulani Hotel",
+   "target_address": "120 Ka\u02bbiulani Ave",
+   "fields": {
+    "note": "Matson opened the Princess Kaiulani Hotel in June 1955 on part of the former \u02bb\u0100inahau estate, and at 11 stories it was then Hawaii's tallest building. Sheraton later took it over, and the 29-story \u02bb\u0100inahau Tower was added in 1970.",
+    "start": 1955,
+    "approx": false,
+    "links": [
+     "https://en.wikipedia.org/wiki/Sheraton_Princess_Kaiulani_Hotel",
+     "https://files.hawaii.gov/dbedt/visitor/visitor-plant/vpi2005.pdf",
+     "https://www.govinfo.gov/content/pkg/FR-1996-06-21/pdf/96-14403.pdf",
+     "https://www.travelagewest.com/Travel/Hotels/Princess-Kaiulani-Marks-50th-Anniversary"
+    ]
+   }
   }
  ]
 }
