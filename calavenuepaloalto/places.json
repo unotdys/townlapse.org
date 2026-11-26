@@ -1928,15 +1928,32 @@
  {
   "name": "Starbird",
   "address": "2515 El Camino Real",
-  "start": 2026,
+  "start": 2024,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Crispy chicken fast-casual restaurant that opened in September 2024 with a ribbon-cutting on September 13. It is next to Chipotle.",
   "lat": 37.4246436,
-  "lng": -122.144589
+  "lng": -122.144589,
+  "links": [
+   {
+    "url": "https://palyvoice.com/178538/features/review-starbird-chicken-the-new-go-to-spot-for-paly-students/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.franchising.com/news/20240904_starbird_expands_presence_in_the_bay_area_with_new_locations_in_palo_alto_a.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/food/roundup-food/2024/07/01/here-are-the-latest-restaurants-joining-the-palo-alto-dining-scene/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.qsrmagazine.com/news/starbird-expands-with-two-openings-in-the-bay-area/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "SIGNAL Coffee (Sunday Pop Up)",

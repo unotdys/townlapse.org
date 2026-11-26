@@ -903,6 +903,21 @@
      "https://www.paloaltoonline.com/best-of/2022/07/23/best-of-2022-restaurants/"
     ]
    }
+  },
+  {
+   "target": "Starbird",
+   "target_address": "2515 El Camino Real",
+   "fields": {
+    "note": "Crispy chicken fast-casual restaurant that opened in September 2024 with a ribbon-cutting on September 13. It is next to Chipotle.",
+    "start": 2024,
+    "approx": false,
+    "links": [
+     "https://palyvoice.com/178538/features/review-starbird-chicken-the-new-go-to-spot-for-paly-students/",
+     "https://www.franchising.com/news/20240904_starbird_expands_presence_in_the_bay_area_with_new_locations_in_palo_alto_a.html",
+     "https://www.paloaltoonline.com/food/roundup-food/2024/07/01/here-are-the-latest-restaurants-joining-the-palo-alto-dining-scene/",
+     "https://www.qsrmagazine.com/news/starbird-expands-with-two-openings-in-the-bay-area/"
+    ]
+   }
   }
  ]
 }
