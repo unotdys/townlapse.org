@@ -383,6 +383,20 @@
      "https://www.atly.com/location/RadhikaBeautySalon"
     ]
    }
+  },
+  {
+   "target": "PIP Printing",
+   "target_address": "2233 El Camino Real",
+   "fields": {
+    "note": "A print and document services shop founded in 1974, which won a top-25 sales award from the PIP chain in 2007. It is still open today.",
+    "start": 1974,
+    "category": "services",
+    "approx": false,
+    "links": [
+     "https://www.paloaltoonline.com/uncategorized/2007/08/22/fyi-16/",
+     "https://www.pip.com/PaloAltoCA233"
+    ]
+   }
   }
  ]
 }

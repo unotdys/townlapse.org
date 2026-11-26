@@ -762,15 +762,24 @@
  {
   "name": "PIP Printing",
   "address": "2233 El Camino Real",
-  "start": 2026,
+  "start": 1974,
   "end": null,
-  "category": "retail",
+  "category": "services",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (printing). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "A print and document services shop founded in 1974, which won a top-25 sales award from the PIP chain in 2007. It is still open today.",
   "lat": 37.4260912,
-  "lng": -122.147036
+  "lng": -122.147036,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/uncategorized/2007/08/22/fyi-16/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.pip.com/PaloAltoCA233",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Village Flower Shop",
