@@ -334,6 +334,28 @@
   ]
  },
  {
+  "name": "Hidden Garden Sushi",
+  "address": "2363 Birch St",
+  "start": 2018,
+  "end": 2019,
+  "category": "food",
+  "approx": true,
+  "note": "A brown-rice sushi restaurant that took over the former Homma's space on Birch Street. It opened in February 2018 and had closed by April 2019.",
+  "lat": 37.427858,
+  "lng": -122.1442605,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/ae/2019/04/04/shop-talk-howards-shoes-relocates-sushi-bar-expands-2/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2018/02/27/palo-alto-brown-rice-sushi-restaurant-replaces-hommas/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Rara",
   "address": "201 South California Ave",
   "start": 2023,
