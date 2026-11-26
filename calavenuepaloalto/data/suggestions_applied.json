@@ -589,6 +589,20 @@
      "https://www.paloaltoonline.com/peninsula-foodist/2017/07/24/fambrinis-cafe-to-reopen-in-palo-alto/"
     ]
    }
+  },
+  {
+   "target": "Topi",
+   "target_address": "2305 El Camino Real",
+   "fields": {
+    "note": "Topi Cakes is a cake shop selling daily treats and custom cakes, and it also runs cake-making classes. It opened on October 8, 2025, in the space Shekoh Confections used to occupy.",
+    "start": 2025,
+    "category": "food",
+    "approx": false,
+    "links": [
+     "https://palyvoice.com/185962/features/review-topi-cakes-brings-culture-in-every-crumb/",
+     "https://www.paloaltoonline.com/palo-alto/2025/10/13/new-palo-alto-cake-business-offers-diy-classes-and-custom-cakes/"
+    ]
+   }
   }
  ]
 }

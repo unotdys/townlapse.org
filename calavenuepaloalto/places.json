@@ -1232,15 +1232,24 @@
  {
   "name": "Topi",
   "address": "2305 El Camino Real",
-  "start": 2026,
+  "start": 2025,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (bakery). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Topi Cakes is a cake shop selling daily treats and custom cakes, and it also runs cake-making classes. It opened on October 8, 2025, in the space Shekoh Confections used to occupy.",
   "lat": 37.4256247,
-  "lng": -122.1464683
+  "lng": -122.1464683,
+  "links": [
+   {
+    "url": "https://palyvoice.com/185962/features/review-topi-cakes-brings-culture-in-every-crumb/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/palo-alto/2025/10/13/new-palo-alto-cake-business-offers-diy-classes-and-custom-cakes/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Fast Repair",
