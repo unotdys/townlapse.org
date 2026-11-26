@@ -2279,6 +2279,40 @@
   ]
  },
  {
+  "name": "Aston at the Waikiki Banyan",
+  "address": "201 Ohua Avenue",
+  "start": 1979,
+  "end": null,
+  "category": "hotel",
+  "approx": true,
+  "note": "All-suite condominium hotel in the twin-tower Waikiki Banyan, a block from Waikiki Beach, now run by Aston. The towers date from the late 1970s, and the Aston name came later.",
+  "lat": 21.274804,
+  "lng": -157.8209865,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://royalhawaii.com/index_files/waikiki-banyan-facts.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.hawaiitourismauthority.org/media/1990/2009-visitor-plant-inventory-report.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://aquaaston.com/hotels/aston-at-the-waikiki-banyan",
+    "kind": "Article"
+   },
+   {
+    "url": "https://hawaiirealestatesearch.com/oahu/waikiki-banyan",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.gohawaii.com/listing/aston-waikiki-banyan/629",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -9655,19 +9689,6 @@
   "note": "Open today (mall). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2801902,
   "lng": -157.828891
- },
- {
-  "name": "Aston at the Waikiki Banyan",
-  "address": "201 Ohua Ave",
-  "start": 2026,
-  "end": null,
-  "category": "hotel",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2747798,
-  "lng": -157.8210353
  },
  {
   "name": "Pacific Monarch Hotel",

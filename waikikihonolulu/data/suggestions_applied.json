@@ -1287,6 +1287,22 @@
     "https://locations.dennys.com/hi/honolulu",
     "https://www.hawaiilodging.org/blog/archives/07-2018"
    ]
+  },
+  {
+   "name": "Aston at the Waikiki Banyan",
+   "address": "201 Ohua Avenue",
+   "note": "All-suite condominium hotel in the twin-tower Waikiki Banyan, a block from Waikiki Beach, now run by Aston. The towers date from the late 1970s, and the Aston name came later.",
+   "start": 1979,
+   "end": null,
+   "category": "hotel",
+   "approx": true,
+   "links": [
+    "https://aquaaston.com/hotels/aston-at-the-waikiki-banyan",
+    "https://hawaiirealestatesearch.com/oahu/waikiki-banyan",
+    "https://royalhawaii.com/index_files/waikiki-banyan-facts.pdf",
+    "https://www.gohawaii.com/listing/aston-waikiki-banyan/629",
+    "https://www.hawaiitourismauthority.org/media/1990/2009-visitor-plant-inventory-report.pdf"
+   ]
   }
  ],
  "corrections": [
