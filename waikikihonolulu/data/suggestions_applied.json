@@ -3181,6 +3181,19 @@
      "https://www.instagram.com/lapurespa_waikiki/"
     ]
    }
+  },
+  {
+   "target": "Alo Cafe",
+   "target_address": "159 Ka\u02bbiulani Ave",
+   "fields": {
+    "note": "Vegan cafe serving plant-based light meals and baked goods at 159 Ka\u02bbiulani Ave #105, with its doors on K\u016bhi\u014d Avenue. It opened in Waikiki in 2021 and later added locations Downtown and in Kaka\u02bbako.",
+    "start": 2021,
+    "approx": false,
+    "links": [
+     "https://www.alocafehawaii.com/",
+     "https://www.honolulumagazine.com/alo-cafe-hawaii-waikiki/"
+    ]
+   }
   }
  ]
 }

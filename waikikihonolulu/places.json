@@ -7999,15 +7999,24 @@
  {
   "name": "Alo Cafe",
   "address": "159 Kaʻiulani Ave",
-  "start": 2026,
+  "start": 2021,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Vegan cafe serving plant-based light meals and baked goods at 159 Kaʻiulani Ave #105, with its doors on Kūhiō Avenue. It opened in Waikiki in 2021 and later added locations Downtown and in Kakaʻako.",
   "lat": 21.2772432,
-  "lng": -157.8242477
+  "lng": -157.8242477,
+  "links": [
+   {
+    "url": "https://www.alocafehawaii.com/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/alo-cafe-hawaii-waikiki/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Waikiki Wind Foot Massage",
