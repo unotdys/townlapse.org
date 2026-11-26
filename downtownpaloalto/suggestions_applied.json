@@ -1419,6 +1419,19 @@
     "https://www.paloaltoonline.com/news/2016/06/12/shop-talk-paperwhirl-leaves-palo-alto-boutiques-open-at-town-country/",
     "https://www.sfgate.com/travel/streetdate/article/University-Avenue-Palo-Alto-2303818.php"
    ]
+  },
+  {
+   "name": "A.G. Ferrari Foods",
+   "address": "200 Hamilton Ave",
+   "note": "",
+   "start": 2001,
+   "end": 2011,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.eastbaytimes.com/2011/04/18/a-g-ferrari-reorganization-closes-three-more-stores/",
+    "https://www.paloaltoonline.com/morgue/2001/2001_08_01.shop01.html"
+   ]
   }
  ],
  "corrections": [

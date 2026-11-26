@@ -3630,6 +3630,28 @@
   ]
  },
  {
+  "name": "A.G. Ferrari Foods",
+  "address": "200 Hamilton Ave",
+  "start": 2001,
+  "end": 2011,
+  "category": "food",
+  "approx": true,
+  "note": "",
+  "lat": 37.4439219,
+  "lng": -122.1613375,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.eastbaytimes.com/2011/04/18/a-g-ferrari-reorganization-closes-three-more-stores/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/2001/2001_08_01.shop01.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Lavanda Restaurant and Wine Bar",
   "address": "185 University Ave",
   "start": 2002,
@@ -8164,6 +8186,24 @@
   "lng": -122.1617581
  },
  {
+  "name": "Joe & The Juice",
+  "address": "240 Hamilton Ave",
+  "start": 2018,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "source": "osm",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
+  "lat": 37.4443528,
+  "lng": -122.1609464,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2017/08/03/joe-the-juice-is-headed-to-palo-alto/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Salt & Straw",
   "address": "250 University Ave",
   "start": 2018,
@@ -8222,24 +8262,6 @@
   "note": "Open today (bank). Listed in OpenStreetMap; first mapped in 2018, which is roughly when it opened.",
   "lat": 37.4487526,
   "lng": -122.1601494
- },
- {
-  "name": "Joe & The Juice",
-  "address": "508 University Ave",
-  "start": 2018,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
-  "lat": 37.4484574,
-  "lng": -122.1588997,
-  "links": [
-   {
-    "url": "https://www.paloaltoonline.com/peninsula-foodist/2017/08/03/joe-the-juice-is-headed-to-palo-alto/",
-    "kind": "Article"
-   }
-  ]
  },
  {
   "name": "Mangosteen",
@@ -8369,15 +8391,15 @@
  },
  {
   "name": "Joe & The Juice",
-  "address": "240 Hamilton Ave",
+  "address": "508 University Ave",
   "start": 2019,
   "end": null,
   "category": "food",
   "approx": true,
   "source": "osm",
   "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
-  "lat": 37.4443528,
-  "lng": -122.1609464
+  "lat": 37.4484574,
+  "lng": -122.1588997
  },
  {
   "name": "Salvaje",
