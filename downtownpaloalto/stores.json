@@ -3853,6 +3853,28 @@
   ]
  },
  {
+  "name": "Stoa Restaurant & Wine Bar",
+  "address": "632 Emerson St",
+  "start": 2004,
+  "end": 2005,
+  "category": "food",
+  "approx": false,
+  "note": "Formerly vegetarian restaurant that moved downtown from a site near Highway 101 in late 2004, adding seafood and live jazz. It closed abruptly after Easter weekend in April 2005.",
+  "lat": 37.4433758,
+  "lng": -122.1611589,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.metroactive.com/papers/metro/01.05.05/dining-0501.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/2005/2005_04_13.shoptalk13.shtml",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "FORM Fitness",
   "address": "445 Bryant St",
   "start": 2005,
@@ -4636,24 +4658,6 @@
    }
   ],
   "note": "Coffee shop. Palo Alto Online's Peninsula Foodist reported it opening in 2015. Later status unknown."
- },
- {
-  "name": "Gong Cha",
-  "address": "429 Waverley St",
-  "start": 2015,
-  "end": 2015,
-  "category": "food",
-  "approx": true,
-  "source": "news",
-  "lat": 37.4476333,
-  "lng": -122.1610727,
-  "links": [
-   {
-    "url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/06/another-milk-tea-chain-setting-up-shop-in-palo-alto/",
-    "kind": "Article"
-   }
-  ],
-  "note": "Milk tea shop. Palo Alto Online's Peninsula Foodist reported it opening in 2015. Later status unknown."
  },
  {
   "name": "B+B",
@@ -7873,6 +7877,24 @@
   ]
  },
  {
+  "name": "Gong Cha",
+  "address": "439 Waverley St",
+  "start": 2015,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "source": "osm",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2015.",
+  "lat": 37.4477131,
+  "lng": -122.1607332,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/06/another-milk-tea-chain-setting-up-shop-in-palo-alto/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Cielo",
   "address": "477 University Ave",
   "start": 2015,
@@ -8045,18 +8067,6 @@
   "note": "Open today (restaurant). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened.",
   "lat": 37.4458038,
   "lng": -122.1621102
- },
- {
-  "name": "Gong Cha",
-  "address": "439 Waverley St",
-  "start": 2017,
-  "end": null,
-  "category": "food",
-  "approx": true,
-  "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened.",
-  "lat": 37.4477131,
-  "lng": -122.1607332
  },
  {
   "name": "The Patio",

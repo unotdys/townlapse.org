@@ -1393,6 +1393,19 @@
     "https://www.paloaltoonline.com/news/2007/05/23/shop-talk-26/",
     "https://www.sfgate.com/bayarea/article/A-sucker-for-sweets-now-she-owns-the-candy-store-2622323.php"
    ]
+  },
+  {
+   "name": "Stoa Restaurant & Wine Bar",
+   "address": "632 Emerson St",
+   "note": "Formerly vegetarian restaurant that moved downtown from a site near Highway 101 in late 2004, adding seafood and live jazz. It closed abruptly after Easter weekend in April 2005.",
+   "start": 2004,
+   "end": 2005,
+   "category": "food",
+   "approx": false,
+   "links": [
+    "https://www.metroactive.com/papers/metro/01.05.05/dining-0501.html",
+    "https://www.paloaltoonline.com/morgue/2005/2005_04_13.shoptalk13.shtml"
+   ]
   }
  ],
  "corrections": [
