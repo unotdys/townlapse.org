@@ -111,6 +111,18 @@
     "https://www.paloaltoonline.com/uncategorized/2007/03/02/restaurante-delicioso/",
     "https://www.paloaltoonline.com/uncategorized/2010/03/19/shop-talk-68/"
    ]
+  },
+  {
+   "name": "Palo Alto Pizza Co.",
+   "address": "2450 Park Blvd",
+   "note": "Palo Alto Pizza Co. opened on Park Boulevard in 2012. By late 2019 the restaurant had been bought out and replaced by Legends Pizza Co.",
+   "start": 2012,
+   "end": 2019,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/blogs/2019/12/03/legends-pizza-co-replaces-palo-alto-pizza-co/"
+   ]
   }
  ],
  "corrections": [

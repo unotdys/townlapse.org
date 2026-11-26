@@ -208,6 +208,24 @@
   ]
  },
  {
+  "name": "Palo Alto Pizza Co.",
+  "address": "2450 Park Blvd",
+  "start": 2012,
+  "end": 2019,
+  "category": "food",
+  "approx": true,
+  "note": "Palo Alto Pizza Co. opened on Park Boulevard in 2012. By late 2019 the restaurant had been bought out and replaced by Legends Pizza Co.",
+  "lat": 37.4280962,
+  "lng": -122.142798,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2019/12/03/legends-pizza-co-replaces-palo-alto-pizza-co/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Rara",
   "address": "201 South California Ave",
   "start": 2023,
