@@ -2555,6 +2555,24 @@
      "https://www.sfgate.com/travel/streetdate/article/University-Avenue-Palo-Alto-2303818.php"
     ]
    }
+  },
+  {
+   "target": "Mills Florist",
+   "target_address": "235 Ramona St",
+   "fields": {
+    "name": "Mills the Florist",
+    "address": "235 University Ave",
+    "note": "Florist on the corner of University Ave and Ramona St, one of a family business that began in 1903 as a nursery on Palo Alto Ave and had earlier shops elsewhere on University Ave. The year it moved to this corner is uncertain, and it is still listed as open.",
+    "end": null,
+    "approx": true,
+    "links": [
+     "https://library.sfgenealogy.org/directory/santa-clara-county-directory/1904d/1904d_052.pdf",
+     "https://www.odealarose.com/blog/?p=16500",
+     "https://www.sfgate.com/travel/streetdate/article/STREET-DATE-University-Avenue-Palo-Alto-2491497.php",
+     "https://www.shoppaloalto.com/millsflorist",
+     "https://www.theknot.com/marketplace/mills-the-florist-palo-alto-ca-369495"
+    ]
+   }
   }
  ]
 }
