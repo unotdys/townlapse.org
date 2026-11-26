@@ -590,17 +590,26 @@
   "lng": -122.145566
  },
  {
-  "name": "Cafe Riace",
+  "name": "Caffe Riace",
   "address": "200 Sheridan Ave",
-  "start": 2026,
+  "start": 1997,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Italian restaurant serving Sicilian cuisine on the ground floor of an apartment building at Sheridan Avenue, just off California Avenue. It opened in 1997 and is still open.",
   "lat": 37.4267276,
-  "lng": -122.1406682
+  "lng": -122.1406682,
+  "links": [
+   {
+    "url": "https://stanforddaily.com/2020/01/10/caffe-riace-scrumptious-sicilian-cuisine-in-stanfords-backyard/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/ae/2016/10/13/shop-talk-caffe-riace-reinvents-itself/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Julian Chase Hair Design",

@@ -314,6 +314,20 @@
      "https://www.paloaltoonline.com/wp-content/uploads/2024/01/2023_10_06.paw_.section1.pdf"
     ]
    }
+  },
+  {
+   "target": "Cafe Riace",
+   "target_address": "200 Sheridan Ave",
+   "fields": {
+    "name": "Caffe Riace",
+    "note": "Italian restaurant serving Sicilian cuisine on the ground floor of an apartment building at Sheridan Avenue, just off California Avenue. It opened in 1997 and is still open.",
+    "start": 1997,
+    "approx": false,
+    "links": [
+     "https://stanforddaily.com/2020/01/10/caffe-riace-scrumptious-sicilian-cuisine-in-stanfords-backyard/",
+     "https://www.paloaltoonline.com/ae/2016/10/13/shop-talk-caffe-riace-reinvents-itself/"
+    ]
+   }
   }
  ]
 }
