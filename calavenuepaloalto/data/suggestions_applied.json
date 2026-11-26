@@ -260,6 +260,20 @@
      "https://www.paloaltoonline.com/palo-alto/2023/09/14/schmear-campaign-peninsula-bagel-shops-with-east-coast-roots-prepare-for-rosh-hashanah-and-yom-kippur-feasts/"
     ]
    }
+  },
+  {
+   "target": "Technology Credit Union",
+   "target_address": "490 South California Ave",
+   "fields": {
+    "note": "Credit union branch that held its grand opening on October 1, 2011, and is still open today.",
+    "start": 2011,
+    "approx": false,
+    "links": [
+     "https://rss.globenewswire.com/fr/news-release/2011/09/29/1523452/0/en/Technology-Credit-Union-Opens-New-Branch-in-Palo-Alto.html",
+     "https://www.buildzoom.com/contractor/ram-building-co-ca",
+     "https://www.paloaltoonline.com/news/2015/07/17/around-town-474/"
+    ]
+   }
   }
  ]
 }

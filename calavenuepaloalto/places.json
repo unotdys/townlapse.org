@@ -461,15 +461,28 @@
  {
   "name": "Technology Credit Union",
   "address": "490 South California Ave",
-  "start": 2026,
+  "start": 2011,
   "end": null,
   "category": "services",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (bank). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Credit union branch that held its grand opening on October 1, 2011, and is still open today.",
   "lat": 37.4253274,
-  "lng": -122.1458797
+  "lng": -122.1458797,
+  "links": [
+   {
+    "url": "https://rss.globenewswire.com/fr/news-release/2011/09/29/1523452/0/en/Technology-Credit-Union-Opens-New-Branch-in-Palo-Alto.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.buildzoom.com/contractor/ram-building-co-ca",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2015/07/17/around-town-474/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Social Salon",
