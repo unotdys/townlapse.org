@@ -2171,6 +2171,40 @@
   ]
  },
  {
+  "name": "OHANA Waikiki Malia",
+  "address": "2211 Kuhio Ave",
+  "start": 2000,
+  "end": 2020,
+  "category": "hotel",
+  "approx": true,
+  "note": "Kuhio Avenue hotel renamed from Waikiki Malia to OHANA Waikiki Malia in March 2000, when Outrigger put all its OHANA-brand hotels under that name. Outrigger used the OHANA name until about 2020, and by 2021 the hotel was called Waikiki Malia by Outrigger.",
+  "lat": 21.2808644,
+  "lng": -157.8283403,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://labor.hawaii.gov/wdc/files/2023/03/March-6-2023-Waikiki-Malia-by-Outrigger.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://hotelonline-assets1.nyc3.digitaloceanspaces.com/wordpress/hotelonline-News/News_posts/PressReleases2000_1st/Mar00_OhanaGrowth.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://news.outrigger.com/2016/03/17/outrigger-enterprises-group-introduces-ohana-hotels-by-outrigger/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://news.outrigger.com/2021/03/17/outrigger-announces-new-leadership-at-its-waikiki-hotels-and-resorts/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.allabouthawaii.com/htl/i03/hnlomh/main.htm",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
