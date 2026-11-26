@@ -2727,6 +2727,36 @@
   ]
  },
  {
+  "name": "Hotel Renew",
+  "address": "129 Paoakalani Ave",
+  "start": 2008,
+  "end": null,
+  "category": "hotel",
+  "approx": false,
+  "note": "Boutique hotel with 72 rooms near the Diamond Head end of Waikiki. It opened in 2008 after a multimillion-dollar remodel of an older building, formerly the Ocean Tower Hotel, and Aston Hotels & Resorts took over running it in 2013.",
+  "lat": 21.2727845,
+  "lng": -157.8222219,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.city-data.com/articles/Hotel-Renew-Honolulu-Hawaii-New-Designer.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hotelexecutive.com/newswire/45187/aston-hotels-resorts-expands-its-collection-of-waikiki-hotels-adding-hotel-renew-by-aston",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.oyster.com/hawaii/hotels/hotel-renew/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelweekly.com/Travel-News/Hotel-News/Hotel-Renew-to-bring-boutique-chic-to-Waikiki",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -9986,19 +10016,6 @@
   "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2826924,
   "lng": -157.8276228
- },
- {
-  "name": "Hotel Renew",
-  "address": "129 Paoakalani Ave",
-  "start": 2026,
-  "end": null,
-  "category": "hotel",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2727845,
-  "lng": -157.8222219
  },
  {
   "name": "Royal Hawaiian Center",

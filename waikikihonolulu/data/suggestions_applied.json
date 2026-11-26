@@ -1532,6 +1532,21 @@
     "https://us.trip.com/hotels/honolulu-hotel-detail-731867/ilima-hotel/",
     "https://www.travelweekly.com/Destinations2001-2007/Hotel-keeps-them-coming-back"
    ]
+  },
+  {
+   "name": "Hotel Renew",
+   "address": "129 Paoakalani Ave",
+   "note": "Boutique hotel with 72 rooms near the Diamond Head end of Waikiki. It opened in 2008 after a multimillion-dollar remodel of an older building, formerly the Ocean Tower Hotel, and Aston Hotels & Resorts took over running it in 2013.",
+   "start": 2008,
+   "end": null,
+   "category": "hotel",
+   "approx": false,
+   "links": [
+    "https://www.city-data.com/articles/Hotel-Renew-Honolulu-Hawaii-New-Designer.html",
+    "https://www.hotelexecutive.com/newswire/45187/aston-hotels-resorts-expands-its-collection-of-waikiki-hotels-adding-hotel-renew-by-aston",
+    "https://www.oyster.com/hawaii/hotels/hotel-renew/",
+    "https://www.travelweekly.com/Travel-News/Hotel-News/Hotel-Renew-to-bring-boutique-chic-to-Waikiki"
+   ]
   }
  ],
  "corrections": [
