@@ -2671,6 +2671,36 @@
   ]
  },
  {
+  "name": "Waikiki Grand Hotel",
+  "address": "134 Kapahulu Ave",
+  "start": 1963,
+  "end": null,
+  "category": "hotel",
+  "approx": true,
+  "note": "Hotel across from the Honolulu Zoo, built around 1962–63 by developer Kanae Kobayashi to a design by architect Ernest Hara. It opened with 172 rooms at $7.50 to $24 a night and still operates as a condo-hotel.",
+  "lat": 21.2719838,
+  "lng": -157.8216728,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.einpresswire.com/article-print/637406815/historic-waikiki-grand-hotel-marks-60-years-with-new-management",
+    "kind": "History"
+   },
+   {
+    "url": "https://sah-archipedia.org/buildings/HI-01-OA149",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.oahure.com/SearchMLS_Details.php?MLSNumber=202509344&PropertyType=RES",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.redfin.com/HI/Honolulu/134-Kapahulu-Ave-Honolulu-HI-96815/building/11678",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -9878,19 +9908,6 @@
   "note": "Open today (tea). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2800006,
   "lng": -157.831834
- },
- {
-  "name": "Waikiki Grand Hotel",
-  "address": "134 Kapahulu Ave",
-  "start": 2026,
-  "end": null,
-  "category": "hotel",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2719269,
-  "lng": -157.8217591
  },
  {
   "name": "Aqua Bamboo Waikiki Hotel",

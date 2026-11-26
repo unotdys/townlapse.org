@@ -1503,6 +1503,21 @@
     "https://www.hospitalitynet.org/announcement/41011205.html",
     "https://www.travelpulse.com/news/hotels-and-resorts/romer-house-waikiki-to-become-oahu-s-first-adults-only-hotel"
    ]
+  },
+  {
+   "name": "Waikiki Grand Hotel",
+   "address": "134 Kapahulu Ave",
+   "note": "Hotel across from the Honolulu Zoo, built around 1962\u201363 by developer Kanae Kobayashi to a design by architect Ernest Hara. It opened with 172 rooms at $7.50 to $24 a night and still operates as a condo-hotel.",
+   "start": 1963,
+   "end": null,
+   "category": "hotel",
+   "approx": true,
+   "links": [
+    "https://sah-archipedia.org/buildings/HI-01-OA149",
+    "https://www.einpresswire.com/article-print/637406815/historic-waikiki-grand-hotel-marks-60-years-with-new-management",
+    "https://www.oahure.com/SearchMLS_Details.php?MLSNumber=202509344&PropertyType=RES",
+    "https://www.redfin.com/HI/Honolulu/134-Kapahulu-Ave-Honolulu-HI-96815/building/11678"
+   ]
   }
  ],
  "corrections": [
