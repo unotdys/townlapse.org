@@ -1341,6 +1341,28 @@
   ]
  },
  {
+  "name": "Sam's Kitchen Express",
+  "address": "2250 Kalakaua Ave",
+  "start": 2025,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Takeout branch of the Waikiki plate-lunch restaurant Sam's Kitchen, known for garlic shrimp, in Waikiki Shopping Plaza. It opened around 2025 and is still open.",
+  "lat": 21.2792987,
+  "lng": -157.8285137,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://waikikishoppingplaza.com/mor-eats-local-favorites-now-open-in-waikiki/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hawaiisam.com/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -7355,19 +7377,6 @@
   "note": "Open today (convenience). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2788553,
   "lng": -157.8293961
- },
- {
-  "name": "Sam's Kitchen",
-  "address": "2250 Kalākaua Ave",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2796684,
-  "lng": -157.8283828
  },
  {
   "name": "Hawaii Beachwear & Fashion",

@@ -790,6 +790,19 @@
     "https://health.hawaii.gov/news/newsroom/doh-approves-fourth-medical-cannabis-retail-dispensaryfor-noa-botanicals/",
     "https://www.einpresswire.com/article/804721695/noa-botanicals-opens-4th-medical-cannabis-dispensary-in-waikiki-on-4-19-just-in-time-for-national-420-celebrations"
    ]
+  },
+  {
+   "name": "Sam's Kitchen Express",
+   "address": "2250 Kalakaua Ave",
+   "note": "Takeout branch of the Waikiki plate-lunch restaurant Sam's Kitchen, known for garlic shrimp, in Waikiki Shopping Plaza. It opened around 2025 and is still open.",
+   "start": 2025,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://waikikishoppingplaza.com/mor-eats-local-favorites-now-open-in-waikiki/",
+    "https://www.hawaiisam.com/"
+   ]
   }
  ],
  "corrections": [
