@@ -378,6 +378,28 @@
   ]
  },
  {
+  "name": "Oaxacan Kitchen",
+  "address": "2323 Birch St",
+  "start": 2008,
+  "end": 2010,
+  "category": "food",
+  "approx": true,
+  "note": "A Mexican restaurant serving Oaxacan dishes near California Avenue. It opened in October 2008 and planned its last meal in early September 2010.",
+  "lat": 37.4278592,
+  "lng": -122.144561,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/news/2008/10/17/shop-talk-48/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/uncategorized/2010/08/13/shop-talk-75/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Rara",
   "address": "201 South California Ave",
   "start": 2023,

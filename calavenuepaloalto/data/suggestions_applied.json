@@ -206,6 +206,19 @@
     "https://www.paloaltoonline.com/ae/2014/05/16/shoptalk-new-fitness-studio-more-space-for-anatolian-kitchen/",
     "https://www.paloaltoonline.com/blogs/2022/10/28/a-palo-alto-restaurant-that-closed-during-the-pandemic-is-reopening-in-a-new-space-in-december/"
    ]
+  },
+  {
+   "name": "Oaxacan Kitchen",
+   "address": "2323 Birch St",
+   "note": "A Mexican restaurant serving Oaxacan dishes near California Avenue. It opened in October 2008 and planned its last meal in early September 2010.",
+   "start": 2008,
+   "end": 2010,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/news/2008/10/17/shop-talk-48/",
+    "https://www.paloaltoonline.com/uncategorized/2010/08/13/shop-talk-75/"
+   ]
   }
  ],
  "corrections": [
