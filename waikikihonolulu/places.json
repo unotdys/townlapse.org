@@ -1319,6 +1319,28 @@
   ]
  },
  {
+  "name": "Noa",
+  "address": "345 Royal Hawaiian Ave",
+  "start": 2025,
+  "end": null,
+  "category": "retail",
+  "approx": true,
+  "note": "Noa Botanicals (Noa), a medical cannabis dispensary, opened its Waikiki location at 345 Royal Hawaiian Avenue on April 19, 2025.",
+  "lat": 21.2801774,
+  "lng": -157.8281216,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://health.hawaii.gov/news/newsroom/doh-approves-fourth-medical-cannabis-retail-dispensaryfor-noa-botanicals/",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.einpresswire.com/article/804721695/noa-botanicals-opens-4th-medical-cannabis-dispensary-in-waikiki-on-4-19-just-in-time-for-national-420-celebrations",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -7320,19 +7342,6 @@
   "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2805307,
   "lng": -157.8279465
- },
- {
-  "name": "Noa",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "retail",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (yes). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2802251,
-  "lng": -157.8281654
  },
  {
   "name": "ABC",

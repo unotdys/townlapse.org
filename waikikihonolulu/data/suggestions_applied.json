@@ -777,6 +777,19 @@
     "http://waffleandberry.com/",
     "https://waikikishoppingplaza.com/reasons-to-visit-waikiki-in-2024/"
    ]
+  },
+  {
+   "name": "Noa",
+   "address": "345 Royal Hawaiian Ave",
+   "note": "Noa Botanicals (Noa), a medical cannabis dispensary, opened its Waikiki location at 345 Royal Hawaiian Avenue on April 19, 2025.",
+   "start": 2025,
+   "end": null,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "https://health.hawaii.gov/news/newsroom/doh-approves-fourth-medical-cannabis-retail-dispensaryfor-noa-botanicals/",
+    "https://www.einpresswire.com/article/804721695/noa-botanicals-opens-4th-medical-cannabis-dispensary-in-waikiki-on-4-19-just-in-time-for-national-420-celebrations"
+   ]
   }
  ],
  "corrections": [
