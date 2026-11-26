@@ -1132,15 +1132,24 @@
  {
   "name": "The Farm",
   "address": "2450 Park Blvd",
-  "start": 2026,
+  "start": 2025,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
   "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 37.4280962,
-  "lng": -122.142798
+  "lng": -122.142798,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/palo-alto/2025/06/24/the-farm-brings-organic-coffee-and-healthy-all-day-food-options-near-palo-altos-california-avenue/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.restaurantji.com/ca/palo-alto/the-farm-/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Get Wax’d",

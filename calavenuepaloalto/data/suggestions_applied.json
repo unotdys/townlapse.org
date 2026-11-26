@@ -549,6 +549,18 @@
      "https://www.paloaltoonline.com/mountain-view/2023/12/07/five-new-palo-alto-eateries-serving-everything-from-jar-cakes-to-nepalese-food/"
     ]
    }
+  },
+  {
+   "target": "The Farm",
+   "target_address": "2450 Park Blvd",
+   "fields": {
+    "start": 2025,
+    "approx": true,
+    "links": [
+     "https://www.paloaltoonline.com/palo-alto/2025/06/24/the-farm-brings-organic-coffee-and-healthy-all-day-food-options-near-palo-altos-california-avenue/",
+     "https://www.restaurantji.com/ca/palo-alto/the-farm-/"
+    ]
+   }
   }
  ]
 }
