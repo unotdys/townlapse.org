@@ -1243,6 +1243,20 @@
      "https://www.pandaexpress.com/locations/ca/palo-alto/1924"
     ]
    }
+  },
+  {
+   "target": "Starbucks",
+   "target_address": "2000 El Camino Real",
+   "fields": {
+    "note": "Opened around spring 1999 in the former Mountain Mike's pizza building at El Camino Real and Stanford Avenue. Still open as a Starbucks cafe today.",
+    "start": 1999,
+    "approx": true,
+    "links": [
+     "https://paloalto.org/directory/cafes/starbucks-2000-el-camino-real/",
+     "https://www.paloaltoonline.com/morgue/news/1998_Aug_19.ATOWN19.html",
+     "https://www.paloaltoonline.com/morgue/news/1999_Mar_10.SHOP10.html"
+    ]
+   }
   }
  ]
 }

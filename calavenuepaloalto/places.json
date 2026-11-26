@@ -2667,15 +2667,28 @@
  {
   "name": "Starbucks",
   "address": "2000 El Camino Real",
-  "start": 2026,
+  "start": 1999,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Opened around spring 1999 in the former Mountain Mike's pizza building at El Camino Real and Stanford Avenue. Still open as a Starbucks cafe today.",
   "lat": 37.4273535,
-  "lng": -122.1492135
+  "lng": -122.1492135,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/news/1998_Aug_19.ATOWN19.html",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/news/1999_Mar_10.SHOP10.html",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://paloalto.org/directory/cafes/starbucks-2000-el-camino-real/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "California Avenue Hardware",
