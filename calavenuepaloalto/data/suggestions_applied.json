@@ -274,6 +274,18 @@
      "https://www.paloaltoonline.com/news/2015/07/17/around-town-474/"
     ]
    }
+  },
+  {
+   "target": "Social Salon",
+   "target_address": "460 Cambridge Ave",
+   "fields": {
+    "note": "Hair salon known for hair extensions, blonding and haircuts, open today. The year it opened isn't known yet.",
+    "links": [
+     "https://www.beautynailhairsalons.com/US/Palo-Alto/129703906889557/Social-Salon",
+     "https://www.socialsalonpaloalto.com/new-clients",
+     "https://www.yelp.ca/biz/social-salon-palo-alto?hl=en_CA"
+    ]
+   }
   }
  ]
 }

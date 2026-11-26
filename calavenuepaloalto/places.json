@@ -493,9 +493,23 @@
   "approx": false,
   "start_unknown": true,
   "source": "osm",
-  "note": "Open today (hairdresser). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Hair salon known for hair extensions, blonding and haircuts, open today. The year it opened isn't known yet.",
   "lat": 37.4264582,
-  "lng": -122.1462551
+  "lng": -122.1462551,
+  "links": [
+   {
+    "url": "https://www.beautynailhairsalons.com/US/Palo-Alto/129703906889557/Social-Salon",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.socialsalonpaloalto.com/new-clients",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.yelp.ca/biz/social-salon-palo-alto?hl=en_CA",
+    "kind": "Listing"
+   }
+  ]
  },
  {
   "name": "Pop Tea Bar",
