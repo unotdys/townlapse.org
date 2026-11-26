@@ -193,6 +193,19 @@
     "https://www.paloaltoonline.com/ae/2019/04/04/shop-talk-howards-shoes-relocates-sushi-bar-expands-2/",
     "https://www.paloaltoonline.com/blogs/2018/02/27/palo-alto-brown-rice-sushi-restaurant-replaces-hommas/"
    ]
+  },
+  {
+   "name": "Anatolian Kitchen",
+   "address": "2323 Birch St",
+   "note": "Kurdish and Turkish restaurant that opened on Birch Street in 2010 and expanded in 2014 into the next-door space where Ramona's Pizza had been. It closed here in 2021 and later reopened on California Avenue.",
+   "start": 2010,
+   "end": 2021,
+   "category": "food",
+   "approx": false,
+   "links": [
+    "https://www.paloaltoonline.com/ae/2014/05/16/shoptalk-new-fitness-studio-more-space-for-anatolian-kitchen/",
+    "https://www.paloaltoonline.com/blogs/2022/10/28/a-palo-alto-restaurant-that-closed-during-the-pandemic-is-reopening-in-a-new-space-in-december/"
+   ]
   }
  ],
  "corrections": [
