@@ -1461,6 +1461,19 @@
     "https://www.mv-voice.com/?p=133015",
     "https://www.paloaltoonline.com/wp-content/uploads/2024/02/2005_08_31.paw_.section2.pdf"
    ]
+  },
+  {
+   "name": "La Chemin\u00e9e",
+   "address": "530 Bryant St",
+   "note": "French restaurant owned by Duane Hooton that opened in 2004 in the former L'Amie Donia space and was reviewed by Palo Alto Online that September. Later status unknown.",
+   "start": 2004,
+   "end": 2004,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.mv-voice.com/morgue/2004/2004_09_24.dining.shtml",
+    "https://www.paloaltoonline.com/morgue/2004/2004_09_10.cheminee10.shtml"
+   ]
   }
  ],
  "corrections": [
