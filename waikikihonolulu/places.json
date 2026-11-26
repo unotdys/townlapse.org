@@ -1227,6 +1227,32 @@
   ]
  },
  {
+  "name": "Honolulu Skewer House",
+  "address": "567 Kapahulu Ave",
+  "start": 2020,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "note": "Northern Chinese skewer restaurant that moved here from Makaloa Street, where it opened in 2018. It reopened in Unit 1A in December 2020, with grills at each table so diners cook their own skewers.",
+  "lat": 21.2780034,
+  "lng": -157.8137737,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://findaloco.com/en/directory/honolulu-skewer-house/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://onolicioushawaii.com/?p=15765",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/honolulu-skewer-houses-new-locale-has-a-new-twist-diy-tabletop-grilling/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,

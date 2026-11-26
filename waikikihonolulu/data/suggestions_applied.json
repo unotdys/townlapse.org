@@ -724,6 +724,20 @@
     "https://alohastatedaily.com/2026/05/19/new-frozen-greek-yogurt-spot-in-honolulu/",
     "https://kanreki-travel.himemode.com/en/piko-kitchen-aloha-greek/"
    ]
+  },
+  {
+   "name": "Honolulu Skewer House",
+   "address": "567 Kapahulu Ave",
+   "note": "Northern Chinese skewer restaurant that moved here from Makaloa Street, where it opened in 2018. It reopened in Unit 1A in December 2020, with grills at each table so diners cook their own skewers.",
+   "start": 2020,
+   "end": null,
+   "category": "food",
+   "approx": false,
+   "links": [
+    "https://findaloco.com/en/directory/honolulu-skewer-house/",
+    "https://onolicioushawaii.com/?p=15765",
+    "https://www.honolulumagazine.com/honolulu-skewer-houses-new-locale-has-a-new-twist-diy-tabletop-grilling/"
+   ]
   }
  ],
  "corrections": [
