@@ -3668,6 +3668,20 @@
      "https://www.travelweekly.com/Hawaii-Travel/Outrigger-unveils-renovated-and-renamed-Waikiki-hotel"
     ]
    }
+  },
+  {
+   "target": "St. Augustine By the Sea Catholic Church",
+   "target_address": "130 Ohua Ave",
+   "fields": {
+    "note": "Catholic parish founded in 1854 with a beach chapel, later moved to land on Ohua Avenue, where a permanent church was blessed in 1901. The present modernist church replaced it in 1962.",
+    "start": 1901,
+    "approx": true,
+    "links": [
+     "https://en.wikipedia.org/wiki/Saint_Augustine_by_the_Sea_Catholic_Church",
+     "https://hawaiicatholicherald.com/2014/08/01/parish-by-the-sea-celebrating-160-years-with-royal-hawaiian-gala/",
+     "https://staugustinebythesea.com/history-1"
+    ]
+   }
   }
  ]
 }

@@ -9253,15 +9253,28 @@
  {
   "name": "St. Augustine By the Sea Catholic Church",
   "address": "130 Ohua Ave",
-  "start": 2026,
+  "start": 1901,
   "end": null,
   "category": "worship",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (place of worship). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Catholic parish founded in 1854 with a beach chapel, later moved to land on Ohua Avenue, where a permanent church was blessed in 1901. The present modernist church replaced it in 1962.",
   "lat": 21.2736885,
-  "lng": -157.8231816
+  "lng": -157.8231816,
+  "links": [
+   {
+    "url": "https://staugustinebythesea.com/history-1",
+    "kind": "History"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Saint_Augustine_by_the_Sea_Catholic_Church",
+    "kind": "Article"
+   },
+   {
+    "url": "https://hawaiicatholicherald.com/2014/08/01/parish-by-the-sea-celebrating-160-years-with-royal-hawaiian-gala/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Kai Aloha Hotel",
