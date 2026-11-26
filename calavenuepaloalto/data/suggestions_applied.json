@@ -351,6 +351,19 @@
     "https://www.paloaltoonline.com/news/2019/01/11/khourys-market-soft-opens-in-college-terrace/",
     "https://www.paloaltoonline.com/news/2020/01/04/another-market-bites-the-dust-at-college-terrace-centre/"
    ]
+  },
+  {
+   "name": "First Baptist Church of Palo Alto",
+   "address": "305 North California Ave",
+   "note": "American Baptist congregation, founded in 1893, that built its steepled church on North California Avenue in 1948 and also rented space to community groups. Membership fell over the decades, and in 2019 the congregation decided to close and sell the building.",
+   "start": 1948,
+   "end": 2019,
+   "category": "worship",
+   "approx": true,
+   "links": [
+    "https://baptistnews.com/article/city-and-church-compromise-in-building-use-dispute/",
+    "https://www.paloaltoonline.com/news/2019/10/25/first-baptist-church-prepares-to-shut-down-sell-assets/"
+   ]
   }
  ],
  "corrections": [

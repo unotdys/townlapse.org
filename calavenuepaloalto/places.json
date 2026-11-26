@@ -628,6 +628,28 @@
   ]
  },
  {
+  "name": "First Baptist Church of Palo Alto",
+  "address": "305 North California Ave",
+  "start": 1948,
+  "end": 2019,
+  "category": "worship",
+  "approx": true,
+  "note": "American Baptist congregation, founded in 1893, that built its steepled church on North California Avenue in 1948 and also rented space to community groups. Membership fell over the decades, and in 2019 the congregation decided to close and sell the building.",
+  "lat": 37.4327831,
+  "lng": -122.1401424,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://baptistnews.com/article/city-and-church-compromise-in-building-use-dispute/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2019/10/25/first-baptist-church-prepares-to-shut-down-sell-assets/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Rara",
   "address": "201 South California Ave",
   "start": 2023,
