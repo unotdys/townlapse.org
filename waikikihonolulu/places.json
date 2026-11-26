@@ -7355,15 +7355,32 @@
  {
   "name": "Tenōre",
   "address": "2250 Kalākaua Ave",
-  "start": 2026,
+  "start": 2025,
   "end": null,
   "category": "retail",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (clothes). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Tenōre, the apparel and lifestyle brand founded by Pat Tenore after he left RVCA, opened its first flagship store in Waikiki Shopping Plaza in September 2025. The 12,000-square-foot, two-story store has apparel on the ground floor and a studio for wellness classes and community events upstairs.",
   "lat": 21.2790238,
-  "lng": -157.8285023
+  "lng": -157.8285023,
+  "links": [
+   {
+    "url": "https://insider.fitt.co/press-release/tenore-opens-flagship-store-bringing-community-wellness-and-culture-to-the-heart-of-waikiki/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://shop-eat-surf-outdoor.com/news/tenore-celebrates-honolulu-flagship-grand-opening/612074/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.businesswire.com/news/home/20250925923843/en/Tenre-Opens-Flagship-Store-Bringing-Community-Wellness-and-Culture-to-the-Heart-of-Waikiki",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.theinertia.com/surf/tenore-opens-first-flagship-store-waikiki/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Kyoto Katsuda",
