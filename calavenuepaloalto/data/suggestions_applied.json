@@ -1036,6 +1036,20 @@
      "https://www.paloaltoonline.com/news/2021/11/05/a-failing-street-as-vacancies-plague-california-avenue-can-the-shopping-district-make-a-comeback/"
     ]
    }
+  },
+  {
+   "target": "College Terrace Library",
+   "target_address": "2600 Wellesley Ave",
+   "fields": {
+    "address": "2300 Wellesley St",
+    "note": "Branch library built in 1936 as a Works Progress Administration project, designed by local architect Charles K. Sumner. It is still in use as a Palo Alto City Library branch.",
+    "start": 1936,
+    "approx": false,
+    "links": [
+     "https://library.cityofpaloalto.org/locations/T/",
+     "https://www.pastheritage.org/inv/invWY/Wellesley2300.html"
+    ]
+   }
   }
  ]
 }

@@ -2184,16 +2184,25 @@
  },
  {
   "name": "College Terrace Library",
-  "address": "2600 Wellesley Ave",
-  "start": 2026,
+  "address": "2300 Wellesley St",
+  "start": 1936,
   "end": null,
   "category": "civic",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (library). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4233732,
-  "lng": -122.1486797
+  "note": "Branch library built in 1936 as a Works Progress Administration project, designed by local architect Charles K. Sumner. It is still in use as a Palo Alto City Library branch.",
+  "lat": 37.4231855,
+  "lng": -122.1488209,
+  "links": [
+   {
+    "url": "https://library.cityofpaloalto.org/locations/T/",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.pastheritage.org/inv/invWY/Wellesley2300.html",
+    "kind": "History"
+   }
+  ]
  },
  {
   "name": "Country Sun",
