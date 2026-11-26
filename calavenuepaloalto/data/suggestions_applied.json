@@ -931,6 +931,21 @@
      "https://www.instagram.com/p/DNdVRwwR95a/"
     ]
    }
+  },
+  {
+   "target": "Wow Tea",
+   "target_address": "2515 El Camino Real",
+   "fields": {
+    "note": "Bubble tea shop that also sells gelato, below office buildings on El Camino Real near California Avenue. It held its grand opening on March 28, 2026.",
+    "start": 2026,
+    "approx": false,
+    "links": [
+     "https://order.online/store/wow-tea-drink-palo-alto-40798441",
+     "https://stgencep.sccgov.org/sccdineout/INSPECTIONREPORT_DAGWNS0ZU.pdf",
+     "https://thecampanile.org/?p=36668",
+     "https://verdemagazine.com/the-wow-factor-trying-palo-altos-newest-boba-tea"
+    ]
+   }
   }
  ]
 }

@@ -1984,11 +1984,28 @@
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Bubble tea shop that also sells gelato, below office buildings on El Camino Real near California Avenue. It held its grand opening on March 28, 2026.",
   "lat": 37.4247998,
-  "lng": -122.1443516
+  "lng": -122.1443516,
+  "links": [
+   {
+    "url": "https://stgencep.sccgov.org/sccdineout/INSPECTIONREPORT_DAGWNS0ZU.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://order.online/store/wow-tea-drink-palo-alto-40798441",
+    "kind": "Article"
+   },
+   {
+    "url": "https://thecampanile.org/?p=36668",
+    "kind": "Article"
+   },
+   {
+    "url": "https://verdemagazine.com/the-wow-factor-trying-palo-altos-newest-boba-tea",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Wells Fargo",
