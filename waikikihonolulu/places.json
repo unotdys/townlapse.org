@@ -8320,15 +8320,32 @@
  {
   "name": "Beach Candy",
   "address": "2570 Kalākaua Ave",
-  "start": 2026,
+  "start": 2022,
   "end": null,
-  "category": "retail",
-  "approx": false,
-  "start_unknown": true,
+  "category": "services",
+  "approx": true,
   "source": "osm",
-  "note": "Open today (sports). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Surf and beach gear rental shop at the Twin Fin Hotel, renting surfboards, paddleboards, chairs and umbrellas. It was operating by the hotel's grand opening in November 2022 and is still open.",
   "lat": 21.2720119,
-  "lng": -157.8228431
+  "lng": -157.8228431,
+  "links": [
+   {
+    "url": "https://prnewswire.com/news-releases/waikiki-ushers-in-a-new-wave-of-hospitality-with-the-twin-fins-grand-opening-301663980.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.alohilaniresort.com/beach-candy",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.beachcandywaikiki.com/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.twinfinwaikiki.com/beach-candy/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Sin-Ice-Stir Shave Ice",

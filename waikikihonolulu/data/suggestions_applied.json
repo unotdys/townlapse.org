@@ -3223,6 +3223,22 @@
      "https://www.honolulumagazine.com/alo-cafe-hawaii-waikiki/"
     ]
    }
+  },
+  {
+   "target": "Beach Candy",
+   "target_address": "2570 Kal\u0101kaua Ave",
+   "fields": {
+    "note": "Surf and beach gear rental shop at the Twin Fin Hotel, renting surfboards, paddleboards, chairs and umbrellas. It was operating by the hotel's grand opening in November 2022 and is still open.",
+    "start": 2022,
+    "category": "services",
+    "approx": true,
+    "links": [
+     "https://prnewswire.com/news-releases/waikiki-ushers-in-a-new-wave-of-hospitality-with-the-twin-fins-grand-opening-301663980.html",
+     "https://www.alohilaniresort.com/beach-candy",
+     "https://www.beachcandywaikiki.com/",
+     "https://www.twinfinwaikiki.com/beach-candy/"
+    ]
+   }
   }
  ]
 }
