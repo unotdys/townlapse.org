@@ -1679,6 +1679,20 @@
      "https://www.sundancethesteakhouse.com/our-story/history/"
     ]
    }
+  },
+  {
+   "target": "California Avenue Optometry",
+   "target_address": "456 South California Ave",
+   "fields": {
+    "note": "Optometry and contact lens clinic with an eyewear showroom, advertising at this address in the Palo Alto Weekly by November 2005. It is still open.",
+    "start": 2005,
+    "approx": true,
+    "links": [
+     "https://www.bestprosintown.com/ca/palo-alto/california-avenue-optometry-and-contact-lens-clinic-/",
+     "https://www.checkbook.org/ca/palo-alto/opticians-optometrists-buying-eyewear/california-avenue-optometry-and-contact-lens-clinic/iy41e",
+     "https://www.paloaltoonline.com/wp-content/uploads/2024/02/2005_11_04.paw_.section1.pdf"
+    ]
+   }
   }
  ]
 }

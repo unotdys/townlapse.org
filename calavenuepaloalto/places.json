@@ -1764,15 +1764,28 @@
  {
   "name": "California Avenue Optometry",
   "address": "456 South California Ave",
-  "start": 2026,
+  "start": 2005,
   "end": null,
   "category": "services",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (optician). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Optometry and contact lens clinic with an eyewear showroom, advertising at this address in the Palo Alto Weekly by November 2005. It is still open.",
   "lat": 37.425791,
-  "lng": -122.1455115
+  "lng": -122.1455115,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/wp-content/uploads/2024/02/2005_11_04.paw_.section1.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.bestprosintown.com/ca/palo-alto/california-avenue-optometry-and-contact-lens-clinic-/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.checkbook.org/ca/palo-alto/opticians-optometrists-buying-eyewear/california-avenue-optometry-and-contact-lens-clinic/iy41e",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "The Cobblery",
