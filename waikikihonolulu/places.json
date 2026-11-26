@@ -3015,6 +3015,32 @@
   ]
  },
  {
+  "name": "Courtyard by Marriott Waikiki Beach",
+  "address": "400 Royal Hawaiian Ave",
+  "start": 2009,
+  "end": null,
+  "category": "hotel",
+  "approx": false,
+  "note": "Marriott opened this Courtyard hotel with a Hawaiian blessing ceremony on June 2, 2009. The property was formerly The Wyland Waikiki, which had been renovated in 2007, in a building listed as built in 1969.",
+  "lat": 21.2814211,
+  "lng": -157.8282568,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.hotelexecutive.com/newswire/28620/courtyard-by-marriott-opens-in-waikiki",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.marriott.com/en-us/hotels/hnlow-courtyard-waikiki-beach/overview/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.successfulmeetings.com/Meeting-Event-Venues/Honolulu/Convention-Hotel/Courtyard-by-Marriott-Waikiki-Beach-p53035244",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -10644,19 +10670,6 @@
   "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.280894,
   "lng": -157.8292527
- },
- {
-  "name": "Courtyard by Marriott Waikiki Beach",
-  "address": "400 Royal Hawaiian Ave",
-  "start": 2026,
-  "end": null,
-  "category": "hotel",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2814154,
-  "lng": -157.8277325
  },
  {
   "name": "Kuhio Ebbtide Hotel",
