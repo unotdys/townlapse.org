@@ -6999,11 +6999,28 @@
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Cafe serving 100% Kona coffee and pastries baked on site, on the ground floor of the Lilia Waikiki tower. It soft-opened in June 2026 and held its grand opening on July 1, 2026, after its original Ka'a'awa cafe closed.",
   "lat": 21.2782562,
-  "lng": -157.8242772
+  "lng": -157.8242772,
+  "links": [
+   {
+    "url": "https://alohastatedaily.com/2026/06/19/hala-tree-cafe-is-opening-in-waikiki/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://sprudge.com/hala-tree-coffee-expands-with-new-waikiki-flagship-opening-july-2026-at-the-lilia-waikiki-1028531.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/?p=841906",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/hala-tree-cafe-waikiki/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Kamukura Surf + Dine",
