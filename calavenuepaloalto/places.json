@@ -417,15 +417,24 @@
  {
   "name": "Leaf & Petal",
   "address": "439 South California Ave",
-  "start": 2026,
+  "start": 1980,
   "end": null,
   "category": "retail",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (clothes). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Women's clothing boutique, in business since 1976. A 2010 report said it had been on California Avenue for 30 years, so it arrived around 1980, and it is still open.",
   "lat": 37.4258836,
-  "lng": -122.1449706
+  "lng": -122.1449706,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/best-of/2025-best-of/2025/07/19/best-of-2025-retail/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/uncategorized/2010/07/09/shop-talk-74/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Izzy's Brooklyn Bagels",

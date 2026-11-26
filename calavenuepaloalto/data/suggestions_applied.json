@@ -235,6 +235,19 @@
      "https://www.paloaltoonline.com/blogs/2018/04/13/palo-altos-vin-vino-wine-sold-to-new-owners/"
     ]
    }
+  },
+  {
+   "target": "Leaf & Petal",
+   "target_address": "439 South California Ave",
+   "fields": {
+    "note": "Women's clothing boutique, in business since 1976. A 2010 report said it had been on California Avenue for 30 years, so it arrived around 1980, and it is still open.",
+    "start": 1980,
+    "approx": true,
+    "links": [
+     "https://www.paloaltoonline.com/best-of/2025-best-of/2025/07/19/best-of-2025-retail/",
+     "https://www.paloaltoonline.com/uncategorized/2010/07/09/shop-talk-74/"
+    ]
+   }
   }
  ]
 }
