@@ -599,6 +599,19 @@
     "https://www.paloaltoonline.com/blogs/2016/06/08/poki-bowl-eyes-palo-alto-location/",
     "https://www.paloaltoonline.com/news/2019/03/26/possible-measles-exposure-hits-palo-alto-area/"
    ]
+  },
+  {
+   "name": "The Counter",
+   "address": "369 South California Ave",
+   "note": "Custom-burger restaurant that opened in August 2006 as the chain's first franchise location. It closed at the end of July 2021 after 15 years on California Avenue.",
+   "start": 2006,
+   "end": 2021,
+   "category": "food",
+   "approx": false,
+   "links": [
+    "https://www.paloaltoonline.com/ae/2021/07/14/the-counter-plans-to-close-palo-alto-site-after-15-years/",
+    "https://www.paloaltoonline.com/news/2021/07/13/the-counter-plans-to-close-palo-alto-site-after-15-years/"
+   ]
   }
  ],
  "corrections": [

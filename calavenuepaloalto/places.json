@@ -1080,6 +1080,28 @@
   ]
  },
  {
+  "name": "The Counter",
+  "address": "369 South California Ave",
+  "start": 2006,
+  "end": 2021,
+  "category": "food",
+  "approx": false,
+  "note": "Custom-burger restaurant that opened in August 2006 as the chain's first franchise location. It closed at the end of July 2021 after 15 years on California Avenue.",
+  "lat": 37.4267434,
+  "lng": -122.1442477,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/ae/2021/07/14/the-counter-plans-to-close-palo-alto-site-after-15-years/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2021/07/13/the-counter-plans-to-close-palo-alto-site-after-15-years/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Rara",
   "address": "201 South California Ave",
   "start": 2023,
