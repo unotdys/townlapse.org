@@ -1489,6 +1489,32 @@
   ]
  },
  {
+  "name": "Good Chicken",
+  "address": "2250 Kalakaua Ave",
+  "start": 2024,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "note": "Korean fried chicken stall, a second location of the Kaka'ako shop, that soft-opened in March 2024 in the STIX ASIA food hall on the lower level of Waikiki Shopping Plaza.",
+  "lat": 21.2792987,
+  "lng": -157.8285137,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://static1.squarespace.com/static/5d289e4caad70300015b6415/t/663c862a11c0670be99e28c7/1715242562259/WWW2024_May_final.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.honolulucoupon.com/post/monthly-update-march-2024-cafe-and-restaurant-openings-in-hawaii/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/?p=687298",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -7628,19 +7654,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Good Chicken",
-  "address": "2250 Kalākaua Ave",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2790879,
-  "lng": -157.8285331
  },
  {
   "name": "Diesel",

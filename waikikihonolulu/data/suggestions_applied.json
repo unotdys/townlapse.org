@@ -872,6 +872,20 @@
     "https://www.hawaiimagazine.com/stix-asia-food-hall-brings-17-new-asian-restaurants-to-waikiki/",
     "https://www.qsrmagazine.com/news/asian-food-hall-stix-asia-opens-waikiki-hawaii/"
    ]
+  },
+  {
+   "name": "Good Chicken",
+   "address": "2250 Kalakaua Ave",
+   "note": "Korean fried chicken stall, a second location of the Kaka'ako shop, that soft-opened in March 2024 in the STIX ASIA food hall on the lower level of Waikiki Shopping Plaza.",
+   "start": 2024,
+   "end": null,
+   "category": "food",
+   "approx": false,
+   "links": [
+    "https://static1.squarespace.com/static/5d289e4caad70300015b6415/t/663c862a11c0670be99e28c7/1715242562259/WWW2024_May_final.pdf",
+    "https://www.honolulucoupon.com/post/monthly-update-march-2024-cafe-and-restaurant-openings-in-hawaii/",
+    "https://www.honolulumagazine.com/?p=687298"
+   ]
   }
  ],
  "corrections": [
