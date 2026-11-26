@@ -7038,15 +7038,36 @@
  {
   "name": "Donut King",
   "address": "2310 Kūhiō Ave",
-  "start": 2026,
+  "start": 2021,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Donut shop that opened in 2021 as the chain's third Oahu location, after Kaimuki and Kailua. It took over the former 88 Tees space in the Waikiki Marketplace and is still open.",
   "lat": 21.2792941,
-  "lng": -157.8257369
+  "lng": -157.8257369,
+  "links": [
+   {
+    "url": "https://Wanderlog.com/place/details/4284900/donut-king-waikiki",
+    "kind": "Article"
+   },
+   {
+    "url": "https://wanderlog.com/place/details/4284900/donut-king-waikiki",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulucoupon.com/post/the-last-of-the-new-in-2021-the-best-of-oahus-latest-restaurant-and-shop-openings/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://foursquare.com/v/donut-king/61612ef74a9a821599c934b5",
+    "kind": "Listing"
+   },
+   {
+    "url": "https://www.yelp.com/biz/donut-king-waikiki-honolulu",
+    "kind": "Listing"
+   }
+  ]
  },
  {
   "name": "Aloha Greek",

@@ -2795,6 +2795,22 @@
      "https://www.opentable.com/r/han-no-daidokoro-waikiki-honolulu"
     ]
    }
+  },
+  {
+   "target": "Donut King",
+   "target_address": "2310 K\u016bhi\u014d Ave",
+   "fields": {
+    "note": "Donut shop that opened in 2021 as the chain's third Oahu location, after Kaimuki and Kailua. It took over the former 88 Tees space in the Waikiki Marketplace and is still open.",
+    "start": 2021,
+    "approx": false,
+    "links": [
+     "https://Wanderlog.com/place/details/4284900/donut-king-waikiki",
+     "https://foursquare.com/v/donut-king/61612ef74a9a821599c934b5",
+     "https://wanderlog.com/place/details/4284900/donut-king-waikiki",
+     "https://www.honolulucoupon.com/post/the-last-of-the-new-in-2021-the-best-of-oahus-latest-restaurant-and-shop-openings/",
+     "https://www.yelp.com/biz/donut-king-waikiki-honolulu"
+    ]
+   }
   }
  ]
 }
