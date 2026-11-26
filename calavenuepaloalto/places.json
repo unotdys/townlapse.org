@@ -2089,15 +2089,28 @@
  {
   "name": "Domino's",
   "address": "240 Cambridge Ave",
-  "start": 2026,
+  "start": 2015,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Pizza delivery and carryout shop at 240-B Cambridge Ave near California Avenue, operating by 2015 and still open today. It may have opened earlier.",
   "lat": 37.4291222,
-  "lng": -122.1441367
+  "lng": -122.1441367,
+  "links": [
+   {
+    "url": "https://paloaltoonline.com/wp-content/uploads/2024/03/2004_09_22.paw_.section1.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://location.com/categories/food-and-dining/us/ca/palo-alto/domino-s-pizza-2692848087",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2015/08/21/around-town-479/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Citibank",
