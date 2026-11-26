@@ -1092,6 +1092,20 @@
      "https://www.paloaltoonline.com/news/2007/11/14/shop-talk-34/"
     ]
    }
+  },
+  {
+   "target": "Hotel California",
+   "target_address": "2431 Ash St",
+   "fields": {
+    "note": "Small hotel near California Ave, listed at this address in conference hotel guides by 1995 and 1996. In 2016 its 20 rooms were turned into single-room affordable housing run by the Palo Alto Housing Corporation, and it kept the Hotel California name.",
+    "start": 1995,
+    "approx": true,
+    "links": [
+     "https://legacy.python.org/workshops/1995-05/hotels.html",
+     "https://www.cs.brandeis.edu/~zippy/gp-96-hotels-and-travel.txt",
+     "https://www.paloaltoonline.com/news/2016/07/27/hotel-california-rooms-to-be-reserved-for-affordable-housing/"
+    ]
+   }
   }
  ]
 }

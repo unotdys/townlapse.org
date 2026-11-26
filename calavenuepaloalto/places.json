@@ -2289,15 +2289,28 @@
  {
   "name": "Hotel California",
   "address": "2431 Ash St",
-  "start": 2026,
+  "start": 1995,
   "end": null,
   "category": "hotel",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Small hotel near California Ave, listed at this address in conference hotel guides by 1995 and 1996. In 2016 its 20 rooms were turned into single-room affordable housing run by the Palo Alto Housing Corporation, and it kept the Hotel California name.",
   "lat": 37.4265797,
-  "lng": -122.1442767
+  "lng": -122.1442767,
+  "links": [
+   {
+    "url": "https://legacy.python.org/workshops/1995-05/hotels.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.cs.brandeis.edu/~zippy/gp-96-hotels-and-travel.txt",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2016/07/27/hotel-california-rooms-to-be-reserved-for-affordable-housing/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Norge Village Cleaners",
