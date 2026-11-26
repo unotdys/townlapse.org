@@ -1187,6 +1187,21 @@
      "https://www.paloaltoonline.com/news/2009/01/02/bike-sales-cruising-despite-recession/"
     ]
    }
+  },
+  {
+   "target": "The Good Salad",
+   "target_address": "2051 El Camino Real",
+   "fields": {
+    "note": "A salad shop serving made-to-order salads. It opened around 2023, when the chain expanded from its first Santa Clara location.",
+    "start": 2023,
+    "approx": true,
+    "links": [
+     "https://frankiapp.com/business/the-good-salad-99916",
+     "https://order.online/store/~25870826",
+     "https://www.paloaltoonline.com/ae/2023/08/24/check-out-5-of-the-newest-eateries-around-the-peninsula-and-beyond/",
+     "https://www.thegoodsalad.com/the-good-salad-story"
+    ]
+   }
   }
  ]
 }

@@ -2485,15 +2485,32 @@
  {
   "name": "The Good Salad",
   "address": "2051 El Camino Real",
-  "start": 2026,
+  "start": 2023,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "A salad shop serving made-to-order salads. It opened around 2023, when the chain expanded from its first Santa Clara location.",
   "lat": 37.42756,
-  "lng": -122.1485637
+  "lng": -122.1485637,
+  "links": [
+   {
+    "url": "https://frankiapp.com/business/the-good-salad-99916",
+    "kind": "Article"
+   },
+   {
+    "url": "https://order.online/store/~25870826",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/ae/2023/08/24/check-out-5-of-the-newest-eateries-around-the-peninsula-and-beyond/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.thegoodsalad.com/the-good-salad-story",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Jerusalem Baptist Church",
