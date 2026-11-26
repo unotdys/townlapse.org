@@ -9689,15 +9689,28 @@
  {
   "name": "Lucoral Museum",
   "address": "2414 Kūhiō Ave",
-  "start": 2026,
+  "start": 1989,
   "end": null,
   "category": "community",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (museum). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Family-run museum of rocks, minerals and coral, named for the owners' family name Lu. Sources say it opened around 1989–1990 and it is still open.",
   "lat": 21.2771822,
-  "lng": -157.8237014
+  "lng": -157.8237014,
+  "links": [
+   {
+    "url": "https://www.hawaiimuseums.org/list-of-museums/",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.sfgate.com/hawaii/article/lucoral-museum-hawaii-waikiki-20302586.php",
+    "kind": "History"
+   },
+   {
+    "url": "https://nadinekamportfolio.blogspot.com/2015/07/part-2-summer-make-and-take-at-lucoral.html",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Denny's",

@@ -3771,6 +3771,20 @@
      "https://staugustinebythesea.com/history-1"
     ]
    }
+  },
+  {
+   "target": "Lucoral Museum",
+   "target_address": "2414 K\u016bhi\u014d Ave",
+   "fields": {
+    "note": "Family-run museum of rocks, minerals and coral, named for the owners' family name Lu. Sources say it opened around 1989\u20131990 and it is still open.",
+    "start": 1989,
+    "approx": true,
+    "links": [
+     "https://nadinekamportfolio.blogspot.com/2015/07/part-2-summer-make-and-take-at-lucoral.html",
+     "https://www.hawaiimuseums.org/list-of-museums/",
+     "https://www.sfgate.com/hawaii/article/lucoral-museum-hawaii-waikiki-20302586.php"
+    ]
+   }
   }
  ]
 }
