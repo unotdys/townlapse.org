@@ -576,6 +576,19 @@
      "https://www.paloaltoonline.com/blogs/2018/11/29/palo-altos-protg-earns-michelin-star/"
     ]
    }
+  },
+  {
+   "target": "Fambrini's Cafe",
+   "target_address": "2500 El Camino Real",
+   "fields": {
+    "note": "Daytime cafe serving sandwiches, salads and other breakfast and lunch fare, founded in the early 1990s at 2600 El Camino Real next door. It moved to a ground-floor space with a patio here and reopened on July 26, 2017.",
+    "start": 2017,
+    "approx": false,
+    "links": [
+     "https://www.paloaltoonline.com/blogs/2017/04/06/fambrinis-temporarily-closes-to-move-next-door/",
+     "https://www.paloaltoonline.com/peninsula-foodist/2017/07/24/fambrinis-cafe-to-reopen-in-palo-alto/"
+    ]
+   }
   }
  ]
 }
