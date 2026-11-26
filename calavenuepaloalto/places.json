@@ -278,6 +278,36 @@
   ]
  },
  {
+  "name": "Kelly-Moore Paints",
+  "address": "411 Page Mill Rd",
+  "start": 2012,
+  "end": 2024,
+  "category": "retail",
+  "approx": true,
+  "note": "Paint store at 411 Page Mill Road. It closed in January 2024 when the Kelly-Moore chain shut all of its stores, and the address is now a Sherwin-Williams paint store.",
+  "lat": 37.4240882,
+  "lng": -122.140649,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.cityofpaloalto.org/files/assets/public/v/1/agendas-minutes-reports/reports/city-manager-reports-cmrs/year-archive/2012/425-page-mill-id-3253.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Kelly-Moore_Paints",
+    "kind": "Article"
+   },
+   {
+    "url": "https://resource.stopwaste.org/vendor/kelly-moore-paints-palo-alto-411-page-mill-road",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.thestreet.com/retail/popular-home-improvement-retailer-shuts-down-no-bankruptcy-plans",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Rara",
   "address": "201 South California Ave",
   "start": 2023,
