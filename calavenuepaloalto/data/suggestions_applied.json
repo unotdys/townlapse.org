@@ -221,6 +221,20 @@
      "https://www.paloaltoonline.com/news/2007/11/14/shop-talk-34/"
     ]
    }
+  },
+  {
+   "target": "Vin Vino Wine",
+   "target_address": "437 South California Ave",
+   "fields": {
+    "note": "Wine shop with a daily tasting bar that moved here around 1989 from its first location on Cambridge Avenue, where it opened in 1985. New owners bought it in 2018 and kept the name.",
+    "start": 1989,
+    "category": "retail",
+    "approx": true,
+    "links": [
+     "https://www.paloaltoonline.com/ae/2014/10/17/the-grand-cru-of-wine-shops/",
+     "https://www.paloaltoonline.com/blogs/2018/04/13/palo-altos-vin-vino-wine-sold-to-new-owners/"
+    ]
+   }
   }
  ]
 }
