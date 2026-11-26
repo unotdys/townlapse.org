@@ -168,6 +168,20 @@
      "https://www.sanjose.com/2017/09/14/kali-greek-kitchen-takes-minimal-to-the-max/"
     ]
    }
+  },
+  {
+   "target": "Anatolian Kitchen",
+   "target_address": "340 South California Ave",
+   "fields": {
+    "note": "Kurdish and Turkish restaurant that moved into the former Port of Peri Peri space and planned to reopen here in December 2022. Its earlier Birch Street location closed in 2021.",
+    "start": 2022,
+    "approx": true,
+    "links": [
+     "https://edition.pagesuite.com/tribune/article_popover.aspx?guid=28b5b50e-bb43-41c8-8615-0b3f45fc0f24",
+     "https://whatnow.com/san-francisco/restaurants/anatolian-kitchen-moving-to-new-palo-alto-address/",
+     "https://www.paloaltoonline.com/blogs/2022/10/28/a-palo-alto-restaurant-that-closed-during-the-pandemic-is-reopening-in-a-new-space-in-december/"
+    ]
+   }
   }
  ]
 }

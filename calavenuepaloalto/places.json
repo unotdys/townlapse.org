@@ -303,15 +303,28 @@
  {
   "name": "Anatolian Kitchen",
   "address": "340 South California Ave",
-  "start": 2026,
+  "start": 2022,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Kurdish and Turkish restaurant that moved into the former Port of Peri Peri space and planned to reopen here in December 2022. Its earlier Birch Street location closed in 2021.",
   "lat": 37.4271019,
-  "lng": -122.144448
+  "lng": -122.144448,
+  "links": [
+   {
+    "url": "https://edition.pagesuite.com/tribune/article_popover.aspx?guid=28b5b50e-bb43-41c8-8615-0b3f45fc0f24",
+    "kind": "Article"
+   },
+   {
+    "url": "https://whatnow.com/san-francisco/restaurants/anatolian-kitchen-moving-to-new-palo-alto-address/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2022/10/28/a-palo-alto-restaurant-that-closed-during-the-pandemic-is-reopening-in-a-new-space-in-december/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Gamelandia",
