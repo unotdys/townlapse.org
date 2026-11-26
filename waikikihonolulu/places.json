@@ -2111,6 +2111,36 @@
   ]
  },
  {
+  "name": "The Surfjack Hotel & Swim Club",
+  "address": "412 Lewers St",
+  "start": 2016,
+  "end": null,
+  "category": "hotel",
+  "approx": false,
+  "note": "Boutique hotel with 112 rooms in a midcentury style, which opened on March 31, 2016, in a renovated Lewers Street building from around 1960. Its pool deck hosts the Swim Club, and Ed Kenney's restaurant Mahina and Sun's is also inside.",
+  "lat": 21.2820881,
+  "lng": -157.8281776,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://hospitalitydesign.com/?p=17417",
+    "kind": "Article"
+   },
+   {
+    "url": "https://surfjack.com/contact/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://surfjack.com/press-release/surfjack-hotel-swim-club-now-open/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.dwell.com/article/surfjack-hotel-and-swim-club-honolulu-hawaii-9147f39a",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -9474,19 +9504,6 @@
   "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2804496,
   "lng": -157.8276445
- },
- {
-  "name": "The Surfjack",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "hotel",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2820191,
-  "lng": -157.8282431
  },
  {
   "name": "shoreline Hotel · Waikiki",
