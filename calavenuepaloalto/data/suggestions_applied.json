@@ -561,6 +561,21 @@
      "https://www.restaurantji.com/ca/palo-alto/the-farm-/"
     ]
    }
+  },
+  {
+   "target": "Prot\u00e9g\u00e9",
+   "target_address": "250 South California Ave",
+   "fields": {
+    "note": "Restaurant opened in March 2018 by a chef and a master sommelier who had both worked at the French Laundry. It earned a Michelin star in November 2018, about nine months after opening.",
+    "start": 2018,
+    "approx": false,
+    "links": [
+     "https://en.wikipedia.org/wiki/Prot%C3%A9g%C3%A9_(restaurant)",
+     "https://n2v.paloaltoonline.com/blogs/p/2018/11/29/palo-altos-protg-earns-michelin-star",
+     "https://www.paloaltoonline.com/blogs/2018/03/24/protg-restaurant-opens-in-palo-alto/",
+     "https://www.paloaltoonline.com/blogs/2018/11/29/palo-altos-protg-earns-michelin-star/"
+    ]
+   }
   }
  ]
 }

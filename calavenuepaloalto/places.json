@@ -1180,15 +1180,32 @@
  {
   "name": "Protégé",
   "address": "250 South California Ave",
-  "start": 2026,
+  "start": 2018,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Restaurant opened in March 2018 by a chef and a master sommelier who had both worked at the French Laundry. It earned a Michelin star in November 2018, about nine months after opening.",
   "lat": 37.4278948,
-  "lng": -122.1437532
+  "lng": -122.1437532,
+  "links": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Prot%C3%A9g%C3%A9_(restaurant",
+    "kind": "Article"
+   },
+   {
+    "url": "https://n2v.paloaltoonline.com/blogs/p/2018/11/29/palo-altos-protg-earns-michelin-star",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2018/03/24/protg-restaurant-opens-in-palo-alto/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2018/11/29/palo-altos-protg-earns-michelin-star/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Fambrini's Cafe",
