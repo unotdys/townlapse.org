@@ -2141,6 +2141,36 @@
   ]
  },
  {
+  "name": "Shoreline Hotel Waikiki",
+  "address": "342 Seaside Ave",
+  "start": 2013,
+  "end": null,
+  "category": "hotel",
+  "approx": false,
+  "note": "Boutique hotel with 135 rooms on Seaside Avenue, formerly the Seaside Hotel, once owned by United Airlines. It reopened as Shoreline Hotel Waikiki in spring 2013 after a renovation under Joie de Vivre Hotels.",
+  "lat": 21.2798525,
+  "lng": -157.8278189,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://hospitalitydesign.com/news/joie-de-vivre-launches-the-shoreline-hotel-waikiki/26615",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hotel-online.com/News/PR2013_2nd/Apr13_ShorelineWaikiki.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.revealedtravelguides.com/resort-reviews/shoreline-hotel-waikiki/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelweekly.com/Hawaii-Travel/Renovation-nears-completion-at-Shoreline-Hotel-Waikiki",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -9504,19 +9534,6 @@
   "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2804496,
   "lng": -157.8276445
- },
- {
-  "name": "shoreline Hotel · Waikiki",
-  "address": "342 Seaside Ave",
-  "start": 2026,
-  "end": null,
-  "category": "hotel",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.27985,
-  "lng": -157.827818
  },
  {
   "name": "T Galleria",
