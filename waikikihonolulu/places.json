@@ -2817,6 +2817,36 @@
   ]
  },
  {
+  "name": "Embassy Suites by Hilton Waikiki Beach Walk",
+  "address": "201 Beach Walk",
+  "start": 2006,
+  "end": null,
+  "category": "hotel",
+  "approx": false,
+  "note": "All-suite hotel that opened in December 2006 as the anchor of the Waikiki Beach Walk redevelopment. It was built on the site of the former Ohana Waikiki Village and Ohana Waikiki Tower hotels.",
+  "lat": 21.2793147,
+  "lng": -157.8314871,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://archives.starbulletin.com/2008/02/10/business/story01.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hilton.com/en/hotels/hnleses-embassy-suites-waikiki-beach-walk",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hotelexecutive.com/newswire/2824/embassy-suites-waikiki-beach-walk-opens",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelweekly.com/Hawaii-Travel/Embassy-Suites-opens-doors-on-Waikiki-Beach-Walk",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -10323,19 +10353,6 @@
   "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2790242,
   "lng": -157.8306922
- },
- {
-  "name": "Embassy Suites by Hilton Waikiki Beach Walk",
-  "address": "201 Beach Walk",
-  "start": 2026,
-  "end": null,
-  "category": "hotel",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2791105,
-  "lng": -157.8315679
  },
  {
   "name": "ABC",
