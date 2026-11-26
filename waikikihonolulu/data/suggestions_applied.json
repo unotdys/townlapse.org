@@ -1259,6 +1259,21 @@
     "https://www.gohawaii.com/listing/the-laylow-autograph-collection/86758",
     "https://www.prnewswire.com/news-releases/oahus-first-autograph-collection-hotel-heralds-a-new-era-in-honolulu-300456144.html"
    ]
+  },
+  {
+   "name": "Waikiki Community Center",
+   "address": "310 Paoakalani Ave",
+   "note": "Nonprofit community center founded in 1978 that serves Waikiki seniors and children. It first operated at other Waikiki sites and moved to the former St. Augustine School grounds after the state bought them in 1981.",
+   "start": 1981,
+   "end": null,
+   "category": "community",
+   "approx": true,
+   "links": [
+    "https://data.capitol.hawaii.gov/sessions/session2003/Bills/HR82_.htm",
+    "https://data.capitol.hawaii.gov/sessions/session2022/2022GIA-Apps/Waikiki%20Community%20Center%20CIP_Redacted.pdf",
+    "https://www.guidestar.org/profile/99-0179392",
+    "https://www.waikikicommunitycenter.org/get-involved"
+   ]
   }
  ],
  "corrections": [
