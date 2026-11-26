@@ -1106,6 +1106,20 @@
      "https://www.paloaltoonline.com/news/2016/07/27/hotel-california-rooms-to-be-reserved-for-affordable-housing/"
     ]
    }
+  },
+  {
+   "target": "The Bike Connection",
+   "target_address": "2011 El Camino Real",
+   "fields": {
+    "note": "A bicycle shop said to have been founded in 1990 as a small shop near Stanford. It was a reader favorite on El Camino Real by 2000 and is still a Trek retailer at this address.",
+    "start": 1990,
+    "approx": true,
+    "links": [
+     "https://www.giftly.com/gift-card/bike-connection-san-francisco",
+     "https://www.paloaltoonline.com/best-of/2000/08/30/best-of-2000/",
+     "https://www.trekbikes.com/ie/en_IE/store/345980/"
+    ]
+   }
   }
  ]
 }
