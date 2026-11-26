@@ -2997,6 +2997,24 @@
   ]
  },
  {
+  "name": "International Market Place",
+  "address": "2330 Kalakaua Ave",
+  "start": 1956,
+  "end": null,
+  "category": "retail",
+  "approx": false,
+  "note": "Open-air shopping and entertainment center founded by Donn Beach in 1956. Its original buildings were torn down in 2013, and the rebuilt center reopened on August 25, 2016.",
+  "lat": 21.2783385,
+  "lng": -157.8260782,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://en.wikipedia.org/wiki/International_Market_Place",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -10652,18 +10670,5 @@
   "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.276071,
   "lng": -157.822551
- },
- {
-  "name": "International Marketplace",
-  "address": "2330 Kalākaua Ave",
-  "start": 2026,
-  "end": null,
-  "category": "retail",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (mall). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2783543,
-  "lng": -157.826177
  }
 ]

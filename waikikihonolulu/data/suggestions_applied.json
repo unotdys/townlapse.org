@@ -1667,6 +1667,18 @@
     "https://www.travelagewest.com/Travel/Hawaii/Outrigger-Hotels-and-Resorts-Celebrates-70-Years-of-Aloha",
     "https://www.travelweekly.com/Hotels/Honolulu/Outrigger-Waikiki-Paradise-Hotel-p59808167"
    ]
+  },
+  {
+   "name": "International Market Place",
+   "address": "2330 Kalakaua Ave",
+   "note": "Open-air shopping and entertainment center founded by Donn Beach in 1956. Its original buildings were torn down in 2013, and the rebuilt center reopened on August 25, 2016.",
+   "start": 1956,
+   "end": null,
+   "category": "retail",
+   "approx": false,
+   "links": [
+    "https://en.wikipedia.org/wiki/International_Market_Place"
+   ]
   }
  ],
  "corrections": [
