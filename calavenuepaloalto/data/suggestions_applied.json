@@ -450,6 +450,19 @@
      "https://www.paloaltoonline.com/news/2007/06/20/shop-talk-know-knew-books-tries-a-survival-tactic-2/"
     ]
    }
+  },
+  {
+   "target": "Campus Barber Shop",
+   "target_address": "475 South California Ave",
+   "fields": {
+    "note": "Barber shop on California Avenue, open at least since 2011, when a local neighborhood haircut guide recommended it at this address. It is still listed here today, and it may have opened earlier.",
+    "start": 2011,
+    "approx": true,
+    "links": [
+     "https://localwiki.org/montaloma/Hair_Salons",
+     "https://stanfordrentalhomes.stanford.edu/neighborhood/palo-alto-location-map"
+    ]
+   }
   }
  ]
 }
