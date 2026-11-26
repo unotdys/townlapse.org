@@ -155,6 +155,19 @@
      "https://www.zombierunner.com/pages/about-us"
     ]
    }
+  },
+  {
+   "target": "Kali Greek Kitchen",
+   "target_address": "451 South California Ave",
+   "fields": {
+    "note": "Fast-casual Greek restaurant that opened in June 2017. Its space had been empty for about three years after Uzumaki Sushi closed.",
+    "start": 2017,
+    "approx": false,
+    "links": [
+     "https://www.paloaltoonline.com/uncategorized/2017/08/11/something-new-to-eat-under-the-sun-2/",
+     "https://www.sanjose.com/2017/09/14/kali-greek-kitchen-takes-minimal-to-the-max/"
+    ]
+   }
   }
  ]
 }

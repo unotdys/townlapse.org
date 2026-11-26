@@ -281,15 +281,24 @@
  {
   "name": "Kali Greek Kitchen",
   "address": "451 South California Ave",
-  "start": 2026,
+  "start": 2017,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Fast-casual Greek restaurant that opened in June 2017. Its space had been empty for about three years after Uzumaki Sushi closed.",
   "lat": 37.4257266,
-  "lng": -122.145111
+  "lng": -122.145111,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/uncategorized/2017/08/11/something-new-to-eat-under-the-sun-2/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.sanjose.com/2017/09/14/kali-greek-kitchen-takes-minimal-to-the-max/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Anatolian Kitchen",
