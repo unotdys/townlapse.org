@@ -1120,6 +1120,19 @@
      "https://www.trekbikes.com/ie/en_IE/store/345980/"
     ]
    }
+  },
+  {
+   "target": "AT&T",
+   "target_address": "2805 El Camino Real",
+   "fields": {
+    "note": "AT&T mobile phone store at El Camino Real and Page Mill Road. It was listed at this address by June 2007 when the iPhone launched, and it is still open today.",
+    "start": 2007,
+    "approx": true,
+    "links": [
+     "https://www.att.com/stores/california/palo-alto/2162",
+     "https://www.macprices.net/columns/hildreth_leo/070628_AT&T-Stores-Near-Apple-with-iPhones-on-June29.shtml"
+    ]
+   }
   }
  ]
 }

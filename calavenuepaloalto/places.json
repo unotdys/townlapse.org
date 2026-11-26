@@ -2363,15 +2363,24 @@
  {
   "name": "AT&T",
   "address": "2805 El Camino Real",
-  "start": 2026,
+  "start": 2007,
   "end": null,
   "category": "services",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (mobile phone). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "AT&T mobile phone store at El Camino Real and Page Mill Road. It was listed at this address by June 2007 when the iPhone launched, and it is still open today.",
   "lat": 37.4232013,
-  "lng": -122.141621
+  "lng": -122.141621,
+  "links": [
+   {
+    "url": "https://www.att.com/stores/california/palo-alto/2162",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.macprices.net/columns/hildreth_leo/070628_AT&T-Stores-Near-Apple-with-iPhones-on-June29.shtml",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Summit Bicycles",
