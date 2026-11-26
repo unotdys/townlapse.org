@@ -1,5 +1,20 @@
 {
- "additions": [],
+ "additions": [
+  {
+   "name": "Bistro Elan",
+   "address": "2363 Birch St",
+   "note": "California-French bistro near California Avenue serving seasonal dishes and wine. It originally opened on California Avenue in 1995 and moved to its Birch Street space in 2011; its current website lists it open at 2363 Birch St.",
+   "start": 2011,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "http://www.bistroelan.com/",
+    "http://www.paloaltoonline.com/news/2013/02/23/shop-talk-burgers-bison-and-more",
+    "https://www.sfweekly.com/dining/transition-to-fall-with-bistro-elans-duck-confit-and-scallops/article_2b316e3e-fb60-5a86-9e22-f4b265bb7b31.html"
+   ]
+  }
+ ],
  "corrections": [
   {
    "target": "Rara",

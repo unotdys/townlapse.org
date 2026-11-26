@@ -1,5 +1,31 @@
 [
  {
+  "name": "Bistro Elan",
+  "address": "2363 Birch St",
+  "start": 2011,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "California-French bistro near California Avenue serving seasonal dishes and wine. It originally opened on California Avenue in 1995 and moved to its Birch Street space in 2011; its current website lists it open at 2363 Birch St.",
+  "lat": 37.427858,
+  "lng": -122.1442605,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "http://www.bistroelan.com/",
+    "kind": "Article"
+   },
+   {
+    "url": "http://www.paloaltoonline.com/news/2013/02/23/shop-talk-burgers-bison-and-more",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.sfweekly.com/dining/transition-to-fall-with-bistro-elans-duck-confit-and-scallops/article_2b316e3e-fb60-5a86-9e22-f4b265bb7b31.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Rara",
   "address": "201 South California Ave",
   "start": 2023,
@@ -225,19 +251,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Bistro Elan",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4277505,
-  "lng": -122.1443131
  },
  {
   "name": "ZombieRunner Coffee",
