@@ -819,15 +819,28 @@
  {
   "name": "Spoke & Weal",
   "address": "334 South California Ave",
-  "start": 2026,
+  "start": 2017,
   "end": null,
   "category": "services",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (hairdresser). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Hair salon known for dry cuts that officially opened on April 1, 2017, in the former Legar Salon space. It was the chain's fourth location after San Francisco, New York and Chicago.",
   "lat": 37.4271376,
-  "lng": -122.1444229
+  "lng": -122.1444229,
+  "links": [
+   {
+    "url": "https://lsc-pagepro.mydigitalpublication.com/publication/?i=632665&p=33&view=issueViewer",
+    "kind": "Article"
+   },
+   {
+    "url": "https://spokeandweal.com/locations/palo-alto",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2017/04/03/shop-talk-hair-salon-opens-starbucks-closes-toy-world-to-close-its-doors/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "California Paint Company",

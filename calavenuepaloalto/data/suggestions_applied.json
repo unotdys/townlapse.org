@@ -410,6 +410,20 @@
      "https://www.paloaltoonline.com/news/2017/05/15/shop-talk-new-mall-stores-chez-tj-pursues-revamp/"
     ]
    }
+  },
+  {
+   "target": "Spoke & Weal",
+   "target_address": "334 South California Ave",
+   "fields": {
+    "note": "Hair salon known for dry cuts that officially opened on April 1, 2017, in the former Legar Salon space. It was the chain's fourth location after San Francisco, New York and Chicago.",
+    "start": 2017,
+    "approx": false,
+    "links": [
+     "https://lsc-pagepro.mydigitalpublication.com/publication/?i=632665&p=33&view=issueViewer",
+     "https://spokeandweal.com/locations/palo-alto",
+     "https://www.paloaltoonline.com/news/2017/04/03/shop-talk-hair-salon-opens-starbucks-closes-toy-world-to-close-its-doors/"
+    ]
+   }
   }
  ]
 }
