@@ -986,6 +986,20 @@
     "https://www.hawaiimagazine.com/stix-asia-food-hall-brings-17-new-asian-restaurants-to-waikiki/",
     "https://www.honolulumagazine.com/stix-asia-food-hall-now-open-waikiki/"
    ]
+  },
+  {
+   "name": "Tempura Kiki",
+   "address": "2250 Kal\u0101kaua Ave",
+   "note": "Japanese tempura restaurant, also called Kiki Authentic Tempura, in the STIX ASIA food hall on the lower level of Waikiki Shopping Plaza. It opened in 2023 in the space formerly held by Tempura Kaneko Hannosuke.",
+   "start": 2023,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://frankiapp.com/business/tempura-kiki-96051.md",
+    "https://static1.squarespace.com/static/5d289e4caad70300015b6415/t/6430898f25171974d1ab8821/1680902557372/WWW2023_APRIL_final4.pdf",
+    "https://www.honolulumagazine.com/tempura-kiki/"
+   ]
   }
  ],
  "corrections": [
