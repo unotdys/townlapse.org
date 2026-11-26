@@ -1575,6 +1575,40 @@
   ]
  },
  {
+  "name": "Sephora",
+  "address": "2250 Kalākaua Ave",
+  "start": 2010,
+  "end": null,
+  "category": "retail",
+  "approx": false,
+  "note": "Sephora opened its third Hawaii store, about 7,500 square feet, at Waikiki Shopping Plaza in September 2010.",
+  "lat": 21.2792987,
+  "lng": -157.8285137,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://static1.squarespace.com/static/5d289e4caad70300015b6415/t/5d2ab14a771ecf000114ebad/1563078988124/waikiki_wiki-wiki_wire_xi_35.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://archives.midweek.com/content/columns/fashionflash_article/sephora_opens_in_waikiki",
+    "kind": "Article"
+   },
+   {
+    "url": "https://archives.midweek.com/content/columns/style_article/the_beauty_studio_at_sephora",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/?p=415091",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.sephora.com/happening/stores/honolulu-kalakaua",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -7831,19 +7865,6 @@
   "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2780911,
   "lng": -157.830973
- },
- {
-  "name": "Sephora",
-  "address": "2250 Kalākaua Ave",
-  "start": 2026,
-  "end": null,
-  "category": "retail",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (cosmetics). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.27924,
-  "lng": -157.8287742
  },
  {
   "name": "Lahaina Shave Ice",

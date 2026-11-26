@@ -916,6 +916,22 @@
     "https://www.honolulucookie.com/content/about-us.asp",
     "https://www.honolulucookie.com/content/store-locations.asp"
    ]
+  },
+  {
+   "name": "Sephora",
+   "address": "2250 Kal\u0101kaua Ave",
+   "note": "Sephora opened its third Hawaii store, about 7,500 square feet, at Waikiki Shopping Plaza in September 2010.",
+   "start": 2010,
+   "end": null,
+   "category": "retail",
+   "approx": false,
+   "links": [
+    "https://archives.midweek.com/content/columns/fashionflash_article/sephora_opens_in_waikiki",
+    "https://archives.midweek.com/content/columns/style_article/the_beauty_studio_at_sephora",
+    "https://static1.squarespace.com/static/5d289e4caad70300015b6415/t/5d2ab14a771ecf000114ebad/1563078988124/waikiki_wiki-wiki_wire_xi_35.pdf",
+    "https://www.honolulumagazine.com/?p=415091",
+    "https://www.sephora.com/happening/stores/honolulu-kalakaua"
+   ]
   }
  ],
  "corrections": [
