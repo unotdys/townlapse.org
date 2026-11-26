@@ -954,6 +954,28 @@
   ]
  },
  {
+  "name": "Cheese Steak Shop",
+  "address": "2305 El Camino Real",
+  "start": 2011,
+  "end": 2015,
+  "category": "food",
+  "approx": false,
+  "note": "Franchise cheesesteak restaurant next door to Freebirds near California Avenue, opened in 2011. It closed suddenly in March 2015, with a sign in the window blaming high costs in the area.",
+  "lat": 37.4257198,
+  "lng": -122.1464687,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://n2v.paloaltoonline.com/blogs/p/2015/03/12/cheese-steak-shop-palo-alto-shutters",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2015/03/27/freebirds-palo-alto-shutters/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Rara",
   "address": "201 South California Ave",
   "start": 2023,
