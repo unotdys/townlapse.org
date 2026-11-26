@@ -9223,15 +9223,32 @@
  {
   "name": "OUTRIGGER Waikīkī Paradise Hotel",
   "address": "150 Kaʻiulani Ave",
-  "start": 2026,
+  "start": 2024,
   "end": null,
   "category": "hotel",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Formerly the OHANA Waikiki East, this hotel reopened under the new name on October 16, 2024, Princess Kaʻiulani's birthday, after a renovation of its 443 rooms. Its name comes from Paradise Garden, the old name of the princess's ʻĀinahau estate, which once covered this site.",
   "lat": 21.2778925,
-  "lng": -157.8250542
+  "lng": -157.8250542,
+  "links": [
+   {
+    "url": "https://news.outrigger.com/2024/10/17/outrigger-unveils-the-all-new-outrigger-waikiki-paradise-hotel/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://news.outrigger.com/2025/10/02/outrigger-waikiki-paradise-hotel-commemorates-princess-kaiulanis-150th-birthday-at-150-kaiulani-ave-with-lei-song/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.outrigger.com/hawaii/oahu/outrigger-waikiki-paradise-hotel",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelweekly.com/Hawaii-Travel/Outrigger-unveils-renovated-and-renamed-Waikiki-hotel",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "St. Augustine By the Sea Catholic Church",
