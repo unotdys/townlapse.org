@@ -4234,6 +4234,19 @@
      "https://startpage.mapquest.com/us/hawaii/five-star-poke-430183848"
     ]
    }
+  },
+  {
+   "target": "Royal Kuhio",
+   "target_address": "2240 Kuhio Ave",
+   "fields": {
+    "note": "A 38-story condominium tower with 385 units on Kuhio Avenue, built in 1976. Some units are rented to visitors as vacation rentals, though the building is not a condotel.",
+    "start": 1976,
+    "approx": false,
+    "links": [
+     "https://hawaiiliving.com/royal-kuhio-2402-waikiki-condo-for-sale-202306642",
+     "https://www.homes.com/building/royal-kuhio-honolulu-hi/b-83fllljwskxn7/"
+    ]
+   }
   }
  ]
 }

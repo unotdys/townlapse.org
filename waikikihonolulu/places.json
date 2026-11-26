@@ -10595,15 +10595,24 @@
  {
   "name": "Royal Kuhio",
   "address": "2240 Kuhio Ave",
-  "start": 2026,
+  "start": 1976,
   "end": null,
   "category": "hotel",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "A 38-story condominium tower with 385 units on Kuhio Avenue, built in 1976. Some units are rented to visitors as vacation rentals, though the building is not a condotel.",
   "lat": 21.2808375,
-  "lng": -157.8271712
+  "lng": -157.8271712,
+  "links": [
+   {
+    "url": "https://hawaiiliving.com/royal-kuhio-2402-waikiki-condo-for-sale-202306642",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.homes.com/building/royal-kuhio-honolulu-hi/b-83fllljwskxn7/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Oasis Hotel Waikiki",
