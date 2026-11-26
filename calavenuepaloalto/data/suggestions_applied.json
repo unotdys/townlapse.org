@@ -999,6 +999,18 @@
      "https://www.paloaltoonline.com/news/2015/08/21/around-town-479/"
     ]
    }
+  },
+  {
+   "target": "Citibank",
+   "target_address": "2401 El Camino Real",
+   "fields": {
+    "start": 1935,
+    "approx": true,
+    "links": [
+     "https://paloalto.org/directory/services/citibank-el-camino-real/",
+     "https://www.city-data.com/banks/banks-Palo-Alto-California.html"
+    ]
+   }
   }
  ]
 }

@@ -2115,15 +2115,24 @@
  {
   "name": "Citibank",
   "address": "2401 El Camino Real",
-  "start": 2026,
+  "start": 1935,
   "end": null,
   "category": "services",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
   "note": "Open today (bank). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 37.4251582,
-  "lng": -122.1454732
+  "lng": -122.1454732,
+  "links": [
+   {
+    "url": "https://paloalto.org/directory/services/citibank-el-camino-real/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.city-data.com/banks/banks-Palo-Alto-California.html",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "La Bodeguita Del Medio",
