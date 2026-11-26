@@ -3352,6 +3352,21 @@
      "https://www.staradvertiser.com/2016/08/16/business/luxury-womens-store-fendi-will-expand-waikiki-presence/"
     ]
    }
+  },
+  {
+   "target": "Queen's Arbor",
+   "target_address": "2490 Kal\u0101kaua Ave",
+   "fields": {
+    "note": "Beachfront concession in the K\u016bhi\u014d Beach Park pavilion across from the \u02bbAlohilani Resort, with a soft opening on June 20, 2022. It began with sunrise breakfasts and Hawaiian storytelling, and it now rents beach loungers and chairs.",
+    "start": 2022,
+    "approx": false,
+    "links": [
+     "https://dining.staradvertiser.com/?p=43409",
+     "https://www.firstfridayhawaii.com/news/202206/31531.html",
+     "https://www.resortpass.com/hotels/queens-arbor-beach-lounge-rentals",
+     "https://www.romerhotels.com/romer-house-waikiki/queens-arbor-beach-rentals"
+    ]
+   }
   }
  ]
 }

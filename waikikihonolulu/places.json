@@ -8688,15 +8688,32 @@
  {
   "name": "Queen's Arbor",
   "address": "2490 Kalākaua Ave",
-  "start": 2026,
+  "start": 2022,
   "end": null,
   "category": "retail",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (rental). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Beachfront concession in the Kūhiō Beach Park pavilion across from the ʻAlohilani Resort, with a soft opening on June 20, 2022. It began with sunrise breakfasts and Hawaiian storytelling, and it now rents beach loungers and chairs.",
   "lat": 21.2739847,
-  "lng": -157.8242352
+  "lng": -157.8242352,
+  "links": [
+   {
+    "url": "https://dining.staradvertiser.com/?p=43409",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.firstfridayhawaii.com/news/202206/31531.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.resortpass.com/hotels/queens-arbor-beach-lounge-rentals",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.romerhotels.com/romer-house-waikiki/queens-arbor-beach-rentals",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "The Buffet at Hyatt",
