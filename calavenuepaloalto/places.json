@@ -2772,14 +2772,23 @@
  {
   "name": "Sundance The Steakhouse",
   "address": "1921 El Camino Real",
-  "start": 2026,
+  "start": 1974,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
   "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 37.4285473,
-  "lng": -122.1496394
+  "lng": -122.1496394,
+  "links": [
+   {
+    "url": "https://www.sundancethesteakhouse.com/our-story/history/",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/uncategorized/2014/12/19/a-mecca-for-meat-after-40-years-sundance-retains-its-high-standards-and-charm/",
+    "kind": "Article"
+   }
+  ]
  }
 ]

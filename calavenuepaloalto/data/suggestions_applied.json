@@ -1300,6 +1300,18 @@
      "https://www.paloaltoonline.com/palo-alto/2025/02/14/santa-clara-county-courthouse-mural-is-racist-advocates-say/"
     ]
    }
+  },
+  {
+   "target": "Sundance The Steakhouse",
+   "target_address": "1921 El Camino Real",
+   "fields": {
+    "start": 1974,
+    "approx": true,
+    "links": [
+     "https://www.paloaltoonline.com/uncategorized/2014/12/19/a-mecca-for-meat-after-40-years-sundance-retains-its-high-standards-and-charm/",
+     "https://www.sundancethesteakhouse.com/our-story/history/"
+    ]
+   }
   }
  ]
 }
