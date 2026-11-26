@@ -1014,6 +1014,20 @@
     "https://www.hawaiimagazine.com/stix-asia-food-hall-brings-17-new-asian-restaurants-to-waikiki/",
     "https://www.honolulumagazine.com/stix-asia-food-hall-now-open-waikiki/"
    ]
+  },
+  {
+   "name": "Hilton Waikiki Beach",
+   "address": "2500 Kuhio Ave",
+   "note": "The former Prince Kuhio hotel, earlier run by Outrigger and then Radisson, officially became the Hilton Waikiki Prince Kuhio on April 5, 2007 after a $65 million renovation. It later took the Hilton Waikiki Beach name.",
+   "start": 2007,
+   "end": null,
+   "category": "hotel",
+   "approx": false,
+   "links": [
+    "https://archives.starbulletin.com/2006/10/03/business/story01.html",
+    "https://www.hospitalitynet.org/news/4030948/hilton-waikiki-prince-kuhio-joins-the-hilton-family-of-hotels-in-hawaii",
+    "https://www.travelweekly.com/Hotels/Honolulu/Hilton-Waikiki-Beach-p4149632"
+   ]
   }
  ],
  "corrections": [

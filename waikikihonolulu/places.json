@@ -1757,6 +1757,32 @@
   ]
  },
  {
+  "name": "Hilton Waikiki Beach",
+  "address": "2500 Kuhio Ave",
+  "start": 2007,
+  "end": null,
+  "category": "hotel",
+  "approx": false,
+  "note": "The former Prince Kuhio hotel, earlier run by Outrigger and then Radisson, officially became the Hilton Waikiki Prince Kuhio on April 5, 2007 after a $65 million renovation. It later took the Hilton Waikiki Beach name.",
+  "lat": 21.2752487,
+  "lng": -157.8219642,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://archives.starbulletin.com/2006/10/03/business/story01.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hospitalitynet.org/news/4030948/hilton-waikiki-prince-kuhio-joins-the-hilton-family-of-hotels-in-hawaii",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelweekly.com/Hotels/Honolulu/Hilton-Waikiki-Beach-p4149632",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -8748,19 +8774,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Hilton Waikiki Beach",
-  "address": "2500 Kuhio Ave",
-  "start": 2026,
-  "end": null,
-  "category": "hotel",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2752858,
-  "lng": -157.8219728
  },
  {
   "name": "Hyatt Regency Waikiki Beach Resort and Spa",
