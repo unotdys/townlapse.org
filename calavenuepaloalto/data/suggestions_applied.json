@@ -672,6 +672,22 @@
      "https://www.paloaltoonline.com/ae/2019/04/18/shop-talk-pizza-chicago-relocates-new-retailers-set-to-move-to-cal-ave/"
     ]
    }
+  },
+  {
+   "target": "Real Produce International Market",
+   "target_address": "501 Oxford Ave",
+   "fields": {
+    "note": "International grocery store at College Terrace Centre that opened in late December 2020. It was the third grocer in the space, after College Terrace Market and Khoury's Market.",
+    "start": 2020,
+    "approx": false,
+    "links": [
+     "https://collegeterrace.org/2020/12/real-produce-international-market-is-open",
+     "https://verdemagazine.com/real-produce-market-new-palo-alto-store-offers-multicultural-products",
+     "https://www.collegeterrace.org/2020/12/real-produce-international-market-is-open/",
+     "https://www.fb101.com/?p=84813",
+     "https://www.paloaltoonline.com/news/2020/12/20/around-town-new-college-terrace-grocery-store-set-to-open-before-christmas-day/"
+    ]
+   }
   }
  ]
 }

@@ -1428,15 +1428,36 @@
  {
   "name": "Real Produce International Market",
   "address": "501 Oxford Ave",
-  "start": 2026,
+  "start": 2020,
   "end": null,
   "category": "retail",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (supermarket). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "International grocery store at College Terrace Centre that opened in late December 2020. It was the third grocer in the space, after College Terrace Market and Khoury's Market.",
   "lat": 37.4267193,
-  "lng": -122.1484924
+  "lng": -122.1484924,
+  "links": [
+   {
+    "url": "https://collegeterrace.org/2020/12/real-produce-international-market-is-open",
+    "kind": "Article"
+   },
+   {
+    "url": "https://verdemagazine.com/real-produce-market-new-palo-alto-store-offers-multicultural-products",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.collegeterrace.org/2020/12/real-produce-international-market-is-open/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.fb101.com/?p=84813",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2020/12/20/around-town-new-college-terrace-grocery-store-set-to-open-before-christmas-day/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Xfinity",
