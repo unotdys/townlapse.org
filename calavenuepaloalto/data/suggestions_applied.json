@@ -341,6 +341,20 @@
      "https://www.paloaltoonline.com/morgue/monthly/1998_Jun_24.SALONS.html"
     ]
    }
+  },
+  {
+   "target": "Naschmarkt",
+   "target_address": "2323 Birch St",
+   "fields": {
+    "note": "Austrian restaurant just off California Avenue, in the space once used by Anatolian Kitchen. It opened on May 17, 2022, and is still open.",
+    "start": 2022,
+    "approx": false,
+    "links": [
+     "https://opentable.com/r/naschmarkt-palo-alto",
+     "https://www.paloaltoonline.com/ae/2022/05/20/the-latest-peninsula-dining-news-naschmarkt-opens-tno-coffee-project-closes-and-eataly-sets-opening-date/",
+     "https://www.paloaltoonline.com/blogs/2022/05/12/palo-alto-location-of-popular-austrian-restaurant-naschmarkt-opens-may-17/"
+    ]
+   }
   }
  ]
 }

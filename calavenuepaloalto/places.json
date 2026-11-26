@@ -632,15 +632,28 @@
  {
   "name": "Naschmarkt",
   "address": "2323 Birch St",
-  "start": 2026,
+  "start": 2022,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Austrian restaurant just off California Avenue, in the space once used by Anatolian Kitchen. It opened on May 17, 2022, and is still open.",
   "lat": 37.4278592,
-  "lng": -122.144561
+  "lng": -122.144561,
+  "links": [
+   {
+    "url": "https://opentable.com/r/naschmarkt-palo-alto",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/ae/2022/05/20/the-latest-peninsula-dining-news-naschmarkt-opens-tno-coffee-project-closes-and-eataly-sets-opening-date/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2022/05/12/palo-alto-location-of-popular-austrian-restaurant-naschmarkt-opens-may-17/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Cambridge Optometry",
