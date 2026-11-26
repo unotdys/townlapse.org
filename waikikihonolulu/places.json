@@ -7601,16 +7601,33 @@
  },
  {
   "name": "Doraku Sushi",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "2233 Kalākaua Ave",
+  "start": 2008,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2786807,
-  "lng": -157.8289334
+  "note": "Japanese sushi restaurant from Kevin Aoki, son of Benihana founder Rocky Aoki, that opened around the start of 2008 on the third floor of Royal Hawaiian Center. It was renovated in 2019 and in late 2026 was closed for another renovation, with reopening planned for December 2026.",
+  "lat": 21.2784652,
+  "lng": -157.8293796,
+  "links": [
+   {
+    "url": "https://aokigroup.com/dorakusushi/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://archives.starbulletin.com/2007/12/22/business/story03.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://dorakusushi.com/waikiki-royal-hawaiian-center/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.royalhawaiiancenter.com/press-releases/doraku-unveils-renovated-restaurant-and-exclusive-dishes-at-royal-hawaiian-center",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Good Chicken",

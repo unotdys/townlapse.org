@@ -3103,6 +3103,22 @@
      "https://www.hawaiimagazine.com/remembering-gumps-treasure-house-of-the-pacific/"
     ]
    }
+  },
+  {
+   "target": "Doraku Sushi",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "2233 Kal\u0101kaua Ave",
+    "note": "Japanese sushi restaurant from Kevin Aoki, son of Benihana founder Rocky Aoki, that opened around the start of 2008 on the third floor of Royal Hawaiian Center. It was renovated in 2019 and in late 2026 was closed for another renovation, with reopening planned for December 2026.",
+    "start": 2008,
+    "approx": true,
+    "links": [
+     "https://aokigroup.com/dorakusushi/",
+     "https://archives.starbulletin.com/2007/12/22/business/story03.html",
+     "https://dorakusushi.com/waikiki-royal-hawaiian-center/",
+     "https://www.royalhawaiiancenter.com/press-releases/doraku-unveils-renovated-restaurant-and-exclusive-dishes-at-royal-hawaiian-center"
+    ]
+   }
   }
  ]
 }
