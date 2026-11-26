@@ -1160,6 +1160,20 @@
      "https://www.paloaltoonline.com/morgue/news/1997_Dec_5.WALTERS.html"
     ]
    }
+  },
+  {
+   "target": "Cambridge Branch, Palo Alto",
+   "target_address": "265 Cambridge Ave",
+   "fields": {
+    "note": "Post office station on Cambridge Ave in the California Avenue district, open by 2001 when local news listed it as the Cambridge station. In 2026 it also took over PO box and retail service from the Stanford post office.",
+    "start": 2001,
+    "approx": true,
+    "links": [
+     "https://about.usps.com/newsroom/local-releases/ca/2026/1002-stanford-post-office-loses-lease.htm",
+     "https://www.paloaltoonline.com/morgue/2001/2001_06_15.hills15.html",
+     "https://www.postallocations.com/ca/palo-alto/cambridge"
+    ]
+   }
   }
  ]
 }

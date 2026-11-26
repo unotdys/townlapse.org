@@ -2437,15 +2437,28 @@
  {
   "name": "Cambridge Branch, Palo Alto",
   "address": "265 Cambridge Ave",
-  "start": 2026,
+  "start": 2001,
   "end": null,
   "category": "civic",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (post office). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Post office station on Cambridge Ave in the California Avenue district, open by 2001 when local news listed it as the Cambridge station. In 2026 it also took over PO box and retail service from the Stanford post office.",
   "lat": 37.4286523,
-  "lng": -122.1439276
+  "lng": -122.1439276,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/2001/2001_06_15.hills15.html",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://about.usps.com/newsroom/local-releases/ca/2026/1002-stanford-post-office-loses-lease.htm",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.postallocations.com/ca/palo-alto/cambridge",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Cardinal Bike Shop",
