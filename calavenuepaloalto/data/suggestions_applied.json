@@ -219,6 +219,21 @@
     "https://www.paloaltoonline.com/news/2008/10/17/shop-talk-48/",
     "https://www.paloaltoonline.com/uncategorized/2010/08/13/shop-talk-75/"
    ]
+  },
+  {
+   "name": "College Terrace Children's Center",
+   "address": "2300 Wellesley St",
+   "note": "A licensed preschool and child care center for ages 2 to 5, run by Palo Alto Community Child Care at the College Terrace Library site. State records show it first licensed in 1993, and it is still operating.",
+   "start": 1993,
+   "end": null,
+   "category": "services",
+   "approx": true,
+   "links": [
+    "https://cityofpaloalto.org/files/assets/public/v/1/community-services/human-services/child-care/fy24-licensed-child-care-centers.pdf",
+    "https://schoolscope.co/ca/preschool/college-terrace-childrens-center-701197",
+    "https://www.paloalto.gov/files/assets/public/v/1/community-services/human-services/child-care/fy25-licensed-child-care-centers.pdf",
+    "https://www.paloaltoonline.com/real-estate/2006/04/28/college-terrace-2/"
+   ]
   }
  ],
  "corrections": [

@@ -400,6 +400,36 @@
   ]
  },
  {
+  "name": "College Terrace Children's Center",
+  "address": "2300 Wellesley St",
+  "start": 1993,
+  "end": null,
+  "category": "services",
+  "approx": true,
+  "note": "A licensed preschool and child care center for ages 2 to 5, run by Palo Alto Community Child Care at the College Terrace Library site. State records show it first licensed in 1993, and it is still operating.",
+  "lat": 37.4231855,
+  "lng": -122.1488209,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://cityofpaloalto.org/files/assets/public/v/1/community-services/human-services/child-care/fy24-licensed-child-care-centers.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.paloalto.gov/files/assets/public/v/1/community-services/human-services/child-care/fy25-licensed-child-care-centers.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://schoolscope.co/ca/preschool/college-terrace-childrens-center-701197",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/real-estate/2006/04/28/college-terrace-2/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Rara",
   "address": "201 South California Ave",
   "start": 2023,
