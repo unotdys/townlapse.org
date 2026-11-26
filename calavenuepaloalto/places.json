@@ -152,6 +152,40 @@
   ]
  },
  {
+  "name": "Printers Cafe",
+  "address": "320 South California Ave",
+  "start": 1992,
+  "end": 2024,
+  "category": "food",
+  "approx": true,
+  "note": "Family-owned cafe that grew out of the Printers Inc. bookstore and operated on California Avenue for more than three decades. It closed in April 2024 when its lease ended, and California Cafe opened in the space later that year.",
+  "lat": 37.4272421,
+  "lng": -122.1442706,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/news/1998_Dec_11.PRINTERS.html",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.doordash.com/es/store/printer's-cafe-palo-alto-409",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/business/2024/04/09/as-printers-cafe-shutters-patrons-lament-end-of-an-era/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2024/03/14/printers-cafe-set-to-shutter-make-way-for-new-gym/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/palo-alto/2024/09/17/palo-alto-residents-open-california-cafe-at-former-site-of-printers-cafe/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Rara",
   "address": "201 South California Ave",
   "start": 2023,

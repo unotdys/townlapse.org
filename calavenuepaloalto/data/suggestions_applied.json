@@ -82,6 +82,22 @@
     "https://www.paloaltoonline.com/news/2015/11/25/accent-arts-village-stationers-to-leave-california-avenue/",
     "https://www.paloaltoonline.com/news/2019/08/08/village-people-prepare-to-close-up-shop/"
    ]
+  },
+  {
+   "name": "Printers Cafe",
+   "address": "320 South California Ave",
+   "note": "Family-owned cafe that grew out of the Printers Inc. bookstore and operated on California Avenue for more than three decades. It closed in April 2024 when its lease ended, and California Cafe opened in the space later that year.",
+   "start": 1992,
+   "end": 2024,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.doordash.com/es/store/printer's-cafe-palo-alto-409",
+    "https://www.paloaltoonline.com/business/2024/04/09/as-printers-cafe-shutters-patrons-lament-end-of-an-era/",
+    "https://www.paloaltoonline.com/morgue/news/1998_Dec_11.PRINTERS.html",
+    "https://www.paloaltoonline.com/news/2024/03/14/printers-cafe-set-to-shutter-make-way-for-new-gym/",
+    "https://www.paloaltoonline.com/palo-alto/2024/09/17/palo-alto-residents-open-california-cafe-at-former-site-of-printers-cafe/"
+   ]
   }
  ],
  "corrections": [
