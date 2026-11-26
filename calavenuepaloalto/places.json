@@ -706,15 +706,32 @@
  {
   "name": "Radhika Beauty Salon",
   "address": "2033 El Camino Real",
-  "start": 2026,
+  "start": 2022,
   "end": null,
   "category": "services",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (beauty). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Beauty salon offering threading, facials, henna and bridal makeup, open today. It was operating by late 2022, when the Stanford Daily described it; the exact opening year isn't known.",
   "lat": 37.4276045,
-  "lng": -122.14875
+  "lng": -122.14875,
+  "links": [
+   {
+    "url": "http://radhikabeautysalon.com/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://reviews.birdeye.com/radhika-beauty-salon-170032392412307",
+    "kind": "Article"
+   },
+   {
+    "url": "https://stanforddaily.com/2022/12/27/item-girl/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.atly.com/location/RadhikaBeautySalon",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Odori Sushi",

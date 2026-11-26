@@ -368,6 +368,21 @@
      "https://www.paloaltoonline.com/wp-content/uploads/2026/02/2026_02_06.paw_.section1.pdf"
     ]
    }
+  },
+  {
+   "target": "Radhika Beauty Salon",
+   "target_address": "2033 El Camino Real",
+   "fields": {
+    "note": "Beauty salon offering threading, facials, henna and bridal makeup, open today. It was operating by late 2022, when the Stanford Daily described it; the exact opening year isn't known.",
+    "start": 2022,
+    "approx": true,
+    "links": [
+     "http://radhikabeautysalon.com/",
+     "https://reviews.birdeye.com/radhika-beauty-salon-170032392412307",
+     "https://stanforddaily.com/2022/12/27/item-girl/",
+     "https://www.atly.com/location/RadhikaBeautySalon"
+    ]
+   }
   }
  ]
 }
