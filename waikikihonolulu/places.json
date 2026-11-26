@@ -2547,6 +2547,36 @@
   ]
  },
  {
+  "name": "Sheraton Waikiki",
+  "address": "2255 Kalakaua Ave",
+  "start": 1971,
+  "end": null,
+  "category": "hotel",
+  "approx": false,
+  "note": "Large beachfront hotel on Kalakaua Avenue that opened on June 4, 1971. After a renovation finished in 2023 it was renamed the Sheraton Waikiki Beach Resort.",
+  "lat": 21.27762,
+  "lng": -157.8302445,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Sheraton_Waikiki_Hotel",
+    "kind": "Article"
+   },
+   {
+    "url": "https://sah-archipedia.org/buildings/HI-01-OA136",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.marriott.com/en-us/hotels/hnlws-sheraton-waikiki-beach-resort/overview/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelweekly.com/Hotels/Honolulu/Sheraton-Waikiki-p3978332",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,

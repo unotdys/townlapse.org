@@ -1442,6 +1442,21 @@
    "links": [
     "https://www.historichotels.org/us/hotels-resorts/moana-surfrider-a-westin-resort-and-spa"
    ]
+  },
+  {
+   "name": "Sheraton Waikiki",
+   "address": "2255 Kalakaua Ave",
+   "note": "Large beachfront hotel on Kalakaua Avenue that opened on June 4, 1971. After a renovation finished in 2023 it was renamed the Sheraton Waikiki Beach Resort.",
+   "start": 1971,
+   "end": null,
+   "category": "hotel",
+   "approx": false,
+   "links": [
+    "https://en.wikipedia.org/wiki/Sheraton_Waikiki_Hotel",
+    "https://sah-archipedia.org/buildings/HI-01-OA136",
+    "https://www.marriott.com/en-us/hotels/hnlws-sheraton-waikiki-beach-resort/overview/",
+    "https://www.travelweekly.com/Hotels/Honolulu/Sheraton-Waikiki-p3978332"
+   ]
   }
  ],
  "corrections": [
