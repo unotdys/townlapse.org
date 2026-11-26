@@ -6021,15 +6021,28 @@
  {
   "name": "The Sunrise Shack",
   "address": "2570 Kalākaua Ave",
-  "start": 2026,
+  "start": 2024,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Smoothie bowl and coffee shack on the ground floor of the Twin Fin Hotel, across from Kuhio Beach. It held its grand opening in late November 2024 and is still open.",
   "lat": 21.2721874,
-  "lng": -157.8229534
+  "lng": -157.8229534,
+  "links": [
+   {
+    "url": "https://www.instagram.com/reel/DDAPDStSfmp/",
+    "kind": "Photo"
+   },
+   {
+    "url": "https://www.sunriseshackhawaii.com/pages/twin-fin-waikiki",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.twinfinwaikiki.com/eat-drink/sunrise-shack/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Best Hawaiian Ukulele",

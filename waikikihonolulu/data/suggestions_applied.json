@@ -2767,6 +2767,20 @@
      "https://www.konacoffeedonut.com/en"
     ]
    }
+  },
+  {
+   "target": "The Sunrise Shack",
+   "target_address": "2570 Kal\u0101kaua Ave",
+   "fields": {
+    "note": "Smoothie bowl and coffee shack on the ground floor of the Twin Fin Hotel, across from Kuhio Beach. It held its grand opening in late November 2024 and is still open.",
+    "start": 2024,
+    "approx": false,
+    "links": [
+     "https://www.instagram.com/reel/DDAPDStSfmp/",
+     "https://www.sunriseshackhawaii.com/pages/twin-fin-waikiki",
+     "https://www.twinfinwaikiki.com/eat-drink/sunrise-shack/"
+    ]
+   }
   }
  ]
 }
