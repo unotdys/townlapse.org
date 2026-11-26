@@ -120,15 +120,24 @@
  {
   "name": "Sekoya",
   "address": "417 South California Ave",
-  "start": 2026,
+  "start": 2023,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Restaurant and bar serving California-inspired small plates and cocktails. It officially opened on August 15, 2023, and was still open in 2026.",
   "lat": 37.4261999,
-  "lng": -122.1447149
+  "lng": -122.1447149,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/ae/2023/08/24/check-out-5-of-the-newest-eateries-around-the-peninsula-and-beyond/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/palo-alto/2026/09/23/top-chef-alumni-introduce-new-menus-to-2-palo-alto-restaurants/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Vitality Bowls",

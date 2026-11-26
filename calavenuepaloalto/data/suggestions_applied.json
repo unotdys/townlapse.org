@@ -70,6 +70,19 @@
      "https://www.paloaltoonline.com/morgue/restaurants/1996_Feb_7.mini_reviews.html"
     ]
    }
+  },
+  {
+   "target": "Sekoya",
+   "target_address": "417 South California Ave",
+   "fields": {
+    "note": "Restaurant and bar serving California-inspired small plates and cocktails. It officially opened on August 15, 2023, and was still open in 2026.",
+    "start": 2023,
+    "approx": false,
+    "links": [
+     "https://www.paloaltoonline.com/ae/2023/08/24/check-out-5-of-the-newest-eateries-around-the-peninsula-and-beyond/",
+     "https://www.paloaltoonline.com/palo-alto/2026/09/23/top-chef-alumni-introduce-new-menus-to-2-palo-alto-restaurants/"
+    ]
+   }
   }
  ]
 }
