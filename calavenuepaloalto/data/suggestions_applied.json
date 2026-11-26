@@ -543,6 +543,19 @@
     "https://n2v.paloaltoonline.com/blogs/p/2015/03/12/cheese-steak-shop-palo-alto-shutters",
     "https://www.paloaltoonline.com/blogs/2015/03/27/freebirds-palo-alto-shutters/"
    ]
+  },
+  {
+   "name": "Pieology",
+   "address": "2305 El Camino Real",
+   "note": "Pieology was a build-your-own pizza restaurant at El Camino Real and Cambridge Avenue that opened in mid-2015 in the former Freebirds space. It closed in 2017, and the space was empty until Pizz'a Chicago moved in.",
+   "start": 2015,
+   "end": 2017,
+   "category": "food",
+   "approx": false,
+   "links": [
+    "https://www.paloaltoonline.com/blogs/2015/07/29/opening-alert-pieology-in-palo-alto/",
+    "https://www.paloaltoonline.com/news/2019/04/25/shop-talk-pizza-chicago-relocates-new-retailers-set-to-move-to-cal-ave-2/"
+   ]
   }
  ],
  "corrections": [
