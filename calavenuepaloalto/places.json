@@ -2411,15 +2411,28 @@
  {
   "name": "Ananda Church of Self-Realization",
   "address": "2171 El Camino Real",
-  "start": 2026,
+  "start": 1994,
   "end": null,
   "category": "worship",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
   "note": "Open today (place of worship). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 37.4267534,
-  "lng": -122.1475639
+  "lng": -122.1475639,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/news/1997_Dec_5.WALTERS.html",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "http://familynews.anandapaloalto.org/2011/06/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.anandapaloalto.org/events/patanjali-yoga-sutras",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Cambridge Branch, Palo Alto",

@@ -1147,6 +1147,19 @@
      "https://www.trekbikes.com/ca/en_CA/store/381184/"
     ]
    }
+  },
+  {
+   "target": "Ananda Church of Self-Realization",
+   "target_address": "2171 El Camino Real",
+   "fields": {
+    "start": 1994,
+    "approx": true,
+    "links": [
+     "http://familynews.anandapaloalto.org/2011/06/",
+     "https://www.anandapaloalto.org/events/patanjali-yoga-sutras",
+     "https://www.paloaltoonline.com/morgue/news/1997_Dec_5.WALTERS.html"
+    ]
+   }
   }
  ]
 }
