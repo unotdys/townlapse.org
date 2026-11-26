@@ -325,6 +325,19 @@
     "https://www.paloaltoonline.com/news/2019/08/16/small-retailers-in-limbo-at-hotel-california-building-2/",
     "https://www.paloaltoonline.com/uncategorized/2012/02/24/keeping-it-simple-2/"
    ]
+  },
+  {
+   "name": "College Terrace Market",
+   "address": "501 Oxford Ave",
+   "note": "Neighborhood grocery that opened in June 2017 as the required market in College Terrace Centre. It closed suddenly in January 2018 after about six months, and Khoury's Market took over the space later.",
+   "start": 2017,
+   "end": 2018,
+   "category": "retail",
+   "approx": false,
+   "links": [
+    "https://www.paloaltoonline.com/news/2018/01/05/as-college-terrace-market-closes-community-asks-whats-next/",
+    "https://www.paloaltoonline.com/news/2020/01/08/as-khourys-market-closes-building-owner-seeks-to-get-out-of-paying-140000-in-fines/"
+   ]
   }
  ],
  "corrections": [
