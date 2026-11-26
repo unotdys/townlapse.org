@@ -2963,6 +2963,40 @@
   ]
  },
  {
+  "name": "OHANA East Hotel",
+  "address": "150 Kaiulani Ave",
+  "start": 1972,
+  "end": null,
+  "category": "hotel",
+  "approx": true,
+  "note": "Hotel at Kuhio and Kaiulani Avenues, built around 1972 and first run as the Outrigger East. It became the OHANA East Hotel on December 1, 2001, later OHANA Waikiki East, and in October 2024 was renamed OUTRIGGER Waikiki Paradise Hotel after a renovation.",
+  "lat": 21.2779003,
+  "lng": -157.8250674,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://hotelonline-assets1.nyc3.digitaloceanspaces.com/wordpress/hotelonline-News/News_posts/PR2001_4th/Nov01_OutriggerEast.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://news.outrigger.com/2024/10/17/outrigger-unveils-the-all-new-outrigger-waikiki-paradise-hotel/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hospitalitynet.org/announcement/41011696.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelagewest.com/Travel/Hawaii/Outrigger-Hotels-and-Resorts-Celebrates-70-Years-of-Aloha",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelweekly.com/Hotels/Honolulu/Outrigger-Waikiki-Paradise-Hotel-p59808167",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -10090,36 +10124,6 @@
   "lng": -157.8305124
  },
  {
-  "name": "OUTRIGGER Waikīkī Paradise Hotel",
-  "address": "150 Kaʻiulani Ave",
-  "start": 2024,
-  "end": null,
-  "category": "hotel",
-  "approx": false,
-  "source": "osm",
-  "note": "Formerly the OHANA Waikiki East, this hotel reopened under the new name on October 16, 2024, Princess Kaʻiulani's birthday, after a renovation of its 443 rooms. Its name comes from Paradise Garden, the old name of the princess's ʻĀinahau estate, which once covered this site.",
-  "lat": 21.2778925,
-  "lng": -157.8250542,
-  "links": [
-   {
-    "url": "https://news.outrigger.com/2024/10/17/outrigger-unveils-the-all-new-outrigger-waikiki-paradise-hotel/",
-    "kind": "Article"
-   },
-   {
-    "url": "https://news.outrigger.com/2025/10/02/outrigger-waikiki-paradise-hotel-commemorates-princess-kaiulanis-150th-birthday-at-150-kaiulani-ave-with-lei-song/",
-    "kind": "Article"
-   },
-   {
-    "url": "https://www.outrigger.com/hawaii/oahu/outrigger-waikiki-paradise-hotel",
-    "kind": "Article"
-   },
-   {
-    "url": "https://www.travelweekly.com/Hawaii-Travel/Outrigger-unveils-renovated-and-renamed-Waikiki-hotel",
-    "kind": "Article"
-   }
-  ]
- },
- {
   "name": "St. Augustine By the Sea Catholic Church",
   "address": "130 Ohua Ave",
   "start": 1901,
@@ -10625,19 +10629,6 @@
   "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.276071,
   "lng": -157.822551
- },
- {
-  "name": "Ohana East Hotel",
-  "address": "150 Kaʻiulani Ave",
-  "start": 2026,
-  "end": null,
-  "category": "hotel",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2778925,
-  "lng": -157.8250542
  },
  {
   "name": "International Marketplace",
