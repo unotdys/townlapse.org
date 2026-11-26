@@ -56,6 +56,20 @@
      "https://www.ramenkowa.com/"
     ]
    }
+  },
+  {
+   "target": "Cafe Pro Bono",
+   "target_address": "2439 Birch St",
+   "fields": {
+    "address": "2437 Birch St",
+    "note": "Italian restaurant on Birch Street near California Avenue, opened in 1988 by chef Ambjorn Lindskog according to the Palo Alto Weekly. It was still operating in the 2020s.",
+    "start": 1988,
+    "approx": false,
+    "links": [
+     "https://cafeprobono.com/",
+     "https://www.paloaltoonline.com/morgue/restaurants/1996_Feb_7.mini_reviews.html"
+    ]
+   }
   }
  ]
 }

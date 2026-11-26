@@ -97,16 +97,25 @@
  },
  {
   "name": "Cafe Pro Bono",
-  "address": "2439 Birch St",
-  "start": 2026,
+  "address": "2437 Birch St",
+  "start": 1988,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4272472,
-  "lng": -122.1434243
+  "note": "Italian restaurant on Birch Street near California Avenue, opened in 1988 by chef Ambjorn Lindskog according to the Palo Alto Weekly. It was still operating in the 2020s.",
+  "lat": 37.4273024,
+  "lng": -122.1434554,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/restaurants/1996_Feb_7.mini_reviews.html",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://cafeprobono.com/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Sekoya",
