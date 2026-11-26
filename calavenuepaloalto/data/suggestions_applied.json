@@ -972,6 +972,19 @@
      "https://www.paloaltoonline.com/uncategorized/2009/12/04/shop-talk-63/"
     ]
    }
+  },
+  {
+   "target": "Coronet Motel",
+   "target_address": "2455 El Camino Real",
+   "fields": {
+    "note": "Budget motel on El Camino Real near California Avenue, built in 1951 and still open as a motel.",
+    "start": 1951,
+    "approx": false,
+    "links": [
+     "https://www.paloaltoonline.com/news/2008/06/19/four-story-hotel-proposed-for-palo-alto-bowl/",
+     "https://www.paloaltoonline.com/news/2008/08/21/ultra-green-pa-motel-to-be-first-on-peninsula/"
+    ]
+   }
   }
  ]
 }
