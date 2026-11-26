@@ -7006,17 +7006,26 @@
   "lng": -157.8242772
  },
  {
-  "name": "Kamakura Surf + Dine",
+  "name": "Kamukura Surf + Dine",
   "address": "2380 Kuhio Ave",
-  "start": 2026,
+  "start": 2024,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Japanese ramen and dining restaurant in the Lilia Waikiki tower, opened in summer 2024 by the Osaka-based Kamukura Ramen group as its first U.S. flagship. It is still open.",
   "lat": 21.2783363,
-  "lng": -157.824674
+  "lng": -157.824674,
+  "links": [
+   {
+    "url": "https://alohastatedaily.com/2025/03/17/budget-bites-kamukura-surf-dines-18-lunch-sets/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.kamukura-waikiki.com/about",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Island Uplift",

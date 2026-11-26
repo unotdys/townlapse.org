@@ -2824,6 +2824,20 @@
      "https://www.yelp.com/biz/donut-king-waikiki-honolulu"
     ]
    }
+  },
+  {
+   "target": "Kamakura Surf + Dine",
+   "target_address": "2380 Kuhio Ave",
+   "fields": {
+    "name": "Kamukura Surf + Dine",
+    "note": "Japanese ramen and dining restaurant in the Lilia Waikiki tower, opened in summer 2024 by the Osaka-based Kamukura Ramen group as its first U.S. flagship. It is still open.",
+    "start": 2024,
+    "approx": false,
+    "links": [
+     "https://alohastatedaily.com/2025/03/17/budget-bites-kamukura-surf-dines-18-lunch-sets/",
+     "https://www.kamukura-waikiki.com/about"
+    ]
+   }
   }
  ]
 }
