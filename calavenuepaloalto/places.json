@@ -911,15 +911,28 @@
  {
   "name": "Christian Science Reading Room",
   "address": "459 South California Ave",
-  "start": 2026,
+  "start": 2009,
   "end": null,
-  "category": "retail",
-  "approx": false,
-  "start_unknown": true,
+  "category": "worship",
+  "approx": true,
   "source": "osm",
-  "note": "Open today (books). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Public reading room and bookstore run by First Church of Christ, Scientist, Palo Alto. A Spring 2009 visitors guide lists it at this address; it may have opened earlier.",
   "lat": 37.4256122,
-  "lng": -122.145204
+  "lng": -122.145204,
+  "links": [
+   {
+    "url": "https://ebiblestories.com/church/listing_31219.shtml",
+    "kind": "Article"
+   },
+   {
+    "url": "https://silo.tips/download/o-the-midpeninsula-discover-where-to-go-to-play-dine-shop-or-relax",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.cspaloalto.org/reading-room",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Palo Alto Eyeworks",

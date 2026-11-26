@@ -463,6 +463,21 @@
      "https://stanfordrentalhomes.stanford.edu/neighborhood/palo-alto-location-map"
     ]
    }
+  },
+  {
+   "target": "Christian Science Reading Room",
+   "target_address": "459 South California Ave",
+   "fields": {
+    "note": "Public reading room and bookstore run by First Church of Christ, Scientist, Palo Alto. A Spring 2009 visitors guide lists it at this address; it may have opened earlier.",
+    "start": 2009,
+    "category": "worship",
+    "approx": true,
+    "links": [
+     "https://ebiblestories.com/church/listing_31219.shtml",
+     "https://silo.tips/download/o-the-midpeninsula-discover-where-to-go-to-play-dine-shop-or-relax",
+     "https://www.cspaloalto.org/reading-room"
+    ]
+   }
   }
  ]
 }
