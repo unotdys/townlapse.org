@@ -2877,6 +2877,36 @@
   ]
  },
  {
+  "name": "Waikiki Shopping Plaza",
+  "address": "2250 Kalakaua Ave",
+  "start": 1977,
+  "end": null,
+  "category": "retail",
+  "approx": true,
+  "note": "Multi-story shopping, dining and office complex at the corner of Kalakaua and Seaside avenues, developed by William K.H. Mau and newly built in about 1977. It still houses shops and restaurants.",
+  "lat": 21.2792987,
+  "lng": -157.8285137,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://files.hawaii.gov/dbedt/economic/archive/databook/db1979/section23.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "http://www.hawaiimomblog.com/2015/08/ohana-waikiki-east-hotel-to-welcome-new.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://news.outrigger.com/?p=6827",
+    "kind": "Article"
+   },
+   {
+    "url": "https://the.honoluluadvertiser.com/article/2009/Apr/20/bz/hawaii904200314.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -10435,19 +10465,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Waikiki Shopping Plaza",
-  "address": "2250 Kalākaua Ave",
-  "start": 2026,
-  "end": null,
-  "category": "retail",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (mall). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2794073,
-  "lng": -157.8285192
  },
  {
   "name": "Paia Fish Market Waikiki",

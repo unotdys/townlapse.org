@@ -1607,6 +1607,21 @@
     "https://www.loopnet.com/Listing/227-Lewers-St-Honolulu-HI/15457419/",
     "https://www.waikikibeachwalk.com/Press-Room/2022/Waikiki-Beach-Walk-Celebrates-15-Years.htm"
    ]
+  },
+  {
+   "name": "Waikiki Shopping Plaza",
+   "address": "2250 Kalakaua Ave",
+   "note": "Multi-story shopping, dining and office complex at the corner of Kalakaua and Seaside avenues, developed by William K.H. Mau and newly built in about 1977. It still houses shops and restaurants.",
+   "start": 1977,
+   "end": null,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "http://www.hawaiimomblog.com/2015/08/ohana-waikiki-east-hotel-to-welcome-new.html",
+    "https://files.hawaii.gov/dbedt/economic/archive/databook/db1979/section23.pdf",
+    "https://news.outrigger.com/?p=6827",
+    "https://the.honoluluadvertiser.com/article/2009/Apr/20/bz/hawaii904200314.html"
+   ]
   }
  ],
  "corrections": [
