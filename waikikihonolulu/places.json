@@ -2611,6 +2611,36 @@
   ]
  },
  {
+  "name": "Aloha Surf Hotel",
+  "address": "444 Kanekapolei St",
+  "start": 1968,
+  "end": null,
+  "category": "hotel",
+  "approx": true,
+  "note": "Condo-hotel on Kanekapolei Street in a 15-story building completed around 1968. It still operates today as Aqua Aloha Surf Waikiki.",
+  "lat": 21.2790457,
+  "lng": -157.8236645,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "http://www.hawaiiforvisitors.com/islands/oahu-island/towns/waikiki/lodging/by-name/aloha-surf/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.aquaaston.com/hotels/aqua-aloha-surf-waikiki",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hawaiilife.com/listings/444-kanekapolei-street-1504-honolulu-hi-96815-7",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hawaiiliving.com/aloha-surf-hotel-1500-waikiki-condo-for-sale-202214406",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -9831,19 +9861,6 @@
   "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2719269,
   "lng": -157.8217591
- },
- {
-  "name": "Aloha Surf Hotel",
-  "address": "444 Kanekapolei St",
-  "start": 2026,
-  "end": null,
-  "category": "hotel",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2790457,
-  "lng": -157.8236644
  },
  {
   "name": "Aqua Bamboo Waikiki Hotel",

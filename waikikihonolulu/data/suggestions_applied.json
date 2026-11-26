@@ -1473,6 +1473,21 @@
     "https://www.waikikibeachwalk.com/PDFs/WBW-MediaKit.pdf",
     "https://www.wyndhamhotels.com/wyndham-vacations/honolulu-hawaii/club-wyndham-vr-waikiki-beach-walk/overview"
    ]
+  },
+  {
+   "name": "Aloha Surf Hotel",
+   "address": "444 Kanekapolei St",
+   "note": "Condo-hotel on Kanekapolei Street in a 15-story building completed around 1968. It still operates today as Aqua Aloha Surf Waikiki.",
+   "start": 1968,
+   "end": null,
+   "category": "hotel",
+   "approx": true,
+   "links": [
+    "http://www.hawaiiforvisitors.com/islands/oahu-island/towns/waikiki/lodging/by-name/aloha-surf/",
+    "https://www.aquaaston.com/hotels/aqua-aloha-surf-waikiki",
+    "https://www.hawaiilife.com/listings/444-kanekapolei-street-1504-honolulu-hi-96815-7",
+    "https://www.hawaiiliving.com/aloha-surf-hotel-1500-waikiki-condo-for-sale-202214406"
+   ]
   }
  ],
  "corrections": [
