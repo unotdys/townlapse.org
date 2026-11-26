@@ -6829,16 +6829,25 @@
  },
  {
   "name": "Kona Coffee Donut?",
-  "address": "address not listed",
+  "address": "2142 Kalakaua Ave",
   "start": 2026,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2812872,
-  "lng": -157.830263
+  "note": "Waikiki cafe pairing Honolulu Coffee's Kona coffee with mochi donuts and malasadas. A 2026 dessert guide says it opened that year, and it is still open.",
+  "lat": 21.2811993,
+  "lng": -157.8303381,
+  "links": [
+   {
+    "url": "https://vanillagoods.com/pages/college-sweets/university-of-hawaii-at-manoa",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.konacoffeedonut.com/en",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Waikiki Gun Club",

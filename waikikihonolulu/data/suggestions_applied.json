@@ -2740,6 +2740,20 @@
      "https://www.honolulumagazine.com/green-lady-cocktail-room-waikiki/"
     ]
    }
+  },
+  {
+   "target": "Kona Coffee Donut?",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "2142 Kalakaua Ave",
+    "note": "Waikiki cafe pairing Honolulu Coffee's Kona coffee with mochi donuts and malasadas. A 2026 dessert guide says it opened that year, and it is still open.",
+    "start": 2026,
+    "approx": true,
+    "links": [
+     "https://vanillagoods.com/pages/college-sweets/university-of-hawaii-at-manoa",
+     "https://www.konacoffeedonut.com/en"
+    ]
+   }
   }
  ]
 }
