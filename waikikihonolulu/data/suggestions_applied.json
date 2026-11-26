@@ -3528,6 +3528,21 @@
      "https://www.travelagewest.com/Travel/Hotels/Princess-Kaiulani-Marks-50th-Anniversary"
     ]
    }
+  },
+  {
+   "target": "Pakalolo Collective",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "345 Royal Hawaiian Ave",
+    "note": "Shop and gallery selling cannabis-themed art and accessories by local artists, next to Noa Botanicals. It opened in August 2025 and also helps customers get Hawaii 329 medical cannabis cards.",
+    "start": 2025,
+    "approx": false,
+    "links": [
+     "https://www.instagram.com/p/DNRRLW9S5GE/",
+     "https://www.instagram.com/reel/DNXQjYLOe3d/",
+     "https://www.pakalolocollective.com/"
+    ]
+   }
   }
  ]
 }

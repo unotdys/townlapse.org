@@ -8387,16 +8387,29 @@
  },
  {
   "name": "Pakalolo Collective",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "345 Royal Hawaiian Ave",
+  "start": 2025,
   "end": null,
   "category": "retail",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (cannabis). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2801811,
-  "lng": -157.8281937
+  "note": "Shop and gallery selling cannabis-themed art and accessories by local artists, next to Noa Botanicals. It opened in August 2025 and also helps customers get Hawaii 329 medical cannabis cards.",
+  "lat": 21.2801774,
+  "lng": -157.8281216,
+  "links": [
+   {
+    "url": "https://www.instagram.com/p/DNRRLW9S5GE/",
+    "kind": "Photo"
+   },
+   {
+    "url": "https://www.instagram.com/reel/DNXQjYLOe3d/",
+    "kind": "Photo"
+   },
+   {
+    "url": "https://www.pakalolocollective.com/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Big Island Burgers",
