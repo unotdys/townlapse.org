@@ -2205,6 +2205,28 @@
   ]
  },
  {
+  "name": "The Laylow Waikiki, Autograph Collection",
+  "address": "2299 Kuhio Ave",
+  "start": 2017,
+  "end": null,
+  "category": "hotel",
+  "approx": false,
+  "note": "Boutique hotel on Kuhio Avenue and Oahu's first Marriott Autograph Collection property. Its grand opening was announced in May 2017 after a renovation.",
+  "lat": 21.2792525,
+  "lng": -157.8265059,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.gohawaii.com/listing/the-laylow-autograph-collection/86758",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.prnewswire.com/news-releases/oahus-first-autograph-collection-hotel-heralds-a-new-era-in-honolulu-300456144.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -9581,19 +9603,6 @@
   "note": "Open today (mall). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2801902,
   "lng": -157.828891
- },
- {
-  "name": "The Laylow Waikiki, Autograph Collection",
-  "address": "2299 Kuhio Ave",
-  "start": 2026,
-  "end": null,
-  "category": "hotel",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2792386,
-  "lng": -157.8265202
  },
  {
   "name": "Aston at the Waikiki Banyan",

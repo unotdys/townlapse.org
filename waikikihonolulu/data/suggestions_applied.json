@@ -1246,6 +1246,19 @@
     "https://news.outrigger.com/2021/03/17/outrigger-announces-new-leadership-at-its-waikiki-hotels-and-resorts/",
     "https://www.allabouthawaii.com/htl/i03/hnlomh/main.htm"
    ]
+  },
+  {
+   "name": "The Laylow Waikiki, Autograph Collection",
+   "address": "2299 Kuhio Ave",
+   "note": "Boutique hotel on Kuhio Avenue and Oahu's first Marriott Autograph Collection property. Its grand opening was announced in May 2017 after a renovation.",
+   "start": 2017,
+   "end": null,
+   "category": "hotel",
+   "approx": false,
+   "links": [
+    "https://www.gohawaii.com/listing/the-laylow-autograph-collection/86758",
+    "https://www.prnewswire.com/news-releases/oahus-first-autograph-collection-hotel-heralds-a-new-era-in-honolulu-300456144.html"
+   ]
   }
  ],
  "corrections": [
