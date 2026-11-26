@@ -3216,15 +3216,28 @@
  {
   "name": "Verizon",
   "address": "2999 El Camino Real",
-  "start": 2026,
+  "start": 2013,
   "end": null,
   "category": "services",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (mobile phone). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Verizon Wireless phone store at the corner of Olive Ave, remembered by members of local history groups as open by about 2013. It is now a Verizon Authorized Retailer run by Victra.",
   "lat": 37.422346,
-  "lng": -122.1401515
+  "lng": -122.1401515,
+  "links": [
+   {
+    "url": "https://dokumen.site/download/mercury-news-2017-04-16-a5b39f00d1c8d0",
+    "kind": "Article"
+   },
+   {
+    "url": "https://victra.com/stores/ca-palo-alto/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.verizon.com/business/locations/ca/palo-alto/2999-el-camino-real-a00000258049/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Wesley United Methodist Church",

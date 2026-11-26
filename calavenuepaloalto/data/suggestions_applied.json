@@ -1693,6 +1693,22 @@
      "https://www.paloaltoonline.com/wp-content/uploads/2024/02/2005_11_04.paw_.section1.pdf"
     ]
    }
+  },
+  {
+   "target": "Verizon",
+   "target_address": "2999 El Camino Real",
+   "fields": {
+    "note": "Verizon Wireless phone store at the corner of Olive Ave, remembered by members of local history groups as open by about 2013. It is now a Verizon Authorized Retailer run by Victra.",
+    "start": 2013,
+    "approx": true,
+    "links": [
+     "https://dokumen.site/download/mercury-news-2017-04-16-a5b39f00d1c8d0",
+     "https://facebook.com/groups/ourtownofpaloalto/permalink/510808945641490/",
+     "https://facebook.com/groups/ourtownofpaloalto/permalink/7105916686130650/",
+     "https://victra.com/stores/ca-palo-alto/",
+     "https://www.verizon.com/business/locations/ca/palo-alto/2999-el-camino-real-a00000258049/"
+    ]
+   }
   }
  ]
 }
