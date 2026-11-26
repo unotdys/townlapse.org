@@ -1684,15 +1684,24 @@
  {
   "name": "Square Pie Guys",
   "address": "369 South California Ave",
-  "start": 2026,
+  "start": 2025,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
   "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 37.4267434,
-  "lng": -122.1442477
+  "lng": -122.1442477,
+  "links": [
+   {
+    "url": "https://thecallof.com/square-pie-guys-closes-its-first-location-in-palo-alto",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/palo-alto/2025/09/30/square-pie-guys-brings-its-detroit-style-pizza-to-palo-altos-cal-ave/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Nitoboxing",
