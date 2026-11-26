@@ -98,6 +98,19 @@
     "https://www.paloaltoonline.com/news/2024/03/14/printers-cafe-set-to-shutter-make-way-for-new-gym/",
     "https://www.paloaltoonline.com/palo-alto/2024/09/17/palo-alto-residents-open-california-cafe-at-former-site-of-printers-cafe/"
    ]
+  },
+  {
+   "name": "Casa Isabel",
+   "address": "2434 Park Blvd",
+   "note": "Casa Isabel was a small family-run Mexican restaurant that opened in 1979 and became one of Palo Alto's oldest restaurants. It closed in April 2010 after its lease was not renewed.",
+   "start": 1979,
+   "end": 2010,
+   "category": "food",
+   "approx": false,
+   "links": [
+    "https://www.paloaltoonline.com/uncategorized/2007/03/02/restaurante-delicioso/",
+    "https://www.paloaltoonline.com/uncategorized/2010/03/19/shop-talk-68/"
+   ]
   }
  ],
  "corrections": [

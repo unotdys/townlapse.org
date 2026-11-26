@@ -186,6 +186,28 @@
   ]
  },
  {
+  "name": "Casa Isabel",
+  "address": "2434 Park Blvd",
+  "start": 1979,
+  "end": 2010,
+  "category": "food",
+  "approx": false,
+  "note": "Casa Isabel was a small family-run Mexican restaurant that opened in 1979 and became one of Palo Alto's oldest restaurants. It closed in April 2010 after its lease was not renewed.",
+  "lat": 37.4281366,
+  "lng": -122.1428467,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/uncategorized/2007/03/02/restaurante-delicioso/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/uncategorized/2010/03/19/shop-talk-68/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Rara",
   "address": "201 South California Ave",
   "start": 2023,
