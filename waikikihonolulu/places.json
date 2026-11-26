@@ -8147,15 +8147,36 @@
  {
   "name": "Reyn Spooner",
   "address": "227 Lewers St",
-  "start": 2026,
+  "start": 2024,
   "end": null,
   "category": "retail",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (clothes). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Shop of the Hawaii aloha-wear brand at Waikiki Beach Walk, opened around April 2024 as its second Waikiki store. It is still listed in the center's shop directory.",
   "lat": 21.2793595,
-  "lng": -157.8305369
+  "lng": -157.8305369,
+  "links": [
+   {
+    "url": "https://static1.squarespace.com/static/5d289e4caad70300015b6415/t/663c862a11c0670be99e28c7/1715242562259/WWW2024_May_final.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://milled.com/reynspooner/now-open-waikiki-beach-walk-sfk0ofrrx-_q11_M",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.owler.com/company/reynspooner",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.reynspooner.com/pages/store-locator",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.waikikibeachwalk.com/Shops/Apparel/Reyn-Spooner.htm",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Pull-In",
