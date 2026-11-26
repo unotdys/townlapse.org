@@ -1063,6 +1063,20 @@
      "https://www.paloaltoonline.com/news/2024/01/02/customers-buy-country-sun-avert-closure/"
     ]
    }
+  },
+  {
+   "target": "Ter\u00fan Pizzeria",
+   "target_address": "448 South California Ave",
+   "fields": {
+    "note": "Neapolitan pizzeria that opened in February 2013 under the name Terrone and was soon renamed Ter\u00fan. It is still open.",
+    "start": 2013,
+    "approx": false,
+    "links": [
+     "https://n2v.paloaltoonline.com/blogs/p/print/2013/11/13/what-happened-to-terrone",
+     "https://www.paloaltoonline.com/blogs/2016/05/24/teruacuten-to-open-second-cal-ave-restaurant/",
+     "https://www.terunpizza.com/about"
+    ]
+   }
   }
  ]
 }

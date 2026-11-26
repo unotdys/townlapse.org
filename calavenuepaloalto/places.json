@@ -2233,15 +2233,28 @@
  {
   "name": "Terún Pizzeria",
   "address": "448 South California Ave",
-  "start": 2026,
+  "start": 2013,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Neapolitan pizzeria that opened in February 2013 under the name Terrone and was soon renamed Terún. It is still open.",
   "lat": 37.4259854,
-  "lng": -122.1454691
+  "lng": -122.1454691,
+  "links": [
+   {
+    "url": "https://n2v.paloaltoonline.com/blogs/p/print/2013/11/13/what-happened-to-terrone",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2016/05/24/teruacuten-to-open-second-cal-ave-restaurant/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.terunpizza.com/about",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Jin Sho",
