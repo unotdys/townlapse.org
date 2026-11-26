@@ -3428,6 +3428,19 @@
      "https://www.travelweekly.com/Hawaii-Travel/Insights/From-new-chef-a-fresh-take-on-buffets-at-Hyatt-Regency-Waikiki"
     ]
    }
+  },
+  {
+   "target": "Espacio",
+   "target_address": "2452 Kal\u0101kaua Ave",
+   "fields": {
+    "note": "Small all-suite luxury boutique hotel, also called ESPACIO The Jewel of Waikiki, that opened in fall 2019. It houses the Mugen restaurant.",
+    "start": 2019,
+    "approx": false,
+    "links": [
+     "https://openers.jp/en/lounge/lounge_travel/wxIMg",
+     "https://www.espaciowaikiki.com/contact-us/"
+    ]
+   }
   }
  ]
 }

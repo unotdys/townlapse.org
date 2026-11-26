@@ -8868,15 +8868,24 @@
  {
   "name": "Espacio",
   "address": "2452 Kalākaua Ave",
-  "start": 2026,
+  "start": 2019,
   "end": null,
   "category": "hotel",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Small all-suite luxury boutique hotel, also called ESPACIO The Jewel of Waikiki, that opened in fall 2019. It houses the Mugen restaurant.",
   "lat": 21.2752366,
-  "lng": -157.8244583
+  "lng": -157.8244583,
+  "links": [
+   {
+    "url": "https://openers.jp/en/lounge/lounge_travel/wxIMg",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.espaciowaikiki.com/contact-us/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "McDonald's",
