@@ -614,15 +614,20 @@
  {
   "name": "Julian Chase Hair Design",
   "address": "2343 Birch St",
-  "start": 2026,
+  "start": 1997,
   "end": null,
   "category": "services",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (hairdresser). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Hair salon on Birch Street near California Avenue, open since about late 1996 or 1997 and still open today. Its owner named it after his two children.",
   "lat": 37.4278024,
-  "lng": -122.144432
+  "lng": -122.144432,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/monthly/1998_Jun_24.SALONS.html",
+    "kind": "Ad / newspaper"
+   }
+  ]
  },
  {
   "name": "Naschmarkt",

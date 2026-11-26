@@ -328,6 +328,19 @@
      "https://www.paloaltoonline.com/ae/2016/10/13/shop-talk-caffe-riace-reinvents-itself/"
     ]
    }
+  },
+  {
+   "target": "Julian Chase Hair Design",
+   "target_address": "2343 Birch St",
+   "fields": {
+    "note": "Hair salon on Birch Street near California Avenue, open since about late 1996 or 1997 and still open today. Its owner named it after his two children.",
+    "start": 1997,
+    "approx": true,
+    "links": [
+     "https://www.giftly.com/gift-card/julian-chase-salon-palo-alto",
+     "https://www.paloaltoonline.com/morgue/monthly/1998_Jun_24.SALONS.html"
+    ]
+   }
   }
  ]
 }
