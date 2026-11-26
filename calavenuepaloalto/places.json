@@ -562,6 +562,28 @@
   ]
  },
  {
+  "name": "Simply Sandwiches",
+  "address": "2435 Ash St",
+  "start": 1985,
+  "end": 2019,
+  "category": "food",
+  "approx": true,
+  "note": "Small sandwich shop off California Avenue, run by the same owners from 1985 and known for weekday lunch lines. It closed in March 2019.",
+  "lat": 37.4264771,
+  "lng": -122.1442826,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/news/2019/08/16/small-retailers-in-limbo-at-hotel-california-building-2/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/uncategorized/2012/02/24/keeping-it-simple-2/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Rara",
   "address": "201 South California Ave",
   "start": 2023,

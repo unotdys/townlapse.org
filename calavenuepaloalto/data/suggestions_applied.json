@@ -312,6 +312,19 @@
     "https://www.amigosdepaloalto.com/child-care-programs",
     "https://www.paloaltoonline.com/uncategorized/2011/12/09/winter-class-guide-2/"
    ]
+  },
+  {
+   "name": "Simply Sandwiches",
+   "address": "2435 Ash St",
+   "note": "Small sandwich shop off California Avenue, run by the same owners from 1985 and known for weekday lunch lines. It closed in March 2019.",
+   "start": 1985,
+   "end": 2019,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/news/2019/08/16/small-retailers-in-limbo-at-hotel-california-building-2/",
+    "https://www.paloaltoonline.com/uncategorized/2012/02/24/keeping-it-simple-2/"
+   ]
   }
  ],
  "corrections": [
