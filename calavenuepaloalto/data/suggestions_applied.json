@@ -504,6 +504,19 @@
     "https://saint-marks.com/wp-content/uploads/2022/01/NewcomerGuide2021.pdf",
     "https://www.paloaltoonline.com/news/2014/12/05/class-guide-15/"
    ]
+  },
+  {
+   "name": "7-Eleven",
+   "address": "708 Colorado Ave",
+   "note": "Convenience store at 708 Colorado Avenue, shown operating there in 2011. The chain's current store page still lists this location.",
+   "start": 2011,
+   "end": null,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "https://www.7-eleven.com/locations/ca/palo%20alto/708-colorado-ave-14315",
+    "https://www.paloaltoonline.com/news/2011/08/18/few-details-in-robbery-of-palo-alto-7-eleven/"
+   ]
   }
  ],
  "corrections": [

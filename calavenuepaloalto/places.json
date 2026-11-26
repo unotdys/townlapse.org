@@ -910,6 +910,28 @@
   ]
  },
  {
+  "name": "7-Eleven",
+  "address": "708 Colorado Ave",
+  "start": 2011,
+  "end": null,
+  "category": "retail",
+  "approx": true,
+  "note": "Convenience store at 708 Colorado Avenue, shown operating there in 2011. The chain's current store page still lists this location.",
+  "lat": 37.4331297,
+  "lng": -122.1277672,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.7-eleven.com/locations/ca/palo%20alto/708-colorado-ave-14315",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2011/08/18/few-details-in-robbery-of-palo-alto-7-eleven/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Rara",
   "address": "201 South California Ave",
   "start": 2023,
