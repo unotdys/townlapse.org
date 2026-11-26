@@ -7967,17 +7967,34 @@
   "lng": -157.8231352
  },
  {
-  "name": "La Pure Spa & Cafe",
+  "name": "La Pure Waikiki Spa & Cafe",
   "address": "2380 Kuhio Ave",
-  "start": 2026,
+  "start": 2025,
   "end": null,
-  "category": "food",
+  "category": "services",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Day spa with a cafe offering nails, facials and massages on the ground floor of the Lilia Waikiki tower, with its entrance on Walina Street. It opened in September 2025 and is still open.",
   "lat": 21.2787437,
-  "lng": -157.8244758
+  "lng": -157.8244758,
+  "links": [
+   {
+    "url": "https://www.instagram.com/lapurespa_waikiki/",
+    "kind": "Photo"
+   },
+   {
+    "url": "https://honolulunailacademy.com/hna-is-excited-to-introduce-our-new-spa-in-waikiki-in-september-called-la-pure-waikiki-spa-and-cafe/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://la-pure-waikiki-spa-cafe.hub.biz/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://lapurewaikiki.com/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Alo Cafe",

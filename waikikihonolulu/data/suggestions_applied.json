@@ -3164,6 +3164,23 @@
      "https://www.instagram.com/hammerheadicecream/"
     ]
    }
+  },
+  {
+   "target": "La Pure Spa & Cafe",
+   "target_address": "2380 Kuhio Ave",
+   "fields": {
+    "name": "La Pure Waikiki Spa & Cafe",
+    "note": "Day spa with a cafe offering nails, facials and massages on the ground floor of the Lilia Waikiki tower, with its entrance on Walina Street. It opened in September 2025 and is still open.",
+    "start": 2025,
+    "category": "services",
+    "approx": false,
+    "links": [
+     "https://honolulunailacademy.com/hna-is-excited-to-introduce-our-new-spa-in-waikiki-in-september-called-la-pure-waikiki-spa-and-cafe/",
+     "https://la-pure-waikiki-spa-cafe.hub.biz/",
+     "https://lapurewaikiki.com/",
+     "https://www.instagram.com/lapurespa_waikiki/"
+    ]
+   }
   }
  ]
 }
