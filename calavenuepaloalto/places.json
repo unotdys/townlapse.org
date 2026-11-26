@@ -1597,15 +1597,24 @@
  {
   "name": "Victoria Ballet",
   "address": "370 South California Ave",
-  "start": 2026,
+  "start": 2023,
   "end": null,
   "category": "fitness",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (dance). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Classical ballet school for children and adults that opened its Palo Alto studio on California Avenue in January 2023. It is still open.",
   "lat": 37.426793,
-  "lng": -122.144708
+  "lng": -122.144708,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/news/2023/02/05/at-new-victoria-ballet-classes-celebrate-the-power-of-art/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.victoriaballetofficial.com/about",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Massage Therapy Center",

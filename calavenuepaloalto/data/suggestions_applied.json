@@ -756,6 +756,19 @@
      "https://www.paloaltoonline.com/ae/2019/06/20/summer-restaurant-openings-abound/"
     ]
    }
+  },
+  {
+   "target": "Victoria Ballet",
+   "target_address": "370 South California Ave",
+   "fields": {
+    "note": "Classical ballet school for children and adults that opened its Palo Alto studio on California Avenue in January 2023. It is still open.",
+    "start": 2023,
+    "approx": false,
+    "links": [
+     "https://www.paloaltoonline.com/news/2023/02/05/at-new-victoria-ballet-classes-celebrate-the-power-of-art/",
+     "https://www.victoriaballetofficial.com/about"
+    ]
+   }
   }
  ]
 }
