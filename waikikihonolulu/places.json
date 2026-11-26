@@ -2847,6 +2847,36 @@
   ]
  },
  {
+  "name": "Waikiki Beach Walk",
+  "address": "227 Lewers St",
+  "start": 2007,
+  "end": null,
+  "category": "retail",
+  "approx": false,
+  "note": "Outrigger's open-air shopping, dining and entertainment district on Lewers Street at Kalakaua Avenue, part of a major redevelopment of the street. A few tenants opened in late 2006, and the center opened in 2007.",
+  "lat": 21.2790315,
+  "lng": -157.830914,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://archives.starbulletin.com/2007/06/01/features/story01.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.gohawaii.com/node/2349",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.loopnet.com/Listing/227-Lewers-St-Honolulu-HI/15457419/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.waikikibeachwalk.com/Press-Room/2022/Waikiki-Beach-Walk-Celebrates-15-Years.htm",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
