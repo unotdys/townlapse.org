@@ -2701,6 +2701,32 @@
   ]
  },
  {
+  "name": "Ilima Hotel",
+  "address": "445 Nohonani St",
+  "start": 1968,
+  "end": null,
+  "category": "hotel",
+  "approx": false,
+  "note": "Family-owned condo-style hotel with 98 rooms on Nohonani Street, open since 1968 and still operating.",
+  "lat": 21.2803289,
+  "lng": -157.825326,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://ilima.com/about/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://us.trip.com/hotels/honolulu-hotel-detail-731867/ilima-hotel/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelweekly.com/Destinations2001-2007/Hotel-keeps-them-coming-back",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -9934,19 +9960,6 @@
   "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2807428,
   "lng": -157.8250739
- },
- {
-  "name": "Ilima Hotel",
-  "address": "445 Nohonani St",
-  "start": 2026,
-  "end": null,
-  "category": "hotel",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2803572,
-  "lng": -157.8253106
  },
  {
   "name": "Hawaiian Ebbtide Hotel",

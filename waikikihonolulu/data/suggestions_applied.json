@@ -1518,6 +1518,20 @@
     "https://www.oahure.com/SearchMLS_Details.php?MLSNumber=202509344&PropertyType=RES",
     "https://www.redfin.com/HI/Honolulu/134-Kapahulu-Ave-Honolulu-HI-96815/building/11678"
    ]
+  },
+  {
+   "name": "Ilima Hotel",
+   "address": "445 Nohonani St",
+   "note": "Family-owned condo-style hotel with 98 rooms on Nohonani Street, open since 1968 and still operating.",
+   "start": 1968,
+   "end": null,
+   "category": "hotel",
+   "approx": false,
+   "links": [
+    "https://ilima.com/about/",
+    "https://us.trip.com/hotels/honolulu-hotel-detail-731867/ilima-hotel/",
+    "https://www.travelweekly.com/Destinations2001-2007/Hotel-keeps-them-coming-back"
+   ]
   }
  ],
  "corrections": [
