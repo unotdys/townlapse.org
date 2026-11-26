@@ -1000,6 +1000,20 @@
     "https://static1.squarespace.com/static/5d289e4caad70300015b6415/t/6430898f25171974d1ab8821/1680902557372/WWW2023_APRIL_final4.pdf",
     "https://www.honolulumagazine.com/tempura-kiki/"
    ]
+  },
+  {
+   "name": "Shingen",
+   "address": "2250 Kal\u0101kaua Ave",
+   "note": "Japanese noodle shop known for fresh soba in the STIX ASIA food hall on the lower level of Waikiki Shopping Plaza. It was one of the restaurants open at the food hall's grand opening in February 2023.",
+   "start": 2023,
+   "end": null,
+   "category": "food",
+   "approx": false,
+   "links": [
+    "https://staradvertiser.com/2023/01/31/food/raise-your-chopstix",
+    "https://www.hawaiimagazine.com/stix-asia-food-hall-brings-17-new-asian-restaurants-to-waikiki/",
+    "https://www.honolulumagazine.com/stix-asia-food-hall-now-open-waikiki/"
+   ]
   }
  ],
  "corrections": [
