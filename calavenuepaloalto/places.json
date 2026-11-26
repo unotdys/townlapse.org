@@ -2693,15 +2693,24 @@
  {
   "name": "California Avenue Hardware",
   "address": "251 South California Ave",
-  "start": 2026,
+  "start": 2022,
   "end": null,
   "category": "retail",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (hardware). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Hardware store that opened in 2022 as Nob Hill Hardware, in space that had been part of a larger FedEx Office, with a grand opening planned for that May. It now operates as California Avenue Hardware and is still open.",
   "lat": 37.4277926,
-  "lng": -122.1432185
+  "lng": -122.1432185,
+  "links": [
+   {
+    "url": "https://thecampanile.org/31287/news/zoning-regulations-ease/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2022/03/24/with-diy-projects-on-the-rise-nob-hill-hardware-expands-into-palo-alto/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "FedEx Office",
