@@ -308,6 +308,32 @@
   ]
  },
  {
+  "name": "The Animal Doctors",
+  "address": "461 Page Mill Road",
+  "start": 2002,
+  "end": null,
+  "category": "services",
+  "approx": true,
+  "note": "Veterinary clinic on Page Mill Road near the California Ave district. The practice started in Menlo Park in 1975 and moved here around 2002; it still lists this address.",
+  "lat": 37.4235403,
+  "lng": -122.1410826,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.cityofpaloalto.org/files/assets/public/v/1/agendas-minutes-reports/reports/city-manager-reports-cmrs/year-archive/2012/425-page-mill-id-3253.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.theanimaldoctors.net/post/flea-and-tick-treatment-and-prevention-dogs",
+    "kind": "Article"
+   },
+   {
+    "url": "https://startpage.mapquest.com/us/california/the-animal-doctors-11807495",
+    "kind": "Listing"
+   }
+  ]
+ },
+ {
   "name": "Rara",
   "address": "201 South California Ave",
   "start": 2023,
