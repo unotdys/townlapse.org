@@ -832,6 +832,20 @@
     "https://www.honolulumagazine.com/?p=610087",
     "https://www.travelweekly.com/Hawaii-Travel/Insights/Waikiki-Yokocho-serves-up-new-dining-experience"
    ]
+  },
+  {
+   "name": "Shanghai Bar",
+   "address": "2250 Kalakaua Ave",
+   "note": "Cocktail bar with a 1930s Shanghai theme in the STIX ASIA food hall on the lower level of Waikiki Shopping Plaza. It was serving Asian-inspired cocktails and Japanese spirits by spring 2023.",
+   "start": 2023,
+   "end": null,
+   "category": "entertainment",
+   "approx": true,
+   "links": [
+    "https://dining.staradvertiser.com/digital/2023/0507/files/basic-html/page3.html",
+    "https://www.hinowdaily.com/2023/04/17/experience-authentic-asian-cuisine-honolulu-noodle-co-shanghai-bar/",
+    "https://www.qsrmagazine.com/news/asian-food-hall-stix-asia-opens-waikiki-hawaii/"
+   ]
   }
  ],
  "corrections": [

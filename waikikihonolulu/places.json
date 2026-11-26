@@ -1419,6 +1419,32 @@
   ]
  },
  {
+  "name": "Shanghai Bar",
+  "address": "2250 Kalakaua Ave",
+  "start": 2023,
+  "end": null,
+  "category": "entertainment",
+  "approx": true,
+  "note": "Cocktail bar with a 1930s Shanghai theme in the STIX ASIA food hall on the lower level of Waikiki Shopping Plaza. It was serving Asian-inspired cocktails and Japanese spirits by spring 2023.",
+  "lat": 21.2792987,
+  "lng": -157.8285137,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://dining.staradvertiser.com/digital/2023/0507/files/basic-html/page3.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hinowdaily.com/2023/04/17/experience-authentic-asian-cuisine-honolulu-noodle-co-shanghai-bar/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.qsrmagazine.com/news/asian-food-hall-stix-asia-opens-waikiki-hawaii/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -7563,19 +7589,6 @@
   "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2791839,
   "lng": -157.8286444
- },
- {
-  "name": "Shanghai Bar",
-  "address": "2250 Kalākaua Ave",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (bar). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2791703,
-  "lng": -157.8285161
  },
  {
   "name": "Diesel",
