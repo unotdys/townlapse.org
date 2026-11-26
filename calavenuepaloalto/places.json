@@ -52,6 +52,36 @@
   ]
  },
  {
+  "name": "BMO",
+  "address": "2600 El Camino Real",
+  "start": 2023,
+  "end": null,
+  "category": "services",
+  "approx": true,
+  "note": "BMO bank branch, formerly a Bank of the West branch. It took the BMO name after BMO bought Bank of the West in 2023.",
+  "lat": 37.4239356,
+  "lng": -122.1433561,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://cumbelich.com/about/completed-assignments/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://n2v.paloaltoonline.com/news/2022/07/11/silicon-valley-bank-plans-to-open-cal-ave-branch",
+    "kind": "Article"
+   },
+   {
+    "url": "https://newsroom.bmo.com/2023-02-01-BMO-Completes-Acquisition-of-Bank-of-the-West",
+    "kind": "Article"
+   },
+   {
+    "url": "https://usbranches.bmo.com/ca/palo-alto/bmo121/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Rara",
   "address": "201 South California Ave",
   "start": 2023,
@@ -1772,19 +1802,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "BMO",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "services",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (bank). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4239781,
-  "lng": -122.1445421
  },
  {
   "name": "Electric Bike Center",

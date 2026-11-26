@@ -27,6 +27,21 @@
     "https://punchmagazine.com/family-food-sun-of-wolf/",
     "https://www.paloaltoonline.com/blogs/2018/06/25/opening-alert-sun-of-wolf-in-palo-alto/"
    ]
+  },
+  {
+   "name": "BMO",
+   "address": "2600 El Camino Real",
+   "note": "BMO bank branch, formerly a Bank of the West branch. It took the BMO name after BMO bought Bank of the West in 2023.",
+   "start": 2023,
+   "end": null,
+   "category": "services",
+   "approx": true,
+   "links": [
+    "https://cumbelich.com/about/completed-assignments/",
+    "https://n2v.paloaltoonline.com/news/2022/07/11/silicon-valley-bank-plans-to-open-cal-ave-branch",
+    "https://newsroom.bmo.com/2023-02-01-BMO-Completes-Acquisition-of-Bank-of-the-West",
+    "https://usbranches.bmo.com/ca/palo-alto/bmo121/"
+   ]
   }
  ],
  "corrections": [
