@@ -1161,6 +1161,28 @@
   ]
  },
  {
+  "name": "natuRe waikiki",
+  "address": "413 Seaside Ave",
+  "start": 2021,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "natuRe waikiki is a sustainable Island French restaurant that opened December 17, 2021, on the second floor at 413 Seaside Avenue in Waikiki.",
+  "lat": 21.2803861,
+  "lng": -157.8265585,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.honolulucoupon.com/post/the-last-of-the-new-in-2021-the-best-of-oahus-latest-restaurant-and-shop-openings/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.naturewaikiki.com/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -5947,19 +5969,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "natuRe waikiki",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2803127,
-  "lng": -157.8268004
  },
  {
   "name": "The Sunrise Shack",
