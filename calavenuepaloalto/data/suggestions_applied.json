@@ -182,6 +182,19 @@
      "https://www.paloaltoonline.com/blogs/2022/10/28/a-palo-alto-restaurant-that-closed-during-the-pandemic-is-reopening-in-a-new-space-in-december/"
     ]
    }
+  },
+  {
+   "target": "Gamelandia",
+   "target_address": "290 California Ave",
+   "fields": {
+    "note": "Tabletop game store and play space that soft-opened in October 2022 and held its grand opening that November.",
+    "start": 2022,
+    "approx": false,
+    "links": [
+     "https://midpenpost.org/2023/05/04/palo-alto-game-store-provides-home-spun-energy-for-all/",
+     "https://www.paloaltoonline.com/ae/2022/10/13/how-a-palo-alto-couple-is-seeking-to-foster-community-through-their-new-game-store/"
+    ]
+   }
   }
  ]
 }

@@ -329,15 +329,24 @@
  {
   "name": "Gamelandia",
   "address": "290 California Ave",
-  "start": 2026,
+  "start": 2022,
   "end": null,
   "category": "retail",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (games). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Tabletop game store and play space that soft-opened in October 2022 and held its grand opening that November.",
   "lat": 37.4275737,
-  "lng": -122.14403
+  "lng": -122.14403,
+  "links": [
+   {
+    "url": "https://midpenpost.org/2023/05/04/palo-alto-game-store-provides-home-spun-energy-for-all/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/ae/2022/10/13/how-a-palo-alto-couple-is-seeking-to-foster-community-through-their-new-game-store/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Joanie's Cafe",
