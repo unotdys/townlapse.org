@@ -90,7 +90,7 @@
   {
    "name": "Fran's Market",
    "address": "499 Lytton Ave",
-   "note": "Longtime neighborhood market at Lytton and Gilman; the space became Mademoiselle Colette bakery in 2016–17. Opening year unknown; Fran's Smoke Shop was listed next door at 497 Lytton in the 1950s.",
+   "note": "Longtime neighborhood market at Lytton and Gilman; the space became Mademoiselle Colette bakery in 2016\u201317. Opening year unknown; Fran's Smoke Shop was listed next door at 497 Lytton in the 1950s.",
    "start": 1987,
    "end": 2016,
    "category": "retail",
@@ -102,7 +102,7 @@
   {
    "name": "The Victorian on Lytton",
    "address": "555 Lytton Ave",
-   "note": "Bed-and-breakfast inn in the 1896 Queen Anne-style Hannah Clapp House, which was converted to an inn in 1985–86. It closed around 2006 after water damage, and the house later held a women's resource center.",
+   "note": "Bed-and-breakfast inn in the 1896 Queen Anne-style Hannah Clapp House, which was converted to an inn in 1985\u201386. It closed around 2006 after water damage, and the house later held a women's resource center.",
    "start": 1986,
    "end": 2006,
    "category": "hotel",
@@ -665,7 +665,7 @@
   {
    "name": "Avenidas",
    "address": "450 Bryant St",
-   "note": "Senior services center in the city-owned 1927 Birge Clark former police and fire station, opened around 1977–78 by the Senior Coordinating Council, which later took the name Avenidas. The building was renovated and expanded, reopening in 2019.",
+   "note": "Senior services center in the city-owned 1927 Birge Clark former police and fire station, opened around 1977\u201378 by the Senior Coordinating Council, which later took the name Avenidas. The building was renovated and expanded, reopening in 2019.",
    "start": 1977,
    "end": null,
    "category": "services",
@@ -1367,6 +1367,19 @@
     "https://www.paloalto.gov/Departments/Transportation/Transportation-Projects/Downtown-Automated-Parking-Guidance-Systems-APGS",
     "https://www.paloalto.gov/files/assets/public/v/1/agendas-minutes-reports/reports/city-manager-reports-cmrs/year-archive/2018/sr-9447-modernization-of-lot-j-elevators.pdf"
    ]
+  },
+  {
+   "name": "Peninsula Plating Works",
+   "address": "232 Homer Ave",
+   "note": "Family-run plating shop at the back of a silversmith's store on Homer Ave, run by three generations of the same family. Founded about 1939 and still open in 1994; it is said to have closed around 2003.",
+   "start": 1939,
+   "end": 2003,
+   "category": "services",
+   "approx": true,
+   "links": [
+    "http://homeravenue.org/Walk_Tour.htm",
+    "https://www.paloaltoonline.com/morgue/real_estate/1994_Feb_11.HOME11.html"
+   ]
   }
  ],
  "corrections": [
@@ -1377,7 +1390,7 @@
     "start": 2008,
     "end": 2023,
     "approx": true,
-    "note": "Starbucks at 374–376 University Ave, open here from about 2008 until April 30, 2023, when it moved to 151 University."
+    "note": "Starbucks at 374\u2013376 University Ave, open here from about 2008 until April 30, 2023, when it moved to 151 University."
    }
   },
   {
@@ -1513,7 +1526,7 @@
    "target": "Palo Alto Bicycles",
    "target_address": "171 University Ave",
    "fields": {
-    "note": "Family-owned bike shop that grew out of the Palo Alto Sport Shop's bicycle department and was renamed Palo Alto Bicycles when it moved here in 1973. It briefly operated across the street at 170 University in 1997–98 while this building was seismically rebuilt.",
+    "note": "Family-owned bike shop that grew out of the Palo Alto Sport Shop's bicycle department and was renamed Palo Alto Bicycles when it moved here in 1973. It briefly operated across the street at 170 University in 1997\u201398 while this building was seismically rebuilt.",
     "start": 1973,
     "approx": false,
     "links": [
@@ -1738,7 +1751,7 @@
    "target": "Charmelle 28",
    "target_address": "547 Bryant St",
    "fields": {
-    "note": "Fine lingerie boutique that opened downtown in late 1993 as Gitti's Fine Lingerie and later took the name Charmelle 28. It was absorbed by Lingerie République around 2019.",
+    "note": "Fine lingerie boutique that opened downtown in late 1993 as Gitti's Fine Lingerie and later took the name Charmelle 28. It was absorbed by Lingerie R\u00e9publique around 2019.",
     "start": 1993,
     "end": 2019,
     "approx": true,
@@ -2124,7 +2137,7 @@
    "target": "Selix Formal Wear",
    "target_address": "164 University Ave",
    "fields": {
-    "note": "Tuxedo and formal wear shop, a few doors from its 1959–1963 location at 158 University Ave. It closed in February 2015 when the Selix chain went bankrupt and shut all six stores; when it moved here is unknown.",
+    "note": "Tuxedo and formal wear shop, a few doors from its 1959\u20131963 location at 158 University Ave. It closed in February 2015 when the Selix chain went bankrupt and shut all six stores; when it moved here is unknown.",
     "start": 2015,
     "end": 2015,
     "category": "retail",
@@ -2174,7 +2187,7 @@
    "target": "Patagonia",
    "target_address": "525 Alma St",
    "fields": {
-    "note": "Outdoor clothing and gear store, still open, in a brick building that housed auto dealerships in the 1920s–1950s. A local news column places it on Alma St by early 2008, and it may have opened earlier.",
+    "note": "Outdoor clothing and gear store, still open, in a brick building that housed auto dealerships in the 1920s\u20131950s. A local news column places it on Alma St by early 2008, and it may have opened earlier.",
     "start": 2008,
     "approx": true,
     "links": [
