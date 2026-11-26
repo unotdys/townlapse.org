@@ -959,6 +959,19 @@
      "https://www.city-data.com/banks/banks-Palo-Alto-California.html"
     ]
    }
+  },
+  {
+   "target": "Chipotle",
+   "target_address": "2675 El Camino Real",
+   "fields": {
+    "note": "Fast-casual Mexican restaurant on El Camino Real near California Avenue. It opened in November 2009 and is still listed at this address.",
+    "start": 2009,
+    "approx": false,
+    "links": [
+     "https://locations.chipotle.com/ca/palo-alto/2675-el-camino-real",
+     "https://www.paloaltoonline.com/uncategorized/2009/12/04/shop-talk-63/"
+    ]
+   }
   }
  ]
 }

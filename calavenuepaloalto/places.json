@@ -2032,15 +2032,24 @@
  {
   "name": "Chipotle",
   "address": "2675 El Camino Real",
-  "start": 2026,
+  "start": 2009,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Fast-casual Mexican restaurant on El Camino Real near California Avenue. It opened in November 2009 and is still listed at this address.",
   "lat": 37.4239159,
-  "lng": -122.1430831
+  "lng": -122.1430831,
+  "links": [
+   {
+    "url": "https://locations.chipotle.com/ca/palo-alto/2675-el-camino-real",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/uncategorized/2009/12/04/shop-talk-63/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Coronet Motel",
