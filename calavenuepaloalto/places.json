@@ -1754,15 +1754,24 @@
  {
   "name": "GK Pastry",
   "address": "2417 Park Blvd",
-  "start": 2026,
+  "start": 2023,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (bakery). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "A bakery known for jar cakes that grew out of farmers markets. It opened its first storefront here in late 2023.",
   "lat": 37.4282654,
-  "lng": -122.1425909
+  "lng": -122.1425909,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/mountain-view/2023/12/07/five-new-palo-alto-eateries-serving-everything-from-jar-cakes-to-nepalese-food/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.trybayarea.com/post/jar-cakes-at-gk-pastry-in-mountain-view",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "BMO",

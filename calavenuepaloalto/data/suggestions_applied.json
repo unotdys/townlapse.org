@@ -835,6 +835,19 @@
      "https://www.paloaltoonline.com/news/2022/12/07/punching-bags-kettlebells-and-hawaiian-vibes-boxing-gym-set-to-open-on-cal-ave/"
     ]
    }
+  },
+  {
+   "target": "GK Pastry",
+   "target_address": "2417 Park Blvd",
+   "fields": {
+    "note": "A bakery known for jar cakes that grew out of farmers markets. It opened its first storefront here in late 2023.",
+    "start": 2023,
+    "approx": false,
+    "links": [
+     "https://www.paloaltoonline.com/mountain-view/2023/12/07/five-new-palo-alto-eateries-serving-everything-from-jar-cakes-to-nepalese-food/",
+     "https://www.trybayarea.com/post/jar-cakes-at-gk-pastry-in-mountain-view"
+    ]
+   }
   }
  ]
 }
