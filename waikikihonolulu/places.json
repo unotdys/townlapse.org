@@ -1933,6 +1933,28 @@
   ]
  },
  {
+  "name": "'Alohilani Resort Waikiki Beach",
+  "address": "2490 Kalākaua Ave",
+  "start": 2018,
+  "end": null,
+  "category": "hotel",
+  "approx": false,
+  "note": "Oceanfront resort created from the former Pacific Beach Hotel through a $125 million transformation. It celebrated its grand opening on May 8, 2018.",
+  "lat": 21.2746924,
+  "lng": -157.8232236,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.alohilaniresort.com/press/2019-0311-hawaiimagazine/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.alohilaniresort.com/press/longstanding-hotel-transforms-modern-hawaiian-wonder/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -3494,28 +3516,6 @@
   "lng": -157.8335663
  },
  {
-  "name": "Momosan Waikiki",
-  "address": "2490 Kalākaua Ave",
-  "start": 2018,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "source": "osm",
-  "note": "Iron Chef Masaharu Morimoto's casual ramen and sake restaurant on the ground floor of the 'Alohilani Resort, across from Kuhio Beach. It opened in May 2018, three months after his Morimoto Asia Waikiki opened one floor above.",
-  "lat": 21.274495,
-  "lng": -157.8238225,
-  "links": [
-   {
-    "url": "https://www.honolulumagazine.com/?p=424002",
-    "kind": "Article"
-   },
-   {
-    "url": "https://www.honolulumagazine.com/heres-what-we-think-you-should-order-at-chef-morimotos-two-new-restaurants/",
-    "kind": "Article"
-   }
-  ]
- },
- {
   "name": "ABC",
   "address": "address not listed",
   "start": 2026,
@@ -4456,19 +4456,6 @@
   "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2730945,
   "lng": -157.8215496
- },
- {
-  "name": "Morimoto Asia Waikiki",
-  "address": "2490 Kalākaua Ave",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2742321,
-  "lng": -157.8239524
  },
  {
   "name": "Taormina",
@@ -9028,19 +9015,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "'Alohilani Resort Waikiki Beach",
-  "address": "2490 Kalākaua Ave",
-  "start": 2026,
-  "end": null,
-  "category": "hotel",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2747088,
-  "lng": -157.8231737
  },
  {
   "name": "Halepuna Waikiki by Halekulani",

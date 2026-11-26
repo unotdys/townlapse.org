@@ -1103,6 +1103,19 @@
     "https://hawaiimagazine.com/?p=129195",
     "https://stories.hilton.com/releases/lxr-hotels-resorts-debuts-in-hawaii-with-opening-of-ka-lai-waikiki-beach"
    ]
+  },
+  {
+   "name": "'Alohilani Resort Waikiki Beach",
+   "address": "2490 Kal\u0101kaua Ave",
+   "note": "Oceanfront resort created from the former Pacific Beach Hotel through a $125 million transformation. It celebrated its grand opening on May 8, 2018.",
+   "start": 2018,
+   "end": null,
+   "category": "hotel",
+   "approx": false,
+   "links": [
+    "https://www.alohilaniresort.com/press/2019-0311-hawaiimagazine/",
+    "https://www.alohilaniresort.com/press/longstanding-hotel-transforms-modern-hawaiian-wonder/"
+   ]
   }
  ],
  "corrections": [
