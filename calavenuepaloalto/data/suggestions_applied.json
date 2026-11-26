@@ -946,6 +946,19 @@
      "https://verdemagazine.com/the-wow-factor-trying-palo-altos-newest-boba-tea"
     ]
    }
+  },
+  {
+   "target": "Wells Fargo",
+   "target_address": "505 California Ave",
+   "fields": {
+    "note": "Bank branch known as the Stanford Industrial Park branch, listed in federal branch records as established March 10, 1958; it may have opened under an earlier bank that later merged into Wells Fargo. Still open today.",
+    "start": 1958,
+    "approx": false,
+    "links": [
+     "https://locations.wellsfargo.com/ca/palo-alto/505-s-california-ave",
+     "https://www.city-data.com/banks/banks-Palo-Alto-California.html"
+    ]
+   }
   }
  ]
 }

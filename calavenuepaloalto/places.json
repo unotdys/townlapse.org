@@ -2010,15 +2010,24 @@
  {
   "name": "Wells Fargo",
   "address": "505 California Ave",
-  "start": 2026,
+  "start": 1958,
   "end": null,
   "category": "services",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (bank). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Bank branch known as the Stanford Industrial Park branch, listed in federal branch records as established March 10, 1958; it may have opened under an earlier bank that later merged into Wells Fargo. Still open today.",
   "lat": 37.4246812,
-  "lng": -122.1457774
+  "lng": -122.1457774,
+  "links": [
+   {
+    "url": "https://locations.wellsfargo.com/ca/palo-alto/505-s-california-ave",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.city-data.com/banks/banks-Palo-Alto-California.html",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Chipotle",
