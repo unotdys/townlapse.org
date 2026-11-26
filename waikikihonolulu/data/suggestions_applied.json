@@ -2712,6 +2712,21 @@
      "https://www.sunriseshackhawaii.com/pages/outrigger-waikiki-beach-resort"
     ]
    }
+  },
+  {
+   "target": "Green Lady Cocktail Room",
+   "target_address": "431 Nohonani St",
+   "fields": {
+    "note": "Hidden speakeasy-style cocktail bar inside the White Sands Hotel, opened in March 2023. Guests reach it by asking at the front desk for Room 8.",
+    "start": 2023,
+    "approx": false,
+    "links": [
+     "https://sunset.com/travel/travel-directory/green-lady-cocktail-room",
+     "https://www.foodgal.com/2023/03/hawaii-eats-nami-kaze-and-the-surreptitious-green-lady-cocktail-room-oahu/",
+     "https://www.honolulumagazine.com/?p=624549",
+     "https://www.honolulumagazine.com/green-lady-cocktail-room-waikiki/"
+    ]
+   }
   }
  ]
 }

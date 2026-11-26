@@ -6890,15 +6890,32 @@
  {
   "name": "Green Lady Cocktail Room",
   "address": "431 Nohonani St",
-  "start": 2026,
+  "start": 2023,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (bar). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Hidden speakeasy-style cocktail bar inside the White Sands Hotel, opened in March 2023. Guests reach it by asking at the front desk for Room 8.",
   "lat": 21.2802492,
-  "lng": -157.8255085
+  "lng": -157.8255085,
+  "links": [
+   {
+    "url": "https://sunset.com/travel/travel-directory/green-lady-cocktail-room",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.foodgal.com/2023/03/hawaii-eats-nami-kaze-and-the-surreptitious-green-lady-cocktail-room-oahu/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/?p=624549",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/green-lady-cocktail-room-waikiki/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Hala Tree Cafe",
