@@ -698,6 +698,19 @@
     "https://www.honolulucoupon.com/post/the-last-of-the-new-in-2021-the-best-of-oahus-latest-restaurant-and-shop-openings/",
     "https://www.naturewaikiki.com/"
    ]
+  },
+  {
+   "name": "Waikiki Gun Club",
+   "address": "2142 Kalakaua Ave",
+   "note": "The Hawaii Waikiki Gun Club, an indoor shooting range at 2142 Kalakaua Avenue, 2nd Floor, was established in 1988 and remains in operation at that address.",
+   "start": 1988,
+   "end": null,
+   "category": "entertainment",
+   "approx": true,
+   "links": [
+    "http://www.hawaiigunclub.com/",
+    "https://shootingranges.co/listing/waikiki-hawaii-gun-club/"
+   ]
   }
  ],
  "corrections": [

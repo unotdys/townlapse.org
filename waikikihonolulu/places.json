@@ -1183,6 +1183,28 @@
   ]
  },
  {
+  "name": "Waikiki Gun Club",
+  "address": "2142 Kalakaua Ave",
+  "start": 1988,
+  "end": null,
+  "category": "entertainment",
+  "approx": true,
+  "note": "The Hawaii Waikiki Gun Club, an indoor shooting range at 2142 Kalakaua Avenue, 2nd Floor, was established in 1988 and remains in operation at that address.",
+  "lat": 21.2811993,
+  "lng": -157.8303381,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "http://www.hawaiigunclub.com/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://shootingranges.co/listing/waikiki-hawaii-gun-club/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -6848,19 +6870,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Waikiki Gun Club",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "retail",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (weapons). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2812352,
-  "lng": -157.8302625
  },
  {
   "name": "The Capital Grille",
