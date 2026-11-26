@@ -1267,15 +1267,24 @@
  {
   "name": "Serenity Nails",
   "address": "458 Cambridge Ave",
-  "start": 2026,
+  "start": 2022,
   "end": null,
   "category": "services",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (beauty). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Nail salon offering manicure, pedicure and waxing services. The salon says it held its grand opening in 2022.",
   "lat": 37.4264842,
-  "lng": -122.1462406
+  "lng": -122.1462406,
+  "links": [
+   {
+    "url": "https://serenitynails-paloalto.com/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.bestprosintown.com/ca/palo-alto/serenity-nails-/comments/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Palo Alto Fitness Club",

@@ -603,6 +603,19 @@
      "https://www.paloaltoonline.com/palo-alto/2025/10/13/new-palo-alto-cake-business-offers-diy-classes-and-custom-cakes/"
     ]
    }
+  },
+  {
+   "target": "Serenity Nails",
+   "target_address": "458 Cambridge Ave",
+   "fields": {
+    "note": "Nail salon offering manicure, pedicure and waxing services. The salon says it held its grand opening in 2022.",
+    "start": 2022,
+    "approx": false,
+    "links": [
+     "https://serenitynails-paloalto.com/",
+     "https://www.bestprosintown.com/ca/palo-alto/serenity-nails-/comments/"
+    ]
+   }
   }
  ]
 }
