@@ -1385,6 +1385,40 @@
   ]
  },
  {
+  "name": "Nana's Green Tea",
+  "address": "2250 Kalakaua Ave",
+  "start": 2016,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "note": "Japanese matcha cafe that opened in December 2016 in the Waikiki Yokocho food alley, in the basement of Waikiki Shopping Plaza. It was the chain's first U.S. location. It soft-opened again in the same space in January 2023 as part of the Stix Asia food hall.",
+  "lat": 21.2792987,
+  "lng": -157.8285137,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.hawaiimagazine.com/stix-asia-food-hall-brings-17-new-asian-restaurants-to-waikiki/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hawaiimomblog.com/2016/11/waikiki-yokocho-gourmet-alley-opens.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/?p=340026",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/?p=610087",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelweekly.com/Hawaii-Travel/Insights/Waikiki-Yokocho-serves-up-new-dining-experience",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -7529,19 +7563,6 @@
   "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2791839,
   "lng": -157.8286444
- },
- {
-  "name": "Nana's Green Tea",
-  "address": "2250 Kalākaua Ave",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2794832,
-  "lng": -157.8282872
  },
  {
   "name": "Shanghai Bar",
