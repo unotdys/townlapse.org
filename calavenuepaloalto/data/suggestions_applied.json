@@ -627,6 +627,19 @@
     "https://www.paloaltoonline.com/ae/2015/08/20/when-in-france/",
     "https://www.paloaltoonline.com/news/2020/04/22/despite-financial-strain-restaurant-owner-insists-on-providing-free-meals-in-the-community-that-helped-him-succeed/"
    ]
+  },
+  {
+   "name": "Bargain Box",
+   "address": "341 South California Ave",
+   "note": "Nonprofit thrift store that raised funds for the Children's Health Council. It moved to this California Avenue location in 1996 and closed on June 25, 2014.",
+   "start": 1996,
+   "end": 2014,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/news/2014/06/20/bargain-box-outlasted-other-palo-alto-thrift-stores/",
+    "https://www.paloaltoonline.com/news/2014/06/20/california-avenues-bargain-box-to-close-after-58-years/"
+   ]
   }
  ],
  "corrections": [

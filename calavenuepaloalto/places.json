@@ -1132,6 +1132,28 @@
   ]
  },
  {
+  "name": "Bargain Box",
+  "address": "341 South California Ave",
+  "start": 1996,
+  "end": 2014,
+  "category": "retail",
+  "approx": true,
+  "note": "Nonprofit thrift store that raised funds for the Children's Health Council. It moved to this California Avenue location in 1996 and closed on June 25, 2014.",
+  "lat": 37.4269611,
+  "lng": -122.1440867,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/news/2014/06/20/bargain-box-outlasted-other-palo-alto-thrift-stores/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2014/06/20/california-avenues-bargain-box-to-close-after-58-years/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Rara",
   "address": "201 South California Ave",
   "start": 2023,
