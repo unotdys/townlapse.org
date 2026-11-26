@@ -1817,6 +1817,36 @@
   ]
  },
  {
+  "name": "OUTRIGGER Waikiki Beach Resort",
+  "address": "2335 Kalākaua Ave",
+  "start": 1967,
+  "end": null,
+  "category": "hotel",
+  "approx": false,
+  "note": "Oceanfront Waikiki hotel established in 1967 on land that had been occupied by the Outrigger Canoe Club. It celebrated its 50th anniversary in 2017 and has 524 rooms.",
+  "lat": 21.27715,
+  "lng": -157.8276707,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://news.outrigger.com/2017/07/27/outrigger-waikiki-beach-resort-celebrates-golden-anniversary/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.gohawaii.com/listing/outrigger-waikiki-beach-resort/991",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.outrigger.com/hawaii/oahu/outrigger-waikiki-beach-resort",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.outrigger.com/hawaii/oahu/outrigger-waikiki-beach-resort/faq",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -8821,19 +8851,6 @@
   "note": "Open today (post office). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2812651,
   "lng": -157.8319482
- },
- {
-  "name": "OUTRIGGER Waikiki Beach Resort",
-  "address": "2335 Kalākaua Ave",
-  "start": 2026,
-  "end": null,
-  "category": "hotel",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2770447,
-  "lng": -157.8275312
  },
  {
   "name": "Honolulu Police Department",

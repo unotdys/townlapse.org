@@ -1044,6 +1044,21 @@
     "https://www.hyatt.com/hyatt-regency/en-US/hnlrw-hyatt-regency-waikiki-beach-resort-and-spa/dining",
     "https://www.travelweekly.com/Hotels/Honolulu/Hyatt-Regency-Waikiki-Beach-Resort-Spa-p3908250"
    ]
+  },
+  {
+   "name": "OUTRIGGER Waikiki Beach Resort",
+   "address": "2335 Kal\u0101kaua Ave",
+   "note": "Oceanfront Waikiki hotel established in 1967 on land that had been occupied by the Outrigger Canoe Club. It celebrated its 50th anniversary in 2017 and has 524 rooms.",
+   "start": 1967,
+   "end": null,
+   "category": "hotel",
+   "approx": false,
+   "links": [
+    "https://news.outrigger.com/2017/07/27/outrigger-waikiki-beach-resort-celebrates-golden-anniversary/",
+    "https://www.gohawaii.com/listing/outrigger-waikiki-beach-resort/991",
+    "https://www.outrigger.com/hawaii/oahu/outrigger-waikiki-beach-resort",
+    "https://www.outrigger.com/hawaii/oahu/outrigger-waikiki-beach-resort/faq"
+   ]
   }
  ],
  "corrections": [
