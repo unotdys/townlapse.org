@@ -728,6 +728,20 @@
      "https://www.paloaltoshell.com/blog/archives/2014"
     ]
    }
+  },
+  {
+   "target": "MJ Sushi",
+   "target_address": "2305 El Camino Real",
+   "fields": {
+    "note": "MJ Sushi is a sushi restaurant known for late-night hours. It opened in early 2023 in the space that Pizz'a Chicago used to occupy.",
+    "start": 2023,
+    "approx": false,
+    "links": [
+     "https://palyvoice.com/?p=171333",
+     "https://verdemagazine.com/midnight-munchies-reviewing-four-local-late-night-eateries",
+     "https://www.paloaltoonline.com/blogs/2023/03/28/new-palo-alto-sushi-spot-highlights-late-night-hours-and-affordable-prices/"
+    ]
+   }
   }
  ]
 }
