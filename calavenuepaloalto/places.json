@@ -3660,15 +3660,28 @@
  {
   "name": "Stanford Terrace Inn",
   "address": "531 Stanford Ave",
-  "start": 2026,
-  "end": null,
+  "start": 1996,
+  "end": 2020,
   "category": "hotel",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "College Terrace motor inn near El Camino Real, recorded as a hotel by 1996 and possibly open well before that. It became long-term housing in 2020 without permits, was closed by the city in 2024, and was ordered demolished in 2026.",
   "lat": 37.4269492,
-  "lng": -122.1494584
+  "lng": -122.1494584,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/real_estate/1996_May_3.building_permits.html",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "http://soi.stanford.edu/general/meetings/public_html/hotels.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/city-government/2026/04/21/palo-alto-orders-demolition-of-former-stanford-terrace-inn/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Jack in the Box",
