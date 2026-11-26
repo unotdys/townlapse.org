@@ -286,6 +286,19 @@
      "https://www.yelp.ca/biz/social-salon-palo-alto?hl=en_CA"
     ]
    }
+  },
+  {
+   "target": "Pop Tea Bar",
+   "target_address": "456 Cambridge Ave",
+   "fields": {
+    "note": "Milk-tea and boba shop that opened in June 2015 in the space Beans n' Bites had used. It is still open.",
+    "start": 2015,
+    "approx": false,
+    "links": [
+     "https://palyvoice.com/107159/reviews/review-pop-tea-bar-is-tealicious/",
+     "https://www.paloaltoonline.com/peninsula-foodist/2015/06/15/pop-tea-bar-replaces-beans-n-bites-cafe/"
+    ]
+   }
   }
  ]
 }
