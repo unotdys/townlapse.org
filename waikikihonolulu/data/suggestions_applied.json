@@ -1372,6 +1372,23 @@
    "links": [
     "https://www.queenkapiolani.com/about-us"
    ]
+  },
+  {
+   "name": "Aston Waikiki Beach Tower",
+   "address": "2470 Kalakaua Ave",
+   "note": "All-suite condominium hotel in a tower across from Kuhio Beach, opened around 1984 and later run under the ResortQuest and Aston names. In 2018 it relaunched after a renovation as The Residences at Waikiki Beach Tower.",
+   "start": 1984,
+   "end": null,
+   "category": "hotel",
+   "approx": true,
+   "links": [
+    "https://aquaaston.com/hotels/aston-waikiki-beach-tower",
+    "https://www.city-data.com/articles/Aston-Waikiki-Beach-Tower-Honolulu.html",
+    "https://www.hawaiitourismauthority.org/media/1992/2011-visitor-plant-inventory-report.pdf",
+    "https://www.royalhawaii.com/index_files/waikiki-beach-tower-facts.pdf",
+    "https://www.travelweek.ca/news/now-open-the-residences-at-waikiki-beach-tower/",
+    "https://www.travelweekly.com/Hotels/Honolulu/Aston-Waikiki-Beach-Tower-p56567104"
+   ]
   }
  ],
  "corrections": [
