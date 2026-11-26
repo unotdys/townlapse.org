@@ -2369,6 +2369,36 @@
   ]
  },
  {
+  "name": "Park Shore Waikiki",
+  "address": "2586 Kalakaua Ave",
+  "start": 1968,
+  "end": null,
+  "category": "hotel",
+  "approx": true,
+  "note": "High-rise hotel at the Diamond Head end of Waikiki, across from Kapiolani Park and near the Honolulu Zoo, built around 1968. It still operates as a hotel.",
+  "lat": 21.2719973,
+  "lng": -157.822408,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://files.hawaii.gov/dbedt/erp/EA_EIS_Library/2009-04-08-OA-DEA-Park-Shore-Waikiki-Hotel.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.meetings-conventions.com/Meeting-Event-Venues/Honolulu/Convention-Hotel/Park-Shore-Waikiki-p4444235",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.successfulmeetings.com/Meeting-Event-Venues/Honolulu/Convention-Hotel/Park-Shore-Waikiki-p5394241",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelagewest.com/Travel/Hotels/Aqua-Heads-to-the-Park",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -9880,19 +9910,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Park Shore Waikiki",
-  "address": "2586 Kalākaua Ave",
-  "start": 2026,
-  "end": null,
-  "category": "hotel",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2719839,
-  "lng": -157.8222832
  },
  {
   "name": "The Twin Fin",

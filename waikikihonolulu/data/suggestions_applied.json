@@ -1345,6 +1345,21 @@
     "https://www.hospitalitynet.org/announcement/41009587/new-boutique-lifestyle-property-wayfinder-waikiki-officially-opens",
     "https://www.wayfinderwaikiki.com/press/lanilani/"
    ]
+  },
+  {
+   "name": "Park Shore Waikiki",
+   "address": "2586 Kalakaua Ave",
+   "note": "High-rise hotel at the Diamond Head end of Waikiki, across from Kapiolani Park and near the Honolulu Zoo, built around 1968. It still operates as a hotel.",
+   "start": 1968,
+   "end": null,
+   "category": "hotel",
+   "approx": true,
+   "links": [
+    "https://files.hawaii.gov/dbedt/erp/EA_EIS_Library/2009-04-08-OA-DEA-Park-Shore-Waikiki-Hotel.pdf",
+    "https://www.meetings-conventions.com/Meeting-Event-Venues/Honolulu/Convention-Hotel/Park-Shore-Waikiki-p4444235",
+    "https://www.successfulmeetings.com/Meeting-Event-Venues/Honolulu/Convention-Hotel/Park-Shore-Waikiki-p5394241",
+    "https://www.travelagewest.com/Travel/Hotels/Aqua-Heads-to-the-Park"
+   ]
   }
  ],
  "corrections": [
