@@ -1880,15 +1880,24 @@
  {
   "name": "Lotus Thai Bistro",
   "address": "425 South California Ave",
-  "start": 2026,
+  "start": 2012,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Family-run Thai restaurant on California Avenue, reviewed in the Stanford Daily in early 2012, the earliest year found. Palo Alto Weekly readers voted it Best Thai Restaurant in 2022, and it is still open.",
   "lat": 37.4260788,
-  "lng": -122.1447984
+  "lng": -122.1447984,
+  "links": [
+   {
+    "url": "https://stanforddaily.com/2012/02/17/in-good-taste-lotus-thai-bistro/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/best-of/2022/07/23/best-of-2022-restaurants/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Ada Lash",

@@ -890,6 +890,19 @@
      "https://www.levyelectric.com/shop/palo-alto/electric-bike-center-palo-alto"
     ]
    }
+  },
+  {
+   "target": "Lotus Thai Bistro",
+   "target_address": "425 South California Ave",
+   "fields": {
+    "note": "Family-run Thai restaurant on California Avenue, reviewed in the Stanford Daily in early 2012, the earliest year found. Palo Alto Weekly readers voted it Best Thai Restaurant in 2022, and it is still open.",
+    "start": 2012,
+    "approx": true,
+    "links": [
+     "https://stanforddaily.com/2012/02/17/in-good-taste-lotus-thai-bistro/",
+     "https://www.paloaltoonline.com/best-of/2022/07/23/best-of-2022-restaurants/"
+    ]
+   }
   }
  ]
 }
