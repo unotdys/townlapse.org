@@ -364,6 +364,19 @@
     "https://baptistnews.com/article/city-and-church-compromise-in-building-use-dispute/",
     "https://www.paloaltoonline.com/news/2019/10/25/first-baptist-church-prepares-to-shut-down-sell-assets/"
    ]
+  },
+  {
+   "name": "3G's Cafe",
+   "address": "456 Cambridge Ave",
+   "note": "Small cafe serving Bolivian fare such as salte\u00f1as and cu\u00f1apes alongside coffee drinks, opened in August 2011. It was sold to new owners in October 2014.",
+   "start": 2011,
+   "end": 2014,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/blogs/2014/10/16/palo-altos-3gs-cafe-sold-to-new-owners/",
+    "https://www.paloaltoonline.com/uncategorized/2011/11/18/a-taste-of-bolivia/"
+   ]
   }
  ],
  "corrections": [

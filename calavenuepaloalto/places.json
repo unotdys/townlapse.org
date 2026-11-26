@@ -650,6 +650,28 @@
   ]
  },
  {
+  "name": "3G's Cafe",
+  "address": "456 Cambridge Ave",
+  "start": 2011,
+  "end": 2014,
+  "category": "food",
+  "approx": true,
+  "note": "Small cafe serving Bolivian fare such as salteñas and cuñapes alongside coffee drinks, opened in August 2011. It was sold to new owners in October 2014.",
+  "lat": 37.4265206,
+  "lng": -122.1462108,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2014/10/16/palo-altos-3gs-cafe-sold-to-new-owners/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/uncategorized/2011/11/18/a-taste-of-bolivia/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Rara",
   "address": "201 South California Ave",
   "start": 2023,
