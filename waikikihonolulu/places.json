@@ -2399,6 +2399,24 @@
   ]
  },
  {
+  "name": "Queen Kapiolani Hotel",
+  "address": "150 Kapahulu Avenue, Honolulu, HI 96815",
+  "start": 1969,
+  "end": null,
+  "category": "hotel",
+  "approx": true,
+  "note": "The hotel's own history says it opened in 1969 and gives 150 Kapahulu Avenue as its address.",
+  "lat": 21.2720212,
+  "lng": -157.8211381,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.queenkapiolani.com/about-us",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -9513,19 +9531,6 @@
   ]
  },
  {
-  "name": "Ewa Hotel",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "hotel",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2727183,
-  "lng": -157.8214731
- },
- {
   "name": "Bank of Hawaii Center",
   "address": "2155 Kalākaua Ave",
   "start": 2026,
@@ -9944,19 +9949,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Queen Kapiolani Hotel",
-  "address": "150 Kapahulu Ave",
-  "start": 2026,
-  "end": null,
-  "category": "hotel",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2720488,
-  "lng": -157.821115
  },
  {
   "name": "Aston Waikīkī Beach Tower",

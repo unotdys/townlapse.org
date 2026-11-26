@@ -1360,6 +1360,18 @@
     "https://www.successfulmeetings.com/Meeting-Event-Venues/Honolulu/Convention-Hotel/Park-Shore-Waikiki-p5394241",
     "https://www.travelagewest.com/Travel/Hotels/Aqua-Heads-to-the-Park"
    ]
+  },
+  {
+   "name": "Queen Kapiolani Hotel",
+   "address": "150 Kapahulu Avenue, Honolulu, HI 96815",
+   "note": "The hotel's own history says it opened in 1969 and gives 150 Kapahulu Avenue as its address.",
+   "start": 1969,
+   "end": null,
+   "category": "hotel",
+   "approx": true,
+   "links": [
+    "https://www.queenkapiolani.com/about-us"
+   ]
   }
  ],
  "corrections": [
