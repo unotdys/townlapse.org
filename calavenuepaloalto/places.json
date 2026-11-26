@@ -845,15 +845,24 @@
  {
   "name": "California Paint Company",
   "address": "360 South California Ave",
-  "start": 2026,
+  "start": 1986,
   "end": null,
   "category": "retail",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (paint). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Paint store, formerly known as California Paint and Wallpaper, open at this address by the mid-1980s, when it spread into two storefronts. It went back to a single storefront in 2007 and is still open.",
   "lat": 37.4269583,
-  "lng": -122.144542
+  "lng": -122.144542,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/news/1996_Apr_17.SHOP17.html",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2007/05/09/shop-talk-19/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "La Jolie Nail Spa",

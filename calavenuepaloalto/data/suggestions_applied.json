@@ -424,6 +424,19 @@
      "https://www.paloaltoonline.com/news/2017/04/03/shop-talk-hair-salon-opens-starbucks-closes-toy-world-to-close-its-doors/"
     ]
    }
+  },
+  {
+   "target": "California Paint Company",
+   "target_address": "360 South California Ave",
+   "fields": {
+    "note": "Paint store, formerly known as California Paint and Wallpaper, open at this address by the mid-1980s, when it spread into two storefronts. It went back to a single storefront in 2007 and is still open.",
+    "start": 1986,
+    "approx": true,
+    "links": [
+     "https://www.paloaltoonline.com/morgue/news/1996_Apr_17.SHOP17.html",
+     "https://www.paloaltoonline.com/news/2007/05/09/shop-talk-19/"
+    ]
+   }
   }
  ]
 }
