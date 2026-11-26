@@ -1102,6 +1102,36 @@
   ]
  },
  {
+  "name": "Cafe Brioche",
+  "address": "445 South California Ave",
+  "start": 1995,
+  "end": 2020,
+  "category": "food",
+  "approx": true,
+  "note": "French bistro that was described in 2015 as an anchor of California Avenue since 1995, and was damaged by a fire in May 2019. Ramen Kowa had opened at the same address by late 2020.",
+  "lat": 37.4258154,
+  "lng": -122.1450389,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://padailypost.com/tag/cafe-brioche",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.opentable.ca/r/cafe-brioche-palo-alto-3",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/ae/2015/08/20/when-in-france/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2020/04/22/despite-financial-strain-restaurant-owner-insists-on-providing-free-meals-in-the-community-that-helped-him-succeed/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Rara",
   "address": "201 South California Ave",
   "start": 2023,
