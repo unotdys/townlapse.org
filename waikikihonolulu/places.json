@@ -1297,6 +1297,28 @@
   ]
  },
  {
+  "name": "Waffle and Berry",
+  "address": "2250 Kalakaua Ave",
+  "start": 2023,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Waffle and Berry, a locally owned waffle and acai bowl cafe established in 2019 at Ohana Hale Marketplace, opened at its current Waikiki Shopping Plaza location, 2250 Kalakaua Ave, Lower Level #104, in 2023.",
+  "lat": 21.2792987,
+  "lng": -157.8285137,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "http://waffleandberry.com/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://waikikishoppingplaza.com/reasons-to-visit-waikiki-in-2024/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -7277,19 +7299,6 @@
   "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2805307,
   "lng": -157.8279465
- },
- {
-  "name": "Waffle and Berry",
-  "address": "2250 Kalākaua Ave",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2797686,
-  "lng": -157.8285016
  },
  {
   "name": "Noa",

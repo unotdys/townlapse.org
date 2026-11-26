@@ -764,6 +764,19 @@
     "https://sagemenu.com/honolulu/aloha-hotdog-and-banh-mi-honolulu/",
     "https://waikikishoppingplaza.com/new-year-new-eats/"
    ]
+  },
+  {
+   "name": "Waffle and Berry",
+   "address": "2250 Kalakaua Ave",
+   "note": "Waffle and Berry, a locally owned waffle and acai bowl cafe established in 2019 at Ohana Hale Marketplace, opened at its current Waikiki Shopping Plaza location, 2250 Kalakaua Ave, Lower Level #104, in 2023.",
+   "start": 2023,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "http://waffleandberry.com/",
+    "https://waikikishoppingplaza.com/reasons-to-visit-waikiki-in-2024/"
+   ]
   }
  ],
  "corrections": [
