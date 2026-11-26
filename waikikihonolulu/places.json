@@ -2473,6 +2473,32 @@
   ]
  },
  {
+  "name": "Waikiki Circle Hotel",
+  "address": "2464 Kalakaua Ave",
+  "start": 1963,
+  "end": null,
+  "category": "hotel",
+  "approx": true,
+  "note": "Round, 14-story hotel across Kalakaua Avenue from Waikiki Beach, opened around 1962–1963 (the hotel itself gives 1963). It has operated under the Aston and Castle management brands.",
+  "lat": 21.2761744,
+  "lng": -157.8258392,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://waikikicircle.com/waikiki-icon",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.aaa.com/travelinfo/hi/honolulu/hotels/aston-waikiki-circle-hotel-99587.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelweekly.com/Hawaii-Travel/Castle-Resorts-is-taking-over-management-of-Waikiki-Circle-Hotel",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,

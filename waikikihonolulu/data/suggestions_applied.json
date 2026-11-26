@@ -1401,6 +1401,20 @@
    "links": [
     "https://historichawaii.org/historic-property-oa/royal-hawaiian-hotel/"
    ]
+  },
+  {
+   "name": "Waikiki Circle Hotel",
+   "address": "2464 Kalakaua Ave",
+   "note": "Round, 14-story hotel across Kalakaua Avenue from Waikiki Beach, opened around 1962\u20131963 (the hotel itself gives 1963). It has operated under the Aston and Castle management brands.",
+   "start": 1963,
+   "end": null,
+   "category": "hotel",
+   "approx": true,
+   "links": [
+    "https://waikikicircle.com/waikiki-icon",
+    "https://www.aaa.com/travelinfo/hi/honolulu/hotels/aston-waikiki-circle-hotel-99587.html",
+    "https://www.travelweekly.com/Hawaii-Travel/Castle-Resorts-is-taking-over-management-of-Waikiki-Circle-Hotel"
+   ]
   }
  ],
  "corrections": [
