@@ -1432,6 +1432,19 @@
     "https://www.eastbaytimes.com/2011/04/18/a-g-ferrari-reorganization-closes-three-more-stores/",
     "https://www.paloaltoonline.com/morgue/2001/2001_08_01.shop01.html"
    ]
+  },
+  {
+   "name": "Diddams Amazing Party Store",
+   "address": "215 Hamilton Ave",
+   "note": "Party and toy store, part of a local Peninsula chain. Palo Alto Online reported it was due to close in March 2010, about 20 years after it opened.",
+   "start": 1990,
+   "end": 2010,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/uncategorized/2010/03/19/shop-talk-68/",
+    "https://www.paloaltoonline.com/wp-content/uploads/2024/02/2005_02_16.paw_.section1.pdf"
+   ]
   }
  ],
  "corrections": [
