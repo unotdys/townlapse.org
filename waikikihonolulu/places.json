@@ -3181,6 +3181,36 @@
   ]
  },
  {
+  "name": "Royal Grove Waikiki",
+  "address": "151 Uluniu Ave",
+  "start": 1948,
+  "end": null,
+  "category": "hotel",
+  "approx": true,
+  "note": "Joseph and Annalie Tatibouet opened the Royal Grove Hotel in 1948 as a small 14-room walk-up, and it became the first property of what grew into Aston Hotels & Resorts. It still operates as the Royal Grove Waikiki.",
+  "lat": 21.2762616,
+  "lng": -157.8236142,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://aquaaston.com/about-us/our-history",
+    "kind": "History"
+   },
+   {
+    "url": "https://loopnet.com/Listing/151-Uluniu-Ave-Honolulu-HI/32882011",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hotelplanner.com/Hotels/290835/Reservations-Royal-Grove-Waikiki-Honolulu-151-Uluniu-Ave-96815",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelagewest.com/Travel/Hotels/Aston-Hotels-Thrives-at-Sixty-Five",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,

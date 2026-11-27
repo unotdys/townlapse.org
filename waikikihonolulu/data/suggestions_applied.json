@@ -1773,6 +1773,21 @@
     "https://www.airbnb.com/things-to-do/places/250448",
     "https://www.honolulumagazine.com/your-oahu-neighborhood-guide-monsarrat-avenue/"
    ]
+  },
+  {
+   "name": "Royal Grove Waikiki",
+   "address": "151 Uluniu Ave",
+   "note": "Joseph and Annalie Tatibouet opened the Royal Grove Hotel in 1948 as a small 14-room walk-up, and it became the first property of what grew into Aston Hotels & Resorts. It still operates as the Royal Grove Waikiki.",
+   "start": 1948,
+   "end": null,
+   "category": "hotel",
+   "approx": true,
+   "links": [
+    "https://aquaaston.com/about-us/our-history",
+    "https://loopnet.com/Listing/151-Uluniu-Ave-Honolulu-HI/32882011",
+    "https://www.hotelplanner.com/Hotels/290835/Reservations-Royal-Grove-Waikiki-Honolulu-151-Uluniu-Ave-96815",
+    "https://www.travelagewest.com/Travel/Hotels/Aston-Hotels-Thrives-at-Sixty-Five"
+   ]
   }
  ],
  "corrections": [
