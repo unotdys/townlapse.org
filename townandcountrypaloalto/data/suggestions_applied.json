@@ -656,6 +656,20 @@
     "https://www.booksinc.com/pages/locations",
     "https://www.paloaltoonline.com/uncategorized/2007/07/04/book-talk-21/"
    ]
+  },
+  {
+   "name": "For Eyes",
+   "address": "855 El Camino Real",
+   "note": "Optical shop selling eyeglasses and offering eye exams at Town & Country Village, Suite 83. Palo Alto Weekly named it a Best Of winner for eyewear in 2006, and the center's directory still lists it.",
+   "start": 2006,
+   "end": null,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "https://tandcvillage.com/tenant-type/health-wellness/",
+    "https://www.paloaltoonline.com/cover-story/2006/08/30/2006-winner-snapshot/",
+    "https://www.yellowpages.com/palo-alto-ca/mip/for-eyes-optical-455081512"
+   ]
   }
  ],
  "corrections": [
