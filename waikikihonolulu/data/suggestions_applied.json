@@ -2017,6 +2017,19 @@
    "links": [
     "https://www.city-data.com/articles/Aqua-Waikiki-Pearl-Honolulu-Hawaii.html"
    ]
+  },
+  {
+   "name": "Trump International Hotel Waikiki",
+   "address": "223 Saratoga Rd",
+   "note": "38-story luxury condo-hotel near Waikiki Beach Walk that opened in November 2009. After its owners ended the Trump licensing deal, it was rebranded as Ka La\u02bbi Waik\u012bk\u012b Beach in February 2024.",
+   "start": 2009,
+   "end": 2024,
+   "category": "hotel",
+   "approx": false,
+   "links": [
+    "https://en.wikipedia.org/wiki/Ka_La%CA%BBi_Waik%C4%ABk%C4%AB_Beach_Hotel",
+    "https://www.partyslate.com/venues/trump-international-hotel-waikiki-beach-walk"
+   ]
   }
  ],
  "corrections": [

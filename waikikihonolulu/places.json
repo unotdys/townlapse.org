@@ -3649,6 +3649,28 @@
   ]
  },
  {
+  "name": "Trump International Hotel Waikiki",
+  "address": "223 Saratoga Rd",
+  "start": 2009,
+  "end": 2024,
+  "category": "hotel",
+  "approx": false,
+  "note": "38-story luxury condo-hotel near Waikiki Beach Walk that opened in November 2009. After its owners ended the Trump licensing deal, it was rebranded as Ka Laʻi Waikīkī Beach in February 2024.",
+  "lat": 21.2794259,
+  "lng": -157.832077,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Ka_La%CA%BBi_Waik%C4%ABk%C4%AB_Beach_Hotel",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.partyslate.com/venues/trump-international-hotel-waikiki-beach-walk",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
