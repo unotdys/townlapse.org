@@ -580,6 +580,36 @@
   ]
  },
  {
+  "name": "Tava Kitchen",
+  "address": "855 El Camino Real",
+  "start": 2012,
+  "end": 2017,
+  "category": "food",
+  "approx": false,
+  "note": "Fast-casual Indian restaurant at the back of Town & Country Village. It opened in February 2012 as Tava Indian Kitchen, was renamed Tava Kitchen in 2016, and closed on January 16, 2017 when its five-year lease ended.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://n2v.paloaltoonline.com/blogs/p/print/2016/03/22/palo-altos-tava-indian-kitchen-to-relaunch-free-lunch-wednesday",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/ae/2014/01/17/dining-the-rebirth-of-town-country/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2017/01/17/tava-kitchen-shutters-in-palo-alto/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2017/01/17/tava-kitchen-shutters-in-palo-alto/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "CVS Pharmacy",
   "address": "address not listed",
   "start": 2026,
