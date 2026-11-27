@@ -558,6 +558,28 @@
   ]
  },
  {
+  "name": "Asian Box",
+  "address": "855 El Camino Real",
+  "start": 2012,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Fast-casual counter at Town & Country Village serving customizable gluten-free Vietnamese-style boxes with rice, noodles, salads and proteins. It opened in March 2012 and remains open.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://paloalto.org/food-and-drink/vietnamese/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.gayot.com/restaurants/sanfrancisconews/archive-march-2012.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "CVS Pharmacy",
   "address": "address not listed",
   "start": 2026,
