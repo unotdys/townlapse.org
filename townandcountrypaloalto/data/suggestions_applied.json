@@ -81,6 +81,19 @@
     "https://paloalto.org/directory/quick-bites/gotts-roadside/",
     "https://www.paloaltoonline.com/uncategorized/2013/10/11/shop-talk-142/"
    ]
+  },
+  {
+   "name": "Oren\u2019s Hummus Express",
+   "address": "855 El Camino Real",
+   "note": "Quick-service Israeli restaurant in Town & Country Village. Palo Alto Online reported the prototype Oren\u2019s Hummus Express would open May 8, 2019 at Town & Country Village Suite 162; a current Palo Alto directory still lists the Express at 855 El Camino Real Suite 162 as a separate location.",
+   "start": 2019,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://paloalto.org/directory/restaurants/orens-hummus-shop/",
+    "https://www.paloaltoonline.com/blogs/2019/05/07/orens-hummus-takes-first-step-toward-national-expansion-with-new-location/"
+   ]
   }
  ],
  "corrections": [

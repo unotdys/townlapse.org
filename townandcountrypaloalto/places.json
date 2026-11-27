@@ -148,6 +148,28 @@
   ]
  },
  {
+  "name": "Oren’s Hummus Express",
+  "address": "855 El Camino Real",
+  "start": 2019,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Quick-service Israeli restaurant in Town & Country Village. Palo Alto Online reported the prototype Oren’s Hummus Express would open May 8, 2019 at Town & Country Village Suite 162; a current Palo Alto directory still lists the Express at 855 El Camino Real Suite 162 as a separate location.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://paloalto.org/directory/restaurants/orens-hummus-shop/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2019/05/07/orens-hummus-takes-first-step-toward-national-expansion-with-new-location/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "CVS Pharmacy",
   "address": "address not listed",
   "start": 2026,
@@ -666,19 +688,6 @@
   "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 37.4378837,
   "lng": -122.1598878
- },
- {
-  "name": "Oren’s Hummus Express",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4391096,
-  "lng": -122.15815
  },
  {
   "name": "Poké House",
