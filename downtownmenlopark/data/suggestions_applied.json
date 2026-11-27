@@ -124,6 +124,18 @@
      "https://www.dir.ca.gov/databases/dosh-pv/DOSH-PV.ASP?City=&County=&PERM_EXP_D=&RP_Name=nlo&State_nbr=&Street_1=&ZIP5=&sortfield=Name"
     ]
    }
+  },
+  {
+   "target": "Sky Nails",
+   "target_address": "1059 Crane St",
+   "fields": {
+    "start": 2018,
+    "approx": true,
+    "links": [
+     "https://biddingforgood.com/auction/item/item.action?id=325608535",
+     "https://skynailsmenlo.favesalon.com/"
+    ]
+   }
   }
  ]
 }

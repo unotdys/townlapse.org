@@ -264,15 +264,24 @@
  {
   "name": "Sky Nails",
   "address": "1059 Crane St",
-  "start": 2026,
+  "start": 2018,
   "end": null,
   "category": "services",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
   "note": "Open today (beauty). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 37.4505488,
-  "lng": -122.1849348
+  "lng": -122.1849348,
+  "links": [
+   {
+    "url": "https://biddingforgood.com/auction/item/item.action?id=325608535",
+    "kind": "Article"
+   },
+   {
+    "url": "https://skynailsmenlo.favesalon.com/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Rug Center",
