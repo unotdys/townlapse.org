@@ -1960,6 +1960,20 @@
     "https://www.scmp.com/magazines/post-magazine/article/1252570/hot-spots-shoreline-hotel-waikiki",
     "https://www.travelweekly.com/Travel-News/Hotel-News/Joie-de-Vivre-parent-to-manage-Waikiki-hotel"
    ]
+  },
+  {
+   "name": "Ruth's Chris Steak House",
+   "address": "226 Lewers St",
+   "note": "Steakhouse at Waikiki Beach Walk on Lewers Street that opened for dinner on March 19, 2007. It is still open.",
+   "start": 2007,
+   "end": null,
+   "category": "food",
+   "approx": false,
+   "links": [
+    "https://archives.midweek.com/content/columns/neighborhoodspots_article/a_tropical_steak_house_on_lewers_street/",
+    "https://www.ruthschris.com/waikiki/",
+    "https://www.waikikivisitor.com/?p=3349"
+   ]
   }
  ],
  "corrections": [
