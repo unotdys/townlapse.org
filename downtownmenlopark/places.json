@@ -2219,15 +2219,28 @@
  {
   "name": "Coffeebar",
   "address": "1149 Chestnut St",
-  "start": 2026,
+  "start": 2018,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Cafe from a Truckee-based coffee company, its first location outside the Tahoe area. It soft-opened on January 10, 2018, in a space that had housed Nak's Oriental Market and Absolutely Nails.",
   "lat": 37.4521118,
-  "lng": -122.1854639
+  "lng": -122.1854639,
+  "links": [
+   {
+    "url": "https://inmenlo.com/2018/06/29/coffebar-is-a-welcome-addition-to-downtown-menlo-park/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://n2v.paloaltoonline.com/blogs/p/2018/05/14/coffeebar-menlo-park-adds-wine-extends-hours",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2018/01/10/coffeebar-opens-in-menlo-park/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "BevMo!",

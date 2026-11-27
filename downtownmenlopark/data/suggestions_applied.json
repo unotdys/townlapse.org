@@ -899,6 +899,20 @@
      "https://www.paloaltoonline.com/peninsula-foodist/2015/12/08/menlo-park-farewell-su-hong-hello-yum-cha-palace/"
     ]
    }
+  },
+  {
+   "target": "Coffeebar",
+   "target_address": "1149 Chestnut St",
+   "fields": {
+    "note": "Cafe from a Truckee-based coffee company, its first location outside the Tahoe area. It soft-opened on January 10, 2018, in a space that had housed Nak's Oriental Market and Absolutely Nails.",
+    "start": 2018,
+    "approx": false,
+    "links": [
+     "https://inmenlo.com/2018/06/29/coffebar-is-a-welcome-addition-to-downtown-menlo-park/",
+     "https://n2v.paloaltoonline.com/blogs/p/2018/05/14/coffeebar-menlo-park-adds-wine-extends-hours",
+     "https://www.paloaltoonline.com/blogs/2018/01/10/coffeebar-opens-in-menlo-park/"
+    ]
+   }
   }
  ]
 }
