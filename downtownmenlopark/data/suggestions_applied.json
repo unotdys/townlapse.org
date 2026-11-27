@@ -26,6 +26,19 @@
     "https://punchmagazine.com/happily-ever-afterwards/",
     "https://www.paloaltoonline.com/morgue/news/2000_Sep_13.SHOP13.html"
    ]
+  },
+  {
+   "name": "Menlo Park Academy of Dance",
+   "address": "1163 El Camino Real",
+   "note": "Dance studio in downtown Menlo Park. It began in 1947 at another El Camino Real address, moved to 1163 El Camino Real in 1949, took its current name in 1969, and remains open.",
+   "start": 1949,
+   "end": null,
+   "category": "fitness",
+   "approx": true,
+   "links": [
+    "https://menloparkacademyofdance.com/about/",
+    "https://www.mphistory.org/exhibits/historic-menlo-park-businesses/"
+   ]
   }
  ],
  "corrections": [

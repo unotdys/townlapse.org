@@ -48,6 +48,28 @@
   ]
  },
  {
+  "name": "Menlo Park Academy of Dance",
+  "address": "1163 El Camino Real",
+  "start": 1949,
+  "end": null,
+  "category": "fitness",
+  "approx": true,
+  "note": "Dance studio in downtown Menlo Park. It began in 1947 at another El Camino Real address, moved to 1163 El Camino Real in 1949, took its current name in 1969, and remains open.",
+  "lat": 37.4538562,
+  "lng": -122.18392,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.mphistory.org/exhibits/historic-menlo-park-businesses/",
+    "kind": "History"
+   },
+   {
+    "url": "https://menloparkacademyofdance.com/about/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "899 Santa Cruz Ave",
   "start": 1971,
@@ -1016,19 +1038,6 @@
   "note": "Open today (rugs). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 37.4519955,
   "lng": -122.184439
- },
- {
-  "name": "Menlo Park Academy of Dance",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "fitness",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (dance). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4538562,
-  "lng": -122.18392
  },
  {
   "name": "Green Bubble",
