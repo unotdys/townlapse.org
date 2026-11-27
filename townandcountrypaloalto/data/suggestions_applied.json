@@ -712,6 +712,18 @@
     "https://directory.yext.com/en/j-mclaughlin-484392487",
     "https://www.paloaltoonline.com/news/2014/06/09/shop-talk-moniques-chocolates-to-close-new-boutiques-open/"
    ]
+  },
+  {
+   "name": "Faherty",
+   "address": "855 El Camino Real",
+   "note": "Clothing shop at Town & Country Village that opened February 24, 2023.",
+   "start": 2023,
+   "end": null,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/news/2023/03/23/five-new-shops-open-at-town-country-village/"
+   ]
   }
  ],
  "corrections": [

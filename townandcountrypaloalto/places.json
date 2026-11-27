@@ -1294,6 +1294,24 @@
   ]
  },
  {
+  "name": "Faherty",
+  "address": "855 El Camino Real",
+  "start": 2023,
+  "end": null,
+  "category": "retail",
+  "approx": true,
+  "note": "Clothing shop at Town & Country Village that opened February 24, 2023.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/news/2023/03/23/five-new-shops-open-at-town-country-village/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "address not listed",
   "start": 2026,
