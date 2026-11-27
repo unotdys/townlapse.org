@@ -2,15 +2,28 @@
  {
   "name": "Peet's Coffee",
   "address": "899 Santa Cruz Ave",
-  "start": 2026,
+  "start": 1971,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Peet's second store, after the original in Berkeley, opened in 1971 at the corner of Santa Cruz Avenue and University Drive. It briefly closed after a nearby fire in March 2009 and reopened that month.",
   "lat": 37.449424,
-  "lng": -122.186227
+  "lng": -122.186227,
+  "links": [
+   {
+    "url": "https://www.peets.com/blogs/peets/the-history-of-peets-coffee",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2009/03/30/peets-in-menlo-park-reopens/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.peets.com/pages/store/menlo-park",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Mountain Mike's",

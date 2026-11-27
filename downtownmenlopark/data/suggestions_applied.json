@@ -1,1 +1,19 @@
-{"additions": [], "corrections": []}
+{
+ "additions": [],
+ "corrections": [
+  {
+   "target": "Peet's Coffee",
+   "target_address": "899 Santa Cruz Ave",
+   "fields": {
+    "note": "Peet's second store, after the original in Berkeley, opened in 1971 at the corner of Santa Cruz Avenue and University Drive. It briefly closed after a nearby fire in March 2009 and reopened that month.",
+    "start": 1971,
+    "approx": false,
+    "links": [
+     "https://www.paloaltoonline.com/news/2009/03/30/peets-in-menlo-park-reopens/",
+     "https://www.peets.com/blogs/peets/the-history-of-peets-coffee",
+     "https://www.peets.com/pages/store/menlo-park"
+    ]
+   }
+  }
+ ]
+}
