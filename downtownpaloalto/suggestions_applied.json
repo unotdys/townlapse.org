@@ -2618,6 +2618,23 @@
      "https://www.theknot.com/marketplace/mills-the-florist-palo-alto-ca-369495"
     ]
    }
+  },
+  {
+   "target": "De Novo",
+   "target_address": "near Ramona St",
+   "fields": {
+    "name": "De Novo Fine Contemporary Jewelry",
+    "address": "250 University Ave",
+    "note": "Contemporary art jewelry gallery that opened in November 1990, with its entrance on Ramona St just off University Ave. It is still open today.",
+    "start": 1990,
+    "approx": true,
+    "links": [
+     "https://artjewelryforum.org/galleries/de-novo",
+     "https://denovo.com/location/",
+     "https://denovo.com/shows-past/",
+     "https://n2v.paloaltoonline.com/weekly/morguepdf/2004/2004_08_20.paw.section1.pdf"
+    ]
+   }
   }
  ]
 }
