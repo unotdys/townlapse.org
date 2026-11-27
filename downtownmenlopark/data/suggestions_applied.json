@@ -28,6 +28,19 @@
      "https://www.paloaltoonline.com/ae/2019/11/11/shop-talk-farmers-market-goes-year-round-new-boxing-gym/"
     ]
    }
+  },
+  {
+   "target": "Kyosho",
+   "target_address": "605 Santa Cruz Ave",
+   "fields": {
+    "note": "Japanese sushi restaurant that soft-opened in late July 2017 in the former Tokyo Subway space on Santa Cruz Avenue. Still open today.",
+    "start": 2017,
+    "approx": false,
+    "links": [
+     "https://www.paloaltoonline.com/ae/2017/08/10/something-new-to-eat-under-the-sun/",
+     "https://www.paloaltoonline.com/peninsula-foodist/2017/07/24/opening-alert-kyosho-sushi-in-menlo-park/"
+    ]
+   }
   }
  ]
 }

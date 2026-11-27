@@ -50,15 +50,24 @@
  {
   "name": "Kyosho",
   "address": "605 Santa Cruz Ave",
-  "start": 2026,
+  "start": 2017,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Japanese sushi restaurant that soft-opened in late July 2017 in the former Tokyo Subway space on Santa Cruz Avenue. Still open today.",
   "lat": 37.4533315,
-  "lng": -122.182977
+  "lng": -122.182977,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/ae/2017/08/10/something-new-to-eat-under-the-sun/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2017/07/24/opening-alert-kyosho-sushi-in-menlo-park/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Anthem Bed & Bath",
