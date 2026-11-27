@@ -994,6 +994,19 @@
     "https://www.paloaltoonline.com/morgue/monthly/1994_Mar_16.INBIZ16.html",
     "https://www.paloaltoonline.com/morgue/spectrum/2000_Mar_8.LETTERS8.html"
    ]
+  },
+  {
+   "name": "House of Faith Recording Studio",
+   "address": "707 Urban Lane",
+   "note": "Low-cost recording studio on Urban Lane that recorded hundreds of local punk and underground bands in the early 1990s. It opened in 1990 and closed in May 1994 after the lot was bought for medical redevelopment.",
+   "start": 1990,
+   "end": 1994,
+   "category": "entertainment",
+   "approx": true,
+   "links": [
+    "http://www.metroactive.com/metro/11.14.07/cover-sanjoserocks-0746.html",
+    "https://www.paloaltoonline.com/morgue/news/1994_Aug_31.PEOPLE31.html"
+   ]
   }
  ],
  "corrections": [

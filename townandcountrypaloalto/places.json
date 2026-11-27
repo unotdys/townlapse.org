@@ -1792,6 +1792,28 @@
   ]
  },
  {
+  "name": "House of Faith Recording Studio",
+  "address": "707 Urban Lane",
+  "start": 1990,
+  "end": 1994,
+  "category": "entertainment",
+  "approx": true,
+  "note": "Low-cost recording studio on Urban Lane that recorded hundreds of local punk and underground bands in the early 1990s. It opened in 1990 and closed in May 1994 after the lot was bought for medical redevelopment.",
+  "lat": 37.4411033,
+  "lng": -122.1616491,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/news/1994_Aug_31.PEOPLE31.html",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "http://www.metroactive.com/metro/11.14.07/cover-sanjoserocks-0746.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "address not listed",
   "start": 2026,
