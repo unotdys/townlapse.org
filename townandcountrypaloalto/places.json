@@ -1150,15 +1150,24 @@
  {
   "name": "Hassett ACE Hardware",
   "address": "875 Alma St",
-  "start": 2026,
+  "start": 1993,
   "end": null,
   "category": "retail",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (hardware). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Family-owned hardware store selling tools, garden and home supplies, opened in 1993 as Palo Alto Hardware and still open today as Hassett ACE Hardware.",
   "lat": 37.4406595,
-  "lng": -122.159096
+  "lng": -122.159096,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/2002/2002_01_23.hardware23.html",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://hassetthardware.com/about-us/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "SOS Fine Foods",

@@ -327,6 +327,19 @@
      "https://www.paloaltoonline.com/uncategorized/2015/03/13/shop-talk-170/"
     ]
    }
+  },
+  {
+   "target": "Hassett ACE Hardware",
+   "target_address": "875 Alma St",
+   "fields": {
+    "note": "Family-owned hardware store selling tools, garden and home supplies, opened in 1993 as Palo Alto Hardware and still open today as Hassett ACE Hardware.",
+    "start": 1993,
+    "approx": false,
+    "links": [
+     "https://hassetthardware.com/about-us/",
+     "https://www.paloaltoonline.com/morgue/2002/2002_01_23.hardware23.html"
+    ]
+   }
   }
  ]
 }
