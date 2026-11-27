@@ -1033,6 +1033,21 @@
     "https://www.paloaltoonline.com/morgue/news/1996_Aug_16.FIRE.html",
     "https://www.paloaltoonline.com/uncategorized/2009/12/04/shop-talk-63/"
    ]
+  },
+  {
+   "name": "Addison Elementary School",
+   "address": "650 Addison Ave",
+   "note": "Public elementary school of the Palo Alto Unified School District, founded in 1925 on the block bounded by Addison Ave, Middlefield Rd, Lincoln Ave and Webster St. A multipurpose room, library and classrooms were added in 1956 and 1969, and the school is still open.",
+   "start": 1925,
+   "end": null,
+   "category": "civic",
+   "approx": false,
+   "links": [
+    "https://facilities-archive-2018.pausd.org/elementary-school/addison-elementary-school.html",
+    "https://facilities.pausd.org/node/21501",
+    "https://www.paloaltoonline.com/morgue/cover/1996_Aug_28.BOND2.html",
+    "https://www.pausd.org/schools"
+   ]
   }
  ],
  "corrections": [

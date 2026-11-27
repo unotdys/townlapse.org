@@ -1858,6 +1858,36 @@
   ]
  },
  {
+  "name": "Addison Elementary School",
+  "address": "650 Addison Ave",
+  "start": 1925,
+  "end": null,
+  "category": "civic",
+  "approx": false,
+  "note": "Public elementary school of the Palo Alto Unified School District, founded in 1925 on the block bounded by Addison Ave, Middlefield Rd, Lincoln Ave and Webster St. A multipurpose room, library and classrooms were added in 1956 and 1969, and the school is still open.",
+  "lat": 37.4459544,
+  "lng": -122.1508571,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/cover/1996_Aug_28.BOND2.html",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://facilities-archive-2018.pausd.org/elementary-school/addison-elementary-school.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://facilities.pausd.org/node/21501",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.pausd.org/schools",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "address not listed",
   "start": 2026,
