@@ -310,6 +310,28 @@
   ]
  },
  {
+  "name": "Boichik Bagels",
+  "address": "855 El Camino Real",
+  "start": 2022,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "note": "New York-style bagel shop that opened its Palo Alto outpost at Town & Country Village in November 2022, between CVS and Wildseed. A current Palo Alto visitor guide still lists it there, open daily.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://paloalto.org/plan-your-trip/foodie-weekend/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/ae/2022/12/02/comings-and-goings-cocoa-butter-and-wahlburgers-shutter-tootsies-reopens-and-more/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "CVS Pharmacy",
   "address": "address not listed",
   "start": 2026,
@@ -889,19 +911,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Boichik Bagels",
-  "address": "855 El Camino Real",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4383169,
-  "lng": -122.1588544
  },
  {
   "name": "Antoine's Cookie Shop",
