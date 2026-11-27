@@ -1604,6 +1604,24 @@
   ]
  },
  {
+  "name": "Honeys and Heroes",
+  "address": "855 El Camino Real",
+  "start": 2007,
+  "end": null,
+  "category": "retail",
+  "approx": true,
+  "note": "Children's boutique that opened in early November 2007 in a corner space next to Long's Drugs at Town & Country Village. Its closing date is not known.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/news/2007/11/14/shop-talk-34/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "address not listed",
   "start": 2026,
