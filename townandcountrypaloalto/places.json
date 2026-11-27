@@ -1163,6 +1163,32 @@
   ]
  },
  {
+  "name": "Books Inc",
+  "address": "855 El Camino Real",
+  "start": 2008,
+  "end": null,
+  "category": "retail",
+  "approx": false,
+  "note": "Independent bookstore that moved from Stanford Shopping Center and opened its Town & Country Village store on February 1, 2008, in a space of about 4,000 square feet. It is still listed at the center, in unit 74.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://archivenews.bookweb.org/news/palo-alto-books-inc-changes-location.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.booksinc.com/pages/locations",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/uncategorized/2007/07/04/book-talk-21/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "address not listed",
   "start": 2026,
