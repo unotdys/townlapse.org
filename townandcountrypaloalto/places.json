@@ -917,6 +917,32 @@
   "start_unknown": true
  },
  {
+  "name": "Pact",
+  "address": "855 El Camino Real",
+  "start": 2022,
+  "end": null,
+  "category": "retail",
+  "approx": false,
+  "note": "Organic cotton clothing shop at Town & Country Village. It opened in December 2022 as the brand's second Bay Area store.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.cartogiraffe.com/united+states/california/santa+clara+county/palo+alto/el+camino+real/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2023/03/23/five-new-shops-open-at-town-country-village/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.prnewswire.com/news-releases/pact-opens-shop-in-palo-alto-301704793.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "address not listed",
   "start": 2026,
