@@ -296,6 +296,20 @@
      "https://www.paloaltoonline.com/morgue/2004/2004_09_10.aegallery04.shtml"
     ]
    }
+  },
+  {
+   "target": "Nail Spa",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "1020 Doyle St",
+    "note": "Nail salon offering manicures, pedicures and nail enhancements, still listed at 1020 Doyle St in current directories. The year it opened isn't known yet.",
+    "links": [
+     "https://reviews.birdeye.com/nail-spa-170090762147004",
+     "https://startpage.mapquest.com/us/california/nail-spa-11722305",
+     "https://usa-services.worldorgs.com/catalog/menlo-park/nail-salon",
+     "https://www.yelp.ca/biz/nail-spa-menlo-park"
+    ]
+   }
   }
  ]
 }

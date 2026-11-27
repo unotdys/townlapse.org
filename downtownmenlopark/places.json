@@ -631,16 +631,34 @@
  },
  {
   "name": "Nail Spa",
-  "address": "address not listed",
+  "address": "1020 Doyle St",
   "start": 2026,
   "end": null,
   "category": "services",
   "approx": false,
   "start_unknown": true,
   "source": "osm",
-  "note": "Open today (beauty). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Nail salon offering manicures, pedicures and nail enhancements, still listed at 1020 Doyle St in current directories. The year it opened isn't known yet.",
   "lat": 37.4525476,
-  "lng": -122.182659
+  "lng": -122.182659,
+  "links": [
+   {
+    "url": "https://reviews.birdeye.com/nail-spa-170090762147004",
+    "kind": "Article"
+   },
+   {
+    "url": "https://usa-services.worldorgs.com/catalog/menlo-park/nail-salon",
+    "kind": "Article"
+   },
+   {
+    "url": "https://startpage.mapquest.com/us/california/nail-spa-11722305",
+    "kind": "Listing"
+   },
+   {
+    "url": "https://www.yelp.ca/biz/nail-spa-menlo-park",
+    "kind": "Listing"
+   }
+  ]
  },
  {
   "name": "Cafe Del Sol",
