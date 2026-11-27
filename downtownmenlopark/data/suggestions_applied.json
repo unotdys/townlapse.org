@@ -1002,6 +1002,19 @@
      "https://us4.campaign-archive.com/?u=f403b1d8072470424efcd9848&id=288a1431a6"
     ]
    }
+  },
+  {
+   "target": "Feldman's Books",
+   "target_address": "1075 Curtis St",
+   "fields": {
+    "note": "Longtime used bookstore that moved here from El Camino Real in 2021 after its original building was demolished. It is still open today.",
+    "start": 2021,
+    "approx": false,
+    "links": [
+     "https://www.feldmansbooks.net/",
+     "https://www.paloaltoonline.com/ae/2024/07/11/books-and-beyond-longtime-menlo-park-bookshop-feldmans-has-become-a-flourishing-community-hub/"
+    ]
+   }
   }
  ]
 }

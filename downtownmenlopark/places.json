@@ -2448,15 +2448,24 @@
  {
   "name": "Feldman's Books",
   "address": "1075 Curtis St",
-  "start": 2026,
+  "start": 2021,
   "end": null,
   "category": "retail",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (books). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Longtime used bookstore that moved here from El Camino Real in 2021 after its original building was demolished. It is still open today.",
   "lat": 37.451967,
-  "lng": -122.1837798
+  "lng": -122.1837798,
+  "links": [
+   {
+    "url": "https://www.feldmansbooks.net/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/ae/2024/07/11/books-and-beyond-longtime-menlo-park-bookshop-feldmans-has-become-a-flourishing-community-hub/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Bank of America",
