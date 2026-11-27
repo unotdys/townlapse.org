@@ -1334,6 +1334,24 @@
   ]
  },
  {
+  "name": "Evereve",
+  "address": "855 El Camino Real",
+  "start": 2023,
+  "end": null,
+  "category": "retail",
+  "approx": true,
+  "note": "Women's clothing shop that opened at Town & Country Village in March 2023, next to Athleta.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/news/2023/03/23/five-new-shops-open-at-town-country-village/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "address not listed",
   "start": 2026,
