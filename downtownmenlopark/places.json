@@ -459,15 +459,32 @@
  {
   "name": "GW Boutique",
   "address": "711 Santa Cruz Ave",
-  "start": 2026,
-  "end": null,
+  "start": 2013,
+  "end": 2025,
   "category": "retail",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (charity). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Goodwill's Menlo Park boutique thrift store, recorded here by early 2014 and possibly open earlier. It closed in January 2025 when its lease ended.",
   "lat": 37.4518052,
-  "lng": -122.184206
+  "lng": -122.184206,
+  "links": [
+   {
+    "url": "https://doczz.net/doc/5030471/sfgoodwill-annual-report-2013",
+    "kind": "Article"
+   },
+   {
+    "url": "https://inmenlo.com/2025/01/05/goodwill-boutique-in-downtown-menlo-park-set-to-close-on-january-11/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://loopnet.com/Listing/711-713-Santa-Cruz-Ave-Menlo-Park-CA/34479291",
+    "kind": "Article"
+   },
+   {
+    "url": "https://stanforddaily.com/2014/02/07/top-five-thrifty-shopping/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "360 Fitness Superstore",

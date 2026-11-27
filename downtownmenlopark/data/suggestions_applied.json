@@ -223,6 +223,22 @@
      "https://www.regionaldirectory.us/ca/4216382.htm"
     ]
    }
+  },
+  {
+   "target": "GW Boutique",
+   "target_address": "711 Santa Cruz Ave",
+   "fields": {
+    "note": "Goodwill's Menlo Park boutique thrift store, recorded here by early 2014 and possibly open earlier. It closed in January 2025 when its lease ended.",
+    "start": 2013,
+    "end": 2025,
+    "approx": true,
+    "links": [
+     "https://doczz.net/doc/5030471/sfgoodwill-annual-report-2013",
+     "https://inmenlo.com/2025/01/05/goodwill-boutique-in-downtown-menlo-park-set-to-close-on-january-11/",
+     "https://loopnet.com/Listing/711-713-Santa-Cruz-Ave-Menlo-Park-CA/34479291",
+     "https://stanforddaily.com/2014/02/07/top-five-thrifty-shopping/"
+    ]
+   }
   }
  ]
 }
