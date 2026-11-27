@@ -1398,15 +1398,28 @@
  {
   "name": "Loretta",
   "address": "639 Santa Cruz Ave",
-  "start": 2026,
+  "start": 2025,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (bar). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Cocktail bar, also called Bar Loretta, run alongside the French restaurant Bistro Vida next door; it opened in February 2025 in the former Magoo's Pizza Parlor space and was still open in 2026.",
   "lat": 37.452601,
-  "lng": -122.183546
+  "lng": -122.183546,
+  "links": [
+   {
+    "url": "https://punchmagazine.com/bar-loretta/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/ae/news-events/2026/06/11/where-to-find-world-cup-watch-parties-family-friendly-festivities-and-special-promos-on-the-peninsula/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/food/roundup-food/2024/12/31/15-restaurants-and-eateries-coming-to-the-peninsula-in-2025/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Barre3",

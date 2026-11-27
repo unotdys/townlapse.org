@@ -600,6 +600,20 @@
      "https://www.7x7.com/modern-guide-to-menlo-park-2633201432/menlo-park-s-best-coffee-shops-bakeries-snacks"
     ]
    }
+  },
+  {
+   "target": "Loretta",
+   "target_address": "639 Santa Cruz Ave",
+   "fields": {
+    "note": "Cocktail bar, also called Bar Loretta, run alongside the French restaurant Bistro Vida next door; it opened in February 2025 in the former Magoo's Pizza Parlor space and was still open in 2026.",
+    "start": 2025,
+    "approx": false,
+    "links": [
+     "https://punchmagazine.com/bar-loretta/",
+     "https://www.paloaltoonline.com/ae/news-events/2026/06/11/where-to-find-world-cup-watch-parties-family-friendly-festivities-and-special-promos-on-the-peninsula/",
+     "https://www.paloaltoonline.com/food/roundup-food/2024/12/31/15-restaurants-and-eateries-coming-to-the-peninsula-in-2025/"
+    ]
+   }
   }
  ]
 }
