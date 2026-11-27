@@ -1717,6 +1717,20 @@
    "links": [
     "https://selectabisso.com/en/kith-hawaii/"
    ]
+  },
+  {
+   "name": "Waikiki Yokocho",
+   "address": "2250 Kalakaua Ave",
+   "note": "Japanese food hall styled on Japanese alleyways, in the basement of Waikiki Shopping Plaza, which opened on December 1, 2016. It closed during the COVID-19 pandemic, and the STIX ASIA food hall opened in the same space in 2023.",
+   "start": 2016,
+   "end": 2020,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://en.prnasia.com/releases/global/_Waikiki_Yokocho_Showcasing_Japan_s_Food_Culture_to_World_Set_to_Launch_Campaign_on_Dec_1_Friday_to_Celebrate_1st_Anniversary_of_its_Opening-195859.shtml",
+    "https://www.hawaiimagazine.com/stix-asia-food-hall-brings-17-new-asian-restaurants-to-waikiki/",
+    "https://www.honolulumagazine.com/eat-your-way-through-waikiki-yokochos-9-lunch-sets/"
+   ]
   }
  ],
  "corrections": [
