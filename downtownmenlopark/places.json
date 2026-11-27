@@ -1635,15 +1635,32 @@
  {
   "name": "Bistro Vida",
   "address": "641 Santa Cruz Ave",
-  "start": 2026,
+  "start": 1998,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "French bistro that opened on Santa Cruz Avenue in 1998 and was reportedly the street's first restaurant with full sidewalk service. It is still open, and the neighboring Bar Loretta was added in 2024.",
   "lat": 37.452557,
-  "lng": -122.183574
+  "lng": -122.183574,
+  "links": [
+   {
+    "url": "https://www.almanacnews.com/news/2010/07/08/al-fresco-in-menlo-",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.opentable.com/r/vida-bar-loretta-menlo-park?corrid=32f6cc6f-900a-4005-ba0f-172be06898bc",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/food/feature-food/2024/04/10/bistro-vidas-owner-is-ready-for-an-encore-opening-a-new-cocktail-bar-in-a-spot-made-famous-by-the-grateful-dead/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/palo-alto/2021/08/25/menlo-parks-bistro-vida-celebrated-as-small-business-of-the-year/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Walgreens",
