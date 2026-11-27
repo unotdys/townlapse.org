@@ -445,6 +445,21 @@
     "https://www.modernluxury.com/best-bakery-silicon-valley/",
     "https://www.paloaltoonline.com/best-of/2018/07/20/best-of-2018-food-drink/"
    ]
+  },
+  {
+   "name": "Kara's Cupcakes",
+   "address": "855 El Camino Real",
+   "note": "Cupcake bakery at Town & Country Village that opened in September 2008. Listings still place it at 855 El Camino Real Suite 50.",
+   "start": 2008,
+   "end": null,
+   "category": "food",
+   "approx": false,
+   "links": [
+    "https://foodgal.com/2008/06/cupcake-craze/print",
+    "https://happycow.net/reviews/karas-cupcakes-palo-alto-446118",
+    "https://www.foodgal.com/2008/06/cupcake-craze/comment-page-1/",
+    "https://www.foodgal.com/2008/09/can-you-stand-another-cupcake-photo/"
+   ]
   }
  ],
  "corrections": [

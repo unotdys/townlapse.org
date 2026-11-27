@@ -794,6 +794,36 @@
   ]
  },
  {
+  "name": "Kara's Cupcakes",
+  "address": "855 El Camino Real",
+  "start": 2008,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "note": "Cupcake bakery at Town & Country Village that opened in September 2008. Listings still place it at 855 El Camino Real Suite 50.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://foodgal.com/2008/06/cupcake-craze/print",
+    "kind": "Article"
+   },
+   {
+    "url": "https://happycow.net/reviews/karas-cupcakes-palo-alto-446118",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.foodgal.com/2008/06/cupcake-craze/comment-page-1/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.foodgal.com/2008/09/can-you-stand-another-cupcake-photo/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "address not listed",
   "start": 2026,
@@ -805,19 +835,6 @@
   "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 37.4380578,
   "lng": -122.1592693
- },
- {
-  "name": "Kara's Cupcakes",
-  "address": "855 El Camino Real",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (pastry). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4382408,
-  "lng": -122.1603973
  },
  {
   "name": "Mamahuhu",
