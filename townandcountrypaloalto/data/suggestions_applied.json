@@ -1,5 +1,21 @@
 {
- "additions": [],
+ "additions": [
+  {
+   "name": "Ruti",
+   "address": "855 El Camino Real",
+   "note": "Women's clothing boutique from Israel, open in Town & Country Village since November 2009. The store is still listed at 855 El Camino Real #45.",
+   "start": 2009,
+   "end": null,
+   "category": "retail",
+   "approx": false,
+   "links": [
+    "https://evendo.com/locations/california/palo-alto/attraction/rodin-sculpture-garden/best-shops",
+    "https://www.paloaltoonline.com/uncategorized/2010/03/19/shop-talk-68/",
+    "https://www.ruti.com/pages/stores",
+    "https://yespress.io/ruti-inc"
+   ]
+  }
+ ],
  "corrections": [
   {
    "target": "Sur La Table",

@@ -1,5 +1,35 @@
 [
  {
+  "name": "Ruti",
+  "address": "855 El Camino Real",
+  "start": 2009,
+  "end": null,
+  "category": "retail",
+  "approx": false,
+  "note": "Women's clothing boutique from Israel, open in Town & Country Village since November 2009. The store is still listed at 855 El Camino Real #45.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://evendo.com/locations/california/palo-alto/attraction/rodin-sculpture-garden/best-shops",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/uncategorized/2010/03/19/shop-talk-68/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.ruti.com/pages/stores",
+    "kind": "Article"
+   },
+   {
+    "url": "https://yespress.io/ruti-inc",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "CVS Pharmacy",
   "address": "address not listed",
   "start": 2026,
@@ -479,19 +509,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Ruti",
-  "address": "855 El Camino Real",
-  "start": 2026,
-  "end": null,
-  "category": "retail",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (clothes). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4383926,
-  "lng": -122.160116
  },
  {
   "name": "Sweet 55",
