@@ -762,6 +762,19 @@
      "https://www.paloaltoonline.com/menlo-park/2025/05/20/clarks-oyster-bar-brings-fresh-fish-martinis-and-housemade-sourdough-to-downtown-menlo-park/"
     ]
    }
+  },
+  {
+   "target": "Le Vant Cafe",
+   "target_address": "842 Santa Cruz Ave",
+   "fields": {
+    "note": "Middle Eastern dessert bakery and cafe, also known as LeVant Dessert, that soft-opened in January 2024 and held its grand opening that February. It was still operating in 2025.",
+    "start": 2024,
+    "approx": false,
+    "links": [
+     "https://www.paloaltoonline.com/menlo-park/2024/02/07/menlo-park-resident-opens-middle-eastern-bakery-featuring-her-grandmothers-recipes/",
+     "https://www.theinfatuation.com/san-francisco/reviews/levant-dessert"
+    ]
+   }
   }
  ]
 }

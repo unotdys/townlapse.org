@@ -1916,15 +1916,24 @@
  {
   "name": "Le Vant Cafe",
   "address": "842 Santa Cruz Ave",
-  "start": 2026,
+  "start": 2024,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (bakery). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Middle Eastern dessert bakery and cafe, also known as LeVant Dessert, that soft-opened in January 2024 and held its grand opening that February. It was still operating in 2025.",
   "lat": 37.4507029,
-  "lng": -122.1855255
+  "lng": -122.1855255,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/menlo-park/2024/02/07/menlo-park-resident-opens-middle-eastern-bakery-featuring-her-grandmothers-recipes/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.theinfatuation.com/san-francisco/reviews/levant-dessert",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Shoe Repair",
