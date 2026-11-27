@@ -703,6 +703,23 @@
      "https://www.paloaltoonline.com/ae/features/2025/09/18/a-miracle-on-el-camino-keplers-books-celebrates-70-years/"
     ]
    }
+  },
+  {
+   "target": "Amici",
+   "target_address": "880 Santa Cruz Ave",
+   "fields": {
+    "name": "Amici's East Coast Pizzeria",
+    "note": "East Coast-style pizzeria that opened in May 2009 in the former Dal Baffo restaurant space. It is still open today.",
+    "start": 2009,
+    "approx": false,
+    "links": [
+     "https://n2v.almanacnews.com/square/2009/05/07/amicis-pizzeria-to-open-may-11-in-menlo-park",
+     "https://writers-sandiego.blogspot.com/2018/10/berkeley-haas-case-series-amicis-east.html",
+     "https://www.almanacnews.com/news/2008/08/19/amicis-pizzeria-to-move-to-downtown-menlo-park/",
+     "https://www.amicis.com/menlo-park",
+     "https://www.paloaltoonline.com/news/2009/08/28/fantastic-fork-restaurants/"
+    ]
+   }
   }
  ]
 }

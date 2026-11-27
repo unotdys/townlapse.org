@@ -1737,17 +1737,38 @@
   "lng": -122.183679
  },
  {
-  "name": "Amici",
+  "name": "Amici's East Coast Pizzeria",
   "address": "880 Santa Cruz Ave",
-  "start": 2026,
+  "start": 2009,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "East Coast-style pizzeria that opened in May 2009 in the former Dal Baffo restaurant space. It is still open today.",
   "lat": 37.450203,
-  "lng": -122.185943
+  "lng": -122.185943,
+  "links": [
+   {
+    "url": "https://n2v.almanacnews.com/square/2009/05/07/amicis-pizzeria-to-open-may-11-in-menlo-park",
+    "kind": "Article"
+   },
+   {
+    "url": "https://writers-sandiego.blogspot.com/2018/10/berkeley-haas-case-series-amicis-east.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.almanacnews.com/news/2008/08/19/amicis-pizzeria-to-move-to-downtown-menlo-park/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.amicis.com/menlo-park",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2009/08/28/fantastic-fork-restaurants/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Bagel Street Cafe",
