@@ -1560,6 +1560,28 @@
   ]
  },
  {
+  "name": "Hobee's California Restaurant",
+  "address": "855 El Camino Real",
+  "start": 1984,
+  "end": 2013,
+  "category": "food",
+  "approx": false,
+  "note": "Location of a local restaurant chain known for its blueberry coffee cake, open at Town & Country Village from 1984. It closed in January 2013 after lease talks tied to the center's renovation, and Gott's Roadside later moved into its building.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://n2v.almanacnews.com/square/2012/09/28/hobees-at-town--country-to-close",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2012/09/27/hobees-at-town-country-to-close/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "address not listed",
   "start": 2026,
