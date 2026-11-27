@@ -820,6 +820,20 @@
     "https://www.paloaltoonline.com/blogs/2014/04/09/pizzeria-delfina-palo-alto-to-open-this-weekend/",
     "https://www.pizzeriadelfina.com/location/palo-alto/"
    ]
+  },
+  {
+   "name": "Tacolicious",
+   "address": "632 Emerson St",
+   "note": "Mexican taqueria and bar, an outpost of a small San Francisco chain, that opened in February 2013 in the former Mantra space. It closed after its last service on October 31, 2025.",
+   "start": 2013,
+   "end": 2025,
+   "category": "food",
+   "approx": false,
+   "links": [
+    "https://briefly-prod.herokuapp.com/anchor/Food_and_drink/story/bay-area-mini-chain-down-to-2-restaurants-after-back-to-back-closures",
+    "https://www.opentable.com/r/tacolicious-palo-alto",
+    "https://www.sanjose.com/2013/02/18/tacolicious_opens_in_palo_alto/"
+   ]
   }
  ],
  "corrections": [

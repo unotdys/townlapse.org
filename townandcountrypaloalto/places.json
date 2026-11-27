@@ -1486,6 +1486,32 @@
   ]
  },
  {
+  "name": "Tacolicious",
+  "address": "632 Emerson St",
+  "start": 2013,
+  "end": 2025,
+  "category": "food",
+  "approx": false,
+  "note": "Mexican taqueria and bar, an outpost of a small San Francisco chain, that opened in February 2013 in the former Mantra space. It closed after its last service on October 31, 2025.",
+  "lat": 37.4433758,
+  "lng": -122.1611589,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://briefly-prod.herokuapp.com/anchor/Food_and_drink/story/bay-area-mini-chain-down-to-2-restaurants-after-back-to-back-closures",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.opentable.com/r/tacolicious-palo-alto",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.sanjose.com/2013/02/18/tacolicious_opens_in_palo_alto/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "address not listed",
   "start": 2026,
