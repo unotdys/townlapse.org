@@ -3485,6 +3485,28 @@
   ]
  },
  {
+  "name": "Bogart's Cafe",
+  "address": "3045 Monsarrat Ave",
+  "start": 2000,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Neighborhood breakfast and brunch cafe in a small Monsarrat Avenue strip mall near Diamond Head, which grew out of an ice cream and shave ice shop taken over around 2000. It later moved to a larger space in the same strip mall and added Italian-inspired dinners in 2020.",
+  "lat": 21.2688179,
+  "lng": -157.8133974,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://hawaiifoodie.club/breakfast-for-dinner-bogarts-cafe-gives-you-the-option/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hawaiimagazine.com/?p=46795",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,

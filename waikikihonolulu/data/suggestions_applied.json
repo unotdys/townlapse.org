@@ -1931,6 +1931,19 @@
     "https://www.oyster.com/oahu/hotels/waikiki-sand-villa-hotel/",
     "https://www.travelagewest.com/Travel/Hotels/wayfinder-waikiki-review"
    ]
+  },
+  {
+   "name": "Bogart's Cafe",
+   "address": "3045 Monsarrat Ave",
+   "note": "Neighborhood breakfast and brunch cafe in a small Monsarrat Avenue strip mall near Diamond Head, which grew out of an ice cream and shave ice shop taken over around 2000. It later moved to a larger space in the same strip mall and added Italian-inspired dinners in 2020.",
+   "start": 2000,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://hawaiifoodie.club/breakfast-for-dinner-bogarts-cafe-gives-you-the-option/",
+    "https://www.hawaiimagazine.com/?p=46795"
+   ]
   }
  ],
  "corrections": [
