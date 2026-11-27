@@ -193,6 +193,22 @@
      "https://www.businessesup.com/546029/accent-on-eyewear"
     ]
    }
+  },
+  {
+   "target": "Old World Designs Needlepoint",
+   "target_address": "727 Santa Cruz Ave",
+   "fields": {
+    "note": "Needlepoint shop selling hand-painted canvases and threads, with classes from beginner to advanced. It was holding classes by 2012 and may have opened earlier.",
+    "start": 2012,
+    "category": "retail",
+    "approx": true,
+    "links": [
+     "https://caron-net.com/states/orcalifo.html",
+     "https://kreinikthread.blogspot.com/2012/07/new-book-shows-you-how-to-make.html",
+     "https://www.oldworlddesigns.com/shop/Canvases/p/Haunted-House-Ornament-Stitch-Guide-from-The-Princess-Me.htm",
+     "https://www.regionaldirectory.us/ca/4216382.htm"
+    ]
+   }
   }
  ]
 }

@@ -394,15 +394,32 @@
  {
   "name": "Old World Designs Needlepoint",
   "address": "727 Santa Cruz Ave",
-  "start": 2026,
+  "start": 2012,
   "end": null,
   "category": "retail",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (sewing). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Needlepoint shop selling hand-painted canvases and threads, with classes from beginner to advanced. It was holding classes by 2012 and may have opened earlier.",
   "lat": 37.4515559,
-  "lng": -122.18442
+  "lng": -122.18442,
+  "links": [
+   {
+    "url": "https://caron-net.com/states/orcalifo.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://kreinikthread.blogspot.com/2012/07/new-book-shows-you-how-to-make.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.oldworlddesigns.com/shop/Canvases/p/Haunted-House-Ornament-Stitch-Guide-from-The-Princess-Me.htm",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.regionaldirectory.us/ca/4216382.htm",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "The Shop",
