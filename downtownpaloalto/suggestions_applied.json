@@ -1737,6 +1737,19 @@
     "https://www.paloalto.gov/files/assets/public/v/1/planning-amp-development-services/historic-preservation/historic-inventory/dpr-forms_n-s.pdf",
     "https://www.paloaltoonline.com/morgue/monthly/1995_Mar_29.whats_cooking.html"
    ]
+  },
+  {
+   "name": "Fasani Carpets",
+   "address": "539 Alma St",
+   "note": "City planning records identify this address as the former carpet business and describe its adjacent loading area. The license listing ties the shop to this address and gives a 1998 expiration date, the dated reference used here.",
+   "start": 1998,
+   "end": 1998,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "https://www.buildzoom.com/contractor/fasani-carpets",
+    "https://www.paloalto.gov/civicax/filebank/blobdload.aspx?BlobID=32657"
+   ]
   }
  ],
  "corrections": [
