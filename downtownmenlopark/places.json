@@ -741,16 +741,29 @@
  },
  {
   "name": "Mish International Monetary Inc",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "1154 University Dr",
+  "start": 2014,
   "end": null,
   "category": "retail",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (collector). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Coin and precious-metals dealer with a walk-in showroom on University Drive, documented there by 2014 and still listed today. It may have been there earlier, but no earlier year has been confirmed.",
   "lat": 37.4504696,
-  "lng": -122.187053
+  "lng": -122.187053,
+  "links": [
+   {
+    "url": "https://nnp.wustl.edu/library/advancedsearch?page=700&fullsearchterm=WIN",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.ngccoin.com/news/article/4321/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.numismaticnews.net/directory/mish-international-monetary-inc",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Kenneth Michael Salon",

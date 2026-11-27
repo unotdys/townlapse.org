@@ -338,6 +338,21 @@
      "https://www.yellowpages.com/stanford-hills-menlo-park-ca/opticians"
     ]
    }
+  },
+  {
+   "target": "Mish International Monetary Inc",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "1154 University Dr",
+    "note": "Coin and precious-metals dealer with a walk-in showroom on University Drive, documented there by 2014 and still listed today. It may have been there earlier, but no earlier year has been confirmed.",
+    "start": 2014,
+    "approx": true,
+    "links": [
+     "https://nnp.wustl.edu/library/advancedsearch?page=700&fullsearchterm=WIN",
+     "https://www.ngccoin.com/news/article/4321/",
+     "https://www.numismaticnews.net/directory/mish-international-monetary-inc"
+    ]
+   }
   }
  ]
 }
