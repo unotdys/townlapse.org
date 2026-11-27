@@ -3133,6 +3133,28 @@
   ]
  },
  {
+  "name": "Pioneer Saloon",
+  "address": "3046 Monsarrat Ave",
+  "start": 2009,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "note": "Japanese-style plate lunch counter opened in 2009 by chef-owner Nori Sakamoto, near the base of Diamond Head. A second location later opened in Kakaako.",
+  "lat": 21.2691801,
+  "lng": -157.8136977,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://the.honoluluadvertiser.com/article/2009/Oct/30/en/hawaii910300303.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/pioneer-saloon-opens-in-salt-kakaako/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,

@@ -1746,6 +1746,19 @@
     "https://the.honoluluadvertiser.com/article/2002/Dec/04/il/il20ataste.html",
     "https://www.honolulumagazine.com/your-oahu-neighborhood-guide-monsarrat-avenue/"
    ]
+  },
+  {
+   "name": "Pioneer Saloon",
+   "address": "3046 Monsarrat Ave",
+   "note": "Japanese-style plate lunch counter opened in 2009 by chef-owner Nori Sakamoto, near the base of Diamond Head. A second location later opened in Kakaako.",
+   "start": 2009,
+   "end": null,
+   "category": "food",
+   "approx": false,
+   "links": [
+    "https://the.honoluluadvertiser.com/article/2009/Oct/30/en/hawaii910300303.html",
+    "https://www.honolulumagazine.com/pioneer-saloon-opens-in-salt-kakaako/"
+   ]
   }
  ],
  "corrections": [
