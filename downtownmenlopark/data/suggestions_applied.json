@@ -614,6 +614,22 @@
      "https://www.paloaltoonline.com/food/roundup-food/2024/12/31/15-restaurants-and-eateries-coming-to-the-peninsula-in-2025/"
     ]
    }
+  },
+  {
+   "target": "Barre3",
+   "target_address": "989 El Camino Real",
+   "fields": {
+    "note": "Barre fitness studio at the corner of El Camino Real and Menlo Avenue, opened February 28, 2016. It closed in July 2020 and reopened under a new local franchisee in 2021.",
+    "start": 2016,
+    "approx": false,
+    "links": [
+     "https://barre3.com/studio-locations/menlo-park",
+     "https://wellhub.com/en-us/search/partners/barre3-menlo-park-downtown-menlo-park-menlo-park",
+     "https://www.almanacnews.com/?p=23410",
+     "https://www.michellearick.com/my-go-to-classpass-studios-in-the-sf-peninsula/",
+     "https://www.paloaltoonline.com/news/2021/09/17/people-paid-a-premium-to-build-their-home-gyms-will-fitness-clubs-lure-them-back-2/"
+    ]
+   }
   }
  ]
 }

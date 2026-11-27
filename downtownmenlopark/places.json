@@ -1424,15 +1424,36 @@
  {
   "name": "Barre3",
   "address": "989 El Camino Real",
-  "start": 2026,
+  "start": 2016,
   "end": null,
   "category": "fitness",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (fitness centre). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Barre fitness studio at the corner of El Camino Real and Menlo Avenue, opened February 28, 2016. It closed in July 2020 and reopened under a new local franchisee in 2021.",
   "lat": 37.4526698,
-  "lng": -122.181537
+  "lng": -122.181537,
+  "links": [
+   {
+    "url": "https://barre3.com/studio-locations/menlo-park",
+    "kind": "Article"
+   },
+   {
+    "url": "https://wellhub.com/en-us/search/partners/barre3-menlo-park-downtown-menlo-park-menlo-park",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.almanacnews.com/?p=23410",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.michellearick.com/my-go-to-classpass-studios-in-the-sf-peninsula/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2021/09/17/people-paid-a-premium-to-build-their-home-gyms-will-fitness-clubs-lure-them-back-2/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Launderland Wash & Dry",
