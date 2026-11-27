@@ -3747,6 +3747,36 @@
   ]
  },
  {
+  "name": "Zao Noodle Bar",
+  "address": "261 University Ave",
+  "start": 1997,
+  "end": 2010,
+  "category": "food",
+  "approx": true,
+  "note": "Pan-Asian noodle bar that opened in spring 1997 and was reviewed by Metro that year. It had closed by 2011, when Oren's Hummus Shop opened in the space.",
+  "lat": 37.4456931,
+  "lng": -122.1622166,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/wp-content/uploads/2006/12/2006_12_15.paw_.section1.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://n2v.almanacnews.com/blogs/p/print/2014/06/02/what-local-restaurants-do-you-miss-the-most",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.metrosiliconvalley.com/papers/metro/05.29.97/dining-9722.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.metrosiliconvalley.com/papers/metro/10.31.02/cheapeats-0244.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Antique Interiors West",
   "address": "212 Homer Ave",
   "start": 1998,
@@ -5579,9 +5609,9 @@
   "name": "The Redwood by Chef Julien",
   "address": "450 Bryant St",
   "start": 2022,
-  "end": 2022,
+  "end": 2026,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "news",
   "lat": 37.4461771,
   "lng": -122.1624215,
@@ -5591,7 +5621,7 @@
     "kind": "Article"
    }
   ],
-  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022. Later status unknown."
+  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022."
  },
  {
   "name": "Lima Ruby",
@@ -6012,14 +6042,14 @@
  },
  {
   "name": "La Comida",
-  "address": "429 Bryant St",
+  "address": "450 Bryant St",
   "start": 2026,
   "end": 2026,
   "category": "food",
   "approx": false,
   "source": "news",
-  "lat": 37.4465596,
-  "lng": -122.162491,
+  "lat": 37.4461771,
+  "lng": -122.1624215,
   "links": [
    {
     "url": "https://www.paloaltoonline.com/palo-alto/2026/08/26/avenidas-and-la-comida-to-host-foodie-fundraiser-to-support-older-adults/",
