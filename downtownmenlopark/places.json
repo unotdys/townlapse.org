@@ -1308,15 +1308,36 @@
  {
   "name": "Fleet Feet Sports",
   "address": "859 Santa Cruz Ave",
-  "start": 2026,
+  "start": 2008,
   "end": null,
   "category": "retail",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (sports). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Running shoe store that opened in fall 2008, when new owners bought The Runner's High at this address and renamed it Fleet Feet. Still open today.",
   "lat": 37.4503382,
-  "lng": -122.185435
+  "lng": -122.185435,
+  "links": [
+   {
+    "url": "https://menlopark.gov/files/sharedassets/public/v/1/agendas-and-minutes/city-council/2009-meetings/20091110-cc-minutes.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.almanacnews.com/morgue/2005/2005_06_08.olivia.shtml",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://bibscouts.com/directory/california/menlo-park/run-shops/fleet-feet-menlo-park/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://inmenlo.com/2012/05/23/fleet-feet-owners-lisa-taggart-and-jim-gothers-make-fostering-community-as-important-as-selling-shoes/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.fleetfeet.com/locations",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Yeobo, Darling",
