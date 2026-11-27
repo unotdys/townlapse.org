@@ -2301,15 +2301,32 @@
  {
   "name": "Black Pepper",
   "address": "1029 El Camino Real",
-  "start": 2026,
-  "end": null,
+  "start": 2017,
+  "end": 2020,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Malaysian restaurant that opened in March 2017 in the former Menlo Hub space. It closed during the pandemic in 2020, and The Mandarin later took over the space.",
   "lat": 37.4530091,
-  "lng": -122.1822704
+  "lng": -122.1822704,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/ae/2017/12/28/modern-melting-pot/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/ae/2021/07/09/the-mandarin-roost-roast-bring-personal-touch-to-menus/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2017/03/15/malaysian-restaurant-opens-in-menlo-park/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/uncategorized/2020/08/10/covid-closures-macarthur-park-is-among-the-latest-crop-of-notable-restaurants-to-shutter-on-the-peninsula/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Oak + Violet",
