@@ -1029,6 +1029,32 @@
   ]
  },
  {
+  "name": "Fillmore & 5th",
+  "address": "855 El Camino Real",
+  "start": 2012,
+  "end": null,
+  "category": "retail",
+  "approx": true,
+  "note": "Secondhand fashion shop at Town & Country Village whose opening dates to 2012; still listed there in 2026.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://crossroadstrading.com/page/107/?search",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.clyouththeatre.org/where-to-score-secondhand-fashion-in-the-peninsulas-booming-scene.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/best-of/2026/07/31/best-of-2026-retail/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "address not listed",
   "start": 2026,
