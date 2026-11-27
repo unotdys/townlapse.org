@@ -3697,6 +3697,40 @@
   ]
  },
  {
+  "name": "Hard Rock Cafe Honolulu",
+  "address": "280 Beach Walk",
+  "start": 2010,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "note": "Themed rock-and-roll restaurant that opened in Honolulu in 1987 at Kapiolani Boulevard and Kalakaua Avenue. In November 2010 it moved to this new two-story complex at Beach Walk and Kalakaua Avenue, built on the former Hula Hut nightclub site.",
+  "lat": 21.2809178,
+  "lng": -157.830803,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://archives.starbulletin.com/2007/08/04/news/story01.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://cafe.hardrock.com/honolulu/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.gohawaii.com/listing/hard-rock-cafe-honolulu/1370",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/?p=414080",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.staradvertiser.com/2010/11/28/features/new-memories-for-hard-rock/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -5632,32 +5666,6 @@
    },
    {
     "url": "https://www.opentable.com/r/arancino-beachwalk-honolulu",
-    "kind": "Article"
-   }
-  ]
- },
- {
-  "name": "Hard Rock Cafe",
-  "address": "280 Beach Walk",
-  "start": 2010,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "source": "osm",
-  "note": "Hard Rock Cafe Honolulu moved from its 1987 site at Kalakaua Avenue and Kapiolani Boulevard to 280 Beach Walk, at the corner of Kalakaua Avenue, in November 2010. It is still open.",
-  "lat": 21.2809178,
-  "lng": -157.830803,
-  "links": [
-   {
-    "url": "http://waikiki.com/meet.html",
-    "kind": "Article"
-   },
-   {
-    "url": "https://honoluluadvertiser.com/article/2007/Aug/25/bz/hawaii708250321.html",
-    "kind": "Article"
-   },
-   {
-    "url": "https://www.staradvertiser.com/2010/11/28/features/new-memories-for-hard-rock/",
     "kind": "Article"
    }
   ]

@@ -2044,6 +2044,22 @@
     "https://tripbucket.com/dreams/dream/hale-koa/",
     "https://www.halekoa.com/History"
    ]
+  },
+  {
+   "name": "Hard Rock Cafe Honolulu",
+   "address": "280 Beach Walk",
+   "note": "Themed rock-and-roll restaurant that opened in Honolulu in 1987 at Kapiolani Boulevard and Kalakaua Avenue. In November 2010 it moved to this new two-story complex at Beach Walk and Kalakaua Avenue, built on the former Hula Hut nightclub site.",
+   "start": 2010,
+   "end": null,
+   "category": "food",
+   "approx": false,
+   "links": [
+    "https://archives.starbulletin.com/2007/08/04/news/story01.html",
+    "https://cafe.hardrock.com/honolulu/",
+    "https://www.gohawaii.com/listing/hard-rock-cafe-honolulu/1370",
+    "https://www.honolulumagazine.com/?p=414080",
+    "https://www.staradvertiser.com/2010/11/28/features/new-memories-for-hard-rock/"
+   ]
   }
  ],
  "corrections": [
