@@ -1563,6 +1563,19 @@
     "https://www.almanacnews.com/wp-content/uploads/2009/01/2009_01_07.alm_.section1.pdf",
     "https://www.mv-voice.com/wp-content/uploads/2007/01/2007_01_12.mvv_.section2.pdf"
    ]
+  },
+  {
+   "name": "Cafe Niebaum-Coppola",
+   "address": "473 University Ave",
+   "note": "Francis Ford Coppola's Italian restaurant occupied a space built for it in 2002. It changed its name in April 2007.",
+   "start": 2002,
+   "end": 2007,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.mv-voice.com/wp-content/uploads/2009/06/2009_06_19.mvv_.section1.pdf",
+    "https://www.sfchronicle.com/restaurants/article/Details-mar-a-fun-place-in-Palo-Alto-2688720.php"
+   ]
   }
  ],
  "corrections": [
