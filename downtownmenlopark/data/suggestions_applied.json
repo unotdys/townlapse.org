@@ -408,6 +408,18 @@
      "https://www.paloaltoonline.com/morgue/restaurants/1997_Jun_13.EATOUT13.html"
     ]
    }
+  },
+  {
+   "target": "Camper",
+   "target_address": "898 Santa Cruz Ave",
+   "fields": {
+    "start": 2018,
+    "approx": true,
+    "links": [
+     "http://campermp.com/",
+     "https://www.paloaltoonline.com/blogs/2018/08/16/camper-readies-for-labor-day-opening-in-menlo-park/"
+    ]
+   }
   }
  ]
 }
