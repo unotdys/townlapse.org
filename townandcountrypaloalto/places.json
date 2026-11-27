@@ -699,16 +699,33 @@
  },
  {
   "name": "CVS Pharmacy",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "855 El Camino Real",
+  "start": 2009,
   "end": null,
-  "category": "services",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (pharmacy). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4385084,
-  "lng": -122.15863
+  "category": "retail",
+  "approx": true,
+  "note": "Drugstore in Town & Country Village that took over the Longs Drugs store after CVS bought the Longs chain, and was listed as CVS/pharmacy at 855 El Camino Real by August 2009. CVS still lists a store at this address.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.cvs.com/store-locator/palo-alto-ca-pharmacies/855-el-camino-real-palo-alto-ca-94301/storeid=3935",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/cover-story/2008/08/27/decision-2008-the-best-of-palo-alto-2/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2009/08/28/to-the-mall-and-beyond-retail-shopping/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/uncategorized/2009/10/02/shop-talk-59/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Peet's Coffee",
