@@ -2354,15 +2354,36 @@
  {
   "name": "Saint Michael’s Alley",
   "address": "140 Homer Ave",
-  "start": 2026,
+  "start": 2009,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Californian restaurant with a bar that opened here in 2009, when the business moved around the corner from Emerson St. It traces its roots to a coffeehouse that opened on University Ave in 1959.",
   "lat": 37.4414707,
-  "lng": -122.1597604
+  "lng": -122.1597604,
+  "links": [
+   {
+    "url": "https://paloaltohistory.org/st-michaels-alley-1",
+    "kind": "History"
+   },
+   {
+    "url": "https://stmikes.com/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.opentable.com/r/st-michaels-alley-palo-alto?corrid=76098097-693f-4090-ac54-eda65ca73c19&",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/cover-story/2008/12/19/what-it-takes-to-open-a-restaurant-2/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/uncategorized/2009/07/31/re-energized-and-relocated/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Peninsula Creamery",
