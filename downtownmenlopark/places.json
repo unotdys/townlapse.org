@@ -2357,15 +2357,32 @@
  {
   "name": "Menlo Park City Hall",
   "address": "701 Laurel St",
-  "start": 2026,
+  "start": 1948,
   "end": null,
   "category": "civic",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (townhall). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "City Hall moved in 1948 to the newly bought former Dibble Hospital land, which became the Laurel Street civic center. Staff first worked in temporary and former hospital buildings, and City Hall is still on this campus today.",
   "lat": 37.4538102,
-  "lng": -122.1773981
+  "lng": -122.1773981,
+  "links": [
+   {
+    "url": "https://www.menlopark.gov/Community/City-profile",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.menlopark.gov/Parks/Burgess-Park?lang_update=638844852866613398",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.mphistory.org/exhibits/public-library/",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.mphistory.org/exhibits/timeline-of-menlo-park/",
+    "kind": "History"
+   }
+  ]
  },
  {
   "name": "Staples",

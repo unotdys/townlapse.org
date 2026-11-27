@@ -960,6 +960,21 @@
      "https://www.paloaltoonline.com/uncategorized/2020/08/10/covid-closures-macarthur-park-is-among-the-latest-crop-of-notable-restaurants-to-shutter-on-the-peninsula/"
     ]
    }
+  },
+  {
+   "target": "Menlo Park City Hall",
+   "target_address": "701 Laurel St",
+   "fields": {
+    "note": "City Hall moved in 1948 to the newly bought former Dibble Hospital land, which became the Laurel Street civic center. Staff first worked in temporary and former hospital buildings, and City Hall is still on this campus today.",
+    "start": 1948,
+    "approx": false,
+    "links": [
+     "https://www.menlopark.gov/Community/City-profile",
+     "https://www.menlopark.gov/Parks/Burgess-Park?lang_update=638844852866613398",
+     "https://www.mphistory.org/exhibits/public-library/",
+     "https://www.mphistory.org/exhibits/timeline-of-menlo-park/"
+    ]
+   }
   }
  ]
 }
