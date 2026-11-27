@@ -600,6 +600,19 @@
     "https://www.paloaltoonline.com/morgue/news/1996_Aug_16.FIRE.html",
     "https://www.paloaltoonline.com/morgue/news/1997_Apr_23.around_town.html"
    ]
+  },
+  {
+   "name": "Tennis Town & Country",
+   "address": "855 El Camino Real",
+   "note": "Family-run tennis shop at Town & Country Village that opened October 2, 2009. It sells rackets, apparel and shoes and offers racket stringing.",
+   "start": 2009,
+   "end": null,
+   "category": "retail",
+   "approx": false,
+   "links": [
+    "https://www.insidetennis.com/2009/11/peninsula-november-2009/",
+    "https://www.paloaltotennisshop.com/services"
+   ]
   }
  ],
  "corrections": [

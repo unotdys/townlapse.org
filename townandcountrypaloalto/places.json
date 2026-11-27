@@ -1085,6 +1085,28 @@
   ]
  },
  {
+  "name": "Tennis Town & Country",
+  "address": "855 El Camino Real",
+  "start": 2009,
+  "end": null,
+  "category": "retail",
+  "approx": false,
+  "note": "Family-run tennis shop at Town & Country Village that opened October 2, 2009. It sells rackets, apparel and shoes and offers racket stringing.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.insidetennis.com/2009/11/peninsula-november-2009/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltotennisshop.com/services",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "address not listed",
   "start": 2026,
@@ -1265,19 +1287,6 @@
   "note": "Open today (fitness centre). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 37.4389671,
   "lng": -122.158793
- },
- {
-  "name": "Tennis Town & Country",
-  "address": "855 Town and Country Village",
-  "start": 2026,
-  "end": null,
-  "category": "retail",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (sports). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4388952,
-  "lng": -122.1590356
  },
  {
   "name": "Wilby Optical",
