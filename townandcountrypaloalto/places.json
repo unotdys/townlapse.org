@@ -1534,6 +1534,32 @@
   ]
  },
  {
+  "name": "Mayfield Bakery & Cafe",
+  "address": "855 El Camino Real",
+  "start": 2009,
+  "end": 2020,
+  "category": "food",
+  "approx": false,
+  "note": "Bakery and restaurant at Town & Country Village opened in 2009 by Bacchus Management Group, the owners of the Village Pub. It closed permanently in late July 2020 amid the pandemic, and Wildseed later took over its large corner space.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://patch.com/california/paloalto/popular-palo-alto-eatery-ends-11-year-run-amid-pandemic-repor",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.foodgal.com/2009/02/page/4/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2020/07/28/palo-altos-mayfield-bakery-cafe-permanently-closes-after-11-year-run/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "address not listed",
   "start": 2026,
