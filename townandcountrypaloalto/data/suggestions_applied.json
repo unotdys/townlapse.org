@@ -94,6 +94,19 @@
     "https://paloalto.org/directory/restaurants/orens-hummus-shop/",
     "https://www.paloaltoonline.com/blogs/2019/05/07/orens-hummus-takes-first-step-toward-national-expansion-with-new-location/"
    ]
+  },
+  {
+   "name": "Poke House",
+   "address": "855 El Camino Real",
+   "note": "Poke restaurant in Town & Country Village that replaced pok\u00e9LOVE. Palo Alto Online reported it soft-opened in January 2019 and held a grand opening on January 27, 2019.",
+   "start": 2019,
+   "end": null,
+   "category": "food",
+   "approx": false,
+   "links": [
+    "https://poke.house/locations/ca/palo-alto/855-el-camino-real-9",
+    "https://www.paloaltoonline.com/blogs/2019/01/21/poke-house-replaces-poklove-at-town-country-village/"
+   ]
   }
  ],
  "corrections": [
