@@ -1489,6 +1489,20 @@
     "https://www.allmenus.com/ca/palo-alto/55021-andale/menu/",
     "https://www.metrosiliconvalley.com/papers/metro/07.18.02/cheapeats-0229.html"
    ]
+  },
+  {
+   "name": "Bella Luna",
+   "address": "233 University Ave",
+   "note": "Italian restaurant (Bella Luna Ristorante Italiano), reviewed as newly opened by Metro Silicon Valley in 1999. It may have stayed open longer, but it closed before The Workshop opened at this address in 2011.",
+   "start": 1999,
+   "end": 1999,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://metrosiliconvalley.com/papers/metro/06.10.99/dining-9923.html",
+    "https://n2v.paloaltoonline.com/weekly/morguepdf/2004/2004_09_24.paw.section1.pdf",
+    "https://www.paloaltoonline.com/wp-content/uploads/2007/10/2007_10_26.paw_.section1.pdf"
+   ]
   }
  ],
  "corrections": [
