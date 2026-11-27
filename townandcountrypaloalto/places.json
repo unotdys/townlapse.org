@@ -1622,6 +1622,28 @@
   ]
  },
  {
+  "name": "Cook Book Restaurant",
+  "address": "855 El Camino Real",
+  "start": 1980,
+  "end": 2005,
+  "category": "food",
+  "approx": false,
+  "note": "Breakfast and lunch restaurant at the back of Town & Country Village that opened in 1980. It closed on July 31, 2005, after the center's new owners ended its month-to-month lease, which set off a community outcry.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/cover-story/2014/01/17/the-rebirth-of-town-country/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2005/07/18/cookbook-served-with-30-day-notice/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "address not listed",
   "start": 2026,
