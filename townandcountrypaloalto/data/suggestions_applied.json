@@ -27,6 +27,20 @@
     "https://www.paloaltoonline.com/blogs/2022/06/14/award-winning-chocolatier-sweet55-comes-home-to-palo-alto/",
     "https://www.thesanfranciscopeninsula.com/blog/stories/post/making-holiday-shopping-easy/"
    ]
+  },
+  {
+   "name": "Coyuchi",
+   "address": "855 El Camino Real",
+   "note": "Organic bedding and home-goods store at Town & Country Village, opened in November 2022. A current listing still places it at 855 El Camino Real, Suite 5.",
+   "start": 2022,
+   "end": null,
+   "category": "retail",
+   "approx": false,
+   "links": [
+    "https://resource.stopwaste.org/items/textiles-good-conditionsize?page=1",
+    "https://www.coyuchi.com/pages/palo-alto-store-press-release",
+    "https://www.paloaltoonline.com/news/2023/03/23/five-new-shops-open-at-town-country-village/"
+   ]
   }
  ],
  "corrections": [

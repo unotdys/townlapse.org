@@ -52,6 +52,32 @@
   ]
  },
  {
+  "name": "Coyuchi",
+  "address": "855 El Camino Real",
+  "start": 2022,
+  "end": null,
+  "category": "retail",
+  "approx": false,
+  "note": "Organic bedding and home-goods store at Town & Country Village, opened in November 2022. A current listing still places it at 855 El Camino Real, Suite 5.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://resource.stopwaste.org/items/textiles-good-conditionsize?page=1",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.coyuchi.com/pages/palo-alto-store-press-release",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2023/03/23/five-new-shops-open-at-town-country-village/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "CVS Pharmacy",
   "address": "address not listed",
   "start": 2026,
