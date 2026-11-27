@@ -1608,6 +1608,21 @@
     "https://www.mv-voice.com/wp-content/uploads/2010/07/2010_07_23.mvv_.section1.pdf",
     "https://www.yelp.com/biz/loui-loui-steak-palo-alto-2?start=20"
    ]
+  },
+  {
+   "name": "Krung Siam",
+   "address": "423 University Ave",
+   "note": "Thai restaurant on University Avenue, described as long popular in 2004 and photographed at this address in July 2008. Its actual opening and closing years may differ; Cafe Taxim took over the space in 2011.",
+   "start": 2003,
+   "end": 2010,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://palyvoice.com/?p=13821",
+    "https://www.jinmei.org/sfbarestaurants/sfbarestaurant.html",
+    "https://www.mv-voice.com/morgue/2004/2004_02_13.dining.shtml",
+    "https://www.paloaltoonline.com/wp-content/uploads/2024/02/2005_06_10.paw_.section1.pdf"
+   ]
   }
  ],
  "corrections": [

@@ -4215,6 +4215,36 @@
   ]
  },
  {
+  "name": "Krung Siam",
+  "address": "423 University Ave",
+  "start": 2003,
+  "end": 2010,
+  "category": "food",
+  "approx": true,
+  "note": "Thai restaurant on University Avenue, described as long popular in 2004 and photographed at this address in July 2008. Its actual opening and closing years may differ; Cafe Taxim took over the space in 2011.",
+  "lat": 37.4475638,
+  "lng": -122.1603502,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/wp-content/uploads/2024/02/2005_06_10.paw_.section1.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://palyvoice.com/?p=13821",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.jinmei.org/sfbarestaurants/sfbarestaurant.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.mv-voice.com/morgue/2004/2004_02_13.dining.shtml",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "House of Bagels",
   "address": "526 University Ave",
   "start": 2004,
@@ -5230,6 +5260,24 @@
    }
   ],
   "note": "Coffee shop. Palo Alto Online's Peninsula Foodist reported it opening in 2015. Later status unknown."
+ },
+ {
+  "name": "Gong Cha",
+  "address": "429 Waverley St",
+  "start": 2015,
+  "end": 2015,
+  "category": "food",
+  "approx": true,
+  "source": "news",
+  "lat": 37.4476333,
+  "lng": -122.1610727,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/06/another-milk-tea-chain-setting-up-shop-in-palo-alto/",
+    "kind": "Article"
+   }
+  ],
+  "note": "Milk tea shop. Palo Alto Online's Peninsula Foodist reported it opening in 2015. Later status unknown."
  },
  {
   "name": "B+B",
@@ -8449,24 +8497,6 @@
   ]
  },
  {
-  "name": "Gong Cha",
-  "address": "439 Waverley St",
-  "start": 2015,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2015.",
-  "lat": 37.4477131,
-  "lng": -122.1607332,
-  "links": [
-   {
-    "url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/06/another-milk-tea-chain-setting-up-shop-in-palo-alto/",
-    "kind": "Article"
-   }
-  ]
- },
- {
   "name": "Cielo",
   "address": "477 University Ave",
   "start": 2015,
@@ -8639,6 +8669,18 @@
   "note": "Open today (restaurant). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened.",
   "lat": 37.4458038,
   "lng": -122.1621102
+ },
+ {
+  "name": "Gong Cha",
+  "address": "439 Waverley St",
+  "start": 2017,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "source": "osm",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened.",
+  "lat": 37.4477131,
+  "lng": -122.1607332
  },
  {
   "name": "The Patio",
@@ -10591,18 +10633,6 @@
   "approx": true,
   "source": "osm-history",
   "note": "Restaurant. On OpenStreetMap 2013\u20132013; actual years open may differ.",
-  "category": "food"
- },
- {
-  "name": "Krung Siam",
-  "address": "address not listed",
-  "lat": 37.4475531,
-  "lng": -122.1603286,
-  "start": 2013,
-  "end": 2016,
-  "approx": true,
-  "source": "osm-history",
-  "note": "Restaurant. On OpenStreetMap 2013\u20132016; actual years open may differ.",
   "category": "food"
  },
  {
