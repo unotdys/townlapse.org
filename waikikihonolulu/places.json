@@ -3059,6 +3059,24 @@
   ]
  },
  {
+  "name": "Kith Treats",
+  "address": "2301 Kalakaua Ave",
+  "start": 2021,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Dessert shop and cereal bar inside the Kith Hawaii flagship store, which opened August 20, 2021 at the Royal Hawaiian Center.",
+  "lat": 21.2783235,
+  "lng": -157.8286655,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://selectabisso.com/en/kith-hawaii/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -9908,19 +9926,6 @@
   "note": "Open today (deli). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 21.2820309,
   "lng": -157.8288953
- },
- {
-  "name": "Kith Treats",
-  "address": "2301 Kalākaua Ave",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (ice cream). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2779153,
-  "lng": -157.8280328
  },
  {
   "name": "Fendi",

@@ -1705,6 +1705,18 @@
    "links": [
     "https://selectabisso.com/en/kith-hawaii/"
    ]
+  },
+  {
+   "name": "Kith Treats",
+   "address": "2301 Kalakaua Ave",
+   "note": "Dessert shop and cereal bar inside the Kith Hawaii flagship store, which opened August 20, 2021 at the Royal Hawaiian Center.",
+   "start": 2021,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://selectabisso.com/en/kith-hawaii/"
+   ]
   }
  ],
  "corrections": [
