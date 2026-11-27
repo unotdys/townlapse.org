@@ -406,6 +406,28 @@
   ]
  },
  {
+  "name": "Hudson Grace",
+  "address": "855 El Camino Real",
+  "start": 2015,
+  "end": null,
+  "category": "retail",
+  "approx": true,
+  "note": "Home decor and entertaining shop at Town & Country Village selling ceramics, serveware, candles and linens. A March 2015 building-permit listing shows a tenant improvement for Hudson Grace in Suite 135 at 855 El Camino Real, and the store remains open there.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://hudsongracesf.com/pages/hudson-grace-palo-alto-store",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/real-estate/2015/03/27/building-permits-375/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "CVS Pharmacy",
   "address": "address not listed",
   "start": 2026,
@@ -985,19 +1007,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Hudson Grace",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "retail",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (houseware). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4382866,
-  "lng": -122.1584476
  },
  {
   "name": "El Merkat",
