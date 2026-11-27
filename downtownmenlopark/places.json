@@ -70,6 +70,28 @@
   ]
  },
  {
+  "name": "Sultana",
+  "address": "1149 El Camino Real",
+  "start": 2006,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Turkish and Mediterranean restaurant near El Camino Real and Santa Cruz Avenue in downtown Menlo Park. A Palo Alto Online review published June 30, 2006 lists Sultana at 1149 El Camino Real, and a later restaurant guide gives its opening year as 2006.",
+  "lat": 37.4537424,
+  "lng": -122.1836925,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.foodnut.com/53496/sultana-menlo-park/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/uncategorized/2006/06/30/turkish-home-cooking/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "899 Santa Cruz Ave",
   "start": 1971,
@@ -1151,19 +1173,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Sultana",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4537424,
-  "lng": -122.1836925
  },
  {
   "name": "Derby Interiors & Design",
@@ -2581,19 +2590,6 @@
   "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 37.4510165,
   "lng": -122.1771151
- },
- {
-  "name": "Sultana Mediterranean",
-  "address": "1149 El Camino Real",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4537413,
-  "lng": -122.1836898
  },
  {
   "name": "Trader Joe's",

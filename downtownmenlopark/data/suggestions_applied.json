@@ -39,6 +39,19 @@
     "https://menloparkacademyofdance.com/about/",
     "https://www.mphistory.org/exhibits/historic-menlo-park-businesses/"
    ]
+  },
+  {
+   "name": "Sultana",
+   "address": "1149 El Camino Real",
+   "note": "Turkish and Mediterranean restaurant near El Camino Real and Santa Cruz Avenue in downtown Menlo Park. A Palo Alto Online review published June 30, 2006 lists Sultana at 1149 El Camino Real, and a later restaurant guide gives its opening year as 2006.",
+   "start": 2006,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.foodnut.com/53496/sultana-menlo-park/",
+    "https://www.paloaltoonline.com/uncategorized/2006/06/30/turkish-home-cooking/"
+   ]
   }
  ],
  "corrections": [
