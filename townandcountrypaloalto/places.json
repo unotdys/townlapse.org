@@ -1412,6 +1412,28 @@
   ]
  },
  {
+  "name": "Paper Source",
+  "address": "855 El Camino Real",
+  "start": 2009,
+  "end": null,
+  "category": "retail",
+  "approx": false,
+  "note": "Stationery and paper-goods shop in Town & Country Village at 855 El Camino Real #63, opened in 2009. Palo Alto Online's 2009 Best Of named it the year's best new retail business.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/news/2009/08/28/to-the-mall-and-beyond-retail-shopping/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.papersource.com/locator",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "address not listed",
   "start": 2026,
@@ -1722,19 +1744,6 @@
   "note": "Open today (clothes). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 37.4384521,
   "lng": -122.159922
- },
- {
-  "name": "Paper Source",
-  "address": "855 El Camino Real",
-  "start": 2026,
-  "end": null,
-  "category": "retail",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (stationery). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4378761,
-  "lng": -122.1600241
  },
  {
   "name": "Sur La Table",
