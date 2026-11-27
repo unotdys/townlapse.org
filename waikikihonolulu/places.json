@@ -3155,6 +3155,32 @@
   ]
  },
  {
+  "name": "Open Space Yoga",
+  "address": "3106 Monsarrat Ave",
+  "start": 2009,
+  "end": null,
+  "category": "fitness",
+  "approx": false,
+  "note": "Mary Bastien's yoga studio opened on Monsarrat Avenue near Diamond Head in 2009 and was one of three Open Space Yoga locations. Later listings mark this studio permanently closed, but the closing date is unknown.",
+  "lat": 21.2692679,
+  "lng": -157.8129202,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://local.demandforce.com/b/open-space-yoga-diamond-head",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.airbnb.com/things-to-do/places/250448",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/your-oahu-neighborhood-guide-monsarrat-avenue/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
