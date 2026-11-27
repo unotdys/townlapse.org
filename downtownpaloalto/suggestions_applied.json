@@ -2929,6 +2929,20 @@
      "https://www.virtualparks.org/temporal/fwd-time-list-text.html"
     ]
    }
+  },
+  {
+   "target": "Chimera Books and Music",
+   "target_address": "405 Kipling St",
+   "fields": {
+    "name": "Chimaera Books and Music",
+    "note": "Used book and record shop in an 1897 house, which a city historic report says it filled on both floors by 1970. Around 1990 it moved to University Avenue, and in 1999 it left for Redwood City.",
+    "start": 1970,
+    "approx": true,
+    "links": [
+     "https://cities-index.com/palo_alto/2026-06-08-city-council/agenda-packet-part-2.html",
+     "https://stanfordpolitics.org/wp-content/uploads/2018/01/Stanford_Daily_19741112_0001.pdf"
+    ]
+   }
   }
  ]
 }
