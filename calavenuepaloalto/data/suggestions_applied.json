@@ -653,6 +653,22 @@
     "https://www.paloaltoonline.com/news/2015/09/22/palo-alto-sets-a-cap-on-new-office-space/",
     "https://www.paloaltoonline.com/news/2019/07/05/after-decades-of-providing-haircuts-cambridge-barber-shop-closes-its-doors-2/"
    ]
+  },
+  {
+   "name": "Equinox",
+   "address": "440 Portage Ave",
+   "note": "Upscale fitness club in a converted warehouse on Portage Avenue, with a rooftop pool, spa and Pilates studio. Its opening year is unconfirmed, but it is still open.",
+   "start": null,
+   "end": null,
+   "category": "fitness",
+   "approx": true,
+   "links": [
+    "https://srp.med.stanford.edu/experience-equinox-fitness-3-day-open-house",
+    "https://www.cityofpaloalto.org/civicax/filebank/blobdload.aspx?BlobID=35604",
+    "https://www.equinox.com/clubs/northern-california/paloalto",
+    "https://www.equinox.com/clubs/northern-california/paloalto?cid=gmb",
+    "https://www.paloaltoonline.com/wp-content/uploads/2008/03/2008_03_05.paw_.section1.pdf"
+   ]
   }
  ],
  "corrections": [

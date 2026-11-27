@@ -1176,6 +1176,41 @@
   ]
  },
  {
+  "name": "Equinox",
+  "address": "440 Portage Ave",
+  "start": 2026,
+  "end": null,
+  "category": "fitness",
+  "approx": true,
+  "note": "Upscale fitness club in a converted warehouse on Portage Avenue, with a rooftop pool, spa and Pilates studio. Its opening year is unconfirmed, but it is still open.",
+  "lat": 37.422011,
+  "lng": -122.138136,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/wp-content/uploads/2008/03/2008_03_05.paw_.section1.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://srp.med.stanford.edu/experience-equinox-fitness-3-day-open-house",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.cityofpaloalto.org/civicax/filebank/blobdload.aspx?BlobID=35604",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.equinox.com/clubs/northern-california/paloalto",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.equinox.com/clubs/northern-california/paloalto?cid=gmb",
+    "kind": "Article"
+   }
+  ],
+  "start_unknown": true
+ },
+ {
   "name": "Rara",
   "address": "201 South California Ave",
   "start": 2023,
