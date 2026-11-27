@@ -2788,6 +2788,18 @@
      "https://www.paloaltoonline.com/best-of/1997/08/20/best-of-1997/"
     ]
    }
+  },
+  {
+   "target": "Hemingway's",
+   "target_address": "480 University Ave",
+   "fields": {
+    "note": "Cigar and tobacco shop that also sells lighters, pocketknives and wallets. A 2009 local shopping guide listed it at this address, where it is still open today; it may be older.",
+    "start": 2009,
+    "approx": true,
+    "links": [
+     "https://www.metrosiliconvalley.com/metro/09.23.09/best-of-shopping-staff.html"
+    ]
+   }
   }
  ]
 }

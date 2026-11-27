@@ -1277,6 +1277,24 @@
   ]
  },
  {
+  "name": "Hemingway's",
+  "address": "480 University Ave",
+  "start": 2009,
+  "end": null,
+  "category": "retail",
+  "approx": true,
+  "source": "osm",
+  "note": "Cigar and tobacco shop that also sells lighters, pocketknives and wallets. A 2009 local shopping guide listed it at this address, where it is still open today; it may be older.",
+  "lat": 37.4479281,
+  "lng": -122.1594427,
+  "links": [
+   {
+    "url": "https://www.metrosiliconvalley.com/metro/09.23.09/best-of-shopping-staff.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Scotty's",
   "address": "548 Emerson St",
   "start": 2009,
@@ -8174,18 +8192,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Hemingway's",
-  "address": "480 University Ave",
-  "start": 2013,
-  "end": null,
-  "category": "retail",
-  "approx": true,
-  "source": "osm",
-  "note": "Open today (tobacco). Listed in OpenStreetMap; on the map since at least 2013; it may be much older.",
-  "lat": 37.4479281,
-  "lng": -122.1594427
  },
  {
   "name": "7-Eleven",
