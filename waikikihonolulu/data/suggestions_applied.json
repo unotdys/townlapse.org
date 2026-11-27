@@ -4699,6 +4699,21 @@
      "https://www.hilton.com/en/hotels/hnlwahf-hilton-waikiki-beach/dining"
     ]
    }
+  },
+  {
+   "target": "Pacific Monarch Hotel",
+   "target_address": "2427 K\u016bhi\u014d Ave",
+   "fields": {
+    "note": "Condominium hotel tower of more than 30 stories on K\u016bhi\u014d Avenue in central Waikiki, built around 1980 (some sources say 1979). Its ground floor holds restaurants.",
+    "start": 1980,
+    "approx": true,
+    "links": [
+     "https://hawaiicondosource.com/condo/pacific-monarch/",
+     "https://highrises.com/buildings/honolulu_hi/pacific-monarch_2427-kuhio-ave_434",
+     "https://www.businesstravelnews.com/Hotels/Honolulu/Pacific-Monarch-Hotel-p57583917",
+     "https://www.coldwellbanker.com/hi/honolulu/2427-kuhio-ave--2207/lid-P00800000H8jTj8SpSeaLUxnjdJIj8gF4PHmUhof"
+    ]
+   }
   }
  ]
 }

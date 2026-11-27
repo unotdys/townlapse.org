@@ -10998,15 +10998,32 @@
  {
   "name": "Pacific Monarch Hotel",
   "address": "2427 Kūhiō Ave",
-  "start": 2026,
+  "start": 1980,
   "end": null,
   "category": "hotel",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Condominium hotel tower of more than 30 stories on Kūhiō Avenue in central Waikiki, built around 1980 (some sources say 1979). Its ground floor holds restaurants.",
   "lat": 21.2765273,
-  "lng": -157.8238588
+  "lng": -157.8238588,
+  "links": [
+   {
+    "url": "https://hawaiicondosource.com/condo/pacific-monarch/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://highrises.com/buildings/honolulu_hi/pacific-monarch_2427-kuhio-ave_434",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.businesstravelnews.com/Hotels/Honolulu/Pacific-Monarch-Hotel-p57583917",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.coldwellbanker.com/hi/honolulu/2427-kuhio-ave--2207/lid-P00800000H8jTj8SpSeaLUxnjdJIj8gF4PHmUhof",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "ABC",
