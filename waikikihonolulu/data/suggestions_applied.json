@@ -2005,6 +2005,18 @@
     "https://www.kayak.com/Honolulu-Hotels-Waikiki-Prince.81112.ksp",
     "https://www.oyster.com/oahu/hotels/waikiki-central-hotel/"
    ]
+  },
+  {
+   "name": "Honolulu Prince Hotel",
+   "address": "415 Nahua St",
+   "note": "Hotel at 415 Nahua Street; the building was designed in 1959 as the Royal Prince Apartment Building and converted to hotel use in 1966, renamed Aqua Waikiki Pearl on July 13, 2009.",
+   "start": 1966,
+   "end": 2009,
+   "category": "hotel",
+   "approx": true,
+   "links": [
+    "https://www.city-data.com/articles/Aqua-Waikiki-Pearl-Honolulu-Hawaii.html"
+   ]
   }
  ],
  "corrections": [
