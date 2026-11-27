@@ -2841,6 +2841,21 @@
      "https://www.metrosiliconvalley.com/metro/09.23.09/best-of-shopping-staff.html"
     ]
    }
+  },
+  {
+   "target": "Webster/Cowper Garage",
+   "target_address": "520 Webster St",
+   "fields": {
+    "note": "City-owned five-story public parking garage of about 590 spaces between Webster and Cowper streets, built in 1984 according to a 2018 city staff report. It is still operating, with free short-term parking and daily and monthly permits.",
+    "start": 1984,
+    "approx": false,
+    "links": [
+     "https://www.cityofpaloalto.org/files/assets/public/agendas-minutes-reports/reports/city-manager-reports-cmrs/year-archive/2018/sr-9447-modernization-of-lot-j-elevators.pdf",
+     "https://www.paloalto.gov/Departments/Transportation/Transportation-Projects/Downtown-Automated-Parking-Guidance-Systems-APGS",
+     "https://www.paloalto.gov/files/assets/public/v/1/agendas-minutes-reports/reports/city-manager-reports-cmrs/year-archive/2018/sr-9447-modernization-of-lot-j-elevators.pdf",
+     "https://www.virtualparks.org/temporal/fwd-time-list-text.html"
+    ]
+   }
   }
  ]
 }
