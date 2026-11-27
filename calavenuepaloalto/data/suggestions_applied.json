@@ -640,6 +640,19 @@
     "https://www.paloaltoonline.com/news/2014/06/20/bargain-box-outlasted-other-palo-alto-thrift-stores/",
     "https://www.paloaltoonline.com/news/2014/06/20/california-avenues-bargain-box-to-close-after-58-years/"
    ]
+  },
+  {
+   "name": "Cambridge Barber Shop",
+   "address": "382 Cambridge Ave",
+   "note": "Family-run barber shop that moved to Cambridge Ave in 1997 after about 30 years on California Avenue. It closed in July 2019 ahead of a plan to replace the buildings at 378\u2013410 Cambridge with a new retail and office building.",
+   "start": 1997,
+   "end": 2019,
+   "category": "services",
+   "approx": false,
+   "links": [
+    "https://www.paloaltoonline.com/news/2015/09/22/palo-alto-sets-a-cap-on-new-office-space/",
+    "https://www.paloaltoonline.com/news/2019/07/05/after-decades-of-providing-haircuts-cambridge-barber-shop-closes-its-doors-2/"
+   ]
   }
  ],
  "corrections": [

@@ -1154,6 +1154,28 @@
   ]
  },
  {
+  "name": "Cambridge Barber Shop",
+  "address": "382 Cambridge Ave",
+  "start": 1997,
+  "end": 2019,
+  "category": "services",
+  "approx": false,
+  "note": "Family-run barber shop that moved to Cambridge Ave in 1997 after about 30 years on California Avenue. It closed in July 2019 ahead of a plan to replace the buildings at 378–410 Cambridge with a new retail and office building.",
+  "lat": 37.4275187,
+  "lng": -122.1457616,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/news/2015/09/22/palo-alto-sets-a-cap-on-new-office-space/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2019/07/05/after-decades-of-providing-haircuts-cambridge-barber-shop-closes-its-doors-2/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Rara",
   "address": "201 South California Ave",
   "start": 2023,
