@@ -107,6 +107,20 @@
     "https://poke.house/locations/ca/palo-alto/855-el-camino-real-9",
     "https://www.paloaltoonline.com/blogs/2019/01/21/poke-house-replaces-poklove-at-town-country-village/"
    ]
+  },
+  {
+   "name": "Serena & Lily",
+   "address": "855 El Camino Real",
+   "note": "Home furnishings design shop at Town & Country Village that opened November 11, 2023. Its about 3,200-square-foot showroom sells furniture, bedding and home accessories.",
+   "start": 2023,
+   "end": null,
+   "category": "retail",
+   "approx": false,
+   "links": [
+    "https://tandcvillage.com/event-promotion/serena-lily-now-open/",
+    "https://tandcvillage.com/event-promotion/the-spring-design-event-at-serena-lily-is-on/",
+    "https://www.serenaandlily.com/stores-palo-alto"
+   ]
   }
  ],
  "corrections": [

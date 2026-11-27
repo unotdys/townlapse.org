@@ -192,6 +192,32 @@
   ]
  },
  {
+  "name": "Serena & Lily",
+  "address": "855 El Camino Real",
+  "start": 2023,
+  "end": null,
+  "category": "retail",
+  "approx": false,
+  "note": "Home furnishings design shop at Town & Country Village that opened November 11, 2023. Its about 3,200-square-foot showroom sells furniture, bedding and home accessories.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://tandcvillage.com/event-promotion/serena-lily-now-open/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://tandcvillage.com/event-promotion/the-spring-design-event-at-serena-lily-is-on/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.serenaandlily.com/stores-palo-alto",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "CVS Pharmacy",
   "address": "address not listed",
   "start": 2026,
