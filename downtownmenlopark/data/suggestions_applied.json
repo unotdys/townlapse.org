@@ -353,6 +353,19 @@
      "https://www.numismaticnews.net/directory/mish-international-monetary-inc"
     ]
    }
+  },
+  {
+   "target": "Cafe Borrone",
+   "target_address": "1010 El Camino Real",
+   "fields": {
+    "note": "European-style counter-service cafe next to Kepler's Books, which the Borrone family moved here in 1989 after opening it in Redwood City in 1979. It is still open today.",
+    "start": 1989,
+    "approx": false,
+    "links": [
+     "https://punchmagazine.com/the-borrone-business/",
+     "https://www.paloaltoonline.com/morgue/restaurants/1996_Mar_22.EATOUT22.html"
+    ]
+   }
   }
  ]
 }
