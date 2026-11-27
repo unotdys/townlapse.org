@@ -2125,6 +2125,19 @@
    "links": [
     "https://archives.starbulletin.com/2007/02/22/business/story03.html"
    ]
+  },
+  {
+   "name": "Waikiki Trade Center",
+   "address": "2255 Kuhio Ave",
+   "note": "Built in 1980, this 24-story office tower at Kuhio and Seaside avenues had ground-floor shops and was one of Waikiki's largest office buildings. It was converted into the Hyatt Centric Waikiki Beach hotel, which opened in December 2016.",
+   "start": 1980,
+   "end": 2016,
+   "category": "landmark",
+   "approx": true,
+   "links": [
+    "http://the.honoluluadvertiser.com/article/2006/Feb/06/br/br09p.html",
+    "https://www.hospitalitynet.org/news/4079846.html"
+   ]
   }
  ],
  "corrections": [
