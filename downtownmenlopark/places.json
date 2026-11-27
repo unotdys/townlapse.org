@@ -1872,15 +1872,20 @@
  {
   "name": "Clark's Oyster Bar",
   "address": "780 Santa Cruz Ave",
-  "start": 2026,
+  "start": 2025,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Seafood restaurant that opened on April 22, 2025, in the space Ann's Coffee Shop held for 75 years until it closed in 2021.",
   "lat": 37.4512112,
-  "lng": -122.185079
+  "lng": -122.185079,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/menlo-park/2025/05/20/clarks-oyster-bar-brings-fresh-fish-martinis-and-housemade-sourdough-to-downtown-menlo-park/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Camino Coin Company",

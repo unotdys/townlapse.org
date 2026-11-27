@@ -750,6 +750,18 @@
      "https://www.sfstation.com/dolma-b24200011"
     ]
    }
+  },
+  {
+   "target": "Clark's Oyster Bar",
+   "target_address": "780 Santa Cruz Ave",
+   "fields": {
+    "note": "Seafood restaurant that opened on April 22, 2025, in the space Ann's Coffee Shop held for 75 years until it closed in 2021.",
+    "start": 2025,
+    "approx": false,
+    "links": [
+     "https://www.paloaltoonline.com/menlo-park/2025/05/20/clarks-oyster-bar-brings-fresh-fish-martinis-and-housemade-sourdough-to-downtown-menlo-park/"
+    ]
+   }
   }
  ]
 }
