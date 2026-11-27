@@ -185,16 +185,33 @@
  },
  {
   "name": "Avant Optometry",
-  "address": "811 Santa Cruz avenue",
-  "start": 2026,
+  "address": "811 Santa Cruz Ave",
+  "start": 2021,
   "end": null,
   "category": "services",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (optician). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Optometry practice and eyewear shop on Santa Cruz Avenue, still open. Customer reviews show it was open by about 2021; the exact opening year isn't known.",
   "lat": 37.4505773,
-  "lng": -122.185241
+  "lng": -122.185241,
+  "links": [
+   {
+    "url": "https://menlopark.gov/files/sharedassets/public/v/1/agendas-and-minutes/city-council/2020-meetings/agendas/20200619-cc-agenda-packet.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.avantoptometry.com/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.checkbook.org/ca/menlo-park/opticians-optometrists-buying-eyewear/avant-optometry/ol8qj",
+    "kind": "Article"
+   },
+   {
+    "url": "https://startpage.mapquest.com/us/california/avant-optometry-42625411",
+    "kind": "Listing"
+   }
+  ]
  },
  {
   "name": "Mademoiselle Colette",

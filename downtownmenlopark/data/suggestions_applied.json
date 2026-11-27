@@ -80,6 +80,22 @@
      "https://www.rebarts.com/about"
     ]
    }
+  },
+  {
+   "target": "Avant Optometry",
+   "target_address": "811 Santa Cruz avenue",
+   "fields": {
+    "address": "811 Santa Cruz Ave",
+    "note": "Optometry practice and eyewear shop on Santa Cruz Avenue, still open. Customer reviews show it was open by about 2021; the exact opening year isn't known.",
+    "start": 2021,
+    "approx": true,
+    "links": [
+     "https://menlopark.gov/files/sharedassets/public/v/1/agendas-and-minutes/city-council/2020-meetings/agendas/20200619-cc-agenda-packet.pdf",
+     "https://startpage.mapquest.com/us/california/avant-optometry-42625411",
+     "https://www.avantoptometry.com/",
+     "https://www.checkbook.org/ca/menlo-park/opticians-optometrists-buying-eyewear/avant-optometry/ol8qj"
+    ]
+   }
   }
  ]
 }
