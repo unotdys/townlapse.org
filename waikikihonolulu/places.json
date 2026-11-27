@@ -3277,6 +3277,36 @@
   ]
  },
  {
+  "name": "Lemona Hawai'i",
+  "address": "421 Lewers St",
+  "start": 2014,
+  "end": 2018,
+  "category": "food",
+  "approx": true,
+  "note": "Shave ice shop behind the Courtyard Marriott that opened in December 2014, known for syrups made from fresh fruit and its own condensed milk. It was reported closed by mid-2018 while looking for a new location.",
+  "lat": 21.2818219,
+  "lng": -157.8277867,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "http://www.honolulumagazine.com/Honolulu-Magazine/Biting-Commentary/March-2015/Waikks-New-Shave-Ice-Spot-Lemona-Hawaii-Makes-Syrups-From-Fresh-Fruits/",
+    "kind": "Article"
+   },
+   {
+    "url": "http://www.honolulumagazine.com/Honolulu-Magazine/Biting-Commentary/March-2015/Waikks-New-Shave-Ice-Spot-Lemona-Hawaii-Makes-Syrups-From-Fresh-Fruits/#.VRYfLeerG-w",
+    "kind": "Article"
+   },
+   {
+    "url": "https://eatinhawaii.blogspot.com/2015/03/refresh-with-lemona-hawaii-shave-ice.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.gayot.com/restaurants/hawaiinews/archive-july-2018.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
