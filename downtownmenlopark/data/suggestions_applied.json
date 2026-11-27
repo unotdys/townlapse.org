@@ -322,6 +322,22 @@
      "https://www.paloaltoonline.com/morgue/2004/2004_10_15.cafesol15ja.shtml"
     ]
    }
+  },
+  {
+   "target": "Menlo Optical",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "1166 University Dr",
+    "note": "Optician and eyewear shop on University Drive, open today. Business directories list it at this address; the year it opened isn't known yet.",
+    "start": null,
+    "approx": true,
+    "links": [
+     "https://www.checkbook.org/ca/menlo-park/opticians-optometrists-buying-eyewear/menlo-optical/vr4in",
+     "https://www.paloaltoonline.com/wp-content/uploads/2006/06/2006_06_16.paw_.section1.pdf",
+     "https://www.paloaltoonline.com/wp-content/uploads/2024/03/2004_07_02.paw_.section1.pdf",
+     "https://www.yellowpages.com/stanford-hills-menlo-park-ca/opticians"
+    ]
+   }
   }
  ]
 }

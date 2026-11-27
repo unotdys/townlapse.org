@@ -710,16 +710,34 @@
  },
  {
   "name": "Menlo Optical",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "1166 University Dr",
+  "start": null,
   "end": null,
   "category": "services",
-  "approx": false,
+  "approx": true,
   "start_unknown": true,
   "source": "osm",
-  "note": "Open today (optician). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Optician and eyewear shop on University Drive, open today. Business directories list it at this address; the year it opened isn't known yet.",
   "lat": 37.4505805,
-  "lng": -122.1872574
+  "lng": -122.1872574,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/wp-content/uploads/2006/06/2006_06_16.paw_.section1.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/wp-content/uploads/2024/03/2004_07_02.paw_.section1.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.checkbook.org/ca/menlo-park/opticians-optometrists-buying-eyewear/menlo-optical/vr4in",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.yellowpages.com/stanford-hills-menlo-park-ca/opticians",
+    "kind": "Listing"
+   }
+  ]
  },
  {
   "name": "Mish International Monetary Inc",
