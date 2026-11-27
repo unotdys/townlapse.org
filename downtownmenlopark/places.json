@@ -2017,15 +2017,20 @@
  {
   "name": "Lyna's Beauty Salon & Nail Spa",
   "address": "515 El Camino Real",
-  "start": 2026,
+  "start": 2012,
   "end": null,
   "category": "services",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (hairdresser). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Opened in 2012 as Lyna's Skin Care and later grew into a full beauty salon and nail spa, according to a gift-card listing. It is still open at 515 El Camino Real.",
   "lat": 37.4499035,
-  "lng": -122.1787315
+  "lng": -122.1787315,
+  "links": [
+   {
+    "url": "https://lynasbeautysalon.com/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "European Styling Parlour",

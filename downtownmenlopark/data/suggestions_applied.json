@@ -800,6 +800,19 @@
      "https://www.giftly.com/gift-card/salon-cozzolino-menlo-park"
     ]
    }
+  },
+  {
+   "target": "Lyna's Beauty Salon & Nail Spa",
+   "target_address": "515 El Camino Real",
+   "fields": {
+    "note": "Opened in 2012 as Lyna's Skin Care and later grew into a full beauty salon and nail spa, according to a gift-card listing. It is still open at 515 El Camino Real.",
+    "start": 2012,
+    "approx": false,
+    "links": [
+     "https://lynasbeautysalon.com/",
+     "https://www.giftly.com/gift-card/lynas-beauty-salon-menlo-park-4"
+    ]
+   }
   }
  ]
 }
