@@ -332,6 +332,32 @@
   ]
  },
  {
+  "name": "Antoine's Cookie Shop",
+  "address": "855 El Camino Real",
+  "start": 2021,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "note": "Cookie shop from San Mateo that opened its second location at Town & Country Village on January 15, 2021, in the former Babka by Ayelet space. The center's directory still lists it in Building 1, Suite 15.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "http://www.antoinescookieshop.com/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://tandcvillage.com/tenant/antoines-cookie-shop/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2020/12/28/antoines-cookie-shop-to-bring-warm-chocolate-chip-cookies-to-palo-alto/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "CVS Pharmacy",
   "address": "address not listed",
   "start": 2026,
@@ -911,19 +937,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Antoine's Cookie Shop",
-  "address": "855 El Camino Real",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (pastry). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4385816,
-  "lng": -122.1602006
  },
  {
   "name": "Roost & Roast",

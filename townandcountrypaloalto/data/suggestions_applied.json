@@ -187,6 +187,20 @@
     "https://paloalto.org/plan-your-trip/foodie-weekend/",
     "https://www.paloaltoonline.com/ae/2022/12/02/comings-and-goings-cocoa-butter-and-wahlburgers-shutter-tootsies-reopens-and-more/"
    ]
+  },
+  {
+   "name": "Antoine's Cookie Shop",
+   "address": "855 El Camino Real",
+   "note": "Cookie shop from San Mateo that opened its second location at Town & Country Village on January 15, 2021, in the former Babka by Ayelet space. The center's directory still lists it in Building 1, Suite 15.",
+   "start": 2021,
+   "end": null,
+   "category": "food",
+   "approx": false,
+   "links": [
+    "http://www.antoinescookieshop.com/",
+    "https://tandcvillage.com/tenant/antoines-cookie-shop/",
+    "https://www.paloaltoonline.com/blogs/2020/12/28/antoines-cookie-shop-to-bring-warm-chocolate-chip-cookies-to-palo-alto/"
+   ]
   }
  ],
  "corrections": [
