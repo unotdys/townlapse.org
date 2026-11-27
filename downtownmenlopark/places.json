@@ -663,15 +663,24 @@
  {
   "name": "Cafe Del Sol",
   "address": "1010 Doyle St",
-  "start": 2026,
+  "start": 2003,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
   "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 37.4523989,
-  "lng": -122.1823995
+  "lng": -122.1823995,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/2004/2004_10_15.cafesol15ja.shtml",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://machronicle.com/sun-kissed-cuisine-and-lots-of-garlic-at-cafe-del-sol/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Comerica Bank",
