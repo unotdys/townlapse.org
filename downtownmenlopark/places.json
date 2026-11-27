@@ -1177,15 +1177,28 @@
  {
   "name": "Derby Interiors & Design",
   "address": "850 Santa Cruz Ave",
-  "start": 2026,
+  "start": 2013,
   "end": null,
   "category": "retail",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (furniture). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Furniture and interior-design showroom that opened in August 2013 in the former Traditions space on Santa Cruz Avenue. It is still open today.",
   "lat": 37.450559,
-  "lng": -122.185645
+  "lng": -122.185645,
+  "links": [
+   {
+    "url": "https://www.instagram.com/p/Da0IARVFANS/",
+    "kind": "Photo"
+   },
+   {
+    "url": "http://derbymenlo.com/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.almanacnews.com/news/2014/03/17/business-traditional-and-transitional/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "dolma",

@@ -502,6 +502,20 @@
      "https://punchmagazine.com/moving-beyond-tradition/"
     ]
    }
+  },
+  {
+   "target": "Derby Interiors & Design",
+   "target_address": "850 Santa Cruz Ave",
+   "fields": {
+    "note": "Furniture and interior-design showroom that opened in August 2013 in the former Traditions space on Santa Cruz Avenue. It is still open today.",
+    "start": 2013,
+    "approx": false,
+    "links": [
+     "http://derbymenlo.com/",
+     "https://www.almanacnews.com/news/2014/03/17/business-traditional-and-transitional/",
+     "https://www.instagram.com/p/Da0IARVFANS/"
+    ]
+   }
   }
  ]
 }
