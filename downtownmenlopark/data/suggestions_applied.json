@@ -871,6 +871,20 @@
      "https://www.paloaltoonline.com/menlo-park/2026/04/15/singaporean-restaurant-finds-its-way-back-to-downtown-menlo-park/"
     ]
    }
+  },
+  {
+   "target": "Trellis",
+   "target_address": "1077 El Camino Real",
+   "fields": {
+    "note": "Italian restaurant near El Camino Real and Santa Cruz Avenue, opened around 2001 according to a 2006 local newspaper profile. It is still open today.",
+    "start": 2001,
+    "approx": true,
+    "links": [
+     "https://www.opentable.com/trellis-restaurant",
+     "https://www.opentable.com/trellis-restaurant?corrid=a32d31bf-041f-4b4f-b704-f1a9a31f0180&avt=eyJ2IjoyLCJtIjoxLCJwIjowLCJzIjowLCJuIjowfQ",
+     "https://www.paloaltoonline.com/uncategorized/2006/04/07/its-all-about-freshness/"
+    ]
+   }
   }
  ]
 }

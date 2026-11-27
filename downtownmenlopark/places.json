@@ -2167,15 +2167,28 @@
  {
   "name": "Trellis",
   "address": "1077 El Camino Real",
-  "start": 2026,
+  "start": 2001,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Italian restaurant near El Camino Real and Santa Cruz Avenue, opened around 2001 according to a 2006 local newspaper profile. It is still open today.",
   "lat": 37.4532524,
-  "lng": -122.1827277
+  "lng": -122.1827277,
+  "links": [
+   {
+    "url": "https://www.opentable.com/trellis-restaurant",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.opentable.com/trellis-restaurant?corrid=a32d31bf-041f-4b4f-b704-f1a9a31f0180&avt=eyJ2IjoyLCJtIjoxLCJwIjowLCJzIjowLCJuIjowfQ",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/uncategorized/2006/04/07/its-all-about-freshness/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Yum Cha Palace",
