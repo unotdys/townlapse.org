@@ -3915,6 +3915,32 @@
   ]
  },
  {
+  "name": "Tercera Gallery",
+  "address": "534 Ramona St",
+  "start": 1998,
+  "end": 2009,
+  "category": "retail",
+  "approx": true,
+  "note": "Gallery of contemporary craft and fine art, listed at 534 Ramona St. in local exhibit calendars from at least 1998. It may have operated until about 2009.",
+  "lat": 37.4448199,
+  "lng": -122.1616402,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.almanacnews.com/morgue/1998/1998_09_23.cal23.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.almanacnews.com/wp-content/uploads/2009/01/2009_01_07.alm_.section1.pdf",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.mv-voice.com/wp-content/uploads/2007/01/2007_01_12.mvv_.section2.pdf",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Bella Luna",
   "address": "233 University Ave",
   "start": 1999,

@@ -1549,6 +1549,20 @@
     "https://www.sfgate.com/restaurants/article/Palo-Alto-Says-Goodbye-to-Last-Diner-2766290.php",
     "https://www.sfgate.com/restaurants/article/Palo-Alto-coffee-shop-is-reborn-as-zesty-Kan-Zeman-2301871.php"
    ]
+  },
+  {
+   "name": "Tercera Gallery",
+   "address": "534 Ramona St",
+   "note": "Gallery of contemporary craft and fine art, listed at 534 Ramona St. in local exhibit calendars from at least 1998. It may have operated until about 2009.",
+   "start": 1998,
+   "end": 2009,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "https://www.almanacnews.com/morgue/1998/1998_09_23.cal23.html",
+    "https://www.almanacnews.com/wp-content/uploads/2009/01/2009_01_07.alm_.section1.pdf",
+    "https://www.mv-voice.com/wp-content/uploads/2007/01/2007_01_12.mvv_.section2.pdf"
+   ]
   }
  ],
  "corrections": [
