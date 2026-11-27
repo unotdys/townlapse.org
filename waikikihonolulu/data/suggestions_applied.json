@@ -1842,6 +1842,21 @@
     "https://eatinhawaii.blogspot.com/2015/03/refresh-with-lemona-hawaii-shave-ice.html",
     "https://www.gayot.com/restaurants/hawaiinews/archive-july-2018.html"
    ]
+  },
+  {
+   "name": "Waikiki Beachside Hostel",
+   "address": "2556 Lemon Rd",
+   "note": "Large backpacker hostel on Lemon Road, about a block from Waikiki Beach near Kapiolani Park, with dorm beds and private rooms. Listings give different opening dates, and it was still taking guests in 2026.",
+   "start": null,
+   "end": null,
+   "category": "hotel",
+   "approx": true,
+   "links": [
+    "https://ph.trip.com/hotels/honolulu-hotel-detail-737617/waikiki-beachside-hostel/",
+    "https://startpage.mapquest.com/us/hawaii/waikiki-beachside-hostel-12317452",
+    "https://www.hostelworld.com/hostels/p/317000/waikiki-beachside-hostel/",
+    "https://www.waikikibeachsidehostel.com/"
+   ]
   }
  ],
  "corrections": [
