@@ -1272,6 +1272,28 @@
   ]
  },
  {
+  "name": "J. McLaughlin",
+  "address": "855 El Camino Real",
+  "start": 2014,
+  "end": null,
+  "category": "retail",
+  "approx": false,
+  "note": "Clothing boutique at Town & Country Village, scheduled to open June 13, 2014 in the former Crimson Mim space. A current directory listing still places it at 855 El Camino Real.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://directory.yext.com/en/j-mclaughlin-484392487",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2014/06/09/shop-talk-moniques-chocolates-to-close-new-boutiques-open/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "address not listed",
   "start": 2026,
