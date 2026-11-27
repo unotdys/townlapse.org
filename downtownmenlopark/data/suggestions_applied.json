@@ -735,6 +735,21 @@
      "https://www.guildquality.com/profile/Rococo-and-Taupe-Guest"
     ]
    }
+  },
+  {
+   "target": "Dolma Tibetan Handicrafts",
+   "target_address": "628 Santa Cruz Ave",
+   "fields": {
+    "note": "Women's clothing, textiles and handicrafts shop that opened around 2004 as Dolma's first store and is still open. The brand now also has stores in Palo Alto and San Francisco.",
+    "start": 2004,
+    "approx": true,
+    "links": [
+     "https://shopdolma.com/",
+     "https://www.dolmacalifornia.com/",
+     "https://www.dolmacalifornia.com/pages/locations",
+     "https://www.sfstation.com/dolma-b24200011"
+    ]
+   }
   }
  ]
 }

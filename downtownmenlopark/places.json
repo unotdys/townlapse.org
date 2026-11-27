@@ -1816,15 +1816,32 @@
  {
   "name": "Dolma Tibetan Handicrafts",
   "address": "628 Santa Cruz Ave",
-  "start": 2026,
+  "start": 2004,
   "end": null,
   "category": "retail",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (clothes). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Women's clothing, textiles and handicrafts shop that opened around 2004 as Dolma's first store and is still open. The brand now also has stores in Palo Alto and San Francisco.",
   "lat": 37.4528696,
-  "lng": -122.183714
+  "lng": -122.183714,
+  "links": [
+   {
+    "url": "https://shopdolma.com/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.dolmacalifornia.com/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.dolmacalifornia.com/pages/locations",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.sfstation.com/dolma-b24200011",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "D.J.’s Hair Design",
