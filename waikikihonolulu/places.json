@@ -3451,6 +3451,40 @@
   ]
  },
  {
+  "name": "Waikiki Sand Villa Hotel",
+  "address": "2375 Ala Wai Blvd",
+  "start": 1971,
+  "end": 2022,
+  "category": "hotel",
+  "approx": true,
+  "note": "Budget hotel facing the Ala Wai Canal that opened in 1971. Dovetail + Co bought it in 2021 and renovated it, and it reopened as Wayfinder Waikiki around the end of 2022, with an official opening in 2023.",
+  "lat": 21.278717,
+  "lng": -157.8232232,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://thepointsguy.com/hotel/reviews/wayfinder-waikiki-hotel/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://weleavetoday.com/2023/09/21/review-new-boutique-hotel-in-waikiki-wayfinder-waikiki/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hotel-online.com/index.php/news/dovetail-co-opens-wayfinder-waikiki-following-complete-renovation",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.oyster.com/oahu/hotels/waikiki-sand-villa-hotel/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelagewest.com/Travel/Hotels/wayfinder-waikiki-review",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,

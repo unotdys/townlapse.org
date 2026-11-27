@@ -1915,6 +1915,22 @@
     "https://www.gayot.com/restaurants/hawaiinews/archive-november-2009.html",
     "https://www.honolulumagazine.com/dining-trumped/"
    ]
+  },
+  {
+   "name": "Waikiki Sand Villa Hotel",
+   "address": "2375 Ala Wai Blvd",
+   "note": "Budget hotel facing the Ala Wai Canal that opened in 1971. Dovetail + Co bought it in 2021 and renovated it, and it reopened as Wayfinder Waikiki around the end of 2022, with an official opening in 2023.",
+   "start": 1971,
+   "end": 2022,
+   "category": "hotel",
+   "approx": true,
+   "links": [
+    "https://thepointsguy.com/hotel/reviews/wayfinder-waikiki-hotel/",
+    "https://weleavetoday.com/2023/09/21/review-new-boutique-hotel-in-waikiki-wayfinder-waikiki/",
+    "https://www.hotel-online.com/index.php/news/dovetail-co-opens-wayfinder-waikiki-following-complete-renovation",
+    "https://www.oyster.com/oahu/hotels/waikiki-sand-villa-hotel/",
+    "https://www.travelagewest.com/Travel/Hotels/wayfinder-waikiki-review"
+   ]
   }
  ],
  "corrections": [
