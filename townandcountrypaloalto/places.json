@@ -890,6 +890,33 @@
   ]
  },
  {
+  "name": "The UPS Store",
+  "address": "855 El Camino Real",
+  "start": 2026,
+  "end": null,
+  "category": "services",
+  "approx": true,
+  "note": "Shipping, printing and mailbox center in Town & Country Village. Current listings place store #6105 at 855 El Camino Real, Suite 13A, but its opening year has not been confirmed.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/media/reports/1363294032.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://locations.theupsstore.com/ca/palo-alto/855-el-camino-real",
+    "kind": "Article"
+   },
+   {
+    "url": "https://tandcvillage.com/tenant/the-ups-store/",
+    "kind": "Article"
+   }
+  ],
+  "start_unknown": true
+ },
+ {
   "name": "Peet's Coffee",
   "address": "address not listed",
   "start": 2026,
