@@ -1007,6 +1007,19 @@
     "http://www.metroactive.com/metro/11.14.07/cover-sanjoserocks-0746.html",
     "https://www.paloaltoonline.com/morgue/news/1994_Aug_31.PEOPLE31.html"
    ]
+  },
+  {
+   "name": "Petaluma's Rotisserie",
+   "address": "855 El Camino Real",
+   "note": "Family-friendly rotisserie at No. 73 Town & Country Village serving spit-roasted chicken and homey side dishes. It was reviewed in January 1992 and was still open in August 1996, after a nearby fire hurt its sales.",
+   "start": 1992,
+   "end": 1996,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/morgue/news/1996_Aug_16.FIRE.html",
+    "https://www.paloaltoonline.com/morgue/restaurants/1996_Jul_17.mini_reviews.html"
+   ]
   }
  ],
  "corrections": [
