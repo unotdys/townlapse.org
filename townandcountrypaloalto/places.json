@@ -358,6 +358,28 @@
   ]
  },
  {
+  "name": "Roost & Roast",
+  "address": "855 El Camino Real",
+  "start": 2021,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Thai-inspired chicken restaurant at Town and Country Village that opened in Palo Alto in June 2021 at 855 El Camino Real. A Palo Alto guide published in October 2026 still lists Roost and Roast operating there.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://paloalto.org/food-and-drink/thai/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2021/07/01/birds-of-a-feather-familys-thai-fried-chicken-eatery-roosts-in-palo-alto-2/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "CVS Pharmacy",
   "address": "address not listed",
   "start": 2026,
@@ -937,19 +959,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Roost & Roast",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4391794,
-  "lng": -122.1582949
  },
  {
   "name": "Palmetto Superfoods",

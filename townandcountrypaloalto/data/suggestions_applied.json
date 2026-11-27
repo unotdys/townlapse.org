@@ -201,6 +201,19 @@
     "https://tandcvillage.com/tenant/antoines-cookie-shop/",
     "https://www.paloaltoonline.com/blogs/2020/12/28/antoines-cookie-shop-to-bring-warm-chocolate-chip-cookies-to-palo-alto/"
    ]
+  },
+  {
+   "name": "Roost & Roast",
+   "address": "855 El Camino Real",
+   "note": "Thai-inspired chicken restaurant at Town and Country Village that opened in Palo Alto in June 2021 at 855 El Camino Real. A Palo Alto guide published in October 2026 still lists Roost and Roast operating there.",
+   "start": 2021,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://paloalto.org/food-and-drink/thai/",
+    "https://www.paloaltoonline.com/peninsula-foodist/2021/07/01/birds-of-a-feather-familys-thai-fried-chicken-eatery-roosts-in-palo-alto-2/"
+   ]
   }
  ],
  "corrections": [
