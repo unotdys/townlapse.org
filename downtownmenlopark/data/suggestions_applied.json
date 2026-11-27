@@ -975,6 +975,20 @@
      "https://www.mphistory.org/exhibits/timeline-of-menlo-park/"
     ]
    }
+  },
+  {
+   "target": "Staples",
+   "target_address": "700 El Camino Real",
+   "fields": {
+    "note": "Office-supply store that opened on October 9, 2004 in space formerly occupied by Strouds Fine Linens. It is still open in the El Camino Real shopping center it shares with BevMo!",
+    "start": 2004,
+    "approx": false,
+    "links": [
+     "https://stores.staples.com/ca/menlo-park/700-el-camino-real-(suite-120)/copies-services",
+     "https://www.almanacnews.com/morgue/2004/2004_10_27.biz.shtml",
+     "https://www.menlopark.gov/files/sharedassets/public/v/1/agendas-and-minutes/planning-commission/2004-meetings/20040503-planning-minutes.pdf"
+    ]
+   }
   }
  ]
 }

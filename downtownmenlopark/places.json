@@ -2387,15 +2387,28 @@
  {
   "name": "Staples",
   "address": "700 El Camino Real",
-  "start": 2026,
+  "start": 2004,
   "end": null,
   "category": "retail",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (stationery). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Office-supply store that opened on October 9, 2004 in space formerly occupied by Strouds Fine Linens. It is still open in the El Camino Real shopping center it shares with BevMo!",
   "lat": 37.4517102,
-  "lng": -122.1784474
+  "lng": -122.1784474,
+  "links": [
+   {
+    "url": "https://www.almanacnews.com/morgue/2004/2004_10_27.biz.shtml",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.menlopark.gov/files/sharedassets/public/v/1/agendas-and-minutes/planning-commission/2004-meetings/20040503-planning-minutes.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://stores.staples.com/ca/menlo-park/700-el-camino-real-(suite-120)/copies-services",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Big 5 Sporting Goods",
