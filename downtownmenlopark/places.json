@@ -1951,15 +1951,24 @@
  {
   "name": "Susie Cakes",
   "address": "642 Santa Cruz Ave",
-  "start": 2026,
+  "start": 2012,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
   "note": "Open today (bakery). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 37.4526974,
-  "lng": -122.183867
+  "lng": -122.183867,
+  "links": [
+   {
+    "url": "https://susiecakes.com/locations/menlo-park",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.foodgal.com/2012/03/susiecakes-opens-first-peninsula-location-porchetta-time-more/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Salon Cozzolino",

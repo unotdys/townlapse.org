@@ -775,6 +775,18 @@
      "https://www.theinfatuation.com/san-francisco/reviews/levant-dessert"
     ]
    }
+  },
+  {
+   "target": "Susie Cakes",
+   "target_address": "642 Santa Cruz Ave",
+   "fields": {
+    "start": 2012,
+    "approx": true,
+    "links": [
+     "https://susiecakes.com/locations/menlo-park",
+     "https://www.foodgal.com/2012/03/susiecakes-opens-first-peninsula-location-porchetta-time-more/"
+    ]
+   }
   }
  ]
 }
