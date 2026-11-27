@@ -3783,6 +3783,24 @@
   ]
  },
  {
+  "name": "In Between",
+  "address": "2155 Lauula St",
+  "start": 1990,
+  "end": null,
+  "category": "entertainment",
+  "approx": true,
+  "note": "Karaoke bar at 2155 Lauula St that originally opened in 1990 as CC's, later rebranded In Between after an ownership change, and has run continuously since.",
+  "lat": 21.2810366,
+  "lng": -157.8298624,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.waikikiwasted.com/bars/in-between.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -6854,19 +6872,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "In Between",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (bar). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2806435,
-  "lng": -157.8296626
  },
  {
   "name": "Domino's",

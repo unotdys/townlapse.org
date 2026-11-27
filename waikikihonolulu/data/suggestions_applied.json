@@ -2088,6 +2088,19 @@
     "https://www.staradvertiser.com/?p=356219",
     "https://www.ticketmaster.com/zanzabar-night-club-tickets-honolulu/venue/82624"
    ]
+  },
+  {
+   "name": "In Between",
+   "address": "2155 Lauula St",
+   "note": "Karaoke bar at 2155 Lauula St that originally opened in 1990 as CC's, later rebranded In Between after an ownership change, and has run continuously since.",
+   "start": 1990,
+   "end": null,
+   "category": "entertainment",
+   "approx": true,
+   "links": [
+    "https://www.giftly.com/gift-card/in-between-waikiki-honolulu",
+    "https://www.waikikiwasted.com/bars/in-between.html"
+   ]
   }
  ],
  "corrections": [
