@@ -334,15 +334,32 @@
  {
   "name": "Wells Fargo",
   "address": "735 Santa Cruz Ave",
-  "start": 2026,
+  "start": 1960,
   "end": null,
   "category": "services",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (bank). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Bank branch in the building American Trust Company opened by 1959 on the former Sunshine Market site at Santa Cruz Ave and Chestnut St. It became Wells Fargo after the two banks merged in 1960 and is still open.",
   "lat": 37.4512775,
-  "lng": -122.184637
+  "lng": -122.184637,
+  "links": [
+   {
+    "url": "https://fraser.stlouisfed.org/files/docs/releases/g45/l45_19580120.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://sites.google.com/site/mphistorical/home/businesses-in-mp-50-yrs/union-bank",
+    "kind": "History"
+   },
+   {
+    "url": "https://sites.google.com/site/mphistorical/home/businesses-in-mp-50-yrs/wells-fargo-bank",
+    "kind": "History"
+   },
+   {
+    "url": "https://fraser.stlouisfed.org/title/k3-changes-state-member-banks-3938/march-26-1960-486869/fulltext",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Accent on Eyewear",

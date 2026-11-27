@@ -163,6 +163,21 @@
      "https://www.paloaltoonline.com/real-estate/2009/02/06/building-permits-133/"
     ]
    }
+  },
+  {
+   "target": "Wells Fargo",
+   "target_address": "735 Santa Cruz Ave",
+   "fields": {
+    "note": "Bank branch in the building American Trust Company opened by 1959 on the former Sunshine Market site at Santa Cruz Ave and Chestnut St. It became Wells Fargo after the two banks merged in 1960 and is still open.",
+    "start": 1960,
+    "approx": true,
+    "links": [
+     "https://fraser.stlouisfed.org/files/docs/releases/g45/l45_19580120.pdf",
+     "https://fraser.stlouisfed.org/title/k3-changes-state-member-banks-3938/march-26-1960-486869/fulltext",
+     "https://sites.google.com/site/mphistorical/home/businesses-in-mp-50-yrs/union-bank",
+     "https://sites.google.com/site/mphistorical/home/businesses-in-mp-50-yrs/wells-fargo-bank"
+    ]
+   }
   }
  ]
 }
