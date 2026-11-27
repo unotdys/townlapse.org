@@ -406,6 +406,19 @@
     "https://www.paloaltoonline.com/news/2009/08/28/to-the-mall-and-beyond-retail-shopping/",
     "https://www.paloaltoonline.com/uncategorized/2009/10/02/shop-talk-59/"
    ]
+  },
+  {
+   "name": "Peet's Coffee",
+   "address": "855 El Camino Real",
+   "note": "Palo Alto Online called Peet's a newer Town and Country development in June 2001, the first source showing it there; Peet's still lists its Town & Country store at 855 El Camino Real.",
+   "start": 2001,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/morgue/2001/2001_06_01.towncountry01.html",
+    "https://www.peets.com/pages/store/town-country"
+   ]
   }
  ],
  "corrections": [
