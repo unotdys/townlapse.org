@@ -1015,6 +1015,18 @@
      "https://www.paloaltoonline.com/ae/2024/07/11/books-and-beyond-longtime-menlo-park-bookshop-feldmans-has-become-a-flourishing-community-hub/"
     ]
    }
+  },
+  {
+   "target": "Bank of America",
+   "target_address": "633 Santa Cruz Ave",
+   "fields": {
+    "start": 1968,
+    "approx": true,
+    "links": [
+     "https://locators.bankofamerica.com/ca/menlopark/financial-centers-menlo-park-10778.html",
+     "https://www.mphistory.org/exhibits/historic-menlo-park-businesses/"
+    ]
+   }
   }
  ]
 }

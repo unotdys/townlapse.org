@@ -2470,15 +2470,24 @@
  {
   "name": "Bank of America",
   "address": "633 Santa Cruz Ave",
-  "start": 2026,
+  "start": 1968,
   "end": null,
   "category": "services",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
   "note": "Open today (bank). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 37.4529949,
-  "lng": -122.183279
+  "lng": -122.183279,
+  "links": [
+   {
+    "url": "https://www.mphistory.org/exhibits/historic-menlo-park-businesses/",
+    "kind": "History"
+   },
+   {
+    "url": "https://locators.bankofamerica.com/ca/menlopark/financial-centers-menlo-park-10778.html",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Tilak Indian Cuisine",
