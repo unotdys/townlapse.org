@@ -1561,15 +1561,24 @@
  {
   "name": "Anthem Interiors",
   "address": "889 Santa Cruz Ave",
-  "start": 2026,
+  "start": 2017,
   "end": null,
   "category": "retail",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (houseware). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Home furnishings store run by the San Francisco retailer Anthem, next door to its Bed & Bath shop at 887 Santa Cruz Ave. Anthem says its downtown Menlo Park location opened in 2017, and the store is still open.",
   "lat": 37.449561,
-  "lng": -122.186115
+  "lng": -122.186115,
+  "links": [
+   {
+    "url": "https://anthemsf.online/pages/locations-2022",
+    "kind": "Article"
+   },
+   {
+    "url": "https://apothia.com/pages/stores",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Scarlett de Cittores",
