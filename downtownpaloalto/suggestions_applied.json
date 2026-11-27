@@ -1721,6 +1721,22 @@
     "https://www.paloalto.gov/files/assets/public/v/1/public-works/engineering-services/webpages/pe-15001-public-safety-building/id-6069-psb-site-feasibility-analysis.pdf",
     "https://www.paloalto.gov/psb"
    ]
+  },
+  {
+   "name": "The London House Tea Room",
+   "address": "630 Ramona St",
+   "note": "Beloved English tea room that ran for about 24 years before closing in the early 1990s. The Blue Chalk Cafe later took over its Ramona Street space.",
+   "start": 1969,
+   "end": 1992,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://chappiearchives.org/lib/exe/fetch.php/pdf%3Av078n4.pdf",
+    "https://localwiki.org/paloalto/Blue_Chalk_Cafe",
+    "https://stanfordpolitics.org/wp-content/uploads/2018/01/Stanford_Daily_19920930_0001.pdf",
+    "https://www.paloalto.gov/files/assets/public/v/1/planning-amp-development-services/historic-preservation/historic-inventory/dpr-forms_n-s.pdf",
+    "https://www.paloaltoonline.com/morgue/monthly/1995_Mar_29.whats_cooking.html"
+   ]
   }
  ],
  "corrections": [
