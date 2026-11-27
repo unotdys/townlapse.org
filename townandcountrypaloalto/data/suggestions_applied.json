@@ -874,6 +874,19 @@
     "https://n2v.almanacnews.com/square/2012/09/28/hobees-at-town--country-to-close",
     "https://www.paloaltoonline.com/news/2012/09/27/hobees-at-town-country-to-close/"
    ]
+  },
+  {
+   "name": "Kirk's Steakburgers",
+   "address": "855 El Camino Real",
+   "note": "Burger restaurant that moved to Town and Country Village around 2002 after losing its lease on California Avenue. Under new owners, it left in September 2024 for a larger space at 2680 Middlefield Road in Midtown.",
+   "start": 2002,
+   "end": 2024,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://palyvoice.com/178420/news/kirks-to-move-to-midtown/",
+    "https://www.paloaltoonline.com/morgue/2004/2004_10_29.digest29.shtml"
+   ]
   }
  ],
  "corrections": [
