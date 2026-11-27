@@ -571,6 +571,20 @@
      "https://www.fleetfeet.com/locations"
     ]
    }
+  },
+  {
+   "target": "Yeobo, Darling",
+   "target_address": "827 Santa Cruz Ave",
+   "fields": {
+    "note": "Korean-Taiwanese restaurant from the chefs behind Palo Alto's Maum. It opened in June 2025 and is still operating.",
+    "start": 2025,
+    "approx": false,
+    "links": [
+     "https://inmenlo.com/2025/06/11/yeobo-darling-is-opening-in-downtown-menlo-park/",
+     "https://www.opentable.com/r/yeobo-darling-menlo-park",
+     "https://www.paloaltoonline.com/food/2025/12/16/everything-you-need-and-nothing-you-dont-heres-why-many-new-peninsula-restaurants-are-going-minimalist/"
+    ]
+   }
   }
  ]
 }
