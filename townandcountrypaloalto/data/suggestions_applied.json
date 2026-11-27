@@ -967,6 +967,19 @@
     "https://www.paloaltohistory.org/restaurant-row.php",
     "https://www.paloaltoonline.com/morgue/restaurants/1994_Nov_4.EATOUT04.html"
    ]
+  },
+  {
+   "name": "Garner's Pro Bicycle Shop",
+   "address": "855 El Camino Real",
+   "note": "Bicycle shop in Town & Country Village that moved there from Alma Plaza in the mid-1990s and reopened after a fire in October 1996. It closed in late May 2002, while its Redwood City store stayed open.",
+   "start": 1996,
+   "end": 2002,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/morgue/2002/2002_05_24.garners24.html",
+    "https://www.paloaltoonline.com/morgue/news/1996_Sep_25.SHOP25.html"
+   ]
   }
  ],
  "corrections": [
