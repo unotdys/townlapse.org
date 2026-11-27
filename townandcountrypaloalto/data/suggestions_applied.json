@@ -980,6 +980,20 @@
     "https://www.paloaltoonline.com/morgue/2002/2002_05_24.garners24.html",
     "https://www.paloaltoonline.com/morgue/news/1996_Sep_25.SHOP25.html"
    ]
+  },
+  {
+   "name": "Union Auto Repair",
+   "address": "1019 Alma St",
+   "note": "Family-run auto repair shop on Alma Street near Addison Avenue, started in the early 1950s by Hank Barnes Sr. and later run by his son. It closed around 2000.",
+   "start": 1953,
+   "end": 2000,
+   "category": "services",
+   "approx": true,
+   "links": [
+    "https://paloalto.gov/files/assets/public/agendas-minutes-reports/agendas-minutes/city-council-agendas-minutes/00-archive/2016/06-20-16-cc-final-transcript.pdf",
+    "https://www.paloaltoonline.com/morgue/monthly/1994_Mar_16.INBIZ16.html",
+    "https://www.paloaltoonline.com/morgue/spectrum/2000_Mar_8.LETTERS8.html"
+   ]
   }
  ],
  "corrections": [
