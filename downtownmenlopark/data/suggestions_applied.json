@@ -52,6 +52,20 @@
     "https://www.foodnut.com/53496/sultana-menlo-park/",
     "https://www.paloaltoonline.com/uncategorized/2006/06/30/turkish-home-cooking/"
    ]
+  },
+  {
+   "name": "Oak + Violet",
+   "address": "1400 El Camino Real",
+   "note": "Restaurant inside the Park James Hotel that opened for dinner on October 8, 2018. The hotel dining page still lists current dinner hours and reservations.",
+   "start": 2018,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://parkjames.com/oak-violet/",
+    "https://www.paloaltoonline.com/blogs/2018/10/05/oak-violet-to-open-in-menlo-park-hotel/",
+    "https://www.paloaltoonline.com/uncategorized/2019/09/20/hotel-dining-scene-blooms-in-menlo-park-2/"
+   ]
   }
  ],
  "corrections": [

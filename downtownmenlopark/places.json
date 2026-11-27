@@ -92,6 +92,32 @@
   ]
  },
  {
+  "name": "Oak + Violet",
+  "address": "1400 El Camino Real",
+  "start": 2018,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Restaurant inside the Park James Hotel that opened for dinner on October 8, 2018. The hotel dining page still lists current dinner hours and reservations.",
+  "lat": 37.4562883,
+  "lng": -122.1874677,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://parkjames.com/oak-violet/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2018/10/05/oak-violet-to-open-in-menlo-park-hotel/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/uncategorized/2019/09/20/hotel-dining-scene-blooms-in-menlo-park-2/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "899 Santa Cruz Ave",
   "start": 1971,
@@ -2327,19 +2353,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Oak + Violet",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4561852,
-  "lng": -122.1874801
  },
  {
   "name": "Menlo Park City Hall",
