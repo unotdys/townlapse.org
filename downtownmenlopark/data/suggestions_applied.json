@@ -989,6 +989,19 @@
      "https://www.menlopark.gov/files/sharedassets/public/v/1/agendas-and-minutes/planning-commission/2004-meetings/20040503-planning-minutes.pdf"
     ]
    }
+  },
+  {
+   "target": "Philz Coffee",
+   "target_address": "506 Santa Cruz Ave",
+   "fields": {
+    "note": "Philz Coffee opened on May 10, 2021 in the new building at Santa Cruz Avenue and Merrill Street, across from the Caltrain station. It is still open today.",
+    "start": 2021,
+    "approx": false,
+    "links": [
+     "https://philzcoffee.com/locations/menlo-park",
+     "https://us4.campaign-archive.com/?u=f403b1d8072470424efcd9848&id=288a1431a6"
+    ]
+   }
   }
  ]
 }

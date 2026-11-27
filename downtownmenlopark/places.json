@@ -2426,15 +2426,24 @@
  {
   "name": "Philz Coffee",
   "address": "506 Santa Cruz Ave",
-  "start": 2026,
+  "start": 2021,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Philz Coffee opened on May 10, 2021 in the new building at Santa Cruz Avenue and Merrill Street, across from the Caltrain station. It is still open today.",
   "lat": 37.4544368,
-  "lng": -122.1825021
+  "lng": -122.1825021,
+  "links": [
+   {
+    "url": "https://philzcoffee.com/locations/menlo-park",
+    "kind": "Article"
+   },
+   {
+    "url": "https://us4.campaign-archive.com/?u=f403b1d8072470424efcd9848&id=288a1431a6",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Feldman's Books",
