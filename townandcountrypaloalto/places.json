@@ -610,6 +610,28 @@
   ]
  },
  {
+  "name": "Bryn Walker",
+  "address": "212 Homer Ave",
+  "start": 2015,
+  "end": 2020,
+  "category": "retail",
+  "approx": false,
+  "note": "Women's clothing boutique that moved here in 2015, after 17 years at 515 Cowper St., into the restored 1907 Thompson's Bakery building. It closed on Feb. 2, 2020.",
+  "lat": 37.4424325,
+  "lng": -122.158629,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/ae/2020/02/06/shop-talk-ambassador-toys-calls-it-quits-chocolate-shop-on-its-way-2/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2015/04/26/shop-talk-new-businesses-come-to-stanford-mall-bryn-walker-moves-2/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "CVS Pharmacy",
   "address": "address not listed",
   "start": 2026,
