@@ -516,6 +516,19 @@
      "https://www.instagram.com/p/Da0IARVFANS/"
     ]
    }
+  },
+  {
+   "target": "Alys Grace",
+   "target_address": "899 B Santa Cruz Ave",
+   "fields": {
+    "note": "Women's clothing boutique, the first Alys Grace store, opened in Menlo Park in 2008 by a husband-and-wife team. The owners later opened stores in Los Altos, San Francisco and San Ramon.",
+    "start": 2008,
+    "approx": false,
+    "links": [
+     "https://bayareatelegraph.com/2026/10/06/family-owned-local-business-just-made-a-big-bold-move-in-san-ramon/",
+     "https://punchmagazine.com/a-passion-for-fashion/"
+    ]
+   }
   }
  ]
 }

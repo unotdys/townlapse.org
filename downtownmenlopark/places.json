@@ -1216,15 +1216,24 @@
  {
   "name": "Alys Grace",
   "address": "899 B Santa Cruz Ave",
-  "start": 2026,
+  "start": 2008,
   "end": null,
   "category": "retail",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (clothes). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Women's clothing boutique, the first Alys Grace store, opened in Menlo Park in 2008 by a husband-and-wife team. The owners later opened stores in Los Altos, San Francisco and San Ramon.",
   "lat": 37.4494752,
-  "lng": -122.186172
+  "lng": -122.186172,
+  "links": [
+   {
+    "url": "https://bayareatelegraph.com/2026/10/06/family-owned-local-business-just-made-a-big-bold-move-in-san-ramon/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://punchmagazine.com/a-passion-for-fashion/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Mami Cheli's",
