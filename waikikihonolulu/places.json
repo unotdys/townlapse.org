@@ -3819,6 +3819,24 @@
   ]
  },
  {
+  "name": "Mitsukoshi Hawaii",
+  "address": "2155 Kalakaua Ave",
+  "start": 1980,
+  "end": 1989,
+  "category": "retail",
+  "approx": true,
+  "note": "The building at 2155 Kalakaua Ave was built in 1980 as Mitsukoshi Hawaii, housing the Hawaiian branch of Japan's Mitsukoshi department store; it was sold in 1989 and converted to a mixed-use office and retail center (later the ANA Kalakaua Center).",
+  "lat": 21.2804556,
+  "lng": -157.8304498,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://archives.starbulletin.com/2007/02/22/business/story03.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
