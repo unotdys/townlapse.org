@@ -237,16 +237,29 @@
  },
  {
   "name": "Menlo Art Cleaners",
-  "address": "824 Santa Cruz avenue",
-  "start": 2026,
+  "address": "824 Santa Cruz Ave",
+  "start": 2019,
   "end": null,
   "category": "services",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (dry cleaning). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4507827,
-  "lng": -122.1854585
+  "note": "Dry cleaners on Santa Cruz Avenue. State pressure-vessel records show it operating here by September 2019, and it is still open today.",
+  "lat": 37.4508645,
+  "lng": -122.1855726,
+  "links": [
+   {
+    "url": "https://menlopark.gov/files/sharedassets/public/v/1/agendas-and-minutes/city-council/2020-meetings/agendas/20200619-cc-agenda-packet.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.dir.ca.gov/databases/dosh-pv/DOSH-PV.ASP?City=&County=&PERM_EXP_D=&RP_Name=nlo&State_nbr=&Street_1=&ZIP5=&sortfield=Name",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.bestprosintown.com/ca/menlo-park/dry-cleaners/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Sky Nails",

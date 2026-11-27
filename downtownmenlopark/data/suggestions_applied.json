@@ -109,6 +109,21 @@
      "https://www.paloaltoonline.com/menlo-park/2025/10/15/mademoiselle-colette-marks-10-sweet-years-on-the-peninsula/"
     ]
    }
+  },
+  {
+   "target": "Menlo Art Cleaners",
+   "target_address": "824 Santa Cruz avenue",
+   "fields": {
+    "address": "824 Santa Cruz Ave",
+    "note": "Dry cleaners on Santa Cruz Avenue. State pressure-vessel records show it operating here by September 2019, and it is still open today.",
+    "start": 2019,
+    "approx": true,
+    "links": [
+     "https://menlopark.gov/files/sharedassets/public/v/1/agendas-and-minutes/city-council/2020-meetings/agendas/20200619-cc-agenda-packet.pdf",
+     "https://www.bestprosintown.com/ca/menlo-park/dry-cleaners/",
+     "https://www.dir.ca.gov/databases/dosh-pv/DOSH-PV.ASP?City=&County=&PERM_EXP_D=&RP_Name=nlo&State_nbr=&Street_1=&ZIP5=&sortfield=Name"
+    ]
+   }
   }
  ]
 }
