@@ -801,15 +801,24 @@
  {
   "name": "Rocket Salon",
   "address": "933 Emerson St",
-  "start": 2026,
+  "start": 2009,
   "end": null,
   "category": "services",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (hairdresser). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Hair salon listed at 933 Emerson St in a 2009 Best of Silicon Valley readers' poll and still open today. It may have opened before 2009.",
   "lat": 37.4412596,
-  "lng": -122.1570946
+  "lng": -122.1570946,
+  "links": [
+   {
+    "url": "https://www.cartogiraffe.com/united+states/california/santa+clara+county/palo+alto/bell+s+books/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.metroactive.com/metro/09.23.09/best-of-shopping-readers.html",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Manresa Bread",

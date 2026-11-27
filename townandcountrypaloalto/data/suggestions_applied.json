@@ -149,6 +149,19 @@
      "https://www.surlatable.com/locations/ca/paloalto/store-73.html"
     ]
    }
+  },
+  {
+   "target": "Rocket Salon",
+   "target_address": "933 Emerson St",
+   "fields": {
+    "note": "Hair salon listed at 933 Emerson St in a 2009 Best of Silicon Valley readers' poll and still open today. It may have opened before 2009.",
+    "start": 2009,
+    "approx": true,
+    "links": [
+     "https://www.cartogiraffe.com/united+states/california/santa+clara+county/palo+alto/bell+s+books/",
+     "https://www.metroactive.com/metro/09.23.09/best-of-shopping-readers.html"
+    ]
+   }
   }
  ]
 }
