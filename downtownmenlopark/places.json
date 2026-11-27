@@ -1080,16 +1080,25 @@
  },
  {
   "name": "Simpson's Barber Shop",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "1181 El Camino Real",
+  "start": 1940,
   "end": null,
   "category": "services",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (hairdresser). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Family barber shop that opened in 1940 in one of five small storefronts in a 1937 building on El Camino Real, a space first used by Pacific Greyhound Lines. Local historians say 49ers players got haircuts here while the team trained at Menlo College from 1946 to 1954.",
   "lat": 37.4539281,
-  "lng": -122.1840782
+  "lng": -122.1840782,
+  "links": [
+   {
+    "url": "https://sites.google.com/site/mphistorical/home/businesses-in-mp-50-yrs/simpson-s",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.mphistory.org/exhibits/historic-menlo-park-businesses/",
+    "kind": "History"
+   }
+  ]
  },
  {
   "name": "Stack's American Breakfast & Lunch",
