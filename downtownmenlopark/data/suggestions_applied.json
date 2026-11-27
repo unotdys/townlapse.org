@@ -476,6 +476,19 @@
      "https://www.paloaltoonline.com/cover-story/2006/08/30/and-the-winners-are/"
     ]
    }
+  },
+  {
+   "target": "Stephen Miller Gallery",
+   "target_address": "800 Santa Cruz Ave",
+   "fields": {
+    "note": "High-end rug gallery on Santa Cruz Avenue, opened in Menlo Park in 1991 after the owner's earlier store in Santa Fe. Still open today.",
+    "start": 1991,
+    "approx": false,
+    "links": [
+     "https://menlocoa.org/22120/a-and-l/how-does-downtown-menlo-park-support-so-many-rug-stores/",
+     "https://punchmagazine.com/moving-beyond-tradition/"
+    ]
+   }
   }
  ]
 }

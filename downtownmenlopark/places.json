@@ -1133,15 +1133,24 @@
  {
   "name": "Stephen Miller Gallery",
   "address": "800 Santa Cruz Ave",
-  "start": 2026,
+  "start": 1991,
   "end": null,
   "category": "retail",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (rug). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "High-end rug gallery on Santa Cruz Avenue, opened in Menlo Park in 1991 after the owner's earlier store in Santa Fe. Still open today.",
   "lat": 37.4510286,
-  "lng": -122.185258
+  "lng": -122.185258,
+  "links": [
+   {
+    "url": "https://menlocoa.org/22120/a-and-l/how-does-downtown-menlo-park-support-so-many-rug-stores/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://punchmagazine.com/moving-beyond-tradition/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Sultana",
