@@ -454,6 +454,32 @@
   ]
  },
  {
+  "name": "Trader Joe's",
+  "address": "855 El Camino Real",
+  "start": 2009,
+  "end": null,
+  "category": "retail",
+  "approx": false,
+  "note": "Grocery store at Town & Country Village that opened December 4, 2009, after years of requests from Palo Alto residents. The center's directory still lists it among its food tenants.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://tandcvillage.com/tenant-type/food-restaurants/page/2/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2009/12/03/trader-joes-opens-at-town-and-country-village-today/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.mapquest.com/us/california/trader-joes-264565048",
+    "kind": "Listing"
+   }
+  ]
+ },
+ {
   "name": "CVS Pharmacy",
   "address": "address not listed",
   "start": 2026,
@@ -1085,19 +1111,6 @@
   "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 37.4391271,
   "lng": -122.1581883
- },
- {
-  "name": "Trader Joe's",
-  "address": "855 El Camino Real",
-  "start": 2026,
-  "end": null,
-  "category": "retail",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (supermarket). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4384803,
-  "lng": -122.1576888
  },
  {
   "name": "Addison Antiques",

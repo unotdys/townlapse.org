@@ -255,6 +255,20 @@
     "https://www.paloaltoonline.com/sports/2019/10/09/squid-ink-paella-patatas-bravas-barcelona-natives-bring-real-deal-spanish-tapas-to-palo-alto/",
     "https://www.telefericbarcelona.com/palo-alto"
    ]
+  },
+  {
+   "name": "Trader Joe's",
+   "address": "855 El Camino Real",
+   "note": "Grocery store at Town & Country Village that opened December 4, 2009, after years of requests from Palo Alto residents. The center's directory still lists it among its food tenants.",
+   "start": 2009,
+   "end": null,
+   "category": "retail",
+   "approx": false,
+   "links": [
+    "https://tandcvillage.com/tenant-type/food-restaurants/page/2/",
+    "https://www.mapquest.com/us/california/trader-joes-264565048",
+    "https://www.paloaltoonline.com/news/2009/12/03/trader-joes-opens-at-town-and-country-village-today/"
+   ]
   }
  ],
  "corrections": [
