@@ -645,6 +645,22 @@
      "https://www.poyst.com/business/mikes-camera-menlo-park"
     ]
    }
+  },
+  {
+   "target": "La Stanza",
+   "target_address": "651 Oak Grove Ave",
+   "fields": {
+    "note": "Italian restaurant (La Stanza Cucina Italiana), reported to have opened in January 2020 and still operating.",
+    "start": 2020,
+    "approx": true,
+    "links": [
+     "https://www.aaa.com/tripcanvas/restaurant/la-stanza-cucina-italiana-AA8043",
+     "https://www.hungryonion.org/t/la-stanza-menlo-park/36178",
+     "https://www.opentable.com/r/la-stanza-cucina-italiana-menlo-park",
+     "https://www.opentable.com/r/la-stanza-cucina-italiana-menlo-park?corrid=01d57e21-1519-4373-bf72-48abc35725b3&avt=eyJ2IjoyLCJtIjoxLCJwIjowLCJzIjowLCJuIjowfQ",
+     "https://www.restaurantji.com/ca/menlo-park/piccolo-ristorante-italiano-/"
+    ]
+   }
   }
  ]
 }
