@@ -1940,6 +1940,28 @@
   ]
  },
  {
+  "name": "Indian Bowl",
+  "address": "735 Emerson St",
+  "start": 1942,
+  "end": 1975,
+  "category": "entertainment",
+  "approx": false,
+  "note": "Bowling alley entered from Emerson Street, in a building that runs through to 734 Ramona St and was remodeled for bowling in 1940. Considered Palo Alto's most successful and longest-lasting bowling alley.",
+  "lat": 37.4429803,
+  "lng": -122.159334,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.pastheritage.org/inv/invR/Ramona734.html",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2009/08/21/bowlers-fight-to-save-palo-alto-landmark/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "address not listed",
   "start": 2026,
