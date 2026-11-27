@@ -1887,6 +1887,18 @@
     "https://www.apartments.com/230-makee-rd-honolulu-hi/vlsb5ze",
     "https://www.makeeproperties.com/about-us/"
    ]
+  },
+  {
+   "name": "Hilton Hawaiian Village",
+   "address": "2005 Kalia Rd",
+   "note": "Henry J. Kaiser opened this resort as the Hawaiian Village Hotel in September 1955. Hilton took over management in February 1961 and renamed it Hilton Hawaiian Village.",
+   "start": 1955,
+   "end": null,
+   "category": "hotel",
+   "approx": false,
+   "links": [
+    "https://en.wikipedia.org/wiki/Hilton_Hawaiian_Village"
+   ]
   }
  ],
  "corrections": [
