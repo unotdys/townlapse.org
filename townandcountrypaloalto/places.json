@@ -1055,6 +1055,36 @@
   ]
  },
  {
+  "name": "Jamba",
+  "address": "855 El Camino Real",
+  "start": 1997,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "note": "Smoothie and juice shop at Town & Country Village. It was first called Juice Club, was damaged in a June 1996 fire that started at the neighboring Hobee's, and reopened as Jamba Juice in April 1997; current listings still place it at Suite 85.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/news/1996_Aug_16.FIRE.html",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/news/1997_Apr_23.around_town.html",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://page-service.doordash.com/city/palo-alto-ca/b/jamba-juice-2988",
+    "kind": "Article"
+   },
+   {
+    "url": "https://realmo.com/listing/855-el-camino-real-palo-alto-ca-94301/13043363",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "address not listed",
   "start": 2026,
