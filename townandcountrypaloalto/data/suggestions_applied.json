@@ -460,6 +460,19 @@
     "https://www.foodgal.com/2008/06/cupcake-craze/comment-page-1/",
     "https://www.foodgal.com/2008/09/can-you-stand-another-cupcake-photo/"
    ]
+  },
+  {
+   "name": "Mamahuhu",
+   "address": "855 El Camino Real",
+   "note": "Fast-casual Chinese-American restaurant from the founders of San Francisco's Mister Jiu's, which opened in Town & Country Village in fall 2025 at 855 El Camino Real, Suite 75. The restaurant's own site still lists the Palo Alto location.",
+   "start": 2025,
+   "end": null,
+   "category": "food",
+   "approx": false,
+   "links": [
+    "https://eatmamahuhu.com/pages/restaurants",
+    "https://www.paloaltoonline.com/palo-alto/2025/10/06/michelin-starred-chef-opens-fast-casual-chinese-american-restaurant-in-palo-altos-town-country-village/"
+   ]
   }
  ],
  "corrections": [

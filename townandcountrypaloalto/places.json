@@ -824,6 +824,28 @@
   ]
  },
  {
+  "name": "Mamahuhu",
+  "address": "855 El Camino Real",
+  "start": 2025,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "note": "Fast-casual Chinese-American restaurant from the founders of San Francisco's Mister Jiu's, which opened in Town & Country Village in fall 2025 at 855 El Camino Real, Suite 75. The restaurant's own site still lists the Palo Alto location.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://eatmamahuhu.com/pages/restaurants",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/palo-alto/2025/10/06/michelin-starred-chef-opens-fast-casual-chinese-american-restaurant-in-palo-altos-town-country-village/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "address not listed",
   "start": 2026,
@@ -835,19 +857,6 @@
   "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 37.4380578,
   "lng": -122.1592693
- },
- {
-  "name": "Mamahuhu",
-  "address": "855 El Camino Real",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4380184,
-  "lng": -122.1593744
  },
  {
   "name": "bluemercury",
