@@ -2193,15 +2193,28 @@
  {
   "name": "Yum Cha Palace",
   "address": "1039 El Camino Real",
-  "start": 2026,
+  "start": 2017,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Dim sum restaurant that opened on January 29, 2017, in the space of the former sit-down Su Hong restaurant, which had been there since 1977. Its owner also ran the Su Hong to-go location nearby.",
   "lat": 37.4530903,
-  "lng": -122.182395
+  "lng": -122.182395,
+  "links": [
+   {
+    "url": "http://www.yumchamenlopark.com/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2017/01/29/yum-cha-palace-opens-in-menlo-park/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2015/12/08/menlo-park-farewell-su-hong-hello-yum-cha-palace/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Coffeebar",
