@@ -519,15 +519,28 @@
  {
   "name": "Bank of the West",
   "address": "701 Santa Cruz Ave",
-  "start": 2026,
-  "end": null,
+  "start": 2010,
+  "end": 2023,
   "category": "services",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (bank). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Bank of the West moved its Menlo Park branch here from 900 Santa Cruz Avenue in December 2010, according to state banking records. The branch became BMO in 2023 after BMO bought Bank of the West.",
   "lat": 37.4520615,
-  "lng": -122.184007
+  "lng": -122.184007,
+  "links": [
+   {
+    "url": "https://archives.fbi.gov/archives/sanfrancisco/press-releases/2013/fbi-seeks-publics-help-in-identifying-the-sports-cap-bandit",
+    "kind": "History"
+   },
+   {
+    "url": "https://docslib.org/download/4299351/department-of-financial-institutions-summary-of-pending-applications-as-of-december-2010",
+    "kind": "Article"
+   },
+   {
+    "url": "https://usbranches.bmo.com/ca/menlo-park/TK607134",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Starbucks",

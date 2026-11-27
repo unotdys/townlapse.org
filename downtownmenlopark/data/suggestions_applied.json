@@ -254,6 +254,21 @@
      "https://www.menlopark.gov/files/sharedassets/public/v/1/city-managers-office/documents/economic-development/menlo-park-downtown-market-study-report-by-hdl.pdf"
     ]
    }
+  },
+  {
+   "target": "Bank of the West",
+   "target_address": "701 Santa Cruz Ave",
+   "fields": {
+    "note": "Bank of the West moved its Menlo Park branch here from 900 Santa Cruz Avenue in December 2010, according to state banking records. The branch became BMO in 2023 after BMO bought Bank of the West.",
+    "start": 2010,
+    "end": 2023,
+    "approx": false,
+    "links": [
+     "https://archives.fbi.gov/archives/sanfrancisco/press-releases/2013/fbi-seeks-publics-help-in-identifying-the-sports-cap-bandit",
+     "https://docslib.org/download/4299351/department-of-financial-institutions-summary-of-pending-applications-as-of-december-2010",
+     "https://usbranches.bmo.com/ca/menlo-park/TK607134"
+    ]
+   }
   }
  ]
 }
