@@ -2697,6 +2697,23 @@
      "https://www.yelp.com/biz/kan-zeman-palo-alto?start=20"
     ]
    }
+  },
+  {
+   "target": "Gyros Gyros",
+   "target_address": "452 University Ave",
+   "fields": {
+    "address": "498 University Ave",
+    "note": "Greek and Mediterranean restaurant at the corner of Cowper St. It says it has served food here since 1999.",
+    "start": 1999,
+    "end": null,
+    "approx": false,
+    "links": [
+     "https://gyrosgyrospaloalto.com/",
+     "https://n2v.paloaltoonline.com/weekly/morguepdf/2004/2004_07_23.paw.section1.pdf",
+     "https://www.gayot.com/restaurants/gyros-gyros-palo-alto-ca-94301_3sf050704.html",
+     "https://www.paloalto.gov/files/assets/public/v/1/agendas-minutes-reports/reports/city-manager-reports-cmrs/year-archive/2020-2/11092020-item-11-at-places-memo.pdf"
+    ]
+   }
   }
  ]
 }
