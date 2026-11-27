@@ -1888,6 +1888,32 @@
   ]
  },
  {
+  "name": "Homer's Warehouse",
+  "address": "79 Homer Ave",
+  "start": 1971,
+  "end": 1973,
+  "category": "entertainment",
+  "approx": false,
+  "note": "Rock and blues club in an old warehouse beside the train tracks at the foot of Homer Avenue. It hosted acts including Jerry Garcia and Merl Saunders and Old and in the Way, and its last documented show was in December 1973.",
+  "lat": 37.4491181,
+  "lng": -122.1523362,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://cryptdev.blogspot.com/2020/07/live-music-in-palo-alto1971-73-across.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://lostlivedead.blogspot.com/2023/12/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://powerlesspress.substack.com/p/a-long-strange-trip-down-urban-lane",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "address not listed",
   "start": 2026,
