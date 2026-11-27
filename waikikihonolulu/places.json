@@ -3859,6 +3859,32 @@
   ]
  },
  {
+  "name": "King's Village",
+  "address": "131 Kaiulani Ave",
+  "start": 1972,
+  "end": 2019,
+  "category": "retail",
+  "approx": false,
+  "note": "Shopping and dining complex developed by Chris Hemmeter and opened in 1972 as King's Alley, styled after Honolulu around 1900 and known for its nightly King's Guard changing-of-the-guard show. It was demolished in 2019 to make way for a Hilton timeshare tower.",
+  "lat": 21.2771396,
+  "lng": -157.8251133,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://archives.starbulletin.com/2006/11/05/travel/tsutsumi.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hawaiinewsnow.com/2019/07/02/place-with-so-much-local-charm-is-razed-make-way-luxury-tower-waikiki/?outputType=amp",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.macnaughton.com/news/726dfrn8a73jy4d3kklzcsafzeg5zz",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
