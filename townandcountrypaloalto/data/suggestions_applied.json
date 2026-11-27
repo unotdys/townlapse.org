@@ -365,6 +365,19 @@
     "https://www.paloaltoonline.com/ae/2020/01/30/finding-a-toy-store-is-about-to-get-harder-ambassador-toys-is-closing/",
     "https://www.paloaltoonline.com/ae/2020/02/06/shop-talk-ambassador-toys-calls-it-quits-chocolate-shop-on-its-way-2/"
    ]
+  },
+  {
+   "name": "Halo Blow Dry Bar",
+   "address": "855 El Camino Real",
+   "note": "Blow-dry salon that opened at Town & Country Village around 2010 as the chain's first location. It moved from a small space facing Embarcadero Road into the center's interior in late 2012 and closed on December 31, 2017.",
+   "start": 2010,
+   "end": 2017,
+   "category": "services",
+   "approx": false,
+   "links": [
+    "https://www.paloaltoonline.com/ae/2017/12/21/shop-talk-halo-la-morenita-to-close-verve-coffee-to-open/",
+    "https://www.paloaltoonline.com/news/2012/09/02/shop-talk-beauty-boom-in-midtown/"
+   ]
   }
  ],
  "corrections": [

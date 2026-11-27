@@ -654,6 +654,28 @@
   ]
  },
  {
+  "name": "Halo Blow Dry Bar",
+  "address": "855 El Camino Real",
+  "start": 2010,
+  "end": 2017,
+  "category": "services",
+  "approx": false,
+  "note": "Blow-dry salon that opened at Town & Country Village around 2010 as the chain's first location. It moved from a small space facing Embarcadero Road into the center's interior in late 2012 and closed on December 31, 2017.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/ae/2017/12/21/shop-talk-halo-la-morenita-to-close-verve-coffee-to-open/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2012/09/02/shop-talk-beauty-boom-in-midtown/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "CVS Pharmacy",
   "address": "address not listed",
   "start": 2026,
