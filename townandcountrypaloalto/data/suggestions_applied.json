@@ -241,6 +241,20 @@
     "https://hudsongracesf.com/pages/hudson-grace-palo-alto-store",
     "https://www.paloaltoonline.com/real-estate/2015/03/27/building-permits-375/"
    ]
+  },
+  {
+   "name": "El Merkat",
+   "address": "855 El Camino Real",
+   "note": "Spanish market attached to Telef\u00e8ric Barcelona at Town & Country Village, selling imported Spanish foods such as cheeses, cured meats and olive oils. It opened with the restaurant in October 2019 at Suite 130, and a current Spanish-foods directory still lists it there.",
+   "start": 2019,
+   "end": null,
+   "category": "retail",
+   "approx": false,
+   "links": [
+    "https://www.foodswinesfromspain.com/en/certified-colmados-from-spain/list-of-certified-colmados-from-spain/cuadricula/e/el-merkat-paloalto",
+    "https://www.paloaltoonline.com/sports/2019/10/09/squid-ink-paella-patatas-bravas-barcelona-natives-bring-real-deal-spanish-tapas-to-palo-alto/",
+    "https://www.telefericbarcelona.com/palo-alto"
+   ]
   }
  ],
  "corrections": [
