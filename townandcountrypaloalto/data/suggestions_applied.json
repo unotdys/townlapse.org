@@ -432,6 +432,19 @@
     "https://www.paloaltoonline.com/blogs/2019/10/08/squid-ink-paella-patatas-bravas-barcelona-natives-bring-spanish-tapas-to-palo-alto/",
     "https://www.telefericbarcelona.com/palo-alto"
    ]
+  },
+  {
+   "name": "Douce France",
+   "address": "855 El Camino Real",
+   "note": "French bakery at Town & Country Village that opened in 1981; Palo Alto Online's Best Of confirms the Town and Country address.",
+   "start": 1981,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.modernluxury.com/best-bakery-silicon-valley/",
+    "https://www.paloaltoonline.com/best-of/2018/07/20/best-of-2018-food-drink/"
+   ]
   }
  ],
  "corrections": [

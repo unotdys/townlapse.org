@@ -772,6 +772,28 @@
   ]
  },
  {
+  "name": "Douce France",
+  "address": "855 El Camino Real",
+  "start": 1981,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "French bakery at Town & Country Village that opened in 1981; Palo Alto Online's Best Of confirms the Town and Country address.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.modernluxury.com/best-bakery-silicon-valley/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/best-of/2018/07/20/best-of-2018-food-drink/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "address not listed",
   "start": 2026,
@@ -783,19 +805,6 @@
   "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 37.4380578,
   "lng": -122.1592693
- },
- {
-  "name": "Douce France",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.438945,
-  "lng": -122.1588623
  },
  {
   "name": "Kara's Cupcakes",
