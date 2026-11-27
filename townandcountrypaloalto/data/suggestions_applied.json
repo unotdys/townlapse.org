@@ -352,6 +352,19 @@
     "https://www.paloaltoonline.com/ae/2020/02/06/shop-talk-ambassador-toys-calls-it-quits-chocolate-shop-on-its-way-2/",
     "https://www.paloaltoonline.com/news/2015/04/26/shop-talk-new-businesses-come-to-stanford-mall-bryn-walker-moves-2/"
    ]
+  },
+  {
+   "name": "Ambassador Toys",
+   "address": "855 El Camino Real",
+   "note": "Toy store at Town & Country Village, a branch of a San Francisco toy business founded in 1997, that opened in Palo Alto in 2008. Palo Alto Online reported in early 2020 that it was closing as its owner retired.",
+   "start": 2008,
+   "end": 2020,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/ae/2020/01/30/finding-a-toy-store-is-about-to-get-harder-ambassador-toys-is-closing/",
+    "https://www.paloaltoonline.com/ae/2020/02/06/shop-talk-ambassador-toys-calls-it-quits-chocolate-shop-on-its-way-2/"
+   ]
   }
  ],
  "corrections": [
