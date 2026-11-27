@@ -283,6 +283,21 @@
      "https://www.metroactive.com/metro/09.23.09/best-of-shopping-readers.html"
     ]
    }
+  },
+  {
+   "target": "Peninsula Creamery",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "900 High St",
+    "note": "Dairy store and grill serving breakfast, lunch, ice cream and milkshakes. The family-run Peninsula Creamery opened this store at High and Channing in 1970, in a former auto dealership, and it is still open.",
+    "start": 1970,
+    "approx": false,
+    "links": [
+     "http://paloaltoonline.com/best-of/2024/07/25/best-of-2024-food-drink/",
+     "https://www.paloaltopulse.com/2015/10/27/looking-for-the-real-palo-alto-visit-the-peninsula-creamery/",
+     "https://www.restaurantji.com/ca/palo-alto/peninsula-creamery-dairy-store-and-grill-"
+    ]
+   }
   }
  ]
 }
