@@ -282,6 +282,20 @@
      "https://www.paloaltoonline.com/morgue/real_estate/1995_May_26.building_permits.html"
     ]
    }
+  },
+  {
+   "target": "Park Avenue Salon and Spa",
+   "target_address": "609 Santa Cruz Ave",
+   "fields": {
+    "note": "Listed as Park Avenue Salon and Galerie, a salon that also showed paintings, in Palo Alto Online gallery listings from 2001 and 2004. It is still open today, and it may have opened before 2001.",
+    "start": 2001,
+    "approx": true,
+    "links": [
+     "https://www.fresha.com/lp/en/tt/women's-haircuts/in/us-san-jose/university-south",
+     "https://www.paloaltoonline.com/morgue/2001/2001_10_12.aegallery.html",
+     "https://www.paloaltoonline.com/morgue/2004/2004_09_10.aegallery04.shtml"
+    ]
+   }
   }
  ]
 }
