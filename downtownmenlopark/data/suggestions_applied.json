@@ -54,6 +54,19 @@
      "https://anthemsf.online/pages/locations-2022"
     ]
    }
+  },
+  {
+   "target": "Hoot n' Toot Cleaners",
+   "target_address": "875 Santa Cruz Ave",
+   "fields": {
+    "note": "Dry cleaners on Santa Cruz Avenue that first appears in the 1959 Polk's Directory, so it probably opened about 1958. Still open today.",
+    "start": 1958,
+    "approx": true,
+    "links": [
+     "https://sites.google.com/site/mphistorical/home/businesses-in-mp-50-yrs/hoot-n-toot",
+     "https://www.mphistory.org/exhibits/historic-menlo-park-businesses/"
+    ]
+   }
   }
  ]
 }

@@ -103,15 +103,24 @@
  {
   "name": "Hoot n' Toot Cleaners",
   "address": "875 Santa Cruz Ave",
-  "start": 2026,
+  "start": 1958,
   "end": null,
   "category": "services",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (dry cleaning). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Dry cleaners on Santa Cruz Avenue that first appears in the 1959 Polk's Directory, so it probably opened about 1958. Still open today.",
   "lat": 37.4498108,
-  "lng": -122.185874
+  "lng": -122.185874,
+  "links": [
+   {
+    "url": "https://sites.google.com/site/mphistorical/home/businesses-in-mp-50-yrs/hoot-n-toot",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.mphistory.org/exhibits/historic-menlo-park-businesses/",
+    "kind": "History"
+   }
+  ]
  },
  {
   "name": "Hunter Douglas Gallery",
