@@ -1857,6 +1857,21 @@
     "https://www.hostelworld.com/hostels/p/317000/waikiki-beachside-hostel/",
     "https://www.waikikibeachsidehostel.com/"
    ]
+  },
+  {
+   "name": "Aqua Waikiki Pearl",
+   "address": "415 Nahua St",
+   "note": "Boutique hotel in the former Honolulu Prince Hotel, which joined the Aqua Boutique brand as Aqua Waikiki Pearl in July 2009 after a $5 million refurbishment. The property was renovated and reopened as the adults-only Romer House Waikiki in June 2024.",
+   "start": 2009,
+   "end": 2024,
+   "category": "hotel",
+   "approx": true,
+   "links": [
+    "https://www.hawaiimagazine.com/oahus-first-adults-only-hotel-opens-this-summer-in-waikiki/",
+    "https://www.hospitalitynet.org/announcement/41011205.html",
+    "https://www.hotel-online.com/news/archive-28844",
+    "https://www.travelocity.com/Oahu-Hotels-Pearl-Hotel-Waikiki.h460386.Hotel-Information"
+   ]
   }
  ],
  "corrections": [

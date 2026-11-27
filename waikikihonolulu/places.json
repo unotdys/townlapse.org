@@ -3338,6 +3338,36 @@
   "start_unknown": true
  },
  {
+  "name": "Aqua Waikiki Pearl",
+  "address": "415 Nahua St",
+  "start": 2009,
+  "end": 2024,
+  "category": "hotel",
+  "approx": true,
+  "note": "Boutique hotel in the former Honolulu Prince Hotel, which joined the Aqua Boutique brand as Aqua Waikiki Pearl in July 2009 after a $5 million refurbishment. The property was renovated and reopened as the adults-only Romer House Waikiki in June 2024.",
+  "lat": 21.2793382,
+  "lng": -157.8251099,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.hawaiimagazine.com/oahus-first-adults-only-hotel-opens-this-summer-in-waikiki/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hospitalitynet.org/announcement/41011205.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hotel-online.com/news/archive-28844",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelocity.com/Oahu-Hotels-Pearl-Hotel-Waikiki.h460386.Hotel-Information",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
