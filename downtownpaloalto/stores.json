@@ -4553,6 +4553,36 @@
   ]
  },
  {
+  "name": "Jidaiya",
+  "address": "330 Lytton Ave",
+  "start": 2005,
+  "end": 2006,
+  "category": "food",
+  "approx": true,
+  "note": "Japanese sushi restaurant, also spelled Jidai-ya, that may date from the 1990s. It was closed for renovations by August 2006, and Kanpai Sushi took over the space later that year.",
+  "lat": 37.4470097,
+  "lng": -122.1621813,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://n2v.paloaltoonline.com/weekly/morguepdf/2004/2004_04_23.paw.section1.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/wp-content/uploads/2024/02/2005_12_09.paw_.section1.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://meatnbeans.wordpress.com/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://tasteofthesuburbs.blogspot.com/2006/11/kanpai-palo-alto.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Dragon Theatre",
   "address": "535 Alma St",
   "start": 2006,
@@ -5353,24 +5383,6 @@
   "note": "Coffee shop. Palo Alto Online's Peninsula Foodist reported it opening in 2015. Later status unknown."
  },
  {
-  "name": "Gong Cha",
-  "address": "429 Waverley St",
-  "start": 2015,
-  "end": 2015,
-  "category": "food",
-  "approx": true,
-  "source": "news",
-  "lat": 37.4476333,
-  "lng": -122.1610727,
-  "links": [
-   {
-    "url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/06/another-milk-tea-chain-setting-up-shop-in-palo-alto/",
-    "kind": "Article"
-   }
-  ],
-  "note": "Milk tea shop. Palo Alto Online's Peninsula Foodist reported it opening in 2015. Later status unknown."
- },
- {
   "name": "B+B",
   "address": "420 Ramona St",
   "start": 2015,
@@ -5966,9 +5978,9 @@
   "name": "The Redwood by Chef Julien",
   "address": "450 Bryant St",
   "start": 2022,
-  "end": 2022,
+  "end": 2026,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "news",
   "lat": 37.4461771,
   "lng": -122.1624215,
@@ -5978,7 +5990,7 @@
     "kind": "Article"
    }
   ],
-  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022. Later status unknown."
+  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022."
  },
  {
   "name": "Lima Ruby",
@@ -6399,14 +6411,14 @@
  },
  {
   "name": "La Comida",
-  "address": "429 Bryant St",
+  "address": "450 Bryant St",
   "start": 2026,
   "end": 2026,
   "category": "food",
   "approx": false,
   "source": "news",
-  "lat": 37.4465596,
-  "lng": -122.162491,
+  "lat": 37.4461771,
+  "lng": -122.1624215,
   "links": [
    {
     "url": "https://www.paloaltoonline.com/palo-alto/2026/08/26/avenidas-and-la-comida-to-host-foodie-fundraiser-to-support-older-adults/",
@@ -8576,6 +8588,24 @@
   ]
  },
  {
+  "name": "Gong Cha",
+  "address": "439 Waverley St",
+  "start": 2015,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "source": "osm",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2015.",
+  "lat": 37.4477131,
+  "lng": -122.1607332,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/06/another-milk-tea-chain-setting-up-shop-in-palo-alto/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Cielo",
   "address": "477 University Ave",
   "start": 2015,
@@ -8748,18 +8778,6 @@
   "note": "Open today (restaurant). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened.",
   "lat": 37.4458038,
   "lng": -122.1621102
- },
- {
-  "name": "Gong Cha",
-  "address": "439 Waverley St",
-  "start": 2017,
-  "end": null,
-  "category": "food",
-  "approx": true,
-  "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened.",
-  "lat": 37.4477131,
-  "lng": -122.1607332
  },
  {
   "name": "The Patio",

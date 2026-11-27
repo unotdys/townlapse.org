@@ -1664,6 +1664,21 @@
     "https://www.federalreserve.gov/apps/crapubweb/cra/DownloadPDF/1156539_20011126",
     "https://www.sec.gov/Archives/edgar/data/775473/000119312505084053/dars.htm"
    ]
+  },
+  {
+   "name": "Jidaiya",
+   "address": "330 Lytton Ave",
+   "note": "Japanese sushi restaurant, also spelled Jidai-ya, that may date from the 1990s. It was closed for renovations by August 2006, and Kanpai Sushi took over the space later that year.",
+   "start": 2005,
+   "end": 2006,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://meatnbeans.wordpress.com/",
+    "https://n2v.paloaltoonline.com/weekly/morguepdf/2004/2004_04_23.paw.section1.pdf",
+    "https://tasteofthesuburbs.blogspot.com/2006/11/kanpai-palo-alto.html",
+    "https://www.paloaltoonline.com/wp-content/uploads/2024/02/2005_12_09.paw_.section1.pdf"
+   ]
   }
  ],
  "corrections": [
