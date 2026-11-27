@@ -1042,15 +1042,28 @@
  {
   "name": "Green Bubble",
   "address": "604 Santa Cruz Ave",
-  "start": 2026,
+  "start": 2019,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Boba cafe, also called Mr. Green Bubble, serving milk tea, egg waffles and rice bowls. It opened in late summer 2019 and is still open.",
   "lat": 37.4532638,
-  "lng": -122.183543
+  "lng": -122.183543,
+  "links": [
+   {
+    "url": "https://n2v.almanacnews.com/blogs/p/2019/05/23/boba-cafe-headed-to-menlo-park",
+    "kind": "Article"
+   },
+   {
+    "url": "https://order.online/store/-705817",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2019/08/30/new-cafe-brings-boba-mochi-waffles-to-menlo-park/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Ruby Living Design",

@@ -433,6 +433,20 @@
      "https://www.paloaltoonline.com/blogs/2018/08/16/camper-readies-for-labor-day-opening-in-menlo-park/"
     ]
    }
+  },
+  {
+   "target": "Green Bubble",
+   "target_address": "604 Santa Cruz Ave",
+   "fields": {
+    "note": "Boba cafe, also called Mr. Green Bubble, serving milk tea, egg waffles and rice bowls. It opened in late summer 2019 and is still open.",
+    "start": 2019,
+    "approx": false,
+    "links": [
+     "https://n2v.almanacnews.com/blogs/p/2019/05/23/boba-cafe-headed-to-menlo-park",
+     "https://order.online/store/-705817",
+     "https://www.paloaltoonline.com/blogs/2019/08/30/new-cafe-brings-boba-mochi-waffles-to-menlo-park/"
+    ]
+   }
   }
  ]
 }
