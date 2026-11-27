@@ -461,6 +461,21 @@
      "https://www.mphistory.org/exhibits/historic-menlo-park-businesses/"
     ]
    }
+  },
+  {
+   "target": "Stack's American Breakfast & Lunch",
+   "target_address": "600 Santa Cruz Ave",
+   "fields": {
+    "note": "Breakfast and lunch restaurant that opened on October 7, 2002, in a space that earlier held Koo Koo Roo and Fresh Choice. It was a local breakfast favorite by 2006 and is still open.",
+    "start": 2002,
+    "approx": false,
+    "links": [
+     "http://stacksbreakfast.com/",
+     "https://www.almanacnews.com/morgue/2002/2002_05_22.stacks.html",
+     "https://www.almanacnews.com/morgue/2002/2002_11_06.stacks.html",
+     "https://www.paloaltoonline.com/cover-story/2006/08/30/and-the-winners-are/"
+    ]
+   }
   }
  ]
 }

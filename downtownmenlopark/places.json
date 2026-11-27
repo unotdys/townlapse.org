@@ -1103,15 +1103,32 @@
  {
   "name": "Stack's American Breakfast & Lunch",
   "address": "600 Santa Cruz Ave",
-  "start": 2026,
+  "start": 2002,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Breakfast and lunch restaurant that opened on October 7, 2002, in a space that earlier held Koo Koo Roo and Fresh Choice. It was a local breakfast favorite by 2006 and is still open.",
   "lat": 37.4533932,
-  "lng": -122.183277
+  "lng": -122.183277,
+  "links": [
+   {
+    "url": "https://www.almanacnews.com/morgue/2002/2002_05_22.stacks.html",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.almanacnews.com/morgue/2002/2002_11_06.stacks.html",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "http://stacksbreakfast.com/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/cover-story/2006/08/30/and-the-winners-are/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Stephen Miller Gallery",
