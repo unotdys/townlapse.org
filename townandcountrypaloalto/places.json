@@ -1434,6 +1434,28 @@
   ]
  },
  {
+  "name": "Opportunity Center",
+  "address": "33 Encina Ave",
+  "start": 2006,
+  "end": null,
+  "category": "community",
+  "approx": false,
+  "note": "A five-story drop-in services and supportive housing center that opened in September 2006. LifeMoves runs drop-in services here, including food, clothing, laundry, showers and case management.",
+  "lat": 37.4393335,
+  "lng": -122.1609011,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://lifemoves.org/adult-services/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/uncategorized/2017/04/28/housing-for-good/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "address not listed",
   "start": 2026,

@@ -792,6 +792,19 @@
     "https://www.paloaltoonline.com/news/2009/08/28/to-the-mall-and-beyond-retail-shopping/",
     "https://www.papersource.com/locator"
    ]
+  },
+  {
+   "name": "Opportunity Center",
+   "address": "33 Encina Ave",
+   "note": "A five-story drop-in services and supportive housing center that opened in September 2006. LifeMoves runs drop-in services here, including food, clothing, laundry, showers and case management.",
+   "start": 2006,
+   "end": null,
+   "category": "community",
+   "approx": false,
+   "links": [
+    "https://lifemoves.org/adult-services/",
+    "https://www.paloaltoonline.com/uncategorized/2017/04/28/housing-for-good/"
+   ]
   }
  ],
  "corrections": [
