@@ -544,6 +544,19 @@
     "https://www.mapquest.com/us/california/sprout-san-francisco-416602695",
     "https://www.yelp.com/biz/sprout-palo-alto"
    ]
+  },
+  {
+   "name": "Marigold Row",
+   "address": "855 El Camino Real",
+   "note": "Women's clothing store at Town & Country Village selling handcrafted natural-fabric pieces that blend Indian craft with Western styling. It was one of four new stores announced in December 2023, and the center's directory still lists it.",
+   "start": 2023,
+   "end": null,
+   "category": "retail",
+   "approx": false,
+   "links": [
+    "https://tandcvillage.com/tenant/page/2/",
+    "https://www.einpresswire.com/article-print/674926357/town-country-village-in-palo-alto-welcomes-four-exciting-new-stores"
+   ]
   }
  ],
  "corrections": [
