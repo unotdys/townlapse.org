@@ -1020,6 +1020,19 @@
     "https://www.paloaltoonline.com/morgue/news/1996_Aug_16.FIRE.html",
     "https://www.paloaltoonline.com/morgue/restaurants/1996_Jul_17.mini_reviews.html"
    ]
+  },
+  {
+   "name": "Rojoz",
+   "address": "855 El Camino Real",
+   "note": "Restaurant at Town & Country Village, formerly called Rock 'N Tacos, that was announced in 1996 as a new tenant next to Garner's bike shop. It left the center about a year before reopening at Charleston Shopping Center in November 2009.",
+   "start": 1996,
+   "end": 2008,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/morgue/news/1996_Aug_16.FIRE.html",
+    "https://www.paloaltoonline.com/uncategorized/2009/12/04/shop-talk-63/"
+   ]
   }
  ],
  "corrections": [
