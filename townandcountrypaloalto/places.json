@@ -502,6 +502,32 @@
   ]
  },
  {
+  "name": "Village Cheese House",
+  "address": "855 El Camino Real",
+  "start": 1959,
+  "end": 2019,
+  "category": "food",
+  "approx": false,
+  "note": "Deli at Town & Country Village from 1959, known for its housemade spreads, imported cheeses and large sandwiches. It closed on December 31, 2019, after about six decades.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/ae/2014/01/17/dining-the-rebirth-of-town-country/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2019/12/31/after-six-decades-palo-alto-sandwich-standby-village-cheese-house-closes/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2019/12/31/after-six-decades-palo-alto-sandwich-standby-village-cheese-house-closes/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "CVS Pharmacy",
   "address": "address not listed",
   "start": 2026,
