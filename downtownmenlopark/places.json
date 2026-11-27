@@ -489,15 +489,32 @@
  {
   "name": "360 Fitness Superstore",
   "address": "707 Santa Cruz Ave",
-  "start": 2026,
+  "start": 2021,
   "end": null,
   "category": "retail",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (sports). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Exercise equipment showroom on Santa Cruz Avenue. The city's 2022 downtown market study listed it among new businesses that opened during the COVID-19 pandemic.",
   "lat": 37.4519157,
-  "lng": -122.1841165
+  "lng": -122.1841165,
+  "links": [
+   {
+    "url": "https://www.menlopark.gov/files/sharedassets/public/v/1/city-managers-office/documents/economic-development/menlo-park-downtown-market-study-report-by-hdl.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://menlopark.gov/News-articles/City-news/20220207-Menlo-Park-downtown-market-study-released",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.360fitnesssuperstore.com/pages/where-to-try-treadmills-ellipticals-exercise-bikes-bay-area",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.almanacnews.com/?p=52405",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Bank of the West",

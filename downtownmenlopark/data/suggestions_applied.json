@@ -239,6 +239,21 @@
      "https://stanforddaily.com/2014/02/07/top-five-thrifty-shopping/"
     ]
    }
+  },
+  {
+   "target": "360 Fitness Superstore",
+   "target_address": "707 Santa Cruz Ave",
+   "fields": {
+    "note": "Exercise equipment showroom on Santa Cruz Avenue. The city's 2022 downtown market study listed it among new businesses that opened during the COVID-19 pandemic.",
+    "start": 2021,
+    "approx": true,
+    "links": [
+     "https://menlopark.gov/News-articles/City-news/20220207-Menlo-Park-downtown-market-study-released",
+     "https://www.360fitnesssuperstore.com/pages/where-to-try-treadmills-ellipticals-exercise-bikes-bay-area",
+     "https://www.almanacnews.com/?p=52405",
+     "https://www.menlopark.gov/files/sharedassets/public/v/1/city-managers-office/documents/economic-development/menlo-park-downtown-market-study-report-by-hdl.pdf"
+    ]
+   }
   }
  ]
 }
