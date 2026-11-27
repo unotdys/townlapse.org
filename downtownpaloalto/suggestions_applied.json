@@ -2759,6 +2759,20 @@
      "https://www.paloalto.gov/files/assets/public/v/1/agendas-minutes-reports/reports/city-manager-reports-cmrs/year-archive/2020-2/11092020-item-11-at-places-memo.pdf"
     ]
    }
+  },
+  {
+   "target": "Pluto's",
+   "target_address": "482 University Ave",
+   "fields": {
+    "note": "Cafeteria-style salad and sandwich restaurant in the former Henry's space, named Best New Restaurant by Palo Alto Weekly readers in 1997. Reported closed in January 2020 after more than 20 years.",
+    "start": 1997,
+    "end": 2020,
+    "approx": true,
+    "links": [
+     "https://www.almanacnews.com/ae/2020/01/17/the-latest-openings-and-closings-in-midpeninsula-dining/",
+     "https://www.paloaltoonline.com/best-of/1997/08/20/best-of-1997/"
+    ]
+   }
   }
  ]
 }
