@@ -2069,16 +2069,34 @@
  },
  {
   "name": "Jenny Craig Weight Loss",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "retail",
-  "approx": false,
+  "address": "811 El Camino Real",
+  "start": null,
+  "end": 2023,
+  "category": "services",
+  "approx": true,
   "start_unknown": true,
   "source": "osm",
-  "note": "Open today (yes). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4518896,
-  "lng": -122.1800583
+  "note": "Jenny Craig weight-loss center on El Camino Real, listed in business directories at 811 El Camino Real. It closed in May 2023 when the chain shut all its locations; the year it opened isn't known.",
+  "lat": 37.4518745,
+  "lng": -122.1801876,
+  "links": [
+   {
+    "url": "http://allcamino.com/2010/09/05/menlo-mondays/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://checkbook.org/san-francisco-bay-area/weight-loss-centers/ratings?page=4",
+    "kind": "Article"
+   },
+   {
+    "url": "https://instantpickleball.com/california/pickleball-menlo-park-ca/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://thekrazycouponlady.com/tips/money/jenny-craig-closing-all-locations",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "PKS Cleaners",

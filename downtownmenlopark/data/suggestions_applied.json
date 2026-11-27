@@ -826,6 +826,24 @@
      "https://www.levelluxmenlo.com/"
     ]
    }
+  },
+  {
+   "target": "Jenny Craig Weight Loss",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "811 El Camino Real",
+    "note": "Jenny Craig weight-loss center on El Camino Real, listed in business directories at 811 El Camino Real. It closed in May 2023 when the chain shut all its locations; the year it opened isn't known.",
+    "start": null,
+    "end": 2023,
+    "category": "services",
+    "approx": true,
+    "links": [
+     "http://allcamino.com/2010/09/05/menlo-mondays/",
+     "https://checkbook.org/san-francisco-bay-area/weight-loss-centers/ratings?page=4",
+     "https://instantpickleball.com/california/pickleball-menlo-park-ca/",
+     "https://thekrazycouponlady.com/tips/money/jenny-craig-closing-all-locations"
+    ]
+   }
   }
  ]
 }
