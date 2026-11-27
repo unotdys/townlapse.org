@@ -2030,6 +2030,20 @@
     "https://en.wikipedia.org/wiki/Ka_La%CA%BBi_Waik%C4%ABk%C4%AB_Beach_Hotel",
     "https://www.partyslate.com/venues/trump-international-hotel-waikiki-beach-walk"
    ]
+  },
+  {
+   "name": "Hale Koa Hotel",
+   "address": "2055 Kalia Rd",
+   "note": "Armed Forces Recreation Center hotel for military members and their families, which opened on October 25, 1975 with its Ilima Tower. The Maile Tower was added in 1995, and the hotel is still operating.",
+   "start": 1975,
+   "end": null,
+   "category": "hotel",
+   "approx": false,
+   "links": [
+    "https://en.wikipedia.org/wiki/Hale_Koa_Hotel",
+    "https://tripbucket.com/dreams/dream/hale-koa/",
+    "https://www.halekoa.com/History"
+   ]
   }
  ],
  "corrections": [
