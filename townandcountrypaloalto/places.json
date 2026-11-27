@@ -1171,15 +1171,24 @@
  },
  {
   "name": "SOS Fine Foods",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "949 Emerson St",
+  "start": 2015,
   "end": null,
   "category": "retail",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (supermarket). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4410795,
-  "lng": -122.1567876
+  "note": "Small grocery at 949 Emerson St, earlier known as SOS Grocery and named in local news by 2015. Its exact opening year is not known.",
+  "lat": 37.4410796,
+  "lng": -122.1567877,
+  "links": [
+   {
+    "url": "https://www.cityofpaloalto.org/files/assets/public/v/1/agendas-minutes-reports/reports/city-manager-reports-cmrs/year-archive/2014/id5293full.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2015/08/15/palo-alto-looks-to-firm-up-rules-for-shaky-buildings/",
+    "kind": "Article"
+   }
+  ]
  }
 ]
