@@ -1286,15 +1286,24 @@
  {
   "name": "Tea it Up",
   "address": "993 El Camino Real",
-  "start": 2026,
+  "start": 2020,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Boba tea shop that opened in early 2020 in the former Cobblery shoe-repair space at El Camino Real and Menlo Avenue.",
   "lat": 37.4524941,
-  "lng": -122.181678
+  "lng": -122.181678,
+  "links": [
+   {
+    "url": "https://www.doordash.com/store/tea-it-up-menlo-park-23389880/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2020/03/03/boba-report-tea-it-up-opens-in-menlo-park-milk-tea-and-mochi-donuts-headed-to-palo-alto/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Fleet Feet Sports",

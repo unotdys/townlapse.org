@@ -542,6 +542,19 @@
      "https://www.paloaltoonline.com/blogs/2018/08/01/menlo-park-mami-chelis-to-open-aug-4/"
     ]
    }
+  },
+  {
+   "target": "Tea it Up",
+   "target_address": "993 El Camino Real",
+   "fields": {
+    "note": "Boba tea shop that opened in early 2020 in the former Cobblery shoe-repair space at El Camino Real and Menlo Avenue.",
+    "start": 2020,
+    "approx": false,
+    "links": [
+     "https://www.doordash.com/store/tea-it-up-menlo-park-23389880/",
+     "https://www.paloaltoonline.com/blogs/2020/03/03/boba-report-tea-it-up-opens-in-menlo-park-milk-tea-and-mochi-donuts-headed-to-palo-alto/"
+    ]
+   }
   }
  ]
 }
