@@ -1062,6 +1062,20 @@
     "https://lostlivedead.blogspot.com/2023/12/",
     "https://powerlesspress.substack.com/p/a-long-strange-trip-down-urban-lane"
    ]
+  },
+  {
+   "name": "One Eight One Addison Art Gallery",
+   "address": "181 Addison Ave",
+   "note": "Art gallery in an early-1900s house at the southwest corner of Addison Avenue and Emerson Street. Palo Alto city directories listed it at this address in 1975 and 1976.",
+   "start": 1975,
+   "end": 1976,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "https://www.paloalto.gov/News-Articles/Planning-and-Development-Services/181-Addison-Avenue-20PLN-00300",
+    "https://www.paloalto.gov/files/assets/public/v/1/agendas-minutes-reports/reports/city-manager-reports-cmrs/year-archive/2021/id-12227.pdf",
+    "https://www.pastheritage.org/houses/aHouses/Addison181.html"
+   ]
   }
  ],
  "corrections": [
