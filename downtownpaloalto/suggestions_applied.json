@@ -1576,6 +1576,21 @@
     "https://www.mv-voice.com/wp-content/uploads/2009/06/2009_06_19.mvv_.section1.pdf",
     "https://www.sfchronicle.com/restaurants/article/Details-mar-a-fun-place-in-Palo-Alto-2688720.php"
    ]
+  },
+  {
+   "name": "Cafe Rosso & Bianco",
+   "address": "473 University Ave",
+   "note": "Italian restaurant linked to Francis Ford Coppola, which took this name when Cafe Niebaum-Coppola was renamed. It served Coppola winery wines and was still open in 2008.",
+   "start": 2007,
+   "end": 2009,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://amantdevin.blogspot.com/2008/07/when-in-palo-alto-cafe-rosso-and-bianco.html",
+    "https://www.gayot.com/restaurants/cafe-niebaum-coppola-palo-alto-ca-94301_3sf0080-02.html",
+    "https://www.mv-voice.com/wp-content/uploads/2009/06/2009_06_19.mvv_.section1.pdf",
+    "https://www.sfchronicle.com/restaurants/article/Details-mar-a-fun-place-in-Palo-Alto-2688720.php"
+   ]
   }
  ],
  "corrections": [
