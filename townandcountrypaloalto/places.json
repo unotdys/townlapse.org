@@ -1456,6 +1456,36 @@
   ]
  },
  {
+  "name": "Pizzeria Delfina",
+  "address": "651 Emerson St",
+  "start": 2014,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "note": "Palo Alto branch of a San Francisco Neapolitan-style pizzeria. It opened in April 2014 in the former Empire Grill and Tap Room space and is still open.",
+  "lat": 37.443413,
+  "lng": -122.160421,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://n2v.paloaltoonline.com/blogs/p/2014/04/09/pizzeria-delfina-palo-alto-to-open-this-weekend",
+    "kind": "Article"
+   },
+   {
+    "url": "https://n2v.paloaltoonline.com/blogs/p/print/2013/10/31/the-early-word-on-pizzeria-delfina-in-palo-alto",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2014/04/09/pizzeria-delfina-palo-alto-to-open-this-weekend/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.pizzeriadelfina.com/location/palo-alto/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "address not listed",
   "start": 2026,
