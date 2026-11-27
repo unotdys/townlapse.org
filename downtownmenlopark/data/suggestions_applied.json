@@ -269,6 +269,19 @@
      "https://usbranches.bmo.com/ca/menlo-park/TK607134"
     ]
    }
+  },
+  {
+   "target": "Starbucks",
+   "target_address": "693 Santa Cruz Ave",
+   "fields": {
+    "note": "Coffee shop in the former Clifford's Pharmacy building on Santa Cruz Avenue. Local press reported it coming in early 1995, and permits for its signs and building work were issued that spring.",
+    "start": 1995,
+    "approx": true,
+    "links": [
+     "https://www.paloaltoonline.com/morgue/page4/1995_Jan_27.NOTES27.html",
+     "https://www.paloaltoonline.com/morgue/real_estate/1995_May_26.building_permits.html"
+    ]
+   }
   }
  ]
 }

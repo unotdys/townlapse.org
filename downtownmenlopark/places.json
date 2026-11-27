@@ -545,15 +545,24 @@
  {
   "name": "Starbucks",
   "address": "693 Santa Cruz Ave",
-  "start": 2026,
+  "start": 1995,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Coffee shop in the former Clifford's Pharmacy building on Santa Cruz Avenue. Local press reported it coming in early 1995, and permits for its signs and building work were issued that spring.",
   "lat": 37.4522132,
-  "lng": -122.183862
+  "lng": -122.183862,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/page4/1995_Jan_27.NOTES27.html",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/real_estate/1995_May_26.building_permits.html",
+    "kind": "Ad / newspaper"
+   }
+  ]
  },
  {
   "name": "Starbucks",
