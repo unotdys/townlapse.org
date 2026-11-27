@@ -2665,6 +2665,24 @@
      "https://n2v.paloaltoonline.com/weekly/morguepdf/2004/2004_08_20.paw.section1.pdf"
     ]
    }
+  },
+  {
+   "target": "Kan Zeman",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "274 University Ave",
+    "note": "Mediterranean restaurant that opened around 2002 in the former Jim's Coffee Shop space. It closed in May 2011 after losing its lease, and its owners moved operations to their Med Wraps shop across the street.",
+    "start": 2002,
+    "end": 2011,
+    "approx": true,
+    "links": [
+     "https://groups.google.com/g/ba.food/c/9DoS0bfiXfE",
+     "https://www.mapquest.com/us/california/kan-zeman-781868815",
+     "https://www.sfgate.com/restaurants/article/Palo-Alto-coffee-shop-is-reborn-as-zesty-Kan-Zeman-2301871.php",
+     "https://www.sfgate.com/travel/streetdate/article/STREET-DATE-University-Avenue-Palo-Alto-2491497.php",
+     "https://www.yelp.com/biz/kan-zeman-palo-alto?start=20"
+    ]
+   }
   }
  ]
 }
