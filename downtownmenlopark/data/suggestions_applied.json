@@ -689,6 +689,20 @@
      "https://www.paloaltoonline.com/palo-alto/2021/08/25/menlo-parks-bistro-vida-celebrated-as-small-business-of-the-year/"
     ]
    }
+  },
+  {
+   "target": "Kepler's Books",
+   "target_address": "1010 El Camino Real",
+   "fields": {
+    "note": "Independent bookstore founded by Roy Kepler in 1955 at 939 El Camino Real, which moved to this Menlo Center location in 1989. It closed briefly in 2005, reopened within weeks with community backing, and is still open today.",
+    "start": 1989,
+    "end": null,
+    "approx": false,
+    "links": [
+     "https://keplers.com/our-story",
+     "https://www.paloaltoonline.com/ae/features/2025/09/18/a-miracle-on-el-camino-keplers-books-celebrates-70-years/"
+    ]
+   }
   }
  ]
 }

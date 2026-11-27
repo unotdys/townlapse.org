@@ -1704,15 +1704,24 @@
  {
   "name": "Kepler's Books",
   "address": "1010 El Camino Real",
-  "start": 2026,
+  "start": 1989,
   "end": null,
   "category": "retail",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (books). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Independent bookstore founded by Roy Kepler in 1955 at 939 El Camino Real, which moved to this Menlo Center location in 1989. It closed briefly in 2005, reopened within weeks with community backing, and is still open today.",
   "lat": 37.453572,
-  "lng": -122.1822194
+  "lng": -122.1822194,
+  "links": [
+   {
+    "url": "https://keplers.com/our-story",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/ae/features/2025/09/18/a-miracle-on-el-camino-keplers-books-celebrates-70-years/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Abbey Carpet",
