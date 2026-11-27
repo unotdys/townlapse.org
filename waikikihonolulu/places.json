@@ -3507,6 +3507,40 @@
   ]
  },
  {
+  "name": "Seaside Hotel",
+  "address": "342 Seaside Ave",
+  "start": 1970,
+  "end": 2012,
+  "category": "hotel",
+  "approx": true,
+  "note": "Hotel built around 1970 and owned by United Airlines, which used it mainly to house its flight crews. United sold it in 2012, and after a renovation it reopened in April 2013 as the Shoreline Hotel Waikiki.",
+  "lat": 21.2798525,
+  "lng": -157.8278189,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://imagesofoldhawaii.com/seaside-hotel-before-the-royal-hawaiian/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://liveandletsfly.com/united-airlines-sells-waikiki-seaside-hotel",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hotel-online.com/news/archive-47753",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.scmp.com/magazines/post-magazine/article/1252570/hot-spots-shoreline-hotel-waikiki",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelweekly.com/Travel-News/Hotel-News/Joie-de-Vivre-parent-to-manage-Waikiki-hotel",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,

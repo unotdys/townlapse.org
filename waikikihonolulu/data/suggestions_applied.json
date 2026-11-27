@@ -1944,6 +1944,22 @@
     "https://hawaiifoodie.club/breakfast-for-dinner-bogarts-cafe-gives-you-the-option/",
     "https://www.hawaiimagazine.com/?p=46795"
    ]
+  },
+  {
+   "name": "Seaside Hotel",
+   "address": "342 Seaside Ave",
+   "note": "Hotel built around 1970 and owned by United Airlines, which used it mainly to house its flight crews. United sold it in 2012, and after a renovation it reopened in April 2013 as the Shoreline Hotel Waikiki.",
+   "start": 1970,
+   "end": 2012,
+   "category": "hotel",
+   "approx": true,
+   "links": [
+    "https://imagesofoldhawaii.com/seaside-hotel-before-the-royal-hawaiian/",
+    "https://liveandletsfly.com/united-airlines-sells-waikiki-seaside-hotel",
+    "https://www.hotel-online.com/news/archive-47753",
+    "https://www.scmp.com/magazines/post-magazine/article/1252570/hot-spots-shoreline-hotel-waikiki",
+    "https://www.travelweekly.com/Travel-News/Hotel-News/Joie-de-Vivre-parent-to-manage-Waikiki-hotel"
+   ]
   }
  ],
  "corrections": [
