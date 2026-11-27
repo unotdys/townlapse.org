@@ -3233,6 +3233,28 @@
   ]
  },
  {
+  "name": "Tonkatsu Tamafuji",
+  "address": "449 Kapahulu Ave",
+  "start": 2017,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "note": "Japanese tonkatsu restaurant in Hee Hing Plaza that opened in February 2017. In 2026 it moved from the second floor to a larger ground-floor space in the same plaza.",
+  "lat": 21.2749782,
+  "lng": -157.8153623,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://alohastatedaily.com/2026/04/16/tonkatsu-tamafuji-is-now-open-in-an-expanded-space/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/something-crispy-tonkatsu-tamafuji/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,

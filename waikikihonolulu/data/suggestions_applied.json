@@ -1801,6 +1801,19 @@
     "https://www.honolulumagazine.com/new-blue-marlin-tapas-and-sushi-bar/",
     "https://www.honolulumagazine.com/something-new-crackin-kitchen/"
    ]
+  },
+  {
+   "name": "Tonkatsu Tamafuji",
+   "address": "449 Kapahulu Ave",
+   "note": "Japanese tonkatsu restaurant in Hee Hing Plaza that opened in February 2017. In 2026 it moved from the second floor to a larger ground-floor space in the same plaza.",
+   "start": 2017,
+   "end": null,
+   "category": "food",
+   "approx": false,
+   "links": [
+    "https://alohastatedaily.com/2026/04/16/tonkatsu-tamafuji-is-now-open-in-an-expanded-space/",
+    "https://www.honolulumagazine.com/something-crispy-tonkatsu-tamafuji/"
+   ]
   }
  ],
  "corrections": [
