@@ -8084,15 +8084,29 @@
  {
   "name": "Pit Stop Hawaii Tacos Burgers & Sliders",
   "address": "2411 Kūhiō Ave",
-  "start": 2026,
+  "start": null,
   "end": null,
   "category": "food",
-  "approx": false,
+  "approx": true,
   "start_unknown": true,
   "source": "osm",
-  "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Food truck serving sliders, tacos, burgers and fresh lemonade, parked in a courtyard off Kūhiō Ave at Prince Edward St. It started around 2021 on Seaside Ave and later moved here.",
   "lat": 21.2771509,
-  "lng": -157.8241537
+  "lng": -157.8241537,
+  "links": [
+   {
+    "url": "https://staradvertiser.com/?p=1254127",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.pitstophawaii.com",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.poyst.com/business/pit-stop-hawaii-food-truck",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Musubi Cafe Iyasume",
