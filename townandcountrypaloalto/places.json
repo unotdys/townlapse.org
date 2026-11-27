@@ -480,6 +480,28 @@
   ]
  },
  {
+  "name": "Calafia Cafe",
+  "address": "855 El Camino Real",
+  "start": 2009,
+  "end": 2018,
+  "category": "food",
+  "approx": false,
+  "note": "Restaurant started by former Google chef Charlie Ayers, with an adjoining takeout shop called Market a-Go-Go, on the Embarcadero Road side of Town & Country Village. It opened in January 2009 and closed in August 2018 after about nine years.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2018/08/26/calafia-closes-in-palo-alto-the-costs-were-greater-than-the-take/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2008/12/19/shop-talk-51/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "CVS Pharmacy",
   "address": "address not listed",
   "start": 2026,

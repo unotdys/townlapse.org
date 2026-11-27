@@ -269,6 +269,19 @@
     "https://www.mapquest.com/us/california/trader-joes-264565048",
     "https://www.paloaltoonline.com/news/2009/12/03/trader-joes-opens-at-town-and-country-village-today/"
    ]
+  },
+  {
+   "name": "Calafia Cafe",
+   "address": "855 El Camino Real",
+   "note": "Restaurant started by former Google chef Charlie Ayers, with an adjoining takeout shop called Market a-Go-Go, on the Embarcadero Road side of Town & Country Village. It opened in January 2009 and closed in August 2018 after about nine years.",
+   "start": 2009,
+   "end": 2018,
+   "category": "food",
+   "approx": false,
+   "links": [
+    "https://www.paloaltoonline.com/blogs/2018/08/26/calafia-closes-in-palo-alto-the-costs-were-greater-than-the-take/",
+    "https://www.paloaltoonline.com/news/2008/12/19/shop-talk-51/"
+   ]
   }
  ],
  "corrections": [
