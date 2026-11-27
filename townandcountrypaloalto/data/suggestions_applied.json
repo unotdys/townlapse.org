@@ -1102,6 +1102,19 @@
     "https://www.paloaltoonline.com/news/2007/08/08/shop-talk-29/",
     "https://www.paloaltoonline.com/news/2020/09/10/mens-apparel-brand-closes-top-store-in-palo-alto-after-more-than-40-years/"
    ]
+  },
+  {
+   "name": "Channing Market",
+   "address": "532 Channing Avenue",
+   "note": "A neighborhood grocery store in a false-front commercial building built in 1901. The building was demolished in 1981.",
+   "start": 1901,
+   "end": 1981,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "https://www.pastheritage.org/inv/invC/Channing532.html",
+    "https://www.pastheritage.org/inventoryC.html"
+   ]
   }
  ],
  "corrections": [

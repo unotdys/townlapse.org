@@ -1984,6 +1984,28 @@
   ]
  },
  {
+  "name": "Channing Market",
+  "address": "532 Channing Avenue",
+  "start": 1901,
+  "end": 1981,
+  "category": "retail",
+  "approx": true,
+  "note": "A neighborhood grocery store in a false-front commercial building built in 1901. The building was demolished in 1981.",
+  "lat": 37.4454245,
+  "lng": -122.1533535,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.pastheritage.org/inv/invC/Channing532.html",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.pastheritage.org/inventoryC.html",
+    "kind": "History"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "address not listed",
   "start": 2026,
