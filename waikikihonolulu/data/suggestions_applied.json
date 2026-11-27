@@ -2073,6 +2073,21 @@
     "http://the.honoluluadvertiser.com/article/2002/Mar/08/en/en09a.html",
     "https://archives.starbulletin.com/1999/06/03/features/eater.html"
    ]
+  },
+  {
+   "name": "Zanzabar Night Club",
+   "address": "2255 Kuhio Ave",
+   "note": "Nightclub in the Waikiki Trade Center that opened in 1999 in the former Maharaja Nightclub space after a $1.4 million renovation. It closed after about 14 years when its owners could not get a new lease.",
+   "start": 1999,
+   "end": 2013,
+   "category": "entertainment",
+   "approx": true,
+   "links": [
+    "https://archives.starbulletin.com/2008/05/17/business/story01.html",
+    "https://archives.starbulletin.com/content/20100528_Liquor_board_tells_nightspot_it_must_go_dark_at_2_am",
+    "https://www.staradvertiser.com/?p=356219",
+    "https://www.ticketmaster.com/zanzabar-night-club-tickets-honolulu/venue/82624"
+   ]
   }
  ],
  "corrections": [
