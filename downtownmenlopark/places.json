@@ -1368,15 +1368,32 @@
  {
   "name": "Gitane",
   "address": "855 Santa Cruz Ave",
-  "start": 2026,
+  "start": 2009,
   "end": null,
   "category": "retail",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (clothes). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Women's clothing boutique on Santa Cruz Avenue, founded around 2009 and still open at this address.",
   "lat": 37.4503897,
-  "lng": -122.185392
+  "lng": -122.185392,
+  "links": [
+   {
+    "url": "https://calleencordero.com/pages/copy-of-store-locator",
+    "kind": "Article"
+   },
+   {
+    "url": "https://punchmagazine.com/a-passion-for-fashion/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://stephanievonthaden.com/blog/discover-your-luxury-life-the-best-things-to-do-in-menlo-park",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.7x7.com/modern-guide-to-menlo-park-2633201432/menlo-park-s-best-coffee-shops-bakeries-snacks",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Loretta",

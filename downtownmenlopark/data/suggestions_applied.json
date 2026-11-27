@@ -585,6 +585,21 @@
      "https://www.paloaltoonline.com/food/2025/12/16/everything-you-need-and-nothing-you-dont-heres-why-many-new-peninsula-restaurants-are-going-minimalist/"
     ]
    }
+  },
+  {
+   "target": "Gitane",
+   "target_address": "855 Santa Cruz Ave",
+   "fields": {
+    "note": "Women's clothing boutique on Santa Cruz Avenue, founded around 2009 and still open at this address.",
+    "start": 2009,
+    "approx": true,
+    "links": [
+     "https://calleencordero.com/pages/copy-of-store-locator",
+     "https://punchmagazine.com/a-passion-for-fashion/",
+     "https://stephanievonthaden.com/blog/discover-your-luxury-life-the-best-things-to-do-in-menlo-park",
+     "https://www.7x7.com/modern-guide-to-menlo-park-2633201432/menlo-park-s-best-coffee-shops-bakeries-snacks"
+    ]
+   }
   }
  ]
 }
