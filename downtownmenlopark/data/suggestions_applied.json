@@ -380,6 +380,20 @@
      "https://www.paloaltoonline.com/morgue/restaurants/1996_Mar_22.EATOUT22.html"
     ]
    }
+  },
+  {
+   "target": "Discovery Shop, American Cancer Society",
+   "target_address": "748 Santa Cruz Ave",
+   "fields": {
+    "note": "American Cancer Society resale shop selling donated clothing and household goods to fund cancer programs, open in Menlo Park since about 1981. In 1995 it moved from 746 Santa Cruz Avenue into the larger space next door at 748, where it is still open.",
+    "start": 1995,
+    "approx": false,
+    "links": [
+     "https://www.cancer.org/donate/discovery-shops-national/shops/menlo-park.html",
+     "https://www.paloaltoonline.com/morgue/news/1995_Oct_18.SHOP18.html",
+     "https://www.paloaltoonline.com/morgue/page4/1995_Jan_27.NOTES27.html"
+    ]
+   }
   }
  ]
 }

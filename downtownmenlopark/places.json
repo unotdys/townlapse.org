@@ -868,15 +868,28 @@
  {
   "name": "Discovery Shop, American Cancer Society",
   "address": "748 Santa Cruz Ave",
-  "start": 2026,
+  "start": 1995,
   "end": null,
   "category": "retail",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (clothes). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "American Cancer Society resale shop selling donated clothing and household goods to fund cancer programs, open in Menlo Park since about 1981. In 1995 it moved from 746 Santa Cruz Avenue into the larger space next door at 748, where it is still open.",
   "lat": 37.451338,
-  "lng": -122.18497
+  "lng": -122.18497,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/news/1995_Oct_18.SHOP18.html",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/page4/1995_Jan_27.NOTES27.html",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.cancer.org/donate/discovery-shops-national/shops/menlo-park.html",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Roma Italian Cuisine",
