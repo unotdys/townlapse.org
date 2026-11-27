@@ -3211,6 +3211,28 @@
   ]
  },
  {
+  "name": "Blue Marlin",
+  "address": "364 Seaside Ave",
+  "start": 2014,
+  "end": 2015,
+  "category": "food",
+  "approx": true,
+  "note": "Seafood restaurant and tapas/sushi bar that opened in 2014 in the former Matteo's space on Seaside Avenue and operated for less than a year before being replaced by Crackin' Kitchen in 2015.",
+  "lat": 21.2801685,
+  "lng": -157.8275229,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.honolulumagazine.com/new-blue-marlin-tapas-and-sushi-bar/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/something-new-crackin-kitchen/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,

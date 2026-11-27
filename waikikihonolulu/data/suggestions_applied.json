@@ -1788,6 +1788,19 @@
     "https://www.hotelplanner.com/Hotels/290835/Reservations-Royal-Grove-Waikiki-Honolulu-151-Uluniu-Ave-96815",
     "https://www.travelagewest.com/Travel/Hotels/Aston-Hotels-Thrives-at-Sixty-Five"
    ]
+  },
+  {
+   "name": "Blue Marlin",
+   "address": "364 Seaside Ave",
+   "note": "Seafood restaurant and tapas/sushi bar that opened in 2014 in the former Matteo's space on Seaside Avenue and operated for less than a year before being replaced by Crackin' Kitchen in 2015.",
+   "start": 2014,
+   "end": 2015,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.honolulumagazine.com/new-blue-marlin-tapas-and-sushi-bar/",
+    "https://www.honolulumagazine.com/something-new-crackin-kitchen/"
+   ]
   }
  ],
  "corrections": [
