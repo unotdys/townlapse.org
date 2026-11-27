@@ -1471,15 +1471,32 @@
  {
   "name": "Mike's Cameras",
   "address": "715 Santa Cruz Ave",
-  "start": 2026,
+  "start": 2012,
   "end": null,
   "category": "retail",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (camera). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Camera store that took over the former Ritz Camera shop on Santa Cruz Avenue in late 2012, when Colorado-based Mike's Camera bought it and renamed it. It is still open.",
   "lat": 37.4517564,
-  "lng": -122.184253
+  "lng": -122.184253,
+  "links": [
+   {
+    "url": "https://static1.squarespace.com/static/626ace1e483acb178e60624e/t/6923aed70276c016194f6c8a/1763946199040/Downtown-Guide-v4b-web.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://patch.com/california/menlopark-atherton/mike-s-camera-replaces-ritz-in-menlo-park",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2016/09/15/palo-altos-keeble--shuchat-photography-to-close-in-october/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.poyst.com/business/mikes-camera-menlo-park",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Shiok",
