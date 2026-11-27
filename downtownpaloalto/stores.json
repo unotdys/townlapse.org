@@ -92,6 +92,47 @@
   "note": "Tuxedo and formal wear shop, a few doors from its 1959\u20131963 location at 158 University Ave. It closed in February 2015 when the Selix chain went bankrupt and shut all six stores; when it moved here is unknown."
  },
  {
+  "name": "Coupa Cafe",
+  "address": "111 Lytton Ave",
+  "start": 2016,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "source": "news",
+  "lat": 37.4445426,
+  "lng": -122.1652665,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2016/01/26/now-open-second-coupa-cafe-in-palo-alto/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://joe.coffee/locations/ca/palo-alto/coupa-cafe-lytton-palo-alto-6a719d2f-fcf6-4422-adc4-d95a67ab5468/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://n2v.paloaltoonline.com/blogs/p/2016/01/26/now-open-second-coupa-cafe-in-palo-alto",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.coupacafe.com/Locations/palo-alto-lytton",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/print/2016/03/03/celebrate-with-coupa",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.yelp.com/biz/coupa-caf%C3%A9-lytton-palo-alto",
+    "kind": "Listing"
+   }
+  ],
+  "note": "Venezuelan-style cafe in the Lytton Gateway building across from the downtown Caltrain station, opened in late January 2016 as Coupa's second downtown Palo Alto location. The family's original cafe opened on Ramona Street in 2004.",
+  "merged_from": [
+   "Coupa Caf\u00e9"
+  ]
+ },
+ {
   "name": "Ike's Love & Sandwiches",
   "address": "401 Lytton Ave",
   "start": 2018,
@@ -3794,6 +3835,36 @@
   ]
  },
  {
+  "name": "Andal\u00e9 Mexican Restaurant",
+  "address": "209 University Ave",
+  "start": 2002,
+  "end": 2015,
+  "category": "food",
+  "approx": true,
+  "note": "Palo Alto branch of a Los Gatos-based Mexican restaurant, listed at this address by 2002 and remembered as a popular lunch spot. It had closed by 2015; the years shown are the earliest and latest sources found.",
+  "lat": 37.4450606,
+  "lng": -122.1628911,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://n2v.paloaltoonline.com/weekly/morguepdf/2004/2004_09_24.paw.section1.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://groups.google.com/g/ba.food/c/AjVIxrHIzEw",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.allmenus.com/ca/palo-alto/55021-andale/menu/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.metrosiliconvalley.com/papers/metro/07.18.02/cheapeats-0229.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Vivre",
   "address": "611 Emerson St",
   "start": 2003,
@@ -4491,24 +4562,6 @@
    }
   ],
   "note": "Vietnamese restaurant. Palo Alto Online's Peninsula Foodist reported it opening in 2003 and closing in 2020."
- },
- {
-  "name": "Coupa Cafe",
-  "address": "Ramona St",
-  "start": 2004,
-  "end": 2004,
-  "category": "food",
-  "approx": true,
-  "source": "news",
-  "lat": 37.4455052,
-  "lng": -122.1625455,
-  "links": [
-   {
-    "url": "https://www.paloaltoonline.com/peninsula-foodist/2016/01/26/now-open-second-coupa-cafe-in-palo-alto/",
-    "kind": "Article"
-   }
-  ],
-  "note": "Cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2004. Later status unknown."
  },
  {
   "name": "Fraiche",
@@ -5436,9 +5489,9 @@
   "name": "The Redwood by Chef Julien",
   "address": "450 Bryant St",
   "start": 2022,
-  "end": 2026,
+  "end": 2022,
   "category": "food",
-  "approx": false,
+  "approx": true,
   "source": "news",
   "lat": 37.4461771,
   "lng": -122.1624215,
@@ -5448,7 +5501,7 @@
     "kind": "Article"
    }
   ],
-  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022."
+  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022. Later status unknown."
  },
  {
   "name": "Lima Ruby",
@@ -5869,14 +5922,14 @@
  },
  {
   "name": "La Comida",
-  "address": "450 Bryant St",
+  "address": "429 Bryant St",
   "start": 2026,
   "end": 2026,
   "category": "food",
   "approx": false,
   "source": "news",
-  "lat": 37.4461771,
-  "lng": -122.1624215,
+  "lat": 37.4465596,
+  "lng": -122.162491,
   "links": [
    {
     "url": "https://www.paloaltoonline.com/palo-alto/2026/08/26/avenidas-and-la-comida-to-host-foodie-fundraiser-to-support-older-adults/",
@@ -9235,19 +9288,6 @@
   "note": "Open today (beauty). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 37.4448748,
   "lng": -122.1650358
- },
- {
-  "name": "Coupa Caf\u00e9",
-  "address": "111 Lytton Ave",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4445426,
-  "lng": -122.1652665
  },
  {
   "name": "Mntstudio",
