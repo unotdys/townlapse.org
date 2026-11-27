@@ -720,6 +720,21 @@
      "https://www.paloaltoonline.com/news/2009/08/28/fantastic-fork-restaurants/"
     ]
    }
+  },
+  {
+   "target": "Rococo & Taupe",
+   "target_address": "844 Santa Cruz Ave",
+   "fields": {
+    "note": "Kitchen and bath design showroom that opened on Santa Cruz Avenue in 2013 and marked its 10th anniversary in June 2023. It is still open.",
+    "start": 2013,
+    "approx": false,
+    "links": [
+     "http://www.rococoandtaupe.com/",
+     "https://naicslist.com/company-profile/rococo-taupe-inc-menlo-park-ca-94025",
+     "https://punchmagazine.com/rococo-taupe/",
+     "https://www.guildquality.com/profile/Rococo-and-Taupe-Guest"
+    ]
+   }
   }
  ]
 }

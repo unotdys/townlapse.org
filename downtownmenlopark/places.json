@@ -1786,15 +1786,32 @@
  {
   "name": "Rococo & Taupe",
   "address": "844 Santa Cruz Ave",
-  "start": 2026,
+  "start": 2013,
   "end": null,
   "category": "retail",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (kitchen). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Kitchen and bath design showroom that opened on Santa Cruz Avenue in 2013 and marked its 10th anniversary in June 2023. It is still open.",
   "lat": 37.4506672,
-  "lng": -122.185556
+  "lng": -122.185556,
+  "links": [
+   {
+    "url": "http://www.rococoandtaupe.com/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://naicslist.com/company-profile/rococo-taupe-inc-menlo-park-ca-94025",
+    "kind": "Article"
+   },
+   {
+    "url": "https://punchmagazine.com/rococo-taupe/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.guildquality.com/profile/Rococo-and-Taupe-Guest",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Dolma Tibetan Handicrafts",
