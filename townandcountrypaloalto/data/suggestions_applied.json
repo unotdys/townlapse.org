@@ -296,6 +296,21 @@
     "https://www.paloaltoonline.com/blogs/2019/12/31/after-six-decades-palo-alto-sandwich-standby-village-cheese-house-closes/",
     "https://www.paloaltoonline.com/peninsula-foodist/2019/12/31/after-six-decades-palo-alto-sandwich-standby-village-cheese-house-closes/"
    ]
+  },
+  {
+   "name": "Howie's Artisan Pizza",
+   "address": "855 El Camino Real",
+   "note": "Pizza restaurant at Town & Country Village opened in November 2009 by chef Howard Bulka, serving hand-tossed pizza, handmade pasta and focaccia sandwiches. A current Palo Alto visitor guide still lists it there, open daily.",
+   "start": 2009,
+   "end": null,
+   "category": "food",
+   "approx": false,
+   "links": [
+    "https://paloalto.org/food-and-drink/italian-and-pizza/",
+    "https://ww2.kqed.org/bayareabites/8300/burb-burps-howies-artisan-pizza",
+    "https://www.foodgal.com/2009/12/howies-artisan-pizza-delivers-on-the-crust/print",
+    "https://www.paloaltoonline.com/ae/2014/01/17/dining-the-rebirth-of-town-country/"
+   ]
   }
  ],
  "corrections": [

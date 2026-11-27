@@ -528,6 +528,36 @@
   ]
  },
  {
+  "name": "Howie's Artisan Pizza",
+  "address": "855 El Camino Real",
+  "start": 2009,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "note": "Pizza restaurant at Town & Country Village opened in November 2009 by chef Howard Bulka, serving hand-tossed pizza, handmade pasta and focaccia sandwiches. A current Palo Alto visitor guide still lists it there, open daily.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://paloalto.org/food-and-drink/italian-and-pizza/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://ww2.kqed.org/bayareabites/8300/burb-burps-howies-artisan-pizza",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.foodgal.com/2009/12/howies-artisan-pizza-delivers-on-the-crust/print",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/ae/2014/01/17/dining-the-rebirth-of-town-country/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "CVS Pharmacy",
   "address": "address not listed",
   "start": 2026,
@@ -812,19 +842,6 @@
   "note": "Open today (travel agency). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 37.4392103,
   "lng": -122.158656
- },
- {
-  "name": "Howie's Artisan Pizza",
-  "address": "855 El Camino Real",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4379709,
-  "lng": -122.1601367
  },
  {
   "name": "Chase",
