@@ -676,6 +676,28 @@
   ]
  },
  {
+  "name": "Korean BBQ",
+  "address": "855 El Camino Real",
+  "start": 1991,
+  "end": 2012,
+  "category": "food",
+  "approx": false,
+  "note": "Small family-owned Korean restaurant in Town & Country Village, popular for lunch. It opened in 1991 and closed in August 2012 after years on a month-to-month lease.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://palyvoice.com/40785/opinion/editorial/editiorial-town-and-country-new-but-not-improved/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/cover-story/2014/01/17/the-rebirth-of-town-country/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "CVS Pharmacy",
   "address": "address not listed",
   "start": 2026,
