@@ -670,6 +670,21 @@
     "https://www.paloaltoonline.com/cover-story/2006/08/30/2006-winner-snapshot/",
     "https://www.yellowpages.com/palo-alto-ca/mip/for-eyes-optical-455081512"
    ]
+  },
+  {
+   "name": "Diptyque",
+   "address": "855 El Camino Real",
+   "note": "Boutique of the Paris fragrance and candle house in Town & Country Village. The brand's store locator and the center's directory list it at 855 El Camino Real, Building 2, Suite 34.",
+   "start": null,
+   "end": null,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "https://stores.diptyqueparis.com/en/diptyque-town-and-country",
+    "https://tandcvillage.com/tenant/diptyque/",
+    "https://www.coyuchi.com/palo-alto-store-press-release",
+    "https://www.tripadvisor.co.uk/ShowUserReviews-g32849-d7736826-r700415931-Town_Country_Village-Palo_Alto_California.html"
+   ]
   }
  ],
  "corrections": [

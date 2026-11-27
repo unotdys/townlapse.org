@@ -1215,6 +1215,37 @@
   ]
  },
  {
+  "name": "Diptyque",
+  "address": "855 El Camino Real",
+  "start": 2026,
+  "end": null,
+  "category": "retail",
+  "approx": true,
+  "note": "Boutique of the Paris fragrance and candle house in Town & Country Village. The brand's store locator and the center's directory list it at 855 El Camino Real, Building 2, Suite 34.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://stores.diptyqueparis.com/en/diptyque-town-and-country",
+    "kind": "Article"
+   },
+   {
+    "url": "https://tandcvillage.com/tenant/diptyque/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.coyuchi.com/palo-alto-store-press-release",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.tripadvisor.co.uk/ShowUserReviews-g32849-d7736826-r700415931-Town_Country_Village-Palo_Alto_California.html",
+    "kind": "Listing"
+   }
+  ],
+  "start_unknown": true
+ },
+ {
   "name": "Peet's Coffee",
   "address": "address not listed",
   "start": 2026,
