@@ -4569,6 +4569,20 @@
      "https://www.poyst.com/business/pit-stop-hawaii-food-truck"
     ]
    }
+  },
+  {
+   "target": "Mac 24/7 Bar & Restaurant",
+   "target_address": "2500 Kuhio Ave",
+   "fields": {
+    "note": "Modern American Cuisine diner-style restaurant, open 24 hours, that opened in December 2006 at the renovated Prince Kuhio hotel as it changed from Radisson to Hilton. The hotel is now Hilton Waikiki Beach, and the restaurant still operates there.",
+    "start": 2006,
+    "approx": false,
+    "links": [
+     "https://archives.midweek.com/content/columns/foodfinds_article/going_big_on_american_food_24_7",
+     "https://www.gayot.com/restaurants/hawaiinews_archive.html",
+     "https://www.hilton.com/en/hotels/hnlwahf-hilton-waikiki-beach/dining"
+    ]
+   }
   }
  ]
 }

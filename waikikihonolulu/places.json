@@ -3873,12 +3873,12 @@
  {
   "name": "Mac 24/7 Bar & Restaurant",
   "address": "2500 Kuhio Ave",
-  "start": 2007,
+  "start": 2006,
   "end": null,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "osm",
-  "note": "Opened around 2007 as the 24-hour signature restaurant of the Hilton Waikiki Prince Kuhio, after the hotel's $65 million renovation and switch to Hilton. The hotel is now Hilton Waikiki Beach.",
+  "note": "Modern American Cuisine diner-style restaurant, open 24 hours, that opened in December 2006 at the renovated Prince Kuhio hotel as it changed from Radisson to Hilton. The hotel is now Hilton Waikiki Beach, and the restaurant still operates there.",
   "lat": 21.2746984,
   "lng": -157.8202903,
   "links": [
@@ -3896,6 +3896,14 @@
    },
    {
     "url": "https://www.hotel-online.com/News/PR2007_2nd/Apr07_PrinceKuhio.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.gayot.com/restaurants/hawaiinews_archive.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hilton.com/en/hotels/hnlwahf-hilton-waikiki-beach/dining",
     "kind": "Article"
    }
   ]
