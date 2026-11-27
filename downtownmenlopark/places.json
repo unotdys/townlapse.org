@@ -1973,15 +1973,20 @@
  {
   "name": "Salon Cozzolino",
   "address": "812 Santa Cruz Ave",
-  "start": 2026,
+  "start": 2021,
   "end": null,
   "category": "services",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (hairdresser). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Hair salon founded in 2021, according to the salon's own website and a gift-card listing. It is still open at 812 Santa Cruz Ave.",
   "lat": 37.4509398,
-  "lng": -122.185321
+  "lng": -122.185321,
+  "links": [
+   {
+    "url": "https://saloncozzolino.com/faqs/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Yves Delorme",

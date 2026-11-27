@@ -787,6 +787,19 @@
      "https://www.foodgal.com/2012/03/susiecakes-opens-first-peninsula-location-porchetta-time-more/"
     ]
    }
+  },
+  {
+   "target": "Salon Cozzolino",
+   "target_address": "812 Santa Cruz Ave",
+   "fields": {
+    "note": "Hair salon founded in 2021, according to the salon's own website and a gift-card listing. It is still open at 812 Santa Cruz Ave.",
+    "start": 2021,
+    "approx": false,
+    "links": [
+     "https://saloncozzolino.com/faqs/",
+     "https://www.giftly.com/gift-card/salon-cozzolino-menlo-park"
+    ]
+   }
   }
  ]
 }
