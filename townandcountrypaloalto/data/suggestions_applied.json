@@ -419,6 +419,19 @@
     "https://www.paloaltoonline.com/morgue/2001/2001_06_01.towncountry01.html",
     "https://www.peets.com/pages/store/town-country"
    ]
+  },
+  {
+   "name": "Telef\u00e8ric Barcelona",
+   "address": "855 El Camino Real",
+   "note": "Spanish tapas restaurant from Barcelona that opened for dinner at Town & Country Village on October 8, 2019, in Suite 130, the former Calafia Cafe space. The restaurant's website still lists hours for its Palo Alto location.",
+   "start": 2019,
+   "end": null,
+   "category": "food",
+   "approx": false,
+   "links": [
+    "https://www.paloaltoonline.com/blogs/2019/10/08/squid-ink-paella-patatas-bravas-barcelona-natives-bring-spanish-tapas-to-palo-alto/",
+    "https://www.telefericbarcelona.com/palo-alto"
+   ]
   }
  ],
  "corrections": [

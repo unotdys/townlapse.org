@@ -750,6 +750,28 @@
   ]
  },
  {
+  "name": "Telefèric Barcelona",
+  "address": "855 El Camino Real",
+  "start": 2019,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "note": "Spanish tapas restaurant from Barcelona that opened for dinner at Town & Country Village on October 8, 2019, in Suite 130, the former Calafia Cafe space. The restaurant's website still lists hours for its Palo Alto location.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2019/10/08/squid-ink-paella-patatas-bravas-barcelona-natives-bring-spanish-tapas-to-palo-alto/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.telefericbarcelona.com/palo-alto",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "address not listed",
   "start": 2026,
@@ -761,19 +783,6 @@
   "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 37.4380578,
   "lng": -122.1592693
- },
- {
-  "name": "Telefèric Barcelona",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4383076,
-  "lng": -122.1583665
  },
  {
   "name": "Douce France",
