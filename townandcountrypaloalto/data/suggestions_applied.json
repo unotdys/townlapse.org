@@ -925,6 +925,19 @@
     "https://www.paloaltoonline.com/blogs/2015/02/03/scotts-seafood-palo-alto-closing-in-march/",
     "https://www.paloaltoonline.com/morgue/2001/2001_11_28.t_c.html"
    ]
+  },
+  {
+   "name": "Longs Drugs",
+   "address": "855 El Camino Real",
+   "note": "Drugstore that took over the former John's Market space of about 14,000 square feet at Town & Country Village around 2002. It was still operating in 2007 and later became a CVS after CVS bought the Longs chain in 2008.",
+   "start": 2002,
+   "end": 2009,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/morgue/2001/2001_11_28.t_c.html",
+    "https://www.paloaltoonline.com/news/2007/11/14/shop-talk-34/"
+   ]
   }
  ],
  "corrections": [

@@ -1666,6 +1666,28 @@
   ]
  },
  {
+  "name": "Longs Drugs",
+  "address": "855 El Camino Real",
+  "start": 2002,
+  "end": 2009,
+  "category": "retail",
+  "approx": true,
+  "note": "Drugstore that took over the former John's Market space of about 14,000 square feet at Town & Country Village around 2002. It was still operating in 2007 and later became a CVS after CVS bought the Longs chain in 2008.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/2001/2001_11_28.t_c.html",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2007/11/14/shop-talk-34/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "address not listed",
   "start": 2026,
