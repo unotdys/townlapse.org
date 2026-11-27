@@ -27,16 +27,25 @@
  },
  {
   "name": "Mountain Mike's",
-  "address": "1010 El Camino Real",
-  "start": 2026,
+  "address": "1001 El Camino Real",
+  "start": 2019,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4529058,
-  "lng": -122.182008
+  "note": "Pizza restaurant at the corner of El Camino Real and Menlo Avenue, opened in 2019 as a Mountain Mike's franchise in the former longtime Applewood Pizza space.",
+  "lat": 37.4511812,
+  "lng": -122.1784979,
+  "links": [
+   {
+    "url": "https://www.franchising.com/amp/news/20200115_mountain_mikersquos_pizza_now_open_in_menlo_park.html?ref=FBN",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/ae/2019/11/11/shop-talk-farmers-market-goes-year-round-new-boxing-gym/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Kyosho",

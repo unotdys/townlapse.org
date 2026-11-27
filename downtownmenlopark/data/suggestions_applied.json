@@ -14,6 +14,20 @@
      "https://www.peets.com/pages/store/menlo-park"
     ]
    }
+  },
+  {
+   "target": "Mountain Mike's",
+   "target_address": "1010 El Camino Real",
+   "fields": {
+    "address": "1001 El Camino Real",
+    "note": "Pizza restaurant at the corner of El Camino Real and Menlo Avenue, opened in 2019 as a Mountain Mike's franchise in the former longtime Applewood Pizza space.",
+    "start": 2019,
+    "approx": false,
+    "links": [
+     "https://www.franchising.com/amp/news/20200115_mountain_mikersquos_pizza_now_open_in_menlo_park.html?ref=FBN",
+     "https://www.paloaltoonline.com/ae/2019/11/11/shop-talk-farmers-market-goes-year-round-new-boxing-gym/"
+    ]
+   }
   }
  ]
 }
