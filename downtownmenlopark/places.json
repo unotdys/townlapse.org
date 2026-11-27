@@ -312,15 +312,24 @@
  {
   "name": "Penzeys Spices",
   "address": "771 Santa Cruz Ave",
-  "start": 2026,
+  "start": 2008,
   "end": null,
   "category": "retail",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (grocery). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Spice shop that opened at 771 Santa Cruz Ave in late November 2008 as the chain's first Northern California store. It is still open today.",
   "lat": 37.4511212,
-  "lng": -122.184771
+  "lng": -122.184771,
+  "links": [
+   {
+    "url": "https://www.foodgal.com/2008/12/a-visit-to-penzeys-in-menlo-park/print/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/real-estate/2009/02/06/building-permits-133/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Wells Fargo",

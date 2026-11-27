@@ -150,6 +150,19 @@
      "https://www.menlopark.gov/files/sharedassets/public/v/1/city-managers-office/documents/economic-development/menlo-park-downtown-market-study-report-by-hdl.pdf"
     ]
    }
+  },
+  {
+   "target": "Penzeys Spices",
+   "target_address": "771 Santa Cruz Ave",
+   "fields": {
+    "note": "Spice shop that opened at 771 Santa Cruz Ave in late November 2008 as the chain's first Northern California store. It is still open today.",
+    "start": 2008,
+    "approx": false,
+    "links": [
+     "https://www.foodgal.com/2008/12/a-visit-to-penzeys-in-menlo-park/print/",
+     "https://www.paloaltoonline.com/real-estate/2009/02/06/building-permits-133/"
+    ]
+   }
   }
  ]
 }
