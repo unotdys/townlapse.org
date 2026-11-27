@@ -71,16 +71,21 @@
  },
  {
   "name": "Anthem Bed & Bath",
-  "address": "887 Santa Cruz avenue",
-  "start": 2026,
+  "address": "887 Santa Cruz Ave",
+  "start": 2017,
   "end": null,
   "category": "retail",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (household linen). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4495942,
-  "lng": -122.186079
+  "note": "Bedding and bath shop run by the San Francisco retailer Anthem, next door to its Anthem home store at 889 Santa Cruz Ave. Anthem says it opened in downtown Menlo Park around 2017.",
+  "lat": 37.4496228,
+  "lng": -122.1858242,
+  "links": [
+   {
+    "url": "https://anthemsf.online/pages/locations-2022",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Robert Brian's Hair Salon",

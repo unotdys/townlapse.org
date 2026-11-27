@@ -41,6 +41,19 @@
      "https://www.paloaltoonline.com/peninsula-foodist/2017/07/24/opening-alert-kyosho-sushi-in-menlo-park/"
     ]
    }
+  },
+  {
+   "target": "Anthem Bed & Bath",
+   "target_address": "887 Santa Cruz avenue",
+   "fields": {
+    "address": "887 Santa Cruz Ave",
+    "note": "Bedding and bath shop run by the San Francisco retailer Anthem, next door to its Anthem home store at 889 Santa Cruz Ave. Anthem says it opened in downtown Menlo Park around 2017.",
+    "start": 2017,
+    "approx": true,
+    "links": [
+     "https://anthemsf.online/pages/locations-2022"
+    ]
+   }
   }
  ]
 }
