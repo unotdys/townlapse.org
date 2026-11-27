@@ -1352,6 +1352,36 @@
   ]
  },
  {
+  "name": "Margaret O'Leary",
+  "address": "855 El Camino Real",
+  "start": 2015,
+  "end": null,
+  "category": "retail",
+  "approx": false,
+  "note": "Knitwear and clothing boutique from the Bay Area designer, opened at Town & Country Village in April 2015 in a space that once held a cobbler. The center's directory still lists it in Building 2, Suite 43, next to Ruti.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://images3.loopnet.com/d2/B1D6HV6Ev41YOADyoR81CwXyUzjh9D1FNui9TA7urbg/document.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://preview-prod.w.sfchronicle.com/travel/article/Palo-Alto-s-tony-Town-Country-Village-worth-a-6266270.php",
+    "kind": "Article"
+   },
+   {
+    "url": "https://tandcvillage.com/tenant-type/apparel-shoes/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://tandcvillage.com/tenant/margaret-oleary/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "address not listed",
   "start": 2026,
@@ -1662,19 +1692,6 @@
   "note": "Open today (clothes). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 37.4384521,
   "lng": -122.159922
- },
- {
-  "name": "Margaret O’Leary",
-  "address": "855 El Camino Real",
-  "start": 2026,
-  "end": null,
-  "category": "retail",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (clothes). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4384159,
-  "lng": -122.16004
  },
  {
   "name": "Lulu's",
