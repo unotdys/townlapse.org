@@ -136,6 +136,20 @@
      "https://skynailsmenlo.favesalon.com/"
     ]
    }
+  },
+  {
+   "target": "Rug Center",
+   "target_address": "777 Santa Cruz Ave",
+   "fields": {
+    "note": "Rug shop in the 775-777 Santa Cruz Ave building, which earlier held beauty salons. It moved here from Mountain View around 2020.",
+    "start": 2020,
+    "approx": true,
+    "links": [
+     "https://cdn.prod.website-files.com/616f8c0322684497201c170a/66c36e3158fae142b18aafbd_MPHA%20Apr%202024%20GP.pdf",
+     "https://menlocoa.org/22120/a-and-l/how-does-downtown-menlo-park-support-so-many-rug-stores/",
+     "https://www.menlopark.gov/files/sharedassets/public/v/1/city-managers-office/documents/economic-development/menlo-park-downtown-market-study-report-by-hdl.pdf"
+    ]
+   }
   }
  ]
 }

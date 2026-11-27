@@ -286,15 +286,28 @@
  {
   "name": "Rug Center",
   "address": "777 Santa Cruz Ave",
-  "start": 2026,
+  "start": 2020,
   "end": null,
   "category": "retail",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (rugs). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Rug shop in the 775-777 Santa Cruz Ave building, which earlier held beauty salons. It moved here from Mountain View around 2020.",
   "lat": 37.4509781,
-  "lng": -122.184874
+  "lng": -122.184874,
+  "links": [
+   {
+    "url": "https://cdn.prod.website-files.com/616f8c0322684497201c170a/66c36e3158fae142b18aafbd_MPHA%20Apr%202024%20GP.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.menlopark.gov/files/sharedassets/public/v/1/city-managers-office/documents/economic-development/menlo-park-downtown-market-study-report-by-hdl.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://menlocoa.org/22120/a-and-l/how-does-downtown-menlo-park-support-so-many-rug-stores/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Penzeys Spices",
