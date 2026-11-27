@@ -1,5 +1,19 @@
 {
- "additions": [],
+ "additions": [
+  {
+   "name": "The Shop",
+   "address": "725 Santa Cruz Ave",
+   "note": "Resale shop on Santa Cruz Avenue in downtown Menlo Park selling donated clothing, accessories, and household goods, with proceeds supporting the Junior League of Palo Alto-Mid Peninsula. The Shop was established in 1970 and operates at 725 Santa Cruz Avenue.",
+   "start": 1970,
+   "end": null,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "http://www.theshopmenlopark.org/",
+    "https://www.roxyrealty.com/local-recommendations/tag/shops"
+   ]
+  }
+ ],
  "corrections": [
   {
    "target": "Peet's Coffee",
