@@ -3255,6 +3255,28 @@
   ]
  },
  {
+  "name": "Aqua Aloha Surf Waikiki",
+  "address": "444 Kanekapolei St",
+  "start": 1967,
+  "end": null,
+  "category": "hotel",
+  "approx": true,
+  "note": "Boutique surf-themed hotel at 444 Kanekapolei Street, built in 1967 and operating through the 2010s to today under Aqua Hotels & Resorts.",
+  "lat": 21.2790457,
+  "lng": -157.8236645,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://the.honoluluadvertiser.com/article/2005/Mar/25/bz/bz12p.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://us.trip.com/hotels/honolulu-hotel-detail-714904/aqua-aloha-surf-waikiki/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,

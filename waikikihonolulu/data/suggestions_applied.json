@@ -1814,6 +1814,19 @@
     "https://alohastatedaily.com/2026/04/16/tonkatsu-tamafuji-is-now-open-in-an-expanded-space/",
     "https://www.honolulumagazine.com/something-crispy-tonkatsu-tamafuji/"
    ]
+  },
+  {
+   "name": "Aqua Aloha Surf Waikiki",
+   "address": "444 Kanekapolei St",
+   "note": "Boutique surf-themed hotel at 444 Kanekapolei Street, built in 1967 and operating through the 2010s to today under Aqua Hotels & Resorts.",
+   "start": 1967,
+   "end": null,
+   "category": "hotel",
+   "approx": true,
+   "links": [
+    "https://the.honoluluadvertiser.com/article/2005/Mar/25/bz/bz12p.html",
+    "https://us.trip.com/hotels/honolulu-hotel-detail-714904/aqua-aloha-surf-waikiki/"
+   ]
   }
  ],
  "corrections": [
