@@ -1,1 +1,18 @@
-{"additions": [], "corrections": []}
+{
+ "additions": [],
+ "corrections": [
+  {
+   "target": "Sur La Table",
+   "target_address": "855 El Camino Real",
+   "fields": {
+    "start": 2008,
+    "approx": true,
+    "links": [
+     "https://www.paloaltoonline.com/cover-story/2008/08/27/decision-2008-the-best-of-palo-alto-2/",
+     "https://www.paloaltoonline.com/news/2008/05/28/shop-talk-44/",
+     "https://www.surlatable.com/locations/ca/paloalto/store-73.html"
+    ]
+   }
+  }
+ ]
+}

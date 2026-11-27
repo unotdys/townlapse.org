@@ -457,15 +457,28 @@
  {
   "name": "Sur La Table",
   "address": "855 El Camino Real",
-  "start": 2026,
+  "start": 2008,
   "end": null,
   "category": "retail",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
   "note": "Open today (houseware). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 37.4381674,
-  "lng": -122.1603619
+  "lng": -122.1603619,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/cover-story/2008/08/27/decision-2008-the-best-of-palo-alto-2/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2008/05/28/shop-talk-44/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.surlatable.com/locations/ca/paloalto/store-73.html",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Ruti",
