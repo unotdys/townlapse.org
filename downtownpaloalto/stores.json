@@ -4584,6 +4584,44 @@
   ]
  },
  {
+  "name": "Loui Loui Steakhouse",
+  "address": "473 University Ave",
+  "start": 2009,
+  "end": 2010,
+  "category": "food",
+  "approx": true,
+  "note": "Steakhouse that opened in spring 2009 in the former Coppola restaurant space. It was short-lived, and Cafe Renzo had replaced it by 2010.",
+  "lat": 37.4481216,
+  "lng": -122.1598117,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "http://www.hoosierburgerboy.com/2009/05/loui-loui-steakhouse-palo-alto-ca.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://n2v.paloaltoonline.com/blogs/p/2015/01/20/employees-turned-owners-revamp-cafe-alto-open-new-restaurant",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.mv-voice.com/wp-content/uploads/2009/06/2009_06_19.mvv_.section1.pdf",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.mv-voice.com/wp-content/uploads/2010/07/2010_07_23.mvv_.section1.pdf",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.mapquest.com/us/california/loui-loui-steak-780125394",
+    "kind": "Listing"
+   },
+   {
+    "url": "https://www.yelp.com/biz/loui-loui-steak-palo-alto-2?start=20",
+    "kind": "Listing"
+   }
+  ]
+ },
+ {
   "name": "Uforia Studios",
   "address": "819 Ramona St",
   "start": 2011,
@@ -5143,6 +5181,24 @@
    }
   ],
   "note": "Coffee shop. Palo Alto Online's Peninsula Foodist reported it opening in 2015. Later status unknown."
+ },
+ {
+  "name": "Gong Cha",
+  "address": "429 Waverley St",
+  "start": 2015,
+  "end": 2015,
+  "category": "food",
+  "approx": true,
+  "source": "news",
+  "lat": 37.4476333,
+  "lng": -122.1610727,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/06/another-milk-tea-chain-setting-up-shop-in-palo-alto/",
+    "kind": "Article"
+   }
+  ],
+  "note": "Milk tea shop. Palo Alto Online's Peninsula Foodist reported it opening in 2015. Later status unknown."
  },
  {
   "name": "B+B",
@@ -8362,24 +8418,6 @@
   ]
  },
  {
-  "name": "Gong Cha",
-  "address": "439 Waverley St",
-  "start": 2015,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2015.",
-  "lat": 37.4477131,
-  "lng": -122.1607332,
-  "links": [
-   {
-    "url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/06/another-milk-tea-chain-setting-up-shop-in-palo-alto/",
-    "kind": "Article"
-   }
-  ]
- },
- {
   "name": "Cielo",
   "address": "477 University Ave",
   "start": 2015,
@@ -8552,6 +8590,18 @@
   "note": "Open today (restaurant). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened.",
   "lat": 37.4458038,
   "lng": -122.1621102
+ },
+ {
+  "name": "Gong Cha",
+  "address": "439 Waverley St",
+  "start": 2017,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "source": "osm",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened.",
+  "lat": 37.4477131,
+  "lng": -122.1607332
  },
  {
   "name": "The Patio",

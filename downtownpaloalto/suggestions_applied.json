@@ -1591,6 +1591,23 @@
     "https://www.mv-voice.com/wp-content/uploads/2009/06/2009_06_19.mvv_.section1.pdf",
     "https://www.sfchronicle.com/restaurants/article/Details-mar-a-fun-place-in-Palo-Alto-2688720.php"
    ]
+  },
+  {
+   "name": "Loui Loui Steakhouse",
+   "address": "473 University Ave",
+   "note": "Steakhouse that opened in spring 2009 in the former Coppola restaurant space. It was short-lived, and Cafe Renzo had replaced it by 2010.",
+   "start": 2009,
+   "end": 2010,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "http://www.hoosierburgerboy.com/2009/05/loui-loui-steakhouse-palo-alto-ca.html",
+    "https://n2v.paloaltoonline.com/blogs/p/2015/01/20/employees-turned-owners-revamp-cafe-alto-open-new-restaurant",
+    "https://www.mapquest.com/us/california/loui-loui-steak-780125394",
+    "https://www.mv-voice.com/wp-content/uploads/2009/06/2009_06_19.mvv_.section1.pdf",
+    "https://www.mv-voice.com/wp-content/uploads/2010/07/2010_07_23.mvv_.section1.pdf",
+    "https://www.yelp.com/biz/loui-loui-steak-palo-alto-2?start=20"
+   ]
   }
  ],
  "corrections": [
