@@ -1623,6 +1623,19 @@
     "https://www.mv-voice.com/morgue/2004/2004_02_13.dining.shtml",
     "https://www.paloaltoonline.com/wp-content/uploads/2024/02/2005_06_10.paw_.section1.pdf"
    ]
+  },
+  {
+   "name": "Palo Alto Hotel",
+   "address": "425 High St",
+   "note": "Hotel on High Street that new owners bought in 2008 and renovated into Hotel Keen, which opened in 2010. When it first opened here is not documented.",
+   "start": null,
+   "end": 2008,
+   "category": "hotel",
+   "approx": true,
+   "links": [
+    "https://www.ams.org/journals/notices/197302/197302FullIssue.pdf",
+    "https://www.hotelexecutive.com/newswire/32397/hotel-keen-opens-may-2010-in-palo-alto-the-cutting-edge-of-comfort"
+   ]
   }
  ],
  "corrections": [

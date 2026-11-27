@@ -4874,6 +4874,28 @@
   "start_unknown": true
  },
  {
+  "name": "Palo Alto Hotel",
+  "address": "425 High St",
+  "start": 2008,
+  "end": 2008,
+  "category": "hotel",
+  "approx": true,
+  "note": "Hotel on High Street that new owners bought in 2008 and renovated into Hotel Keen, which opened in 2010. When it first opened here is not documented.",
+  "lat": 37.4447745,
+  "lng": -122.164055,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.ams.org/journals/notices/197302/197302FullIssue.pdf",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hotelexecutive.com/newswire/32397/hotel-keen-opens-may-2010-in-palo-alto-the-cutting-edge-of-comfort",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "The Prolific Oven",
   "address": "550 Waverley St",
   "start": 1980,
@@ -5278,24 +5300,6 @@
    }
   ],
   "note": "Coffee shop. Palo Alto Online's Peninsula Foodist reported it opening in 2015. Later status unknown."
- },
- {
-  "name": "Gong Cha",
-  "address": "429 Waverley St",
-  "start": 2015,
-  "end": 2015,
-  "category": "food",
-  "approx": true,
-  "source": "news",
-  "lat": 37.4476333,
-  "lng": -122.1610727,
-  "links": [
-   {
-    "url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/06/another-milk-tea-chain-setting-up-shop-in-palo-alto/",
-    "kind": "Article"
-   }
-  ],
-  "note": "Milk tea shop. Palo Alto Online's Peninsula Foodist reported it opening in 2015. Later status unknown."
  },
  {
   "name": "B+B",
@@ -8503,6 +8507,24 @@
   ]
  },
  {
+  "name": "Gong Cha",
+  "address": "439 Waverley St",
+  "start": 2015,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "source": "osm",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2015.",
+  "lat": 37.4477131,
+  "lng": -122.1607332,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/06/another-milk-tea-chain-setting-up-shop-in-palo-alto/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Cielo",
   "address": "477 University Ave",
   "start": 2015,
@@ -8677,18 +8699,6 @@
   "lng": -122.1621102
  },
  {
-  "name": "Gong Cha",
-  "address": "439 Waverley St",
-  "start": 2017,
-  "end": null,
-  "category": "food",
-  "approx": true,
-  "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened.",
-  "lat": 37.4477131,
-  "lng": -122.1607332
- },
- {
   "name": "The Patio",
   "address": "412 Emerson St",
   "start": 2017,
@@ -8773,6 +8783,24 @@
   "lng": -122.1617581
  },
  {
+  "name": "Joe & The Juice",
+  "address": "240 Hamilton Ave",
+  "start": 2018,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "source": "osm",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
+  "lat": 37.4443528,
+  "lng": -122.1609464,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2017/08/03/joe-the-juice-is-headed-to-palo-alto/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Salt & Straw",
   "address": "250 University Ave",
   "start": 2018,
@@ -8831,24 +8859,6 @@
   "note": "Open today (bank). Listed in OpenStreetMap; first mapped in 2018, which is roughly when it opened.",
   "lat": 37.4487526,
   "lng": -122.1601494
- },
- {
-  "name": "Joe & The Juice",
-  "address": "508 University Ave",
-  "start": 2018,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
-  "lat": 37.4484574,
-  "lng": -122.1588997,
-  "links": [
-   {
-    "url": "https://www.paloaltoonline.com/peninsula-foodist/2017/08/03/joe-the-juice-is-headed-to-palo-alto/",
-    "kind": "Article"
-   }
-  ]
  },
  {
   "name": "Mangosteen",
@@ -8978,15 +8988,15 @@
  },
  {
   "name": "Joe & The Juice",
-  "address": "240 Hamilton Ave",
+  "address": "508 University Ave",
   "start": 2019,
   "end": null,
   "category": "food",
   "approx": true,
   "source": "osm",
   "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
-  "lat": 37.4443528,
-  "lng": -122.1609464
+  "lat": 37.4484574,
+  "lng": -122.1588997
  },
  {
   "name": "Salvaje",
