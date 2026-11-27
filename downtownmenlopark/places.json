@@ -2048,15 +2048,24 @@
  {
   "name": "Level Lux Hair Studio",
   "address": "441 El Camino Real",
-  "start": 2026,
+  "start": 2025,
   "end": null,
   "category": "services",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (hairdresser). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Hair salon on El Camino Real, open in Menlo Park by mid-2025 and still operating.",
   "lat": 37.4499775,
-  "lng": -122.176861
+  "lng": -122.176861,
+  "links": [
+   {
+    "url": "https://www.instagram.com/p/DLDCNONRv2a/",
+    "kind": "Photo"
+   },
+   {
+    "url": "https://www.levelluxmenlo.com/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Jenny Craig Weight Loss",

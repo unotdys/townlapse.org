@@ -813,6 +813,19 @@
      "https://www.giftly.com/gift-card/lynas-beauty-salon-menlo-park-4"
     ]
    }
+  },
+  {
+   "target": "Level Lux Hair Studio",
+   "target_address": "441 El Camino Real",
+   "fields": {
+    "note": "Hair salon on El Camino Real, open in Menlo Park by mid-2025 and still operating.",
+    "start": 2025,
+    "approx": true,
+    "links": [
+     "https://www.instagram.com/p/DLDCNONRv2a/",
+     "https://www.levelluxmenlo.com/"
+    ]
+   }
   }
  ]
 }
