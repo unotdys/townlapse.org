@@ -12,6 +12,20 @@
     "http://www.theshopmenlopark.org/",
     "https://www.roxyrealty.com/local-recommendations/tag/shops"
    ]
+  },
+  {
+   "name": "Afterwards",
+   "address": "1159 El Camino Real",
+   "note": "Designer consignment shop selling women's clothing, handbags, shoes, furnishings and artwork in downtown Menlo Park. It opened in September 1990 and remains open.",
+   "start": 1990,
+   "end": null,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "http://afterwards.com/",
+    "https://punchmagazine.com/happily-ever-afterwards/",
+    "https://www.paloaltoonline.com/morgue/news/2000_Sep_13.SHOP13.html"
+   ]
   }
  ],
  "corrections": [
