@@ -3368,6 +3368,37 @@
   ]
  },
  {
+  "name": "Makee Properties",
+  "address": "230 Makee Rd",
+  "start": 2026,
+  "end": null,
+  "category": "hotel",
+  "approx": true,
+  "note": "Former boutique hotel on the Diamond Head side of Waikiki, now ten furnished studio units rented for intermediate stays. The building dates to about 1969.",
+  "lat": 21.2724614,
+  "lng": -157.8199415,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://naicslist.com/company-profile/makee-properties-llc-honolulu-hi-96815",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.ApartmentHomeLiving.com/apartment-finder/230-Makee-Rd-Honolulu-HI-96815-5915905",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.apartments.com/230-makee-rd-honolulu-hi/vlsb5ze",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.makeeproperties.com/about-us/",
+    "kind": "Article"
+   }
+  ],
+  "start_unknown": true
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
