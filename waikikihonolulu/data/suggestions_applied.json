@@ -2101,6 +2101,18 @@
     "https://www.giftly.com/gift-card/in-between-waikiki-honolulu",
     "https://www.waikikiwasted.com/bars/in-between.html"
    ]
+  },
+  {
+   "name": "International Market Place",
+   "address": "2330 Kal\u0101kaua Ave",
+   "note": "Iconic open-air shopping, dining, and entertainment bazaar at 2330 Kal\u0101kaua Ave; originally opened in 1956, operated throughout the 1990s, and closed in 2013 for redevelopment.",
+   "start": 1956,
+   "end": 2013,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "https://en.wikipedia.org/wiki/International_Market_Place"
+   ]
   }
  ],
  "corrections": [

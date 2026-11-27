@@ -3801,6 +3801,24 @@
   ]
  },
  {
+  "name": "International Market Place",
+  "address": "2330 Kalākaua Ave",
+  "start": 1956,
+  "end": 2013,
+  "category": "retail",
+  "approx": true,
+  "note": "Iconic open-air shopping, dining, and entertainment bazaar at 2330 Kalākaua Ave; originally opened in 1956, operated throughout the 1990s, and closed in 2013 for redevelopment.",
+  "lat": 21.2783385,
+  "lng": -157.8260782,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://en.wikipedia.org/wiki/International_Market_Place",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
