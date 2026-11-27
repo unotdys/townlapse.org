@@ -1246,6 +1246,32 @@
   "start_unknown": true
  },
  {
+  "name": "LaBelle Day Spa & Salon",
+  "address": "855 El Camino Real",
+  "start": 2005,
+  "end": null,
+  "category": "services",
+  "approx": true,
+  "note": "Day spa and hair salon at Town & Country Village, part of a Bay Area chain founded in 1976. Palo Alto Online's Best Of lists named it in 2005 and 2013, and the center's directory still lists it in Building 2, offering hair, skin, nail and medspa services.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://tandcvillage.com/tenant/labelle-hair-salon/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/best-of/2005/08/31/best-of-2005/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2013/08/30/best-service-businesses/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "address not listed",
   "start": 2026,

@@ -685,6 +685,20 @@
     "https://www.coyuchi.com/palo-alto-store-press-release",
     "https://www.tripadvisor.co.uk/ShowUserReviews-g32849-d7736826-r700415931-Town_Country_Village-Palo_Alto_California.html"
    ]
+  },
+  {
+   "name": "LaBelle Day Spa & Salon",
+   "address": "855 El Camino Real",
+   "note": "Day spa and hair salon at Town & Country Village, part of a Bay Area chain founded in 1976. Palo Alto Online's Best Of lists named it in 2005 and 2013, and the center's directory still lists it in Building 2, offering hair, skin, nail and medspa services.",
+   "start": 2005,
+   "end": null,
+   "category": "services",
+   "approx": true,
+   "links": [
+    "https://tandcvillage.com/tenant/labelle-hair-salon/",
+    "https://www.paloaltoonline.com/best-of/2005/08/31/best-of-2005/",
+    "https://www.paloaltoonline.com/news/2013/08/30/best-service-businesses/"
+   ]
   }
  ],
  "corrections": [
