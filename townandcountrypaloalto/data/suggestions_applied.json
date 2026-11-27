@@ -134,6 +134,19 @@
     "https://paloalto.org/shopping/menswear/",
     "https://www.californiaentertainmentpress.com/article/627431138-celebrating-70-years-town-country-village-attracts-influx-of-new-brands"
    ]
+  },
+  {
+   "name": "Manresa Bread",
+   "address": "855 El Camino Real",
+   "note": "Bakery in Town & Country Village that opened April 15, 2022 in a space of about 1,700 square feet at 855 El Camino Real, Suite 138. A current Palo Alto visitor guide still lists it there, open daily.",
+   "start": 2022,
+   "end": null,
+   "category": "food",
+   "approx": false,
+   "links": [
+    "https://paloalto.org/plan-your-trip/foodie-weekend/",
+    "https://www.paloaltoonline.com/ae/2022/04/14/manresa-bread-brings-its-carefully-crafted-breads-and-flaky-pastries-to-palo-alto-2/"
+   ]
   }
  ],
  "corrections": [

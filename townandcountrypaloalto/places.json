@@ -240,6 +240,28 @@
   ]
  },
  {
+  "name": "Manresa Bread",
+  "address": "855 El Camino Real",
+  "start": 2022,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "note": "Bakery in Town & Country Village that opened April 15, 2022 in a space of about 1,700 square feet at 855 El Camino Real, Suite 138. A current Palo Alto visitor guide still lists it there, open daily.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://paloalto.org/plan-your-trip/foodie-weekend/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/ae/2022/04/14/manresa-bread-brings-its-carefully-crafted-breads-and-flaky-pastries-to-palo-alto-2/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "CVS Pharmacy",
   "address": "address not listed",
   "start": 2026,
@@ -819,19 +841,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Manresa Bread",
-  "address": "855 El Camino Real",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (bakery). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4382629,
-  "lng": -122.1585754
  },
  {
   "name": "Boba Guys",
