@@ -1714,6 +1714,36 @@
   ]
  },
  {
+  "name": "Stickney's Hick'ry House",
+  "address": "855 El Camino Real",
+  "start": 1953,
+  "end": 1999,
+  "category": "food",
+  "approx": true,
+  "note": "Long-running family restaurant at the north corner of Town & Country Village, also known as Stickney's Family Restaurant. A 1994 review said it had served locals for more than 40 years, and local recollections say it closed around 1999–2000.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/restaurants/1994_Nov_4.EATOUT04.html",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.paloaltohistory.org/restaurant-row.php",
+    "kind": "History"
+   },
+   {
+    "url": "http://www.emeraldlake.com/portfolio/011800.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://n2v.paloaltoonline.com/square/print/2020/04/11/former-restaurant-on-embarcadero-next-to-mings",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "address not listed",
   "start": 2026,
