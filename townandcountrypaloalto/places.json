@@ -1114,16 +1114,25 @@
  },
  {
   "name": "Addison Antiques",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
+  "address": "100 Addison Ave",
+  "start": 2005,
+  "end": 2015,
   "category": "retail",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (antiques). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4396009,
-  "lng": -122.15724
+  "note": "Antique shop at the corner of Addison Ave and Alma St, run by former antique dealers and selling furniture and collectibles. It opened in July 2005 and closed in June 2015, and was described as Palo Alto's last antique store.",
+  "lat": 37.439577,
+  "lng": -122.157584,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/2005/2005_06_15.shop15antq2.shtml",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/uncategorized/2015/03/13/shop-talk-170/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "DM Motors",

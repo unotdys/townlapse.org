@@ -312,6 +312,21 @@
      "https://www.restaurantji.com/ca/palo-alto/peninsula-creamery-dairy-store-and-grill-"
     ]
    }
+  },
+  {
+   "target": "Addison Antiques",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "100 Addison Ave",
+    "note": "Antique shop at the corner of Addison Ave and Alma St, run by former antique dealers and selling furniture and collectibles. It opened in July 2005 and closed in June 2015, and was described as Palo Alto's last antique store.",
+    "start": 2005,
+    "end": 2015,
+    "approx": false,
+    "links": [
+     "https://www.paloaltoonline.com/morgue/2005/2005_06_15.shop15antq2.shtml",
+     "https://www.paloaltoonline.com/uncategorized/2015/03/13/shop-talk-170/"
+    ]
+   }
   }
  ]
 }
