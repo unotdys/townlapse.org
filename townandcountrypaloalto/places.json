@@ -1644,6 +1644,28 @@
   ]
  },
  {
+  "name": "Scott's Seafood",
+  "address": "855 El Camino Real",
+  "start": 2002,
+  "end": 2015,
+  "category": "food",
+  "approx": true,
+  "note": "Seafood restaurant that opened at Town and Country Village in February 2002 in the former Stickney's space. It closed on March 8, 2015.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/2001/2001_11_28.t_c.html",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2015/02/03/scotts-seafood-palo-alto-closing-in-march/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "address not listed",
   "start": 2026,
