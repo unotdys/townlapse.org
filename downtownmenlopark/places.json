@@ -364,15 +364,32 @@
  {
   "name": "Accent on Eyewear",
   "address": "729 Santa Cruz Ave",
-  "start": 2026,
+  "start": 1988,
   "end": null,
   "category": "services",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (optician). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Eyewear shop and licensed optician on Santa Cruz Avenue, open since 1988 according to the shop's own history page. Still operating at this address.",
   "lat": 37.4515242,
-  "lng": -122.184443
+  "lng": -122.184443,
+  "links": [
+   {
+    "url": "http://www.accentoneyewear.com/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://checkbook.org/ca/menlo-park/opticians-optometrists-buying-eyewear/accent-on-eyewear/bl4ac",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.businessesup.com/546029/accent-on-eyewear",
+    "kind": "Article"
+   },
+   {
+    "url": "https://startpage.mapquest.com/us/california/accent-on-eyewear-11722535",
+    "kind": "Listing"
+   }
+  ]
  },
  {
   "name": "Old World Designs Needlepoint",
