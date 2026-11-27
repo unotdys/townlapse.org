@@ -3417,6 +3417,40 @@
   ]
  },
  {
+  "name": "BLT Steak Waikiki",
+  "address": "223 Saratoga Rd",
+  "start": 2009,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Laurent Tourondel's BLT Steak opened around December 2009 at the corner of Saratoga Road and Kalia Road in the Trump International Hotel Waikiki. Restaurant listings later marked it permanently closed, but its closing date is unknown.",
+  "lat": 21.2794259,
+  "lng": -157.832077,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "http://hotel-online.com/news/trump-international-hotel-waikiki-beach-walk-opens-firstluxury-hotel-to-open-in-waikiki-in-over-20-years-november-2009",
+    "kind": "Article"
+   },
+   {
+    "url": "https://archives.starbulletin.com/content/20090630_BLT_Steak_is_expanding_chain_to_Trump_in_Waikiki.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://opentable.co.uk/r/blt-steak-waikiki-honolulu",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.gayot.com/restaurants/hawaiinews/archive-november-2009.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/dining-trumped/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
