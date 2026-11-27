@@ -3103,6 +3103,36 @@
   ]
  },
  {
+  "name": "Diamond Head Market & Grill",
+  "address": "3158 Monsarrat Ave",
+  "start": 2002,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "note": "Chef Kelvin Ro, formerly of Kahala Moon, opened Diamond Head Grill at Monsarrat and Campbell avenues in August 2002. The market next to it, with a deli, bakery and take-out meals, followed in late November 2002, and both are still open.",
+  "lat": 21.2698192,
+  "lng": -157.8115832,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://alohastatedaily.com/2025/12/18/diamond-head-market-grill-now-has-a-new-okazuya-pop-up-and-breakfast-on-weekends",
+    "kind": "Article"
+   },
+   {
+    "url": "https://cookingwithamy.blogspot.com/2005/05/grill-at-diamond-head-market.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://the.honoluluadvertiser.com/article/2002/Dec/04/il/il20ataste.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.honolulumagazine.com/your-oahu-neighborhood-guide-monsarrat-avenue/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
