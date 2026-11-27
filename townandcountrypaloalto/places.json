@@ -30,6 +30,28 @@
   ]
  },
  {
+  "name": "Sweet 55",
+  "address": "855 El Camino Real",
+  "start": 2022,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Swiss chocolate shop at Town & Country Village. Palo Alto Online reported a June 17, 2022 grand opening for the Palo Alto store at 855 El Camino Real Suite 123, and a November 2026 Peninsula shopping guide still lists SWEET55 at Town & Country Village.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2022/06/14/award-winning-chocolatier-sweet55-comes-home-to-palo-alto/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.thesanfranciscopeninsula.com/blog/stories/post/making-holiday-shopping-easy/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "CVS Pharmacy",
   "address": "address not listed",
   "start": 2026,
@@ -509,19 +531,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Sweet 55",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (chocolate). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.438703,
-  "lng": -122.158922
  },
  {
   "name": "Coyuchi",

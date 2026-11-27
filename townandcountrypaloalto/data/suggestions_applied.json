@@ -14,6 +14,19 @@
     "https://www.ruti.com/pages/stores",
     "https://yespress.io/ruti-inc"
    ]
+  },
+  {
+   "name": "Sweet 55",
+   "address": "855 El Camino Real",
+   "note": "Swiss chocolate shop at Town & Country Village. Palo Alto Online reported a June 17, 2022 grand opening for the Palo Alto store at 855 El Camino Real Suite 123, and a November 2026 Peninsula shopping guide still lists SWEET55 at Town & Country Village.",
+   "start": 2022,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/blogs/2022/06/14/award-winning-chocolatier-sweet55-comes-home-to-palo-alto/",
+    "https://www.thesanfranciscopeninsula.com/blog/stories/post/making-holiday-shopping-easy/"
+   ]
   }
  ],
  "corrections": [
