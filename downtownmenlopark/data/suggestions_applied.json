@@ -858,6 +858,19 @@
      "https://www.ussd.com/dojo-locations/menlo-park"
     ]
    }
+  },
+  {
+   "target": "Shiok Singapore Kitchen",
+   "target_address": "1137 Chestnut St",
+   "fields": {
+    "note": "Singaporean restaurant on Chestnut Street from 1999 until the building was sold and tenants had to leave by January 1, 2025. It later reopened at 625 Oak Grove Ave.",
+    "start": 1999,
+    "end": 2024,
+    "approx": false,
+    "links": [
+     "https://www.paloaltoonline.com/menlo-park/2026/04/15/singaporean-restaurant-finds-its-way-back-to-downtown-menlo-park/"
+    ]
+   }
   }
  ]
 }
