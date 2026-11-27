@@ -1312,6 +1312,28 @@
   ]
  },
  {
+  "name": "Athleta",
+  "address": "855 El Camino Real",
+  "start": 2013,
+  "end": null,
+  "category": "retail",
+  "approx": true,
+  "note": "Women's athletic apparel store in Town & Country Village, hosting race events there by July 2013. Athleta's store locator still lists it at 855 El Camino Real, Suite 37.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://athleta.gap.com/stores/ca/paloalto/athleta-4895.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://ir.lifetime.life/news-events/press-releases/detail/252/life-time-athleta-esprit-de-she-race-series-debuts-in-california-on-aug-1-with-5k-run-registration-still-open",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "address not listed",
   "start": 2026,
