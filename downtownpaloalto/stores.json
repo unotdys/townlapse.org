@@ -92,47 +92,6 @@
   "note": "Tuxedo and formal wear shop, a few doors from its 1959\u20131963 location at 158 University Ave. It closed in February 2015 when the Selix chain went bankrupt and shut all six stores; when it moved here is unknown."
  },
  {
-  "name": "Coupa Cafe",
-  "address": "111 Lytton Ave",
-  "start": 2016,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "source": "news",
-  "lat": 37.4445426,
-  "lng": -122.1652665,
-  "links": [
-   {
-    "url": "https://www.paloaltoonline.com/peninsula-foodist/2016/01/26/now-open-second-coupa-cafe-in-palo-alto/",
-    "kind": "Article"
-   },
-   {
-    "url": "https://joe.coffee/locations/ca/palo-alto/coupa-cafe-lytton-palo-alto-6a719d2f-fcf6-4422-adc4-d95a67ab5468/",
-    "kind": "Article"
-   },
-   {
-    "url": "https://n2v.paloaltoonline.com/blogs/p/2016/01/26/now-open-second-coupa-cafe-in-palo-alto",
-    "kind": "Article"
-   },
-   {
-    "url": "https://www.coupacafe.com/Locations/palo-alto-lytton",
-    "kind": "Article"
-   },
-   {
-    "url": "https://www.paloaltoonline.com/news/print/2016/03/03/celebrate-with-coupa",
-    "kind": "Article"
-   },
-   {
-    "url": "https://www.yelp.com/biz/coupa-caf%C3%A9-lytton-palo-alto",
-    "kind": "Listing"
-   }
-  ],
-  "note": "Venezuelan-style cafe in the Lytton Gateway building across from the downtown Caltrain station, opened in late January 2016 as Coupa's second downtown Palo Alto location. The family's original cafe opened on Ramona Street in 2004.",
-  "merged_from": [
-   "Coupa Caf\u00e9"
-  ]
- },
- {
   "name": "Ike's Love & Sandwiches",
   "address": "401 Lytton Ave",
   "start": 2018,
@@ -3863,6 +3822,28 @@
   ]
  },
  {
+  "name": "Mid-Peninsula Bank",
+  "address": "420 Cowper St",
+  "start": 1996,
+  "end": 2005,
+  "category": "services",
+  "approx": true,
+  "note": "Main office of a community bank organized in 1987, which became part of Greater Bay Bancorp in 1996. Greater Bay still listed the Palo Alto office under the Mid-Peninsula Bank name in its 2004 annual report.",
+  "lat": 37.4487526,
+  "lng": -122.1601494,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://fraser.stlouisfed.org/files/docs/releases/h2/h2_19960720.pdf",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.federalreserve.gov/apps/crapubweb/cra/DownloadPDF/1156539_20011126",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Zibibbo",
   "address": "430 Kipling St",
   "start": 1997,
@@ -5012,6 +4993,24 @@
   "note": "Vietnamese restaurant. Palo Alto Online's Peninsula Foodist reported it opening in 2003 and closing in 2020."
  },
  {
+  "name": "Coupa Cafe",
+  "address": "Ramona St",
+  "start": 2004,
+  "end": 2004,
+  "category": "food",
+  "approx": true,
+  "source": "news",
+  "lat": 37.4455052,
+  "lng": -122.1625455,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2016/01/26/now-open-second-coupa-cafe-in-palo-alto/",
+    "kind": "Article"
+   }
+  ],
+  "note": "Cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2004. Later status unknown."
+ },
+ {
   "name": "Fraiche",
   "address": "200 Hamilton Ave",
   "start": 2007,
@@ -5322,6 +5321,24 @@
    }
   ],
   "note": "Coffee shop. Palo Alto Online's Peninsula Foodist reported it opening in 2015. Later status unknown."
+ },
+ {
+  "name": "Gong Cha",
+  "address": "429 Waverley St",
+  "start": 2015,
+  "end": 2015,
+  "category": "food",
+  "approx": true,
+  "source": "news",
+  "lat": 37.4476333,
+  "lng": -122.1610727,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/06/another-milk-tea-chain-setting-up-shop-in-palo-alto/",
+    "kind": "Article"
+   }
+  ],
+  "note": "Milk tea shop. Palo Alto Online's Peninsula Foodist reported it opening in 2015. Later status unknown."
  },
  {
   "name": "B+B",
@@ -5919,9 +5936,9 @@
   "name": "The Redwood by Chef Julien",
   "address": "450 Bryant St",
   "start": 2022,
-  "end": 2026,
+  "end": 2022,
   "category": "food",
-  "approx": false,
+  "approx": true,
   "source": "news",
   "lat": 37.4461771,
   "lng": -122.1624215,
@@ -5931,7 +5948,7 @@
     "kind": "Article"
    }
   ],
-  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022."
+  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022. Later status unknown."
  },
  {
   "name": "Lima Ruby",
@@ -6352,14 +6369,14 @@
  },
  {
   "name": "La Comida",
-  "address": "450 Bryant St",
+  "address": "429 Bryant St",
   "start": 2026,
   "end": 2026,
   "category": "food",
   "approx": false,
   "source": "news",
-  "lat": 37.4461771,
-  "lng": -122.1624215,
+  "lat": 37.4465596,
+  "lng": -122.162491,
   "links": [
    {
     "url": "https://www.paloaltoonline.com/palo-alto/2026/08/26/avenidas-and-la-comida-to-host-foodie-fundraiser-to-support-older-adults/",
@@ -8529,24 +8546,6 @@
   ]
  },
  {
-  "name": "Gong Cha",
-  "address": "439 Waverley St",
-  "start": 2015,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2015.",
-  "lat": 37.4477131,
-  "lng": -122.1607332,
-  "links": [
-   {
-    "url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/06/another-milk-tea-chain-setting-up-shop-in-palo-alto/",
-    "kind": "Article"
-   }
-  ]
- },
- {
   "name": "Cielo",
   "address": "477 University Ave",
   "start": 2015,
@@ -8719,6 +8718,18 @@
   "note": "Open today (restaurant). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened.",
   "lat": 37.4458038,
   "lng": -122.1621102
+ },
+ {
+  "name": "Gong Cha",
+  "address": "439 Waverley St",
+  "start": 2017,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "source": "osm",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened.",
+  "lat": 37.4477131,
+  "lng": -122.1607332
  },
  {
   "name": "The Patio",
@@ -9688,6 +9699,19 @@
   "note": "Open today (beauty). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 37.4448748,
   "lng": -122.1650358
+ },
+ {
+  "name": "Coupa Caf\u00e9",
+  "address": "111 Lytton Ave",
+  "start": 2026,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "start_unknown": true,
+  "source": "osm",
+  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "lat": 37.4445426,
+  "lng": -122.1652665
  },
  {
   "name": "Mntstudio",

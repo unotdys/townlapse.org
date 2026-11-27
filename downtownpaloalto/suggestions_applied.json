@@ -1649,6 +1649,21 @@
     "https://www.paloaltoonline.com/morgue/2004/2004_02_20.creamery20mb.shtml",
     "https://www.paloaltoonline.com/weekly/morgue/news/1997_Aug_20.RAPP.html"
    ]
+  },
+  {
+   "name": "Mid-Peninsula Bank",
+   "address": "420 Cowper St",
+   "note": "Main office of a community bank organized in 1987, which became part of Greater Bay Bancorp in 1996. Greater Bay still listed the Palo Alto office under the Mid-Peninsula Bank name in its 2004 annual report.",
+   "start": 1996,
+   "end": 2005,
+   "category": "services",
+   "approx": true,
+   "links": [
+    "https://fraser.stlouisfed.org/files/docs/releases/h2/h2_19960720.pdf",
+    "https://sec.gov/Archives/edgar/data/775473/000091205796009651/0000912057-96-009651.txt",
+    "https://www.federalreserve.gov/apps/crapubweb/cra/DownloadPDF/1156539_20011126",
+    "https://www.sec.gov/Archives/edgar/data/775473/000119312505084053/dars.htm"
+   ]
   }
  ],
  "corrections": [
