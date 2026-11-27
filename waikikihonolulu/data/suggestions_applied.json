@@ -1693,6 +1693,18 @@
     "https://www.marriott.com/en-us/hotels/hnlow-courtyard-waikiki-beach/overview/",
     "https://www.successfulmeetings.com/Meeting-Event-Venues/Honolulu/Convention-Hotel/Courtyard-by-Marriott-Waikiki-Beach-p53035244"
    ]
+  },
+  {
+   "name": "Kith",
+   "address": "2301 Kalakaua Ave",
+   "note": "Kith's Hawaii flagship store opened August 20, 2021 at Royal Hawaiian Center.",
+   "start": 2021,
+   "end": null,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "https://selectabisso.com/en/kith-hawaii/"
+   ]
   }
  ],
  "corrections": [
