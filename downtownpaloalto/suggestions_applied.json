@@ -1636,6 +1636,19 @@
     "https://www.ams.org/journals/notices/197302/197302FullIssue.pdf",
     "https://www.hotelexecutive.com/newswire/32397/hotel-keen-opens-may-2010-in-palo-alto-the-cutting-edge-of-comfort"
    ]
+  },
+  {
+   "name": "Peninsula Creamery ice cream plant",
+   "address": "800 High St",
+   "note": "Ice cream production plant operated by Peninsula Creamery family until closed in 1994 due to city requirement to switch cooling system from ammonia to freon. Site later redeveloped as 800 High housing.",
+   "start": 1990,
+   "end": 1994,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/morgue/2004/2004_02_20.creamery20mb.shtml",
+    "https://www.paloaltoonline.com/weekly/morgue/news/1997_Aug_20.RAPP.html"
+   ]
   }
  ],
  "corrections": [

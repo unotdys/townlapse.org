@@ -3291,6 +3291,28 @@
   ]
  },
  {
+  "name": "Peninsula Creamery ice cream plant",
+  "address": "800 High St",
+  "start": 1990,
+  "end": 1994,
+  "category": "food",
+  "approx": true,
+  "note": "Ice cream production plant operated by Peninsula Creamery family until closed in 1994 due to city requirement to switch cooling system from ammonia to freon. Site later redeveloped as 800 High housing.",
+  "lat": 37.4409888,
+  "lng": -122.158825,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/2004/2004_02_20.creamery20mb.shtml",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/weekly/morgue/news/1997_Aug_20.RAPP.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Palermo Ristorante",
   "address": "452 University Ave",
   "start": 1991,
@@ -8783,24 +8805,6 @@
   "lng": -122.1617581
  },
  {
-  "name": "Joe & The Juice",
-  "address": "240 Hamilton Ave",
-  "start": 2018,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
-  "lat": 37.4443528,
-  "lng": -122.1609464,
-  "links": [
-   {
-    "url": "https://www.paloaltoonline.com/peninsula-foodist/2017/08/03/joe-the-juice-is-headed-to-palo-alto/",
-    "kind": "Article"
-   }
-  ]
- },
- {
   "name": "Salt & Straw",
   "address": "250 University Ave",
   "start": 2018,
@@ -8859,6 +8863,24 @@
   "note": "Open today (bank). Listed in OpenStreetMap; first mapped in 2018, which is roughly when it opened.",
   "lat": 37.4487526,
   "lng": -122.1601494
+ },
+ {
+  "name": "Joe & The Juice",
+  "address": "508 University Ave",
+  "start": 2018,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "source": "osm",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
+  "lat": 37.4484574,
+  "lng": -122.1588997,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2017/08/03/joe-the-juice-is-headed-to-palo-alto/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Mangosteen",
@@ -8988,15 +9010,15 @@
  },
  {
   "name": "Joe & The Juice",
-  "address": "508 University Ave",
+  "address": "240 Hamilton Ave",
   "start": 2019,
   "end": null,
   "category": "food",
   "approx": true,
   "source": "osm",
   "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
-  "lat": 37.4484574,
-  "lng": -122.1588997
+  "lat": 37.4443528,
+  "lng": -122.1609464
  },
  {
   "name": "Salvaje",
