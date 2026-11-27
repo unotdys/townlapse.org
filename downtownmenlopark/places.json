@@ -2127,15 +2127,24 @@
  {
   "name": "United Studios of Self Defense",
   "address": "409 El Camino Real",
-  "start": 2026,
+  "start": 1994,
   "end": null,
-  "category": "retail",
-  "approx": false,
-  "start_unknown": true,
+  "category": "fitness",
+  "approx": true,
   "source": "osm",
-  "note": "Open today (sports). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Martial arts and self-defense studio, open at this address since at least August 1994 and still open today. The exact opening year isn't known.",
   "lat": 37.4498396,
-  "lng": -122.1765599
+  "lng": -122.1765599,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/listings/1994_Aug_10.entertainment.html",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.ussd.com/dojo-locations/menlo-park",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Shiok Singapore Kitchen",

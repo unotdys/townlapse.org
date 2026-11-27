@@ -844,6 +844,20 @@
      "https://thekrazycouponlady.com/tips/money/jenny-craig-closing-all-locations"
     ]
    }
+  },
+  {
+   "target": "United Studios of Self Defense",
+   "target_address": "409 El Camino Real",
+   "fields": {
+    "note": "Martial arts and self-defense studio, open at this address since at least August 1994 and still open today. The exact opening year isn't known.",
+    "start": 1994,
+    "category": "fitness",
+    "approx": true,
+    "links": [
+     "https://www.paloaltoonline.com/morgue/listings/1994_Aug_10.entertainment.html",
+     "https://www.ussd.com/dojo-locations/menlo-park"
+    ]
+   }
   }
  ]
 }
