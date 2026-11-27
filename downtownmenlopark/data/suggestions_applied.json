@@ -96,6 +96,19 @@
      "https://www.checkbook.org/ca/menlo-park/opticians-optometrists-buying-eyewear/avant-optometry/ol8qj"
     ]
    }
+  },
+  {
+   "target": "Mademoiselle Colette",
+   "target_address": "816 Santa Cruz avenue",
+   "fields": {
+    "note": "French pastry shop and cafe that opened in early October 2015 in the former Sugar Shack space. It was still open in 2025, its tenth year.",
+    "start": 2015,
+    "approx": false,
+    "links": [
+     "https://www.paloaltoonline.com/ae/2015/11/12/cest-magnifique/",
+     "https://www.paloaltoonline.com/menlo-park/2025/10/15/mademoiselle-colette-marks-10-sweet-years-on-the-peninsula/"
+    ]
+   }
   }
  ]
 }

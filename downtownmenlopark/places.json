@@ -216,15 +216,24 @@
  {
   "name": "Mademoiselle Colette",
   "address": "816 Santa Cruz avenue",
-  "start": 2026,
+  "start": 2015,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (pastry). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "French pastry shop and cafe that opened in early October 2015 in the former Sugar Shack space. It was still open in 2025, its tenth year.",
   "lat": 37.4508447,
-  "lng": -122.1853987
+  "lng": -122.1853987,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/ae/2015/11/12/cest-magnifique/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/menlo-park/2025/10/15/mademoiselle-colette-marks-10-sweet-years-on-the-peninsula/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Menlo Art Cleaners",
