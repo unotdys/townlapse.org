@@ -938,6 +938,20 @@
     "https://www.paloaltoonline.com/morgue/2001/2001_11_28.t_c.html",
     "https://www.paloaltoonline.com/news/2007/11/14/shop-talk-34/"
    ]
+  },
+  {
+   "name": "Ole's Car Shop",
+   "address": "801 Alma St",
+   "note": "Auto repair shop on Alma Street at Homer Avenue, run by its owner for about 23 years until he retired in 2008. The site was then sold for an affordable-housing development with ground-floor retail.",
+   "start": 1985,
+   "end": 2008,
+   "category": "services",
+   "approx": true,
+   "links": [
+    "https://www.paloalto.gov/files/assets/public/v/1/agendas-minutes-reports/reports/city-manager-reports-cmrs/year-archive/2006/cmr363-06.pdf",
+    "https://www.paloaltoonline.com/best-of/1995/11/01/best-of-1995/",
+    "https://www.paloaltoonline.com/news/2008/08/29/end-of-the-road-for-oles-car-shop/"
+   ]
   }
  ],
  "corrections": [
