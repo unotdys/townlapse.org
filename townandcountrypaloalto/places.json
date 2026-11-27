@@ -1107,6 +1107,36 @@
   ]
  },
  {
+  "name": "Wilby Optical",
+  "address": "855 El Camino Real",
+  "start": 1957,
+  "end": null,
+  "category": "retail",
+  "approx": true,
+  "note": "Eyewear shop at Town & Country Village, founded in 1957 and now at Suite 103. In January 2025 the luxury eyewear brand Alexander Daas acquired it and renamed it Wilby Optical by Alexander Daas.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://alexanderdaas.com/pages/wilby-optical-by-alexander-daas-palo-alto-town-country-village",
+    "kind": "Article"
+   },
+   {
+    "url": "https://tandcvillage.com/tenant/alexander-daas-opticians/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.genealogybuff.com/ca/sanmateo/webbbs_config.pl/noframes/read/95",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/business/2025/03/12/luxury-eyewear-brand-to-open-in-town-country/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "address not listed",
   "start": 2026,
@@ -1287,19 +1317,6 @@
   "note": "Open today (fitness centre). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 37.4389671,
   "lng": -122.158793
- },
- {
-  "name": "Wilby Optical",
-  "address": "855 Town and Country Village",
-  "start": 2026,
-  "end": null,
-  "category": "services",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (optician). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4389265,
-  "lng": -122.1589256
  },
  {
   "name": "United Travel",
