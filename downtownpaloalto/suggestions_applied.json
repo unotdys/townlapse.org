@@ -1705,6 +1705,22 @@
     "https://doczz.net/doc/679728/inquiry",
     "https://www.crippenandflynnchapels.com/obituaries/willis-thoits"
    ]
+  },
+  {
+   "name": "Palo Alto Police Station",
+   "address": "275 Forest Ave",
+   "note": "Palo Alto police headquarters in the Civic Center complex beside City Hall, opened in 1970. The department moved to the new Public Safety Building at 250 Sherman Ave in late 2025, keeping only a small outpost here, and the public counter was later closed.",
+   "start": 1970,
+   "end": 2025,
+   "category": "civic",
+   "approx": true,
+   "links": [
+    "https://padailypost.com/2025/11/17/police-to-keep-a-small-outpost-in-their-former-downtown-hq/",
+    "https://www.paloalto.gov/News-Articles/City-Manager/City-Marks-Opening-of-the-Public-Safety-Building",
+    "https://www.paloalto.gov/News-Articles/City-Manager/City-Resolves-Public-Safety-Building-Construction-Dispute-and-Implements-New-Construction-Practices",
+    "https://www.paloalto.gov/files/assets/public/v/1/public-works/engineering-services/webpages/pe-15001-public-safety-building/id-6069-psb-site-feasibility-analysis.pdf",
+    "https://www.paloalto.gov/psb"
+   ]
   }
  ],
  "corrections": [
