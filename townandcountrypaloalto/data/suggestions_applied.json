@@ -41,6 +41,19 @@
     "https://www.coyuchi.com/pages/palo-alto-store-press-release",
     "https://www.paloaltoonline.com/news/2023/03/23/five-new-shops-open-at-town-country-village/"
    ]
+  },
+  {
+   "name": "Sushi House",
+   "address": "855 El Camino Real",
+   "note": "Japanese restaurant in Town & Country Village. A current Palo Alto directory lists Sushi House at 855 El Camino Real Suite 158 and dates it to 1988 at the same address; a 2015 student restaurant guide also says it opened in 1988.",
+   "start": 1988,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://paloalto.org/directory/restaurants/sushi-house/",
+    "https://palyvoice.com/105690/features/paly-students-favorite-restaurants-2014-2015/"
+   ]
   }
  ],
  "corrections": [

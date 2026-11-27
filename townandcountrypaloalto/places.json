@@ -78,6 +78,28 @@
   ]
  },
  {
+  "name": "Sushi House",
+  "address": "855 El Camino Real",
+  "start": 1988,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Japanese restaurant in Town & Country Village. A current Palo Alto directory lists Sushi House at 855 El Camino Real Suite 158 and dates it to 1988 at the same address; a 2015 student restaurant guide also says it opened in 1988.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://paloalto.org/directory/restaurants/sushi-house/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://palyvoice.com/105690/features/paly-students-favorite-restaurants-2014-2015/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "CVS Pharmacy",
   "address": "address not listed",
   "start": 2026,
@@ -583,19 +605,6 @@
   "note": "Open today (hairdresser). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 37.4387451,
   "lng": -122.158894
- },
- {
-  "name": "Sushi House",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4391591,
-  "lng": -122.1582567
  },
  {
   "name": "The Penny Ice Creamery",
