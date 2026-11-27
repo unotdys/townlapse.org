@@ -473,6 +473,19 @@
     "https://eatmamahuhu.com/pages/restaurants",
     "https://www.paloaltoonline.com/palo-alto/2025/10/06/michelin-starred-chef-opens-fast-casual-chinese-american-restaurant-in-palo-altos-town-country-village/"
    ]
+  },
+  {
+   "name": "bluemercury",
+   "address": "855 El Camino Real",
+   "note": "Beauty retailer described as recently opened at Town & Country Village in June 2022; Palo Alto Online Best of 2025 still lists it there.",
+   "start": 2022,
+   "end": null,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "https://www.modernluxury.com/best-shops-town-and-country-village/",
+    "https://www.paloaltoonline.com/best-of/2025-best-of/2025/07/19/best-of-2025-retail/"
+   ]
   }
  ],
  "corrections": [

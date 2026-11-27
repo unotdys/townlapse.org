@@ -846,6 +846,28 @@
   ]
  },
  {
+  "name": "bluemercury",
+  "address": "855 El Camino Real",
+  "start": 2022,
+  "end": null,
+  "category": "retail",
+  "approx": true,
+  "note": "Beauty retailer described as recently opened at Town & Country Village in June 2022; Palo Alto Online Best of 2025 still lists it there.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.modernluxury.com/best-shops-town-and-country-village/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/best-of/2025-best-of/2025/07/19/best-of-2025-retail/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "address not listed",
   "start": 2026,
