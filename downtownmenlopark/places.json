@@ -125,15 +125,24 @@
  {
   "name": "Hunter Douglas Gallery",
   "address": "865 Santa Cruz Ave",
-  "start": 2026,
+  "start": 2019,
   "end": null,
   "category": "retail",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (window blind). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Window coverings showroom run by Rebarts Interiors as a Hunter Douglas Gallery dealer. Its grand opening at this address was held in October 2019.",
   "lat": 37.4502592,
-  "lng": -122.185496
+  "lng": -122.185496,
+  "links": [
+   {
+    "url": "https://myemail.constantcontact.com/Weekly-Message---Hunter-Douglas-Window-Fashions-Gallery-Grand-Opening.html?soid=1102296469101&aid=ts6IV5P7yDY",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.rebarts.com/about",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Baskin-Robbins",
