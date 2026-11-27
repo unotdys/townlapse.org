@@ -394,6 +394,20 @@
      "https://www.paloaltoonline.com/morgue/page4/1995_Jan_27.NOTES27.html"
     ]
    }
+  },
+  {
+   "target": "Roma Italian Cuisine",
+   "target_address": "820 Santa Cruz Ave",
+   "fields": {
+    "note": "Family-run Italian restaurant that opened here in spring 1997 as Scala Mia, a second location of a Burlingame restaurant, and was later called Angelo Mio before becoming Roma Italian Cuisine. Still open.",
+    "start": 1997,
+    "approx": true,
+    "links": [
+     "https://romamenlopark.com/",
+     "https://romamenlopark.com/story",
+     "https://www.paloaltoonline.com/morgue/restaurants/1997_Jun_13.EATOUT13.html"
+    ]
+   }
   }
  ]
 }
