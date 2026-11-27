@@ -262,6 +262,28 @@
   ]
  },
  {
+  "name": "Boba Guys",
+  "address": "855 El Camino Real",
+  "start": 2019,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "note": "Milk tea shop in Town & Country Village that soft-opened January 8, 2019, with a grand opening planned for February 2. Palo Alto Weekly's Best of 2026 still lists it at 855 El Camino Real #120.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/best-of/2026/07/31/best-of-2026-food-drink/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2019/01/08/boba-guys-soft-opens-in-palo-alto/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "CVS Pharmacy",
   "address": "address not listed",
   "start": 2026,
@@ -841,19 +863,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Boba Guys",
-  "address": "855 El Camino Real",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4386082,
-  "lng": -122.1589506
  },
  {
   "name": "Wild Seed",
