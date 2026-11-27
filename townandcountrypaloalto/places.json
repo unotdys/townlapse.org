@@ -126,6 +126,28 @@
   ]
  },
  {
+  "name": "Gott's Roadside",
+  "address": "855 El Camino Real",
+  "start": 2013,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Burger restaurant in Town & Country Village. Palo Alto Online's October 11, 2013 Shop Talk said Gott's Roadside had opened the previous month in Town & Country Village; a current Palo Alto directory lists it at 855 El Camino Real Suite 65 and says it has served there since 2013.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://paloalto.org/directory/quick-bites/gotts-roadside/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/uncategorized/2013/10/11/shop-talk-142/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "CVS Pharmacy",
   "address": "address not listed",
   "start": 2026,
