@@ -1003,6 +1003,32 @@
   ]
  },
  {
+  "name": "Howard's Shoes for Children",
+  "address": "855 El Camino Real",
+  "start": 2019,
+  "end": null,
+  "category": "retail",
+  "approx": false,
+  "note": "Family-run children's shoe store, founded in 1962, that moved from Stanford Shopping Center to Town & Country Village and held its grand opening there on April 1, 2019. Recent listings still place it at the center.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://christysellshome.com/blog/the-front-of-town-and-country-village-is-getting-louder-the-back-might-get-taller",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.atly.com/location/Howard's-Shoes-for-Children",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/ae/2019/04/04/shop-talk-howards-shoes-relocates-sushi-bar-expands-2/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "address not listed",
   "start": 2026,
