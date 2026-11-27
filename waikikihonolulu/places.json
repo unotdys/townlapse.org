@@ -3597,6 +3597,40 @@
   ]
  },
  {
+  "name": "Waikiki Prince (now Waikiki Central Hotel)",
+  "address": "2431 Prince Edward St",
+  "start": 1970,
+  "end": null,
+  "category": "hotel",
+  "approx": true,
+  "note": "Small six-story, 24-room hotel built in 1970 on Prince Edward Street, a short walk from Waikiki Beach. It later took the name Waikiki Central Hotel and still operates.",
+  "lat": 21.2763087,
+  "lng": -157.8242463,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.KAYAK.com/Honolulu-Hotels-Waikiki-Central-Hotel.81112.ksp",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.city-data.com/articles/Waikiki-Prince-Honolulu-Hawaii-Hotel.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.kayak.com/Honolulu-Hotels-Waikiki-Central-Hotel.81112.ksp",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.kayak.com/Honolulu-Hotels-Waikiki-Prince.81112.ksp",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.oyster.com/oahu/hotels/waikiki-central-hotel/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
@@ -5138,19 +5172,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Waikiki Prince Hotel",
-  "address": "2431 Prince Edward St",
-  "start": 2026,
-  "end": null,
-  "category": "hotel",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 21.2762964,
-  "lng": -157.8242345
  },
  {
   "name": "Steak Shack",

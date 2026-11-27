@@ -1989,6 +1989,22 @@
     "https://www.aaa.com/tripcanvas/restaurant/ginzawon-AA103782",
     "https://www.instagram.com/reel/DdUmoGGynu9/"
    ]
+  },
+  {
+   "name": "Waikiki Prince (now Waikiki Central Hotel)",
+   "address": "2431 Prince Edward St",
+   "note": "Small six-story, 24-room hotel built in 1970 on Prince Edward Street, a short walk from Waikiki Beach. It later took the name Waikiki Central Hotel and still operates.",
+   "start": 1970,
+   "end": null,
+   "category": "hotel",
+   "approx": true,
+   "links": [
+    "https://www.KAYAK.com/Honolulu-Hotels-Waikiki-Central-Hotel.81112.ksp",
+    "https://www.city-data.com/articles/Waikiki-Prince-Honolulu-Hawaii-Hotel.html",
+    "https://www.kayak.com/Honolulu-Hotels-Waikiki-Central-Hotel.81112.ksp",
+    "https://www.kayak.com/Honolulu-Hotels-Waikiki-Prince.81112.ksp",
+    "https://www.oyster.com/oahu/hotels/waikiki-central-hotel/"
+   ]
   }
  ],
  "corrections": [
