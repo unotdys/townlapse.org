@@ -3731,6 +3731,28 @@
   ]
  },
  {
+  "name": "Cafe Monsarrat",
+  "address": "3106 Monsarrat Ave",
+  "start": 1999,
+  "end": 2001,
+  "category": "food",
+  "approx": true,
+  "note": "Neighborhood bistro on Monsarrat Avenue near Diamond Head that opened in 1999 with a tapas-style menu. It had closed by the start of 2002, when Tavola Tavola opened in its space.",
+  "lat": 21.2692679,
+  "lng": -157.8129202,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "http://the.honoluluadvertiser.com/article/2002/Mar/08/en/en09a.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://archives.starbulletin.com/1999/06/03/features/eater.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,

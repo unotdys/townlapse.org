@@ -2060,6 +2060,19 @@
     "https://www.honolulumagazine.com/?p=414080",
     "https://www.staradvertiser.com/2010/11/28/features/new-memories-for-hard-rock/"
    ]
+  },
+  {
+   "name": "Cafe Monsarrat",
+   "address": "3106 Monsarrat Ave",
+   "note": "Neighborhood bistro on Monsarrat Avenue near Diamond Head that opened in 1999 with a tapas-style menu. It had closed by the start of 2002, when Tavola Tavola opened in its space.",
+   "start": 1999,
+   "end": 2001,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "http://the.honoluluadvertiser.com/article/2002/Mar/08/en/en09a.html",
+    "https://archives.starbulletin.com/1999/06/03/features/eater.html"
+   ]
   }
  ],
  "corrections": [
