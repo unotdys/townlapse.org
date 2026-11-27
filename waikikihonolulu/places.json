@@ -9968,15 +9968,32 @@
  {
   "name": "Moncler",
   "address": "2301 Kalākaua Ave",
-  "start": 2026,
+  "start": 2024,
   "end": null,
   "category": "retail",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (clothes). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Italian luxury outerwear brand that moved into an expanded two-level boutique in Building C of Royal Hawaiian Center around September 2024. Still open today.",
   "lat": 21.2784062,
-  "lng": -157.8284482
+  "lng": -157.8284482,
+  "links": [
+   {
+    "url": "https://www.luxurydaily.com/wp-content/uploads/pdf_cache/4/0/9/4/5/8/409458.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.luxurydaily.com/moncler-opens-expanded-boutique-in-honolulu//?print=1",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.moncler.com/en-us/storelocator/united-states-of-america/honolulu/2301-kalakaua-avenue",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.royalhawaiiancenter.com/moncler",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Pearly Gates",

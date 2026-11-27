@@ -4313,6 +4313,21 @@
      "https://www.waikikibeachwalk.com/Shops/Apparel/Reyn-Spooner.htm"
     ]
    }
+  },
+  {
+   "target": "Moncler",
+   "target_address": "2301 Kal\u0101kaua Ave",
+   "fields": {
+    "note": "Italian luxury outerwear brand that moved into an expanded two-level boutique in Building C of Royal Hawaiian Center around September 2024. Still open today.",
+    "start": 2024,
+    "approx": true,
+    "links": [
+     "https://www.luxurydaily.com/moncler-opens-expanded-boutique-in-honolulu//?print=1",
+     "https://www.luxurydaily.com/wp-content/uploads/pdf_cache/4/0/9/4/5/8/409458.pdf",
+     "https://www.moncler.com/en-us/storelocator/united-states-of-america/honolulu/2301-kalakaua-avenue",
+     "https://www.royalhawaiiancenter.com/moncler"
+    ]
+   }
   }
  ]
 }
