@@ -1238,15 +1238,24 @@
  {
   "name": "Mami Cheli's",
   "address": "989 El Camino Real",
-  "start": 2026,
+  "start": 2018,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Casual Mexican restaurant serving tacos, burritos, tortas and pupusas, opened in the former Applewood 2-Go pizza space. It officially opened on August 4, 2018.",
   "lat": 37.4525491,
-  "lng": -122.181631
+  "lng": -122.181631,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2018/06/05/menlo-park-to-get-new-mexican-restaurant/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2018/08/01/menlo-park-mami-chelis-to-open-aug-4/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Neil Dahl Jewelers",
