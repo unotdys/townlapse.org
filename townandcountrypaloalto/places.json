@@ -380,6 +380,32 @@
   ]
  },
  {
+  "name": "Palmetto Superfoods",
+  "address": "855 El Camino Real",
+  "start": 2023,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "note": "Açaí bowl and smoothie shop at Town & Country Village that opened in April 2023. The center's directory still lists it in Building 5, Suite 160.",
+  "lat": 37.4384554,
+  "lng": -122.1576876,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://machronicle.com/bear-bites-palmetto-superfoods/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://tandcvillage.com/tenant/palmetto-superfoods/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.workstream.us/j/be8ec0cb/palmetto-superfoods/palo-alto-173463/bowl-barista-palo-alto-9bc4ac6c?locale=en",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "CVS Pharmacy",
   "address": "address not listed",
   "start": 2026,
@@ -959,19 +985,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Palmetto Superfoods",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (fast food). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4391428,
-  "lng": -122.1582171
  },
  {
   "name": "Hudson Grace",
