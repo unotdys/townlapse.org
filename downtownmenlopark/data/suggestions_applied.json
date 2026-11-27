@@ -913,6 +913,23 @@
      "https://www.paloaltoonline.com/blogs/2018/01/10/coffeebar-opens-in-menlo-park/"
     ]
    }
+  },
+  {
+   "target": "BevMo!",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "700 El Camino Real",
+    "note": "Beverage and liquor store in the El Camino Real shopping center shared with Staples, in a space that once held a Chili's restaurant. The city approved it in November 2010 after a contested permit process, and it opened around early 2011.",
+    "start": 2011,
+    "category": "retail",
+    "approx": true,
+    "links": [
+     "https://www.almanacnews.com/news/2010/08/24/bevmo-scores-permit-for-menlo-park-store/",
+     "https://www.courts.ca.gov/opinions/nonpub/A142875M.PDF",
+     "https://www.menlopark.gov/News-articles/Public-safety/20230907-ABC-posts-notice-of-suspension-at-BevMo",
+     "https://www.paloaltoonline.com/news/2010/11/10/menlo-council-approves-bevmo-with-3-2-vote/"
+    ]
+   }
   }
  ]
 }

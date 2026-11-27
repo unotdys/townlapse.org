@@ -2244,16 +2244,33 @@
  },
  {
   "name": "BevMo!",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "700 El Camino Real",
+  "start": 2011,
   "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "category": "retail",
+  "approx": true,
   "source": "osm",
-  "note": "Open today (alcohol). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4521742,
-  "lng": -122.1791521
+  "note": "Beverage and liquor store in the El Camino Real shopping center shared with Staples, in a space that once held a Chili's restaurant. The city approved it in November 2010 after a contested permit process, and it opened around early 2011.",
+  "lat": 37.4517252,
+  "lng": -122.1785945,
+  "links": [
+   {
+    "url": "https://www.courts.ca.gov/opinions/nonpub/A142875M.PDF",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.menlopark.gov/News-articles/Public-safety/20230907-ABC-posts-notice-of-suspension-at-BevMo",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.almanacnews.com/news/2010/08/24/bevmo-scores-permit-for-menlo-park-store/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2010/11/10/menlo-council-approves-bevmo-with-3-2-vote/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Cold Stone Creamery",
