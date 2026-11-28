@@ -3865,17 +3865,30 @@
   ]
  },
  {
-  "name": "Naomi",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
+  "name": "Naomi Sushi",
+  "address": "1328 El Camino Real",
+  "start": 1997,
+  "end": 2024,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Japanese sushi restaurant on El Camino Real that opened in fall 1997, first under the name Naomi Sushi Pasta Grill. It closed abruptly in July 2024 for what a door notice called renovations, and has not been reported as reopening.",
   "lat": 37.4555615,
-  "lng": -122.1864492
+  "lng": -122.1864493,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/restaurants/1997_Dec_26.EATOUT26.html",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.almanacnews.com/?p=364647",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.marriott.com/en-us/hotels/sjcme-residence-inn-palo-alto-menlo-park/experiences/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Fey Restaurant",

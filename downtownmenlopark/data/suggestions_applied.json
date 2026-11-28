@@ -1680,6 +1680,24 @@
      "https://smchealth.org/division/divisions/environmental-health-services/waste-recycling-safe-disposal/used-motor-oil-filter-recycling-program/drop-off-locations-for-used-motor-oil-and-filter-recycling/"
     ]
    }
+  },
+  {
+   "target": "Naomi",
+   "target_address": "address not listed",
+   "fields": {
+    "name": "Naomi Sushi",
+    "address": "1328 El Camino Real",
+    "note": "Japanese sushi restaurant on El Camino Real that opened in fall 1997, first under the name Naomi Sushi Pasta Grill. It closed abruptly in July 2024 for what a door notice called renovations, and has not been reported as reopening.",
+    "start": 1997,
+    "end": 2024,
+    "category": "food",
+    "approx": false,
+    "links": [
+     "https://www.almanacnews.com/?p=364647",
+     "https://www.marriott.com/en-us/hotels/sjcme-residence-inn-palo-alto-menlo-park/experiences/",
+     "https://www.paloaltoonline.com/morgue/restaurants/1997_Dec_26.EATOUT26.html"
+    ]
+   }
   }
  ]
 }
