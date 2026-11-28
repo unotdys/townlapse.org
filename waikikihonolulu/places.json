@@ -3995,6 +3995,24 @@
   ]
  },
  {
+  "name": "Queen Kapiolani Hotel",
+  "address": "150 Kapahulu Ave",
+  "start": 1969,
+  "end": null,
+  "category": "hotel",
+  "approx": true,
+  "note": "Opened in 1969 near Kuhio Beach, designed by local architect Ernest Hideo Hara and named for Queen Kapiolani.",
+  "lat": 21.2720212,
+  "lng": -157.8211381,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.queenkapiolani.com/hotel-amenities/history",
+    "kind": "History"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,

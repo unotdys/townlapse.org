@@ -2217,6 +2217,18 @@
     "https://www.hawaiibusiness.com/hawaiis-top-business-leaders-in-the-1960s-70s-and-80s/",
     "https://www.hospitalitynet.org/announcement/41012701/iconic-ambassador-hotel-of-waikiki-becomes-hawaiis-first-tapestry-collection-by-hilton"
    ]
+  },
+  {
+   "name": "Queen Kapiolani Hotel",
+   "address": "150 Kapahulu Ave",
+   "note": "Opened in 1969 near Kuhio Beach, designed by local architect Ernest Hideo Hara and named for Queen Kapiolani.",
+   "start": 1969,
+   "end": null,
+   "category": "hotel",
+   "approx": true,
+   "links": [
+    "https://www.queenkapiolani.com/hotel-amenities/history"
+   ]
   }
  ],
  "corrections": [
