@@ -3292,6 +3292,21 @@
      "https://www.marga.org/foodblog/2009/01/siam-royal-authentic-thai-cuisine-palo-alto-review/"
     ]
    }
+  },
+  {
+   "target": "Andal\u00e9 Mexican Restaurant",
+   "target_address": "209 University Ave",
+   "fields": {
+    "note": "Palo Alto branch of a Los Gatos-based Mexican restaurant, first called Andale Taqueria. Palo Alto Weekly readers voted it best Mexican restaurant in 1997, and it had closed by April 2009, when Mediterranean Wraps opened in its space.",
+    "start": 1997,
+    "end": 2009,
+    "approx": true,
+    "links": [
+     "https://weblink.losgatosca.gov/weblink/0/edoc/277441/15%20Staff%20Report%20-%20Andale%20Los%20Gatos.pdf",
+     "https://www.mv-voice.com/uncategorized/2009/12/18/near-the-corner-of-tahini-and-hummus/",
+     "https://www.paloaltoonline.com/best-of/1997/08/20/best-of-1997/"
+    ]
+   }
   }
  ]
 }
