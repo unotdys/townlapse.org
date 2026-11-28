@@ -241,6 +241,20 @@
    "links": [
     "https://www.paloaltoonline.com/ae/2018/04/03/lb-steak-is-now-closed-temporarily/"
    ]
+  },
+  {
+   "name": "Left Bank Brasserie",
+   "address": "635 Santa Cruz Ave",
+   "note": "French brasserie that opened in 1998 as the Menlo Park branch of a restaurant founded in Larkspur. It closed in June 2026 when its parent company shut all of its Bay Area restaurants.",
+   "start": 1998,
+   "end": 2026,
+   "category": "food",
+   "approx": false,
+   "links": [
+    "https://padailypost.com/2026/06/22/left-bank-restaurant-closing/",
+    "https://www.almanacnews.com/food/2026/06/22/left-bank-brasserie-closing-tuesday-after-nearly-three-decades-in-menlo-park/",
+    "https://www.paloaltoonline.com/food/2026/06/22/left-bank-brasserie-closing-tuesday-after-nearly-three-decades-in-menlo-park/"
+   ]
   }
  ],
  "corrections": [

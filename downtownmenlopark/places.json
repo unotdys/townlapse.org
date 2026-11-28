@@ -432,6 +432,32 @@
   ]
  },
  {
+  "name": "Left Bank Brasserie",
+  "address": "635 Santa Cruz Ave",
+  "start": 1998,
+  "end": 2026,
+  "category": "food",
+  "approx": false,
+  "note": "French brasserie that opened in 1998 as the Menlo Park branch of a restaurant founded in Larkspur. It closed in June 2026 when its parent company shut all of its Bay Area restaurants.",
+  "lat": 37.4527014,
+  "lng": -122.1834454,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://padailypost.com/2026/06/22/left-bank-restaurant-closing/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.almanacnews.com/food/2026/06/22/left-bank-brasserie-closing-tuesday-after-nearly-three-decades-in-menlo-park/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/food/2026/06/22/left-bank-brasserie-closing-tuesday-after-nearly-three-decades-in-menlo-park/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "899 Santa Cruz Ave",
   "start": 1971,
