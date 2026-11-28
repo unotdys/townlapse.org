@@ -1466,6 +1466,18 @@
      "https://www.paloaltoonline.com/menlo-park/2025/01/14/ettan-owners-to-debut-new-cal-indian-restaurant-in-menlo-park/"
     ]
    }
+  },
+  {
+   "target": "Sultana",
+   "target_address": "1149 El Camino Real",
+   "fields": {
+    "note": "Turkish and Mediterranean restaurant near El Camino Real and Santa Cruz Avenue, established in 2006 according to the restaurant itself. A Palo Alto Online review published June 30, 2006 already lists it at 1149 El Camino Real, and it remains open daily.",
+    "approx": false,
+    "links": [
+     "https://thesultana.net/",
+     "https://www.paloaltoonline.com/uncategorized/2006/06/30/turkish-home-cooking/"
+    ]
+   }
   }
  ]
 }

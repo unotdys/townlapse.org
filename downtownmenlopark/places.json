@@ -75,8 +75,8 @@
   "start": 2006,
   "end": null,
   "category": "food",
-  "approx": true,
-  "note": "Turkish and Mediterranean restaurant near El Camino Real and Santa Cruz Avenue in downtown Menlo Park. A Palo Alto Online review published June 30, 2006 lists Sultana at 1149 El Camino Real, and a later restaurant guide gives its opening year as 2006.",
+  "approx": false,
+  "note": "Turkish and Mediterranean restaurant near El Camino Real and Santa Cruz Avenue, established in 2006 according to the restaurant itself. A Palo Alto Online review published June 30, 2006 already lists it at 1149 El Camino Real, and it remains open daily.",
   "lat": 37.4537424,
   "lng": -122.1836925,
   "source": "suggestion",
@@ -87,6 +87,10 @@
    },
    {
     "url": "https://www.paloaltoonline.com/uncategorized/2006/06/30/turkish-home-cooking/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://thesultana.net/",
     "kind": "Article"
    }
   ]
