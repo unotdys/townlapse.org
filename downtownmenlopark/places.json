@@ -4226,15 +4226,28 @@
  {
   "name": "Safeway",
   "address": "525 El Camino Real",
-  "start": 2026,
+  "start": 1955,
   "end": null,
   "category": "retail",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (supermarket). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Supermarket listed at this El Camino Real location in the 1955 city directory; Safeway had been in Menlo Park since at least 1937 at 1137 El Camino Real. The original store was later torn down and replaced with a new building, and it is still open.",
   "lat": 37.4504922,
-  "lng": -122.1792591
+  "lng": -122.1792591,
+  "links": [
+   {
+    "url": "https://www.almanacnews.com/morgue/2005/2005_09_21.safeway.shtml",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.mphistory.org/exhibits/historic-menlo-park-businesses/",
+    "kind": "History"
+   },
+   {
+    "url": "https://local.safeway.com/safeway/ca/menlo-park/525-el-camino-real.html",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Nativity of the Holy Virgin Orthodox Church",

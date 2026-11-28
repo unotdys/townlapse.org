@@ -1899,6 +1899,20 @@
      "https://www.paloaltoonline.com/food/feature-food/2025/01/22/a-slice-of-local-history-how-the-original-round-table-pizzeria-got-its-start-in-menlo-park/"
     ]
    }
+  },
+  {
+   "target": "Safeway",
+   "target_address": "525 El Camino Real",
+   "fields": {
+    "note": "Supermarket listed at this El Camino Real location in the 1955 city directory; Safeway had been in Menlo Park since at least 1937 at 1137 El Camino Real. The original store was later torn down and replaced with a new building, and it is still open.",
+    "start": 1955,
+    "approx": true,
+    "links": [
+     "https://local.safeway.com/safeway/ca/menlo-park/525-el-camino-real.html",
+     "https://www.almanacnews.com/morgue/2005/2005_09_21.safeway.shtml",
+     "https://www.mphistory.org/exhibits/historic-menlo-park-businesses/"
+    ]
+   }
   }
  ]
 }
