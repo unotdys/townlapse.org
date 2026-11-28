@@ -1768,6 +1768,21 @@
     "https://www.usbanklocations.com/great-western-bank-a-fsb-29602.shtml",
     "https://www.usmodernist.org/AIALAX/AIALAX-1985-02.pdf"
    ]
+  },
+  {
+   "name": "Washington Mutual Bank",
+   "address": "300 Hamilton Ave",
+   "note": "Bank branch in the former Great Western Bank, renamed after Washington Mutual took over Great Western in 1997; the Almanac listed it here in 2006. It became a Chase branch after JPMorgan Chase took over Washington Mutual's banking operations in 2008.",
+   "start": 1998,
+   "end": 2008,
+   "category": "services",
+   "approx": true,
+   "links": [
+    "https://archive.fdic.gov/view/fdic/3396/fdic_3396_DS1.pdf",
+    "https://www.almanacnews.com/cover-story/2006/04/19/almanacs-readers-choice-2006-picking-the-winners/",
+    "https://www.sfgate.com/business/article/85-Bank-Branches-To-Close-American-Savings-and-2796135.php",
+    "https://www.sfgate.com/business/article/washington-mutual-debuts-slick-ad-campaign-to-3001715.php"
+   ]
   }
  ],
  "corrections": [
