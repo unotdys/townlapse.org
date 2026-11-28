@@ -1349,6 +1349,23 @@
      "https://www.paloaltoonline.com/wp-content/uploads/2024/02/2005_04_22.paw_.section2.pdf"
     ]
    }
+  },
+  {
+   "target": "MP Mongolian BBQ",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "700 El Camino Real",
+    "note": "Mongolian barbecue restaurant on El Camino Real, between the CVS and BevMo!, where diners choose their own ingredients to be cooked. It opened in June 2012 in a space that had held the Deeelish catering company.",
+    "start": 2012,
+    "end": null,
+    "category": "food",
+    "approx": false,
+    "links": [
+     "https://machronicle.com/bear-bites-mp-mongolian-bbq/",
+     "https://page-service.doordash.com/store/mp-mongolian-bbq-menlo-park-1056648/",
+     "https://www.almanacnews.com/news/2012/07/13/mp-mongolian-bbq-opens-in-menlo-park/"
+    ]
+   }
   }
  ]
 }
