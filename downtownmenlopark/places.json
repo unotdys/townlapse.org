@@ -2844,15 +2844,20 @@
  {
   "name": "Canteen Coffee House",
   "address": "1300 El Camino Real",
-  "start": 2026,
+  "start": 2022,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Coffee shop run by the chef behind Camper, inside the CANOPY space in the Springline development. It opened on November 1, 2022 as the development's first food business.",
   "lat": 37.4550818,
-  "lng": -122.185582
+  "lng": -122.185582,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2022/11/09/the-first-restaurant-at-menlo-parks-springline-development-is-now-open/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Christian Science Reading Room",

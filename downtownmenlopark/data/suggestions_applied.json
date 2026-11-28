@@ -1183,6 +1183,18 @@
      "https://www.paloaltoonline.com/peninsula-foodist/2020/10/04/san-franciscos-farmhouse-kitchen-opens-glitzy-thai-restaurant-in-menlo-park-indoor-dining-included/"
     ]
    }
+  },
+  {
+   "target": "Canteen Coffee House",
+   "target_address": "1300 El Camino Real",
+   "fields": {
+    "note": "Coffee shop run by the chef behind Camper, inside the CANOPY space in the Springline development. It opened on November 1, 2022 as the development's first food business.",
+    "start": 2022,
+    "approx": false,
+    "links": [
+     "https://www.paloaltoonline.com/blogs/2022/11/09/the-first-restaurant-at-menlo-parks-springline-development-is-now-open/"
+    ]
+   }
   }
  ]
 }
