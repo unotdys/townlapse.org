@@ -2914,15 +2914,28 @@
  {
   "name": "HumanIQ Salon",
   "address": "1148 Crane St",
-  "start": 2026,
+  "start": 2019,
   "end": null,
   "category": "services",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (hairdresser). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Hair salon that the salon's own website says had its grand opening in 2019. It is still open, and a current listing places it at 1148 Crane St.",
   "lat": 37.4515933,
-  "lng": -122.1858536
+  "lng": -122.1858536,
+  "links": [
+   {
+    "url": "https://baselocal.com/ca/campbell/best/beauty/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://humaniq.salon/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://humaniq.salon/about/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Style Alterations",

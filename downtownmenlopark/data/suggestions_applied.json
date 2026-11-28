@@ -1195,6 +1195,20 @@
      "https://www.paloaltoonline.com/blogs/2022/11/09/the-first-restaurant-at-menlo-parks-springline-development-is-now-open/"
     ]
    }
+  },
+  {
+   "target": "HumanIQ Salon",
+   "target_address": "1148 Crane St",
+   "fields": {
+    "note": "Hair salon that the salon's own website says had its grand opening in 2019. It is still open, and a current listing places it at 1148 Crane St.",
+    "start": 2019,
+    "approx": true,
+    "links": [
+     "https://baselocal.com/ca/campbell/best/beauty/",
+     "https://humaniq.salon/",
+     "https://humaniq.salon/about/"
+    ]
+   }
   }
  ]
 }
