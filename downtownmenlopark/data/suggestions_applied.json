@@ -165,6 +165,19 @@
     "https://www.menlofire.gov/departments/station6",
     "https://www.menlofire.gov/news/post/7509/"
    ]
+  },
+  {
+   "name": "Guy Plumbing and Heating",
+   "address": "1265 El Camino Real",
+   "note": "A family-owned plumbing business with a showroom at 1265 El Camino Real in Menlo Park has operated in Menlo Park since 1948. It remains open at the same address.",
+   "start": 1948,
+   "end": null,
+   "category": "services",
+   "approx": true,
+   "links": [
+    "https://guyplumbing.com/",
+    "https://www.paloaltoonline.com/best-of/2021/07/23/best-of-2021-services/"
+   ]
   }
  ],
  "corrections": [

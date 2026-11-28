@@ -308,6 +308,28 @@
   ]
  },
  {
+  "name": "Guy Plumbing and Heating",
+  "address": "1265 El Camino Real",
+  "start": 1948,
+  "end": null,
+  "category": "services",
+  "approx": true,
+  "note": "A family-owned plumbing business with a showroom at 1265 El Camino Real in Menlo Park has operated in Menlo Park since 1948. It remains open at the same address.",
+  "lat": 37.4546362,
+  "lng": -122.1856602,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://guyplumbing.com/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/best-of/2021/07/23/best-of-2021-services/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "899 Santa Cruz Ave",
   "start": 1971,
@@ -4200,19 +4222,6 @@
     "kind": "History"
    }
   ]
- },
- {
-  "name": "Guy Plumbing and Heating",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "retail",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (bathroom furnishing). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4546095,
-  "lng": -122.1856944
  },
  {
   "name": "Safeway",
