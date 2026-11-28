@@ -392,6 +392,21 @@
     "https://www.bacds.org/camps/cc2019/",
     "https://www.paloaltoonline.com/morgue/news/1994_Aug_26.community_notebook.html"
    ]
+  },
+  {
+   "name": "Peninsula Pet Hospital",
+   "address": "548 Glenwood Ave",
+   "note": "Family-run veterinary clinic for dogs and cats, said to date from 1978; the city granted its use permit for this site in 1981. In 2025 it applied to expand and remodel the building.",
+   "start": 1981,
+   "end": null,
+   "category": "services",
+   "approx": true,
+   "links": [
+    "https://topvet.net/practices/united-states/california/menlo-park/peninsula-pet-hospital-40211",
+    "https://www.countyoffice.org/ca-san-mateo-county-animal-hospital/",
+    "https://www.menlopark.gov/Public-notices/Planning-application-submittals/548-Glenwood-Avenue",
+    "https://www.petsbest.com/veterinarians/CA/Menlo Park/peninsula-pet-hospital-20571"
+   ]
   }
  ],
  "corrections": [

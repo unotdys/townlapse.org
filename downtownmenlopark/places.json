@@ -706,6 +706,36 @@
   ]
  },
  {
+  "name": "Peninsula Pet Hospital",
+  "address": "548 Glenwood Ave",
+  "start": 1981,
+  "end": null,
+  "category": "services",
+  "approx": true,
+  "note": "Family-run veterinary clinic for dogs and cats, said to date from 1978; the city granted its use permit for this site in 1981. In 2025 it applied to expand and remodel the building.",
+  "lat": 37.4569678,
+  "lng": -122.1867393,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.menlopark.gov/Public-notices/Planning-application-submittals/548-Glenwood-Avenue",
+    "kind": "History"
+   },
+   {
+    "url": "https://topvet.net/practices/united-states/california/menlo-park/peninsula-pet-hospital-40211",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.countyoffice.org/ca-san-mateo-county-animal-hospital/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.petsbest.com/veterinarians/CA/Menlo Park/peninsula-pet-hospital-20571",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "899 Santa Cruz Ave",
   "start": 1971,
