@@ -1539,6 +1539,20 @@
      "https://www.paloaltoonline.com/blogs/2017/01/29/yum-cha-palace-opens-in-menlo-park/"
     ]
    }
+  },
+  {
+   "target": "Jeffrey's Hamburgers",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "888 El Camino Real",
+    "note": "Retro diner-style hamburger restaurant that opened in fall 2007 in the former Henry's Steak House space on El Camino Real. Still open today.",
+    "start": 2007,
+    "approx": false,
+    "links": [
+     "https://machronicle.com/bear-bites-jeffreys-hamburgers-brings-diner-classics-to-the-table/",
+     "https://www.paloaltoonline.com/uncategorized/2008/01/04/back-to-the-future/"
+    ]
+   }
   }
  ]
 }

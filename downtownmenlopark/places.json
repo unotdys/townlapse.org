@@ -3577,16 +3577,25 @@
  },
  {
   "name": "Jeffrey's Hamburgers",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "888 El Camino Real",
+  "start": 2007,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4525356,
-  "lng": -122.1802671
+  "note": "Retro diner-style hamburger restaurant that opened in fall 2007 in the former Henry's Steak House space on El Camino Real. Still open today.",
+  "lat": 37.4525171,
+  "lng": -122.1802604,
+  "links": [
+   {
+    "url": "https://machronicle.com/bear-bites-jeffreys-hamburgers-brings-diner-classics-to-the-table/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/uncategorized/2008/01/04/back-to-the-future/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Menlo Park Police Department",
