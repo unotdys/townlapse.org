@@ -4103,15 +4103,24 @@
  {
   "name": "J&J Hawaiian Barbeque",
   "address": "1170 Alma St",
-  "start": 2026,
+  "start": 2005,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Hawaiian plate-lunch restaurant, listed at this address in a March 2005 Metro guide and still open today; its exact opening year is unknown.",
   "lat": 37.4556575,
-  "lng": -122.1827558
+  "lng": -122.1827558,
+  "links": [
+   {
+    "url": "https://jjhawaiianbbq.shop/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.metroactive.com/papers/metro/03.16.05/hawaii-0511.html",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Menlo Park Fire District Station 6",

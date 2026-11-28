@@ -1827,6 +1827,19 @@
      "https://www.paloaltoonline.com/peninsula-foodist/2024/01/02/drunken-monk-brings-izakaya-fare-to-menlo-park/"
     ]
    }
+  },
+  {
+   "target": "J&J Hawaiian Barbeque",
+   "target_address": "1170 Alma St",
+   "fields": {
+    "note": "Hawaiian plate-lunch restaurant, listed at this address in a March 2005 Metro guide and still open today; its exact opening year is unknown.",
+    "start": 2005,
+    "approx": true,
+    "links": [
+     "https://jjhawaiianbbq.shop/",
+     "https://www.metroactive.com/papers/metro/03.16.05/hawaii-0511.html"
+    ]
+   }
   }
  ]
 }
