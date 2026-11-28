@@ -1222,6 +1222,22 @@
      "https://static1.squarespace.com/static/626ace1e483acb178e60624e/t/6923aed70276c016194f6c8a/1763946199040/Downtown-Guide-v4b-web.pdf"
     ]
    }
+  },
+  {
+   "target": "Canteen Wine & Spirts",
+   "target_address": "550 Oak Grove Ave",
+   "fields": {
+    "name": "Canteen",
+    "note": "Wine, cocktail and tapas bar in the Springline development, opened on January 25, 2023. It was the development's first closure and shut permanently on December 14, 2024.",
+    "start": 2023,
+    "end": 2024,
+    "approx": false,
+    "links": [
+     "https://www.canteen.studio/about",
+     "https://www.paloaltoonline.com/ae/2023/02/02/cocktails-and-tapas-bar-canteen-opens-in-menlo-parks-new-springline-development/",
+     "https://www.paloaltoonline.com/newsletter/spanish-restaurant-sues-another-over-allegations-of-stolen-information/"
+    ]
+   }
   }
  ]
 }
