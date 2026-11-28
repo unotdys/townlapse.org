@@ -1570,6 +1570,21 @@
      "https://www.menlopark.gov/Government/Departments/Library-and-Community-Services/Facility-Rentals/Venues/Arrillaga-Family-Recreation-Center?lang_update=639214734114498309"
     ]
    }
+  },
+  {
+   "target": "Oak Grove Station Menlo Park Post Office",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "655 Oak Grove Ave",
+    "note": "Menlo Park's post office moved into this building in 1961, after earlier locations including 560 Oak Grove Ave. It became a branch, Oak Grove Station, once the Bohannon Drive post office opened in 1962, and it is still open.",
+    "start": 1961,
+    "end": null,
+    "approx": false,
+    "links": [
+     "https://about.usps.com/news/state-releases/ca/2011/ca_2011_1212a.htm",
+     "https://sites.google.com/site/mphistorical/home/local-govt/u-s-postal-service"
+    ]
+   }
   }
  ]
 }
