@@ -1437,6 +1437,22 @@
      "https://www.7x7.com/menlo-park-restaurants-more-2668780944/where-to-get-a-bite-a-drink-in-menlo-park"
     ]
    }
+  },
+  {
+   "target": "Stanford Wellness",
+   "target_address": "433 El Camino Real",
+   "fields": {
+    "note": "Massage therapy clinic that applied in 2024 for a city use permit to convert a former retail space, and opened around 2025.",
+    "start": 2025,
+    "approx": true,
+    "links": [
+     "https://menlopark.gov/files/sharedassets/public/v/1/agendas-and-minutes/planning-commission/2024-meetings/agenda/20240923-planning-commission-agenda-packet.pdf",
+     "https://menlopark.gov/files/sharedassets/public/v/1/community-development/documents/application-submittals/433-ecr-7-day-notice.pdf",
+     "https://static.bizprofile.net/6/5/5/1/0/0/65510040.pdf",
+     "https://www.menlopark.gov/Public-notices/Planning-application-submittals/433-El-Camino-Real",
+     "https://www.stanfordmassagewellnessbeauty.com/"
+    ]
+   }
   }
  ]
 }
