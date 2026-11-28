@@ -1742,6 +1742,21 @@
      "https://www.paloaltoonline.com/peninsula-foodist/2023/04/24/jasons-cafe-reopens-for-breakfast-and-lunch-in-menlo-park-following-2019-closure/"
     ]
    }
+  },
+  {
+   "target": "Relax The Back",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "1198 El Camino Real",
+    "note": "Store selling back-care products and ergonomic furniture on El Camino Real. A local shopping column listed it at this address in May 1995, and it still operates there.",
+    "start": 1995,
+    "end": null,
+    "approx": true,
+    "links": [
+     "https://relaxtheback.com/pages/menlo-park",
+     "https://www.paloaltoonline.com/morgue/news/1995_May_31.SHOP31.html"
+    ]
+   }
   }
  ]
 }

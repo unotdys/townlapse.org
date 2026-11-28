@@ -3945,16 +3945,25 @@
  },
  {
   "name": "Relax The Back",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "1198 El Camino Real",
+  "start": 1995,
   "end": null,
   "category": "retail",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (furniture). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4544243,
-  "lng": -122.1840371
+  "note": "Store selling back-care products and ergonomic furniture on El Camino Real. A local shopping column listed it at this address in May 1995, and it still operates there.",
+  "lat": 37.4535119,
+  "lng": -122.183194,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/news/1995_May_31.SHOP31.html",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://relaxtheback.com/pages/menlo-park",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "FedEx Office",
