@@ -1394,6 +1394,22 @@
      "https://www.paloaltoonline.com/food/feature-food/2025/10/29/new-menlo-park-restaurant-cafe-vivant-celebrates-heritage-chicken-and-wine/"
     ]
    }
+  },
+  {
+   "target": "Che Fico Market",
+   "target_address": "1302 El Camino Real",
+   "fields": {
+    "name": "Il Mercato di Che Fico",
+    "note": "Italian market in the Springline development, next to Che Fico Parco Menlo, selling housemade pasta, gelato, prepared foods and produce. It opened on March 21, 2024, and closed for good on April 19, 2025.",
+    "start": 2024,
+    "end": 2025,
+    "category": "retail",
+    "approx": false,
+    "links": [
+     "https://www.paloaltoonline.com/express-newsletter-content/2024/04/03/housemade-pasta-and-gelato-focaccia-sandwiches-by-the-pound-seasonal-produce-il-mercato-di-che-fico-opens-in-menlo-park/",
+     "https://www.paloaltoonline.com/menlo-park/2025/05/01/chef-owner-of-che-fico-to-debut-fast-casual-concept-in-menlo-park-celebrating-flavors-of-the-jewish-diaspora/"
+    ]
+   }
   }
  ]
 }

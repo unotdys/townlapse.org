@@ -3287,17 +3287,26 @@
   ]
  },
  {
-  "name": "Che Fico Market",
+  "name": "Il Mercato di Che Fico",
   "address": "1302 El Camino Real",
-  "start": 2026,
-  "end": null,
-  "category": "food",
+  "start": 2024,
+  "end": 2025,
+  "category": "retail",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (deli). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Italian market in the Springline development, next to Che Fico Parco Menlo, selling housemade pasta, gelato, prepared foods and produce. It opened on March 21, 2024, and closed for good on April 19, 2025.",
   "lat": 37.4549084,
-  "lng": -122.1852507
+  "lng": -122.1852507,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/express-newsletter-content/2024/04/03/housemade-pasta-and-gelato-focaccia-sandwiches-by-the-pound-seasonal-produce-il-mercato-di-che-fico-opens-in-menlo-park/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/menlo-park/2025/05/01/chef-owner-of-che-fico-to-debut-fast-casual-concept-in-menlo-park-celebrating-flavors-of-the-jewish-diaspora/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Little Sky Kitchen",
