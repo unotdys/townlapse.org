@@ -222,6 +222,36 @@
   ]
  },
  {
+  "name": "Residence Inn Palo Alto Menlo Park",
+  "address": "555 Glenwood Ave",
+  "start": 2015,
+  "end": null,
+  "category": "hotel",
+  "approx": false,
+  "note": "Extended-stay Marriott hotel with 138 suites on Glenwood Avenue near downtown Menlo Park. It opened in spring 2015 and is still operating.",
+  "lat": 37.4564684,
+  "lng": -122.1863545,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://menlopark.gov/files/sharedassets/public/v/1/agendas-and-minutes/housing-commission/2018-meetings/agenda/20180711-housing-agenda.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.hotelexecutive.com/newswire/53236/residence-inn-opens-in-menlo-park-california",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.marriott.com/en-us/hotels/sjcme-residence-inn-palo-alto-menlo-park/overview/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.travelweekly.com/Hotels/Menlo-Park-CA/Residence-Inn-Palo-Alto-Menlo-Park-p8757040",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "899 Santa Cruz Ave",
   "start": 1971,
@@ -3831,44 +3861,6 @@
   ]
  },
  {
-  "name": "Menlo Park Inn",
-  "address": "1315 El Camino Real",
-  "start": 1962,
-  "end": null,
-  "category": "hotel",
-  "approx": true,
-  "source": "osm",
-  "note": "Hotel on El Camino Real in downtown Menlo Park, in a building dating from 1962. A 2019 Palo Alto Online list of long-running local businesses dates the inn to 1962, and it is still open.",
-  "lat": 37.4551501,
-  "lng": -122.1868783,
-  "links": [
-   {
-    "url": "https://menlopark.gov/files/sharedassets/public/v/1/agendas-and-minutes/planning-commission/2012-meetings/20120806-planning-agenda.pdf",
-    "kind": "Ad / newspaper"
-   },
-   {
-    "url": "https://hotelplanner.com/Hotels/136425/Reservations-Menlo-Park-Inn-Menlo-Park-1315-El-Camino-Real-94025",
-    "kind": "Article"
-   },
-   {
-    "url": "https://www.menloparkinn.com/",
-    "kind": "Article"
-   },
-   {
-    "url": "https://www.menloparkinn.com/accessibility",
-    "kind": "Article"
-   },
-   {
-    "url": "https://www.paloaltoonline.com/cover-story/2019/10/11/survival-of-the-nimblest-2/",
-    "kind": "Article"
-   },
-   {
-    "url": "https://www.travelagewest.com/Hotels/Menlo-Park-CA/Menlo-Park-Inn-p6423923",
-    "kind": "Article"
-   }
-  ]
- },
- {
   "name": "M&R Automotive",
   "address": "1281 El Camino Real",
   "start": 1968,
@@ -3950,19 +3942,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Residence Inn Palo Alto Menlo Park",
-  "address": "555 Glenwood Ave",
-  "start": 2026,
-  "end": null,
-  "category": "hotel",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4564668,
-  "lng": -122.1863631
  },
  {
   "name": "Relax The Back",

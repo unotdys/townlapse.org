@@ -121,6 +121,21 @@
     "https://www.marriott.com/en-us/hotels/sjcme-residence-inn-palo-alto-menlo-park/experiences/",
     "https://www.paloaltoonline.com/ae/2018/09/06/sichuan-classics/"
    ]
+  },
+  {
+   "name": "Residence Inn Palo Alto Menlo Park",
+   "address": "555 Glenwood Ave",
+   "note": "Extended-stay Marriott hotel with 138 suites on Glenwood Avenue near downtown Menlo Park. It opened in spring 2015 and is still operating.",
+   "start": 2015,
+   "end": null,
+   "category": "hotel",
+   "approx": false,
+   "links": [
+    "https://menlopark.gov/files/sharedassets/public/v/1/agendas-and-minutes/housing-commission/2018-meetings/agenda/20180711-housing-agenda.pdf",
+    "https://www.hotelexecutive.com/newswire/53236/residence-inn-opens-in-menlo-park-california",
+    "https://www.marriott.com/en-us/hotels/sjcme-residence-inn-palo-alto-menlo-park/overview/",
+    "https://www.travelweekly.com/Hotels/Menlo-Park-CA/Residence-Inn-Palo-Alto-Menlo-Park-p8757040"
+   ]
   }
  ],
  "corrections": [
