@@ -1978,6 +1978,20 @@
      "https://www.menlopark.gov/News-articles/20260217Arrillaga-Family-Gymnastics-Center-reopening-Feb.-18"
     ]
    }
+  },
+  {
+   "target": "Park James",
+   "target_address": "1400 El Camino Real",
+   "fields": {
+    "note": "61-room boutique hotel on El Camino Real that opened in late September 2018, with the Oak + Violet restaurant opening inside in October. It is still operating.",
+    "start": 2018,
+    "approx": false,
+    "links": [
+     "https://www.hospitalitynet.org/announcement/41001484/park-james-hotel-brings-a-modern-california-craft-experience-to-silicon-valley",
+     "https://www.paloaltoonline.com/blogs/2018/10/05/oak-violet-to-open-in-menlo-park-hotel/",
+     "https://www.paloaltoonline.com/peninsula-foodist/2018/10/05/oak-violet-to-open-in-menlo-park-hotel/"
+    ]
+   }
   }
  ]
 }

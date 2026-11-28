@@ -4362,15 +4362,28 @@
  {
   "name": "Park James",
   "address": "1400 El Camino Real",
-  "start": 2026,
+  "start": 2018,
   "end": null,
   "category": "hotel",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (hotel). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "61-room boutique hotel on El Camino Real that opened in late September 2018, with the Oak + Violet restaurant opening inside in October. It is still operating.",
   "lat": 37.4562745,
-  "lng": -122.1875793
+  "lng": -122.1875793,
+  "links": [
+   {
+    "url": "https://www.hospitalitynet.org/announcement/41001484/park-james-hotel-brings-a-modern-california-craft-experience-to-silicon-valley",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2018/10/05/oak-violet-to-open-in-menlo-park-hotel/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2018/10/05/oak-violet-to-open-in-menlo-park-hotel/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Saint Frank Coffee",
