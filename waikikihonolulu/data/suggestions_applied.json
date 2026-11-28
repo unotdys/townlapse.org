@@ -2270,6 +2270,19 @@
     "https://archives.starbulletin.com/2004/10/26/news/briefs.html",
     "https://www.hotel-online.com/news/outrigger-enterprises-breaks-ground-on-waikiki-beach-walk-april-2005"
    ]
+  },
+  {
+   "name": "Waikiki Shell",
+   "address": "2805 Monsarrat Ave",
+   "note": "Open-air concert amphitheater in Kapiolani Park that opened in 1956. In 2018 it was renamed the Tom Moffatt Waikiki Shell, after the Honolulu DJ and concert promoter.",
+   "start": 1956,
+   "end": null,
+   "category": "entertainment",
+   "approx": false,
+   "links": [
+    "https://en.wikipedia.org/wiki/Waikiki_Shell",
+    "https://files.hawaii.gov/dbedt/erp/Doc_Library/2022-11-23-OA-FEA-Waikiki-Shell-Improvements.pdf"
+   ]
   }
  ],
  "corrections": [
