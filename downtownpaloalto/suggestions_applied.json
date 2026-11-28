@@ -2083,6 +2083,19 @@
    "links": [
     "https://www.paloaltoonline.com/best-of/1997/08/20/best-of-1997/"
    ]
+  },
+  {
+   "name": "Vicolo Pizzeria",
+   "address": "473 University Ave",
+   "note": "Pizzeria known for its cornmeal-crust pizza, listed at this address in a 1998 Metro Silicon Valley pizza guide. Its exact opening and closing years are unknown.",
+   "start": 1998,
+   "end": 1998,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.beardieagilitydiehards.org/BADagility/Best%20Restaurants%20in%20Downtown%20Pa",
+    "https://www.metrosiliconvalley.com/papers/metro/09.17.98/cover/best-pizza-9837.html"
+   ]
   }
  ],
  "corrections": [
