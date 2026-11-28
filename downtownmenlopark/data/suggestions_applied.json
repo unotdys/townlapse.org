@@ -136,6 +136,19 @@
     "https://www.marriott.com/en-us/hotels/sjcme-residence-inn-palo-alto-menlo-park/overview/",
     "https://www.travelweekly.com/Hotels/Menlo-Park-CA/Residence-Inn-Palo-Alto-Menlo-Park-p8757040"
    ]
+  },
+  {
+   "name": "FedEx Office",
+   "address": "1194 El Camino Real",
+   "note": "Print and ship center on El Camino Real in Menlo Park. A June 1995 local column lists a Kinko's copy shop at this address, and FedEx still operates its print and ship center there.",
+   "start": 1995,
+   "end": null,
+   "category": "services",
+   "approx": true,
+   "links": [
+    "https://local.fedex.com/en-us/ca/menlo-park/office-5105",
+    "https://www.paloaltoonline.com/morgue/news/1995_Jun_7.SHOP07.html"
+   ]
   }
  ],
  "corrections": [

@@ -252,6 +252,28 @@
   ]
  },
  {
+  "name": "FedEx Office",
+  "address": "1194 El Camino Real",
+  "start": 1995,
+  "end": null,
+  "category": "services",
+  "approx": true,
+  "note": "Print and ship center on El Camino Real in Menlo Park. A June 1995 local column lists a Kinko's copy shop at this address, and FedEx still operates its print and ship center there.",
+  "lat": 37.4511812,
+  "lng": -122.1784979,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/news/1995_Jun_7.SHOP07.html",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://local.fedex.com/en-us/ca/menlo-park/office-5105",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "899 Santa Cruz Ave",
   "start": 1971,
