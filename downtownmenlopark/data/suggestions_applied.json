@@ -1381,6 +1381,19 @@
      "https://www.paloaltoonline.com/menlo-park/2026/10/23/trailblazing-uyghur-restaurant-mrs-khan-shutters-in-menlo-park/"
     ]
    }
+  },
+  {
+   "target": "Caf\u00e9 Vivant",
+   "target_address": "720 Santa Cruz Ave",
+   "fields": {
+    "note": "Restaurant known for heritage-breed chicken and aged wines, with the Somm Cellars wine shop next door. It opened Oct. 28, 2025, in the former Le Boulanger space.",
+    "start": 2025,
+    "approx": false,
+    "links": [
+     "https://whatnow.com/san-francisco/restaurant/cafe-vivant-and-somm-cellars-open-in-menlo-park/",
+     "https://www.paloaltoonline.com/food/feature-food/2025/10/29/new-menlo-park-restaurant-cafe-vivant-celebrates-heritage-chicken-and-wine/"
+    ]
+   }
   }
  ]
 }

@@ -3267,15 +3267,24 @@
  {
   "name": "Café Vivant",
   "address": "720 Santa Cruz Ave",
-  "start": 2026,
+  "start": 2025,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Restaurant known for heritage-breed chicken and aged wines, with the Somm Cellars wine shop next door. It opened Oct. 28, 2025, in the former Le Boulanger space.",
   "lat": 37.4516848,
-  "lng": -122.1847211
+  "lng": -122.1847211,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/food/feature-food/2025/10/29/new-menlo-park-restaurant-cafe-vivant-celebrates-heritage-chicken-and-wine/",
+    "kind": "History"
+   },
+   {
+    "url": "https://whatnow.com/san-francisco/restaurant/cafe-vivant-and-somm-cellars-open-in-menlo-park/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Che Fico Market",
