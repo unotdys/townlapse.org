@@ -1797,6 +1797,21 @@
     "https://localwiki.org/santacruz/University_National_Bank",
     "https://www.usbanklocations.com/university-bank-and-trust-company-23127.shtml"
    ]
+  },
+  {
+   "name": "Comerica Bank",
+   "address": "250 Lytton Ave",
+   "note": "Bank branch in the former main office of University Bank and Trust Company, which merged into Comerica Bank-California in 1996. After Fifth Third Bank bought Comerica, the branch at this address became a Fifth Third Bank branch.",
+   "start": 1996,
+   "end": 2026,
+   "category": "services",
+   "approx": true,
+   "links": [
+    "https://bankbranchlocator.com/comerica-bank-palo-alto-branch.html",
+    "https://locations.53.com/ca/palo-alto/250-lytton-avenue.html",
+    "https://www.53.com/content/dam/fifth-third/docs/cra/2026/comerica-cra-public-file.pdf",
+    "https://www.usbanklocations.com/university-bank-and-trust-company-23127.shtml"
+   ]
   }
  ],
  "corrections": [
