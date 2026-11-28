@@ -736,6 +736,32 @@
   ]
  },
  {
+  "name": "Little House",
+  "address": "800 Middle Ave",
+  "start": 1949,
+  "end": null,
+  "category": "community",
+  "approx": true,
+  "note": "Activity center for older adults run by Peninsula Volunteers. It opened in 1949 in a small cottage near its present Middle Avenue site and is described as the nation's first suburban senior center. It still offers classes and activities today.",
+  "lat": 37.4487504,
+  "lng": -122.1806147,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloalto.gov/Departments/City-Manager/City-Policy-Initiatives/Human-Services/Information-and-Referral/Senior-Services?lang_update=638496284204150698",
+    "kind": "History"
+   },
+   {
+    "url": "https://inmenlo.com/2012/08/14/longtime-menlo-park-resident-once-called-the-original-little-house-her-home/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2022/09/02/peninsula-volunteers-marks-75-years-of-programs-activities-for-seniors/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "899 Santa Cruz Ave",
   "start": 1971,

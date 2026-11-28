@@ -407,6 +407,20 @@
     "https://www.menlopark.gov/Public-notices/Planning-application-submittals/548-Glenwood-Avenue",
     "https://www.petsbest.com/veterinarians/CA/Menlo Park/peninsula-pet-hospital-20571"
    ]
+  },
+  {
+   "name": "Little House",
+   "address": "800 Middle Ave",
+   "note": "Activity center for older adults run by Peninsula Volunteers. It opened in 1949 in a small cottage near its present Middle Avenue site and is described as the nation's first suburban senior center. It still offers classes and activities today.",
+   "start": 1949,
+   "end": null,
+   "category": "community",
+   "approx": true,
+   "links": [
+    "https://inmenlo.com/2012/08/14/longtime-menlo-park-resident-once-called-the-original-little-house-her-home/",
+    "https://www.paloalto.gov/Departments/City-Manager/City-Policy-Initiatives/Human-Services/Information-and-Referral/Senior-Services?lang_update=638496284204150698",
+    "https://www.paloaltoonline.com/news/2022/09/02/peninsula-volunteers-marks-75-years-of-programs-activities-for-seniors/"
+   ]
   }
  ],
  "corrections": [
