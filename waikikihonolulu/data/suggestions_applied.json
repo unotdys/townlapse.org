@@ -2229,6 +2229,20 @@
    "links": [
     "https://www.queenkapiolani.com/hotel-amenities/history"
    ]
+  },
+  {
+   "name": "Aina Luana Apartment Hotel",
+   "address": "358 Royal Hawaiian Ave",
+   "note": "Ten-story apartment hotel built in 1960 with furnished studio and one-bedroom units, aimed at business travelers. It had a Mai Tai Restaurant and cocktail lounge by the pool and was listed in the Green Book in the mid-1960s.",
+   "start": 1960,
+   "end": null,
+   "category": "hotel",
+   "approx": false,
+   "links": [
+    "http://community.village.virginia.edu/greenbooks/content/aina-luana-apartment-hotel",
+    "https://community.village.virginia.edu/greenbooks/content/aina-luana-apartment-hotel",
+    "https://www.cardcow.com/173694/waikiki-hawaii-aina-luana-apartment-hotel-358-royal-hawaiian-avenue/"
+   ]
   }
  ],
  "corrections": [

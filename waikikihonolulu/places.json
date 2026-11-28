@@ -4013,6 +4013,32 @@
   ]
  },
  {
+  "name": "Aina Luana Apartment Hotel",
+  "address": "358 Royal Hawaiian Ave",
+  "start": 1960,
+  "end": null,
+  "category": "hotel",
+  "approx": false,
+  "note": "Ten-story apartment hotel built in 1960 with furnished studio and one-bedroom units, aimed at business travelers. It had a Mai Tai Restaurant and cocktail lounge by the pool and was listed in the Green Book in the mid-1960s.",
+  "lat": 21.2807583,
+  "lng": -157.82795,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "http://community.village.virginia.edu/greenbooks/content/aina-luana-apartment-hotel",
+    "kind": "Article"
+   },
+   {
+    "url": "https://community.village.virginia.edu/greenbooks/content/aina-luana-apartment-hotel",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.cardcow.com/173694/waikiki-hawaii-aina-luana-apartment-hotel-358-royal-hawaiian-avenue/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
