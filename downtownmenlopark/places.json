@@ -3071,15 +3071,32 @@
  {
   "name": "British Bankers Club",
   "address": "555 Santa Cruz Ave",
-  "start": 2026,
+  "start": 1977,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Restaurant and bar in the 1920s bank building at El Camino Real and Santa Cruz Avenue, which later served as Menlo Park's city hall. It opened in 1977, closed for remodeling in 2012 and reopened in December 2016 with its entrance moved to Santa Cruz Avenue.",
   "lat": 37.4538174,
-  "lng": -122.1826698
+  "lng": -122.1826698,
+  "links": [
+   {
+    "url": "https://inmenlo.com/2024/03/11/spotted-new-historical-plaque-at-british-bankers-club/",
+    "kind": "History"
+   },
+   {
+    "url": "https://sites.google.com/site/mphistorical/home/buildings-100-yrs/1090-el-camino",
+    "kind": "History"
+   },
+   {
+    "url": "http://www.britishbankersclub.com/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2016/12/26/at-long-last-menlo-parks-bbc-holds-soft-stealth-opening/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Burma Love",

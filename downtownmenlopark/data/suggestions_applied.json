@@ -1265,6 +1265,21 @@
      "https://www.paloaltoonline.com/food/roundup-food/2024/10/02/whats-brewing-10-peninsula-coffee-roasters-for-beans-and-beverages/"
     ]
    }
+  },
+  {
+   "target": "British Bankers Club",
+   "target_address": "555 Santa Cruz Ave",
+   "fields": {
+    "note": "Restaurant and bar in the 1920s bank building at El Camino Real and Santa Cruz Avenue, which later served as Menlo Park's city hall. It opened in 1977, closed for remodeling in 2012 and reopened in December 2016 with its entrance moved to Santa Cruz Avenue.",
+    "start": 1977,
+    "approx": false,
+    "links": [
+     "http://www.britishbankersclub.com/",
+     "https://inmenlo.com/2024/03/11/spotted-new-historical-plaque-at-british-bankers-club/",
+     "https://sites.google.com/site/mphistorical/home/buildings-100-yrs/1090-el-camino",
+     "https://www.paloaltoonline.com/news/2016/12/26/at-long-last-menlo-parks-bbc-holds-soft-stealth-opening/"
+    ]
+   }
   }
  ]
 }
