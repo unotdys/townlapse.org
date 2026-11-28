@@ -1114,6 +1114,19 @@
      "https://www.almanacnews.com/?p=528230"
     ]
    }
+  },
+  {
+   "target": "Little Sky Bakery",
+   "target_address": "506 Santa Cruz Ave",
+   "fields": {
+    "note": "Bakery selling naturally leavened bread and pastries. It started as a pop-up and opened this permanent shop next to Philz Coffee in early March 2022.",
+    "start": 2022,
+    "approx": false,
+    "links": [
+     "https://inmenlo.com/2022/04/08/tian-mayimin-opens-little-sky-bakery-and-soon-a-cafe-in-menlo-park/",
+     "https://www.paloaltoonline.com/peninsula-foodist/2022/04/06/popular-pop-up-little-sky-bakery-opens-permanent-shop-in-menlo-park/"
+    ]
+   }
   }
  ]
 }
