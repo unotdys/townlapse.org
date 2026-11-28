@@ -1783,6 +1783,20 @@
      "https://www.paloaltoonline.com/ae/news-events/2024/11/14/our-guide-to-a-flurry-of-peninsula-holiday-events-no-dashing-through-the-snow-required/"
     ]
    }
+  },
+  {
+   "target": "7-Eleven",
+   "target_address": "525 Oak Grove St",
+   "fields": {
+    "address": "525 Oak Grove Ave",
+    "note": "Convenience store that was already open by June 2002, when a fire badly damaged it and a Chinese restaurant in the same building. It is still open at this address.",
+    "start": 2002,
+    "approx": true,
+    "links": [
+     "https://www.7-eleven.com/locations/ca/menlo%20park/525-oak-grove-ave-14331",
+     "https://www.paloaltoonline.com/morgue/2002/2002_06_14.digest14.html"
+    ]
+   }
   }
  ]
 }

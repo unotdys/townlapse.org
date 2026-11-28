@@ -4024,16 +4024,25 @@
  },
  {
   "name": "7-Eleven",
-  "address": "525 Oak Grove St",
-  "start": 2026,
+  "address": "525 Oak Grove Ave",
+  "start": 2002,
   "end": null,
   "category": "retail",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (convenience). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4557462,
-  "lng": -122.182905
+  "note": "Convenience store that was already open by June 2002, when a fire badly damaged it and a Chinese restaurant in the same building. It is still open at this address.",
+  "lat": 37.455476,
+  "lng": -122.1839879,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/2002/2002_06_14.digest14.html",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.7-eleven.com/locations/ca/menlo%20park/525-oak-grove-ave-14331",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Holy Trinity Episcopal Church",
