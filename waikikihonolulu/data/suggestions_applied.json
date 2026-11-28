@@ -2255,6 +2255,21 @@
    "links": [
     "https://en.wikipedia.org/wiki/Waikiki_Biltmore_Hotel"
    ]
+  },
+  {
+   "name": "Edgewater Hotel",
+   "address": "2168 Kalia Rd",
+   "note": "Roy and Estelle Kelley's second Waikiki hotel, opened in 1951 and said to be the first in Waikiki with an automatic elevator and a swimming pool. Later run as the Ohana Edgewater, it was torn down for Outrigger's Waikiki Beach Walk project, which broke ground in 2005.",
+   "start": 1951,
+   "end": 2005,
+   "category": "hotel",
+   "approx": true,
+   "links": [
+    "http://www.waikiki.com/travel/hotels/outrigger/edgewater.html",
+    "https://archives.starbulletin.com/2001/07/10/news/story5.html",
+    "https://archives.starbulletin.com/2004/10/26/news/briefs.html",
+    "https://www.hotel-online.com/news/outrigger-enterprises-breaks-ground-on-waikiki-beach-walk-april-2005"
+   ]
   }
  ],
  "corrections": [
