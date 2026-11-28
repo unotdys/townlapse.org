@@ -1963,6 +1963,21 @@
      "https://www.oca.org/parishes/OCA-WE-MENNHV"
     ]
    }
+  },
+  {
+   "target": "Arrillaga Family Gymnastics Center",
+   "target_address": "501 Laurel St",
+   "fields": {
+    "note": "City-run gymnastics center at Burgess Park on the civic center campus, paid for with donations from developer John Arrillaga's family. It held its grand opening on May 11, 2012, and reopened in February 2026 after storm flooding closed it.",
+    "start": 2012,
+    "approx": false,
+    "links": [
+     "http://content.govdelivery.com/attachments/topic_files/CAMENLO/CAMENLO_248/2012/11/07/file_attachments/173959/Gymnastics+Business+Plan+Presentation2__173959.pdf",
+     "https://www.almanacnews.com/news/2012/05/08/grand-opening-friday-menlo-park-gymnastics-center",
+     "https://www.menlopark.gov/Government/Departments/Library-and-Community-Services/Recreation-and-sports/Gymnastics",
+     "https://www.menlopark.gov/News-articles/20260217Arrillaga-Family-Gymnastics-Center-reopening-Feb.-18"
+    ]
+   }
   }
  ]
 }
