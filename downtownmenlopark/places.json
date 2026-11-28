@@ -4158,16 +4158,26 @@
  },
  {
   "name": "The UPS Store",
-  "address": "407 El Camino Real",
-  "start": 2026,
+  "address": "405 El Camino Real",
+  "start": null,
   "end": null,
-  "category": "civic",
+  "category": "services",
   "approx": false,
   "start_unknown": true,
   "source": "osm",
-  "note": "Open today (post office). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4497854,
-  "lng": -122.1765535
+  "note": "Shipping, printing and mailbox store (The UPS Store #865), open today at 405 El Camino Real. The year it opened isn't known yet.",
+  "lat": 37.4511812,
+  "lng": -122.1784979,
+  "links": [
+   {
+    "url": "https://locations.theupsstore.com/ca/menlo-park/405-el-camino-real",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.propertyshark.com/cre/pdfs/5A4EA381-7D88-463F-9B87-475835D1DC71",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Round Table Pizza",
