@@ -229,6 +229,18 @@
     "https://sites.google.com/site/mphistorical/home/businesses-in-mp-50-yrs/golden-shears",
     "https://www.mphistory.org/exhibits/historic-menlo-park-businesses/"
    ]
+  },
+  {
+   "name": "LB Steak",
+   "address": "898 Santa Cruz Ave",
+   "note": "Steakhouse at the corner of Santa Cruz Avenue and University Drive in downtown Menlo Park. Palo Alto Online reported the restaurant at 898 Santa Cruz Ave opened in July 2012 and closed in April 2018 after about six years.",
+   "start": 2012,
+   "end": 2018,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/ae/2018/04/03/lb-steak-is-now-closed-temporarily/"
+   ]
   }
  ],
  "corrections": [

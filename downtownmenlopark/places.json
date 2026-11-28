@@ -414,6 +414,24 @@
   ]
  },
  {
+  "name": "LB Steak",
+  "address": "898 Santa Cruz Ave",
+  "start": 2012,
+  "end": 2018,
+  "category": "food",
+  "approx": true,
+  "note": "Steakhouse at the corner of Santa Cruz Avenue and University Drive in downtown Menlo Park. Palo Alto Online reported the restaurant at 898 Santa Cruz Ave opened in July 2012 and closed in April 2018 after about six years.",
+  "lat": 37.4500603,
+  "lng": -122.186149,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/ae/2018/04/03/lb-steak-is-now-closed-temporarily/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "899 Santa Cruz Ave",
   "start": 1971,
