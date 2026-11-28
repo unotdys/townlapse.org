@@ -1972,6 +1972,19 @@
    "links": [
     "https://www.sfgate.com/bayarea/article/ONE-STOP-SHOPPING-Plenty-of-Gifts-for-the-Home-3018120.php"
    ]
+  },
+  {
+   "name": "Turner Martin",
+   "address": "540 Emerson St",
+   "note": "HG profiled the home accessories shop in May 1990, and the Chronicle featured its gifts and furnishings at the same address in December 1995.",
+   "start": 1990,
+   "end": 1995,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "https://www.sfgate.com/bayarea/article/ONE-STOP-SHOPPING-Plenty-of-Gifts-for-the-Home-3018120.php",
+    "https://www.usmodernist.org/HG/HG-1990-05.pdf"
+   ]
   }
  ],
  "corrections": [

@@ -168,47 +168,6 @@
   "note": "Tuxedo and formal wear shop, a few doors from its 1959\u20131963 location at 158 University Ave. It closed in February 2015 when the Selix chain went bankrupt and shut all six stores; when it moved here is unknown."
  },
  {
-  "name": "Coupa Cafe",
-  "address": "111 Lytton Ave",
-  "start": 2016,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "source": "news",
-  "lat": 37.4445426,
-  "lng": -122.1652665,
-  "links": [
-   {
-    "url": "https://www.paloaltoonline.com/peninsula-foodist/2016/01/26/now-open-second-coupa-cafe-in-palo-alto/",
-    "kind": "Article"
-   },
-   {
-    "url": "https://joe.coffee/locations/ca/palo-alto/coupa-cafe-lytton-palo-alto-6a719d2f-fcf6-4422-adc4-d95a67ab5468/",
-    "kind": "Article"
-   },
-   {
-    "url": "https://n2v.paloaltoonline.com/blogs/p/2016/01/26/now-open-second-coupa-cafe-in-palo-alto",
-    "kind": "Article"
-   },
-   {
-    "url": "https://www.coupacafe.com/Locations/palo-alto-lytton",
-    "kind": "Article"
-   },
-   {
-    "url": "https://www.paloaltoonline.com/news/print/2016/03/03/celebrate-with-coupa",
-    "kind": "Article"
-   },
-   {
-    "url": "https://www.yelp.com/biz/coupa-caf%C3%A9-lytton-palo-alto",
-    "kind": "Listing"
-   }
-  ],
-  "note": "Venezuelan-style cafe in the Lytton Gateway building across from the downtown Caltrain station, opened in late January 2016 as Coupa's second downtown Palo Alto location. The family's original cafe opened on Ramona Street in 2004.",
-  "merged_from": [
-   "Coupa Caf\u00e9"
-  ]
- },
- {
   "name": "Ike's Love & Sandwiches",
   "address": "401 Lytton Ave",
   "start": 2018,
@@ -3573,6 +3532,28 @@
   ]
  },
  {
+  "name": "Turner Martin",
+  "address": "540 Emerson St",
+  "start": 1990,
+  "end": 1995,
+  "category": "retail",
+  "approx": true,
+  "note": "HG profiled the home accessories shop in May 1990, and the Chronicle featured its gifts and furnishings at the same address in December 1995.",
+  "lat": 37.444061,
+  "lng": -122.1621374,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.sfgate.com/bayarea/article/ONE-STOP-SHOPPING-Plenty-of-Gifts-for-the-Home-3018120.php",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.usmodernist.org/HG/HG-1990-05.pdf",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Palermo Ristorante",
   "address": "452 University Ave",
   "start": 1991,
@@ -5675,6 +5656,24 @@
    }
   ],
   "note": "Vietnamese restaurant. Palo Alto Online's Peninsula Foodist reported it opening in 2003 and closing in 2020."
+ },
+ {
+  "name": "Coupa Cafe",
+  "address": "Ramona St",
+  "start": 2004,
+  "end": 2004,
+  "category": "food",
+  "approx": true,
+  "source": "news",
+  "lat": 37.4455052,
+  "lng": -122.1625455,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2016/01/26/now-open-second-coupa-cafe-in-palo-alto/",
+    "kind": "Article"
+   }
+  ],
+  "note": "Cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2004. Later status unknown."
  },
  {
   "name": "Fraiche",
@@ -9470,24 +9469,6 @@
   "lng": -122.1617581
  },
  {
-  "name": "Joe & The Juice",
-  "address": "240 Hamilton Ave",
-  "start": 2018,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
-  "lat": 37.4443528,
-  "lng": -122.1609464,
-  "links": [
-   {
-    "url": "https://www.paloaltoonline.com/peninsula-foodist/2017/08/03/joe-the-juice-is-headed-to-palo-alto/",
-    "kind": "Article"
-   }
-  ]
- },
- {
   "name": "Salt & Straw",
   "address": "250 University Ave",
   "start": 2018,
@@ -9546,6 +9527,24 @@
   "note": "Open today (bank). Listed in OpenStreetMap; first mapped in 2018, which is roughly when it opened.",
   "lat": 37.4487526,
   "lng": -122.1601494
+ },
+ {
+  "name": "Joe & The Juice",
+  "address": "508 University Ave",
+  "start": 2018,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "source": "osm",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
+  "lat": 37.4484574,
+  "lng": -122.1588997,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2017/08/03/joe-the-juice-is-headed-to-palo-alto/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Mangosteen",
@@ -9675,15 +9674,15 @@
  },
  {
   "name": "Joe & The Juice",
-  "address": "508 University Ave",
+  "address": "240 Hamilton Ave",
   "start": 2019,
   "end": null,
   "category": "food",
   "approx": true,
   "source": "osm",
   "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
-  "lat": 37.4484574,
-  "lng": -122.1588997
+  "lat": 37.4443528,
+  "lng": -122.1609464
  },
  {
   "name": "Salvaje",
@@ -10353,6 +10352,19 @@
   "note": "Open today (beauty). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 37.4448748,
   "lng": -122.1650358
+ },
+ {
+  "name": "Coupa Caf\u00e9",
+  "address": "111 Lytton Ave",
+  "start": 2026,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "start_unknown": true,
+  "source": "osm",
+  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "lat": 37.4445426,
+  "lng": -122.1652665
  },
  {
   "name": "Mntstudio",
