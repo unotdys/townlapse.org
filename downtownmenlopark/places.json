@@ -524,6 +524,28 @@
   ]
  },
  {
+  "name": "Gambardella's",
+  "address": "1165 Merrill St",
+  "start": 2003,
+  "end": 2012,
+  "category": "food",
+  "approx": true,
+  "note": "Italian restaurant across from the Menlo Park Caltrain station. A 2004 Palo Alto Online review says Gambardella's reopened in November 2003 in the Menlo Square building at 1165 Merrill St, and a 2014 article says it closed in December 2012.",
+  "lat": 37.4548918,
+  "lng": -122.1833768,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/2004/2004_04_09.gamb.shtml",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2014/10/21/sneak-peek-bradleys-fine-diner-in-menlo-park/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "899 Santa Cruz Ave",
   "start": 1971,
