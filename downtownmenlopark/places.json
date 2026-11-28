@@ -4252,15 +4252,24 @@
  {
   "name": "Nativity of the Holy Virgin Orthodox Church",
   "address": "1220 Crane St",
-  "start": 2026,
+  "start": 1957,
   "end": null,
   "category": "worship",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (place of worship). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "The 1886 chapel, originally Holy Trinity Episcopal Church, was given to the Orthodox parish, moved to Crane Street in October 1957 and consecrated in May 1958. The church is still active here.",
   "lat": 37.4524832,
-  "lng": -122.1866414
+  "lng": -122.1866414,
+  "links": [
+   {
+    "url": "https://www.mphistory.org/exhibits/buildings-over-100-years-old/",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.oca.org/parishes/OCA-WE-MENNHV",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Arrillaga Family Gymnastics Center",
