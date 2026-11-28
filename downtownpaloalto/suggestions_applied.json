@@ -1827,6 +1827,23 @@
     "https://www.sfgate.com/cooking/article/what-s-new-2789452.php",
     "https://www.sfgate.com/restaurants/article/what-s-new-3030701.php"
    ]
+  },
+  {
+   "name": "Hong Kong Flower Lounge",
+   "address": "560 Waverley St",
+   "note": "Palo Alto branch of the Millbrae Hong Kong-style Cantonese restaurant, known for dim sum and live seafood. It was reviewed in 2000, still open in early 2004, and closed around 2004; Tai Pan later took over the space.",
+   "start": 1999,
+   "end": 2004,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://metrosiliconvalley.com/papers/metro/08.17.00/dining-0033.html",
+    "https://n2v.paloaltoonline.com/weekly/morguepdf/2005/2005_08_24.paw.section1.pdf",
+    "https://swampfest.blogspot.com/2005/11/",
+    "https://www.mv-voice.com/morgue/2004/2004_01_23.dimsum.shtml",
+    "https://www.paloaltoonline.com/uncategorized/2006/10/20/flashy-tai-pan/",
+    "https://www.sfgate.com/restaurants/diningout/article/Hong-Kong-Flower-Blossoms-At-New-Spot-in-Palo-Alto-2343686.php"
+   ]
   }
  ],
  "corrections": [
