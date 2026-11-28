@@ -1797,6 +1797,20 @@
      "https://www.paloaltoonline.com/morgue/2002/2002_06_14.digest14.html"
     ]
    }
+  },
+  {
+   "target": "Holy Trinity Episcopal Church",
+   "target_address": "330 Ravenswood Ave",
+   "fields": {
+    "note": "The parish's 1886 chapel was moved to Pine Street near Ravenswood Avenue in 1947, and a new church was built on Ravenswood at Laurel Street in 1957. The church is still active here and now calls itself Trinity Church in Menlo Park.",
+    "start": 1947,
+    "approx": true,
+    "links": [
+     "https://cdn.prod.website-files.com/616f8c032268449bd21c16fd/65a886368e43474778630153_Religious%20Row%20Walk%202023.pdf",
+     "https://www.mphistory.org/exhibits/buildings-over-100-years-old/",
+     "https://www.trinitymenlopark.org/page/about-us-1"
+    ]
+   }
   }
  ]
 }

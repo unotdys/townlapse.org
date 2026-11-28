@@ -4047,15 +4047,28 @@
  {
   "name": "Holy Trinity Episcopal Church",
   "address": "330 Ravenswood Ave",
-  "start": 2026,
+  "start": 1947,
   "end": null,
   "category": "worship",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (place of worship). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "The parish's 1886 chapel was moved to Pine Street near Ravenswood Avenue in 1947, and a new church was built on Ravenswood at Laurel Street in 1957. The church is still active here and now calls itself Trinity Church in Menlo Park.",
   "lat": 37.4560062,
-  "lng": -122.1793338
+  "lng": -122.1793338,
+  "links": [
+   {
+    "url": "https://cdn.prod.website-files.com/616f8c032268449bd21c16fd/65a886368e43474778630153_Religious%20Row%20Walk%202023.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.mphistory.org/exhibits/buildings-over-100-years-old/",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.trinitymenlopark.org/page/about-us-1",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Drunken Monk",
