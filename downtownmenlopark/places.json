@@ -370,6 +370,24 @@
   ]
  },
  {
+  "name": "Ann's Coffee Shop",
+  "address": "772 Santa Cruz Ave",
+  "start": 1962,
+  "end": 2021,
+  "category": "food",
+  "approx": true,
+  "note": "Diner on Santa Cruz Avenue in downtown Menlo Park. The Menlo Park Historical Association says the coffee shop relocated to 772 Santa Cruz Avenue about 1962 and closed in 2021 after its building was sold.",
+  "lat": 37.4512938,
+  "lng": -122.1850568,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.mphistory.org/exhibits/historic-menlo-park-businesses/",
+    "kind": "History"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "899 Santa Cruz Ave",
   "start": 1971,

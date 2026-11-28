@@ -203,6 +203,18 @@
    "links": [
     "https://www.paloaltoonline.com/blogs/2019/12/05/longtime-mexican-eatery-una-mas-closes-in-menlo-park/"
    ]
+  },
+  {
+   "name": "Ann's Coffee Shop",
+   "address": "772 Santa Cruz Ave",
+   "note": "Diner on Santa Cruz Avenue in downtown Menlo Park. The Menlo Park Historical Association says the coffee shop relocated to 772 Santa Cruz Avenue about 1962 and closed in 2021 after its building was sold.",
+   "start": 1962,
+   "end": 2021,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.mphistory.org/exhibits/historic-menlo-park-businesses/"
+   ]
   }
  ],
  "corrections": [
