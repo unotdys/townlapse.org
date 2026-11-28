@@ -676,6 +676,36 @@
   ]
  },
  {
+  "name": "Royal Hodge Masonic Center",
+  "address": "651 Roble Ave",
+  "start": 1957,
+  "end": null,
+  "category": "community",
+  "approx": true,
+  "note": "Masonic hall of Three Great Lights Lodge No. 651, built around 1957 and named for Royal Hodge, who paid off its mortgage. It was renovated in 2004 with a ballroom-style interior and is also rented out for community events such as dances.",
+  "lat": 37.4512104,
+  "lng": -122.1802475,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.almanacnews.com/morgue/2004/2004_09_29.masonic.shtml",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/news/1994_Aug_26.community_notebook.html",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.bacds.org/camps/cc2019/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://mapquest.com/us/california/royal-hodge-masonic-center-menlo-park-350985058",
+    "kind": "Listing"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "899 Santa Cruz Ave",
   "start": 1971,
