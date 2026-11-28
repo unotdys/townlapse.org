@@ -620,6 +620,40 @@
   ]
  },
  {
+  "name": "Los Salonez",
+  "address": "1012 Alma St",
+  "start": 1991,
+  "end": 2015,
+  "category": "services",
+  "approx": true,
+  "note": "Hair salon that local readers voted best in town several times in the 2000s; it was described as 13 years old in 2004. Its block at 1010-1026 Alma St was redeveloped as Alma Station after city review in 2015.",
+  "lat": 37.4541021,
+  "lng": -122.1806503,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://menlopark.gov/files/sharedassets/public/v/1/agendas-and-minutes/housing-commission/2015-meetings/agenda/20150805-housing-agenda.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://menlopark.gov/files/sharedassets/public/v/1/agendas-and-minutes/planning-commission/2015-meetings/20151102-planning-agenda.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.almanacnews.com/wp-content/uploads/2010/09/2010_09_08.alm_.section2.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://menlopark.gov/Government/Departments/Community-Development/Projects/Completed-projects/Alma-Station",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/best-of/2004/08/24/best-of-2004/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "899 Santa Cruz Ave",
   "start": 1971,
