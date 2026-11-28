@@ -1614,6 +1614,19 @@
      "https://www.menlopark.gov/files/sharedassets/public/v/1/city-managers-office/documents/economic-development/menlo-park-downtown-market-study-report-by-hdl.pdf"
     ]
    }
+  },
+  {
+   "target": "LeatherLeather",
+   "target_address": "935 El Camino Real",
+   "fields": {
+    "note": "Family-owned leather and fabric furniture showroom, open at this address since 2003 according to the business.",
+    "start": 2003,
+    "approx": false,
+    "links": [
+     "https://www.leatherfurnitureca.com/warranty/leather-and-fabric-buying-guide/",
+     "https://www.menlopark.gov/files/sharedassets/public/v/1/agendas-and-minutes/planning-commission/2003-meetings/20030224-planning-minutes.pdf"
+    ]
+   }
   }
  ]
 }

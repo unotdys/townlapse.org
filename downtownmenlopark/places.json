@@ -3738,15 +3738,24 @@
  {
   "name": "LeatherLeather",
   "address": "935 El Camino Real",
-  "start": 2026,
+  "start": 2003,
   "end": null,
   "category": "retail",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (furniture). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Family-owned leather and fabric furniture showroom, open at this address since 2003 according to the business.",
   "lat": 37.4523532,
-  "lng": -122.1810943
+  "lng": -122.1810943,
+  "links": [
+   {
+    "url": "https://www.menlopark.gov/files/sharedassets/public/v/1/agendas-and-minutes/planning-commission/2003-meetings/20030224-planning-minutes.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.leatherfurnitureca.com/warranty/leather-and-fabric-buying-guide/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "A-A Lock",
