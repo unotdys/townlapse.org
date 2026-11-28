@@ -3244,16 +3244,25 @@
  },
  {
   "name": "Mrs. Khan",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
+  "address": "712 Santa Cruz Ave",
+  "start": 2022,
+  "end": 2026,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4520661,
-  "lng": -122.1843828
+  "note": "Uyghur restaurant run by two sisters, which soft-opened in December 2022. It closed in September 2026, and the space reopened in October 2026 as Dragon General, a Chinese restaurant.",
+  "lat": 37.4520651,
+  "lng": -122.1845655,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/ae/2022/12/08/two-sisters-open-a-new-uyghur-restaurant-in-downtown-menlo-park/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/menlo-park/2026/10/23/trailblazing-uyghur-restaurant-mrs-khan-shutters-in-menlo-park/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Café Vivant",

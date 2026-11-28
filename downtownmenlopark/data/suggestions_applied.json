@@ -1366,6 +1366,21 @@
      "https://www.almanacnews.com/news/2012/07/13/mp-mongolian-bbq-opens-in-menlo-park/"
     ]
    }
+  },
+  {
+   "target": "Mrs. Khan",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "712 Santa Cruz Ave",
+    "note": "Uyghur restaurant run by two sisters, which soft-opened in December 2022. It closed in September 2026, and the space reopened in October 2026 as Dragon General, a Chinese restaurant.",
+    "start": 2022,
+    "end": 2026,
+    "approx": false,
+    "links": [
+     "https://www.paloaltoonline.com/ae/2022/12/08/two-sisters-open-a-new-uyghur-restaurant-in-downtown-menlo-park/",
+     "https://www.paloaltoonline.com/menlo-park/2026/10/23/trailblazing-uyghur-restaurant-mrs-khan-shutters-in-menlo-park/"
+    ]
+   }
   }
  ]
 }
