@@ -458,6 +458,28 @@
   ]
  },
  {
+  "name": "First Church of Christ, Scientist",
+  "address": "201 Ravenswood Ave",
+  "start": 1958,
+  "end": null,
+  "category": "worship",
+  "approx": true,
+  "note": "Church on Ravenswood Avenue in Menlo Park. Its history page says the present site at 201 Ravenswood Avenue was acquired in 1957 and first services in the first building there were held in April 1958; its current site lists services at the same address.",
+  "lat": 37.4599525,
+  "lng": -122.1755752,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.csbayarea.com/Churches/christiansciencemenlopark/ChurchHistory.html",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.csmenlopark.org/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "899 Santa Cruz Ave",
   "start": 1971,
