@@ -118,6 +118,28 @@
   ]
  },
  {
+  "name": "Luminaire",
+  "address": "870 Santa Cruz Ave",
+  "start": 2022,
+  "end": null,
+  "category": "retail",
+  "approx": true,
+  "note": "Modern furniture and design showroom on Santa Cruz Avenue in downtown Menlo Park. A January 2022 Modern Luxury article announced the new Menlo Park showroom opening that spring, and Luminaire's current showroom page lists 870 Santa Cruz Ave.",
+  "lat": 37.450473,
+  "lng": -122.1859504,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://luminaire.com/pages/showrooms/luminaire-menlo-park",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.modernluxury.com/zine-rebrand-to-luminaire-new-sf-showroom/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "899 Santa Cruz Ave",
   "start": 1971,
@@ -2744,19 +2766,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Luminaire",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "retail",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (furniture). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.450383,
-  "lng": -122.1858019
  },
  {
   "name": "Flegels Design",
