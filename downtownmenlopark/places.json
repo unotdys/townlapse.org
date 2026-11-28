@@ -480,6 +480,32 @@
   ]
  },
  {
+  "name": "Foster's Freeze",
+  "address": "580 Oak Grove Ave",
+  "start": 1950,
+  "end": 2015,
+  "category": "food",
+  "approx": true,
+  "note": "Soft-serve ice cream and hamburger stand on Oak Grove Avenue near El Camino Real in Menlo Park. The Menlo Park Historical Association says it first appears in Polk directories at 580 Oak Grove in 1950, and a student newspaper reported its closing in October 2015.",
+  "lat": 37.4548215,
+  "lng": -122.1840883,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.mphistory.org/exhibits/historic-menlo-park-businesses/",
+    "kind": "History"
+   },
+   {
+    "url": "https://machronicle.com/a-farewell-to-fosters-freeze/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2006/08/15/kids-fight-to-save-fosters-freeze-in-menlo-park/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "899 Santa Cruz Ave",
   "start": 1971,

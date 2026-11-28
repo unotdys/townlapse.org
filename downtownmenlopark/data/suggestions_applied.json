@@ -268,6 +268,20 @@
     "https://www.csbayarea.com/Churches/christiansciencemenlopark/ChurchHistory.html",
     "https://www.csmenlopark.org/"
    ]
+  },
+  {
+   "name": "Foster's Freeze",
+   "address": "580 Oak Grove Ave",
+   "note": "Soft-serve ice cream and hamburger stand on Oak Grove Avenue near El Camino Real in Menlo Park. The Menlo Park Historical Association says it first appears in Polk directories at 580 Oak Grove in 1950, and a student newspaper reported its closing in October 2015.",
+   "start": 1950,
+   "end": 2015,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://machronicle.com/a-farewell-to-fosters-freeze/",
+    "https://www.mphistory.org/exhibits/historic-menlo-park-businesses/",
+    "https://www.paloaltoonline.com/news/2006/08/15/kids-fight-to-save-fosters-freeze-in-menlo-park/"
+   ]
   }
  ],
  "corrections": [
