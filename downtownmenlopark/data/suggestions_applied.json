@@ -1252,6 +1252,19 @@
      "https://www.paloaltoonline.com/ae/2023/08/09/barebottle-brings-locally-inspired-beers-and-natural-wines-to-a-new-menlo-park-taproom/"
     ]
    }
+  },
+  {
+   "target": "Andytown Coffee Roasters",
+   "target_address": "1302 El Camino Real",
+   "fields": {
+    "note": "The San Francisco roaster opened its first cafe outside the city in 2023, in the Springline development. It serves coffee and pastries and is still open.",
+    "start": 2023,
+    "approx": false,
+    "links": [
+     "https://www.7x7.com/menlo-park-restaurants-more-2668780944/where-to-get-a-bite-a-drink-in-menlo-park",
+     "https://www.paloaltoonline.com/food/roundup-food/2024/10/02/whats-brewing-10-peninsula-coffee-roasters-for-beans-and-beverages/"
+    ]
+   }
   }
  ]
 }

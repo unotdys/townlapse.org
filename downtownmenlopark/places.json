@@ -3049,15 +3049,24 @@
  {
   "name": "Andytown Coffee Roasters",
   "address": "1302 El Camino Real",
-  "start": 2026,
+  "start": 2023,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "The San Francisco roaster opened its first cafe outside the city in 2023, in the Springline development. It serves coffee and pastries and is still open.",
   "lat": 37.4552695,
-  "lng": -122.1858783
+  "lng": -122.1858783,
+  "links": [
+   {
+    "url": "https://www.7x7.com/menlo-park-restaurants-more-2668780944/where-to-get-a-bite-a-drink-in-menlo-park",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/food/roundup-food/2024/10/02/whats-brewing-10-peninsula-coffee-roasters-for-beans-and-beverages/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "British Bankers Club",
