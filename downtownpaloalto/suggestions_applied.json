@@ -1877,6 +1877,23 @@
     "https://www.offlinepilates.com/contact",
     "https://www.paloaltoonline.com/news/2018/11/22/shop-talk-reach-fitness-closes-blue-bottle-to-open/"
    ]
+  },
+  {
+   "name": "Longs Drugs",
+   "address": "352 University Ave",
+   "note": "Longs Drugs store in the former Woolworth's building, which closed in 1989. It became a CVS after CVS bought the Longs chain in 2008; the exact opening and conversion years are uncertain.",
+   "start": 1991,
+   "end": 2008,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "https://newbizbot.ai/npi/provider/1447294897",
+    "https://paloaltohistory.org/woolworths-in-palo-alto-1",
+    "https://stanfordpolitics.org/wp-content/uploads/2018/01/Stanford_Daily_19911003_0001.pdf",
+    "https://wikipedia.com/wiki/Longs_Drugs",
+    "https://www.bcbsri.com/BCBSRIWeb/pdf/PharmacyNetworkProviders_National_December_2007.pdf",
+    "https://www.groceteria.ca/board/viewtopic.php?p=18420"
+   ]
   }
  ],
  "corrections": [
