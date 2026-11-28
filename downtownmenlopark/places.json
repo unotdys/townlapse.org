@@ -506,6 +506,24 @@
   ]
  },
  {
+  "name": "Su Hong To Go",
+  "address": "630 Menlo Ave",
+  "start": 1991,
+  "end": 2015,
+  "category": "food",
+  "approx": true,
+  "note": "Takeout Chinese restaurant on Menlo Avenue in downtown Menlo Park. Palo Alto Online reported it opened at 630 Menlo Ave in 1991 and that the Su Hong name ended there on September 30, 2015 when the restaurant changed hands and name.",
+  "lat": 37.4522546,
+  "lng": -122.1826056,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2015/09/28/su-hong-menlo-park-changes-hands-after-38-years/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "899 Santa Cruz Ave",
   "start": 1971,

@@ -282,6 +282,18 @@
     "https://www.mphistory.org/exhibits/historic-menlo-park-businesses/",
     "https://www.paloaltoonline.com/news/2006/08/15/kids-fight-to-save-fosters-freeze-in-menlo-park/"
    ]
+  },
+  {
+   "name": "Su Hong To Go",
+   "address": "630 Menlo Ave",
+   "note": "Takeout Chinese restaurant on Menlo Avenue in downtown Menlo Park. Palo Alto Online reported it opened at 630 Menlo Ave in 1991 and that the Su Hong name ended there on September 30, 2015 when the restaurant changed hands and name.",
+   "start": 1991,
+   "end": 2015,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/blogs/2015/09/28/su-hong-menlo-park-changes-hands-after-38-years/"
+   ]
   }
  ],
  "corrections": [
