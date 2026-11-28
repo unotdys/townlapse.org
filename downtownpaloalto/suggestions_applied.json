@@ -2056,6 +2056,21 @@
     "https://www.paloaltoonline.com/weekly/morgue/restaurants/1996_Oct_25.EATOUT25.html",
     "https://www.sfgate.com/restaurants/article/NIGHT-2-PALO-ALTO-BRIGHT-LIGHTS-SMALL-CITY-2956951.php"
    ]
+  },
+  {
+   "name": "Rudy's Pub",
+   "address": "117 University Ave",
+   "note": "Pub at the top of University Avenue, also called Rudyard's Pub, dating from the late 1960s and known for European beers, darts and DJ nights. It later shared the space with Elbe Restaurant and closed at this address in January 2014.",
+   "start": 1969,
+   "end": 2014,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://localwiki.org/paloalto/Rudy%27s_Pub",
+    "https://patch.com/california/paloalto/lastminute-options-for-new-years-eve-dining-in-palo-alto",
+    "https://www.metrosiliconvalley.com/papers/metro/06.16.04/bars-0425-palo.html",
+    "https://www.sfgate.com/restaurants/article/NIGHT-2-PALO-ALTO-BRIGHT-LIGHTS-SMALL-CITY-2956951.php"
+   ]
   }
  ],
  "corrections": [
