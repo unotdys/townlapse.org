@@ -2540,15 +2540,32 @@
  {
   "name": "Cheeky Monkey Toys",
   "address": "640 Santa Cruz Ave",
-  "start": 2026,
+  "start": 2007,
   "end": null,
   "category": "retail",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (toys). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Family-owned toy store that opened in November 1999 at 714 Santa Cruz Ave and moved to this larger space around 2007. The current owners bought it in 2002, and it is still open.",
   "lat": 37.4527765,
-  "lng": -122.18378
+  "lng": -122.18378,
+  "links": [
+   {
+    "url": "https://www.almanacnews.com/morgue/2000/2000_02_23.cheeky.html",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://downtownlosaltos.org/?p=963",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/best-of/2019/07/19/best-of-2019-retail/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/business/2025/12/19/this-time-of-year-independent-game-toy-stores-show-economic-resilience/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Bow Wow Meow",

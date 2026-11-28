@@ -1052,6 +1052,21 @@
      "https://www.paloaltoonline.com/news/2007/01/24/news-digest-79/"
     ]
    }
+  },
+  {
+   "target": "Cheeky Monkey Toys",
+   "target_address": "640 Santa Cruz Ave",
+   "fields": {
+    "note": "Family-owned toy store that opened in November 1999 at 714 Santa Cruz Ave and moved to this larger space around 2007. The current owners bought it in 2002, and it is still open.",
+    "start": 2007,
+    "approx": true,
+    "links": [
+     "https://downtownlosaltos.org/?p=963",
+     "https://www.almanacnews.com/morgue/2000/2000_02_23.cheeky.html",
+     "https://www.paloaltoonline.com/best-of/2019/07/19/best-of-2019-retail/",
+     "https://www.paloaltoonline.com/business/2025/12/19/this-time-of-year-independent-game-toy-stores-show-economic-resilience/"
+    ]
+   }
   }
  ]
 }
