@@ -1511,6 +1511,21 @@
      "https://www.menlopark.gov/files/sharedassets/public/v/1/community-development/documents/application-submittals/950-santa-cruz-7-day-notice.pdf"
     ]
    }
+  },
+  {
+   "target": "Draeger's Market",
+   "target_address": "1010 University Dr",
+   "fields": {
+    "note": "Family supermarket that Frank Draeger opened around 1955 near Santa Cruz Avenue and University Drive, six years after the family's first store in San Mateo. It was expanded around 1990 and is still open today.",
+    "start": 1955,
+    "approx": true,
+    "links": [
+     "https://www.draegers.com/our-story/",
+     "https://www.draegers.com/wp-content/uploads/2025/10/DraegersFallWineNewsLetter.pdf",
+     "https://www.mphistory.org/exhibits/historic-menlo-park-businesses/",
+     "https://www.paloaltoonline.com/morgue/2005/2005_06_24.bestofjt24.shtml"
+    ]
+   }
   }
  ]
 }

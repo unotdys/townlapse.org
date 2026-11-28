@@ -3513,15 +3513,32 @@
  {
   "name": "Draeger's Market",
   "address": "1010 University Dr",
-  "start": 2026,
+  "start": 1955,
   "end": null,
   "category": "retail",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (supermarket). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Family supermarket that Frank Draeger opened around 1955 near Santa Cruz Avenue and University Drive, six years after the family's first store in San Mateo. It was expanded around 1990 and is still open today.",
   "lat": 37.4492543,
-  "lng": -122.1852163
+  "lng": -122.1852163,
+  "links": [
+   {
+    "url": "https://www.draegers.com/wp-content/uploads/2025/10/DraegersFallWineNewsLetter.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/2005/2005_06_24.bestofjt24.shtml",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.mphistory.org/exhibits/historic-menlo-park-businesses/",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.draegers.com/our-story/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "U.S. Bank",
