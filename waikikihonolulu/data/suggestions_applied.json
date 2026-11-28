@@ -2176,6 +2176,18 @@
    "links": [
     "https://archives.starbulletin.com/2006/06/04/features/eater.html"
    ]
+  },
+  {
+   "name": "Kaimana Beach Hotel",
+   "address": "2863 Kalakaua Ave",
+   "note": "Oceanfront hotel on Waikiki's Gold Coast; opened in 1963 on the site of the former McInerny family residence.",
+   "start": 1963,
+   "end": null,
+   "category": "hotel",
+   "approx": true,
+   "links": [
+    "https://www.kaimana.com/our-story/history/"
+   ]
   }
  ],
  "corrections": [
