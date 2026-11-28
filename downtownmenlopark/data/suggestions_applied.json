@@ -1319,6 +1319,19 @@
      "https://www.paloaltoonline.com/menlo-park/2023/10/04/san-franciscos-robin-brings-its-modern-take-on-high-end-omakase-sushi-to-menlo-park/"
     ]
    }
+  },
+  {
+   "target": "Che Fico Parco Menlo",
+   "target_address": "1302 El Camino Real",
+   "fields": {
+    "note": "Italian restaurant from San Francisco's Che Fico in the Springline development. It opened on November 8, 2023, and is still open.",
+    "start": 2023,
+    "approx": false,
+    "links": [
+     "https://appetitomagazine.com/news/che-fico-parco-menlo-opens-in-the-bay-area",
+     "https://www.paloaltoonline.com/ae/2023/11/07/che-ficos-new-menlo-park-restaurant-puts-a-modern-spin-on-italian-taverna-fare/"
+    ]
+   }
   }
  ]
 }
