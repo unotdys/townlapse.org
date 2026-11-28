@@ -1640,6 +1640,36 @@
   ]
  },
  {
+  "name": "Siam Royal",
+  "address": "338 University Ave",
+  "lat": 37.4462862,
+  "lng": -122.1608384,
+  "start": 1993,
+  "end": 2022,
+  "approx": true,
+  "source": "osm-history",
+  "note": "Family-run Thai restaurant that a 2008 Paly Voice review said had opened about 15 years earlier. It was on OpenStreetMap through 2022, and its actual closing year may differ.",
+  "category": "food",
+  "links": [
+   {
+    "url": "https://n2v.paloaltoonline.com/weekly/morguepdf/2004/2004_08_25.paw.section2.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://n2v.paloaltoonline.com/blogs/p/print/2016/07/19/new-thai-restaurant-replaces-palo-altos-rice-thai-cuisine",
+    "kind": "Article"
+   },
+   {
+    "url": "https://palyvoice.com/20391/culture/entertainment/node-20391/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.marga.org/foodblog/2009/01/siam-royal-authentic-thai-cuisine-palo-alto-review/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Pluto's",
   "address": "482 University Ave",
   "lat": 37.4479457,
@@ -5862,6 +5892,24 @@
   "note": "Coffee shop. Palo Alto Online's Peninsula Foodist reported it opening in 2015. Later status unknown."
  },
  {
+  "name": "Gong Cha",
+  "address": "429 Waverley St",
+  "start": 2015,
+  "end": 2015,
+  "category": "food",
+  "approx": true,
+  "source": "news",
+  "lat": 37.4476333,
+  "lng": -122.1610727,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/06/another-milk-tea-chain-setting-up-shop-in-palo-alto/",
+    "kind": "Article"
+   }
+  ],
+  "note": "Milk tea shop. Palo Alto Online's Peninsula Foodist reported it opening in 2015. Later status unknown."
+ },
+ {
   "name": "B+B",
   "address": "420 Ramona St",
   "start": 2015,
@@ -6457,9 +6505,9 @@
   "name": "The Redwood by Chef Julien",
   "address": "450 Bryant St",
   "start": 2022,
-  "end": 2022,
+  "end": 2026,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "news",
   "lat": 37.4461771,
   "lng": -122.1624215,
@@ -6469,7 +6517,7 @@
     "kind": "Article"
    }
   ],
-  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022. Later status unknown."
+  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022."
  },
  {
   "name": "Lima Ruby",
@@ -6890,14 +6938,14 @@
  },
  {
   "name": "La Comida",
-  "address": "429 Bryant St",
+  "address": "450 Bryant St",
   "start": 2026,
   "end": 2026,
   "category": "food",
   "approx": false,
   "source": "news",
-  "lat": 37.4465596,
-  "lng": -122.162491,
+  "lat": 37.4461771,
+  "lng": -122.1624215,
   "links": [
    {
     "url": "https://www.paloaltoonline.com/palo-alto/2026/08/26/avenidas-and-la-comida-to-host-foodie-fundraiser-to-support-older-adults/",
@@ -9067,24 +9115,6 @@
   ]
  },
  {
-  "name": "Gong Cha",
-  "address": "439 Waverley St",
-  "start": 2015,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2015.",
-  "lat": 37.4477131,
-  "lng": -122.1607332,
-  "links": [
-   {
-    "url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/06/another-milk-tea-chain-setting-up-shop-in-palo-alto/",
-    "kind": "Article"
-   }
-  ]
- },
- {
   "name": "Cielo",
   "address": "477 University Ave",
   "start": 2015,
@@ -9259,6 +9289,18 @@
   "lng": -122.1621102
  },
  {
+  "name": "Gong Cha",
+  "address": "439 Waverley St",
+  "start": 2017,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "source": "osm",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened.",
+  "lat": 37.4477131,
+  "lng": -122.1607332
+ },
+ {
   "name": "The Patio",
   "address": "412 Emerson St",
   "start": 2017,
@@ -9343,24 +9385,6 @@
   "lng": -122.1617581
  },
  {
-  "name": "Joe & The Juice",
-  "address": "240 Hamilton Ave",
-  "start": 2018,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
-  "lat": 37.4443528,
-  "lng": -122.1609464,
-  "links": [
-   {
-    "url": "https://www.paloaltoonline.com/peninsula-foodist/2017/08/03/joe-the-juice-is-headed-to-palo-alto/",
-    "kind": "Article"
-   }
-  ]
- },
- {
   "name": "Salt & Straw",
   "address": "250 University Ave",
   "start": 2018,
@@ -9419,6 +9443,24 @@
   "note": "Open today (bank). Listed in OpenStreetMap; first mapped in 2018, which is roughly when it opened.",
   "lat": 37.4487526,
   "lng": -122.1601494
+ },
+ {
+  "name": "Joe & The Juice",
+  "address": "508 University Ave",
+  "start": 2018,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "source": "osm",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
+  "lat": 37.4484574,
+  "lng": -122.1588997,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2017/08/03/joe-the-juice-is-headed-to-palo-alto/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Mangosteen",
@@ -9548,15 +9590,15 @@
  },
  {
   "name": "Joe & The Juice",
-  "address": "508 University Ave",
+  "address": "240 Hamilton Ave",
   "start": 2019,
   "end": null,
   "category": "food",
   "approx": true,
   "source": "osm",
   "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
-  "lat": 37.4484574,
-  "lng": -122.1588997
+  "lat": 37.4443528,
+  "lng": -122.1609464
  },
  {
   "name": "Salvaje",
@@ -11517,18 +11559,6 @@
   "source": "osm-history",
   "note": "Subglasses. On OpenStreetMap 2013\u20132016; actual years open may differ.",
   "category": "retail"
- },
- {
-  "name": "Siam Royal",
-  "address": "338 University Ave",
-  "lat": 37.4462862,
-  "lng": -122.1608384,
-  "start": 2013,
-  "end": 2022,
-  "approx": true,
-  "source": "osm-history",
-  "note": "Restaurant. On OpenStreetMap 2013\u20132022; actual years open may differ.",
-  "category": "food"
  },
  {
   "name": "Sliders Bar",

@@ -3137,6 +3137,21 @@
      "https://stanfordpolitics.org/wp-content/uploads/2018/01/Stanford_Daily_19741112_0001.pdf"
     ]
    }
+  },
+  {
+   "target": "Siam Royal",
+   "target_address": "338 University Ave",
+   "fields": {
+    "note": "Family-run Thai restaurant that a 2008 Paly Voice review said had opened about 15 years earlier. It was on OpenStreetMap through 2022, and its actual closing year may differ.",
+    "start": 1993,
+    "approx": true,
+    "links": [
+     "https://n2v.paloaltoonline.com/blogs/p/print/2016/07/19/new-thai-restaurant-replaces-palo-altos-rice-thai-cuisine",
+     "https://n2v.paloaltoonline.com/weekly/morguepdf/2004/2004_08_25.paw.section2.pdf",
+     "https://palyvoice.com/20391/culture/entertainment/node-20391/",
+     "https://www.marga.org/foodblog/2009/01/siam-royal-authentic-thai-cuisine-palo-alto-review/"
+    ]
+   }
   }
  ]
 }
