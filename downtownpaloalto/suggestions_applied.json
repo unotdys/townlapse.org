@@ -1750,6 +1750,24 @@
     "https://www.buildzoom.com/contractor/fasani-carpets",
     "https://www.paloalto.gov/civicax/filebank/blobdload.aspx?BlobID=32657"
    ]
+  },
+  {
+   "name": "Great Western Bank",
+   "address": "300 Hamilton Ave",
+   "note": "Savings bank branch in the former home of Northern California Savings, a Palo Alto savings and loan that Great Western bought in 1982. It became a Washington Mutual branch after that bank took over Great Western in 1997.",
+   "start": 1984,
+   "end": 1998,
+   "category": "services",
+   "approx": true,
+   "links": [
+    "http://www.bankencyclopedia.com/Northern-California-Savings-Federal-Savings-and-Loan-Association-28318-Palo-Alto-California.html",
+    "https://en.wikipedia.org/wiki/Great_Western_Bank_(1919%E2%80%931997)",
+    "https://www.merchantcircle.com/washington-mutual-bank-palo-alto-ca",
+    "https://www.sfgate.com/business/article/85-Bank-Branches-To-Close-American-Savings-and-2796135.php",
+    "https://www.sfgate.com/business/article/washington-mutual-debuts-slick-ad-campaign-to-3001715.php",
+    "https://www.usbanklocations.com/great-western-bank-a-fsb-29602.shtml",
+    "https://www.usmodernist.org/AIALAX/AIALAX-1985-02.pdf"
+   ]
   }
  ],
  "corrections": [
