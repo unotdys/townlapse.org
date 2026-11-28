@@ -3101,15 +3101,24 @@
  {
   "name": "Burma Love",
   "address": "1302 El Camino Real",
-  "start": 2026,
+  "start": 2023,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Burma Love, a Burmese restaurant from San Francisco, opened in the Springline development in July 2023. It is still open.",
   "lat": 37.4553977,
-  "lng": -122.1862202
+  "lng": -122.1862202,
+  "links": [
+   {
+    "url": "https://burmafoodgroup.com/our-story.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/ae/2023/08/02/san-franciscos-burma-love-makes-its-debut-in-menlo-parks-springline-development/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Proper Food",

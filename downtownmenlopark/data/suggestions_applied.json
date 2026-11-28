@@ -1280,6 +1280,19 @@
      "https://www.paloaltoonline.com/news/2016/12/26/at-long-last-menlo-parks-bbc-holds-soft-stealth-opening/"
     ]
    }
+  },
+  {
+   "target": "Burma Love",
+   "target_address": "1302 El Camino Real",
+   "fields": {
+    "note": "Burma Love, a Burmese restaurant from San Francisco, opened in the Springline development in July 2023. It is still open.",
+    "start": 2023,
+    "approx": false,
+    "links": [
+     "https://burmafoodgroup.com/our-story.html",
+     "https://www.paloaltoonline.com/ae/2023/08/02/san-franciscos-burma-love-makes-its-debut-in-menlo-parks-springline-development/"
+    ]
+   }
   }
  ]
 }
