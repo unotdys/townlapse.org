@@ -170,6 +170,32 @@
   ]
  },
  {
+  "name": "Hotel Lucent",
+  "address": "727 El Camino Real",
+  "start": 2015,
+  "end": null,
+  "category": "hotel",
+  "approx": true,
+  "note": "Boutique hotel at 727 El Camino Real in Menlo Park, created through a comprehensive renovation of an existing hotel. It was operating under the Hotel Lucent name by fall 2015, when guest reviews described newly renovated rooms, and its official site still lists the hotel at this address.",
+  "lat": 37.4511812,
+  "lng": -122.1784979,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://menlopark.gov/files/sharedassets/public/v/1/agendas-and-minutes/housing-commission/2018-meetings/agenda/20180711-housing-agenda.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://hotellucent.com/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.tripadvisor.co.nz/Hotel_Feature-g32704-d627860-zft9188-Hotel_Lucent.html",
+    "kind": "Listing"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "899 Santa Cruz Ave",
   "start": 1971,
@@ -3708,19 +3734,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Hotel Lucent",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "hotel",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (motel). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.451273,
-  "lng": -122.1793593
  },
  {
   "name": "LeatherLeather",

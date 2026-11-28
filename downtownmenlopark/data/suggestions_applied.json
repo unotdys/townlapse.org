@@ -93,6 +93,20 @@
     "https://machronicle.com/bear-bites-guapas-mexican-grill/",
     "https://www.restaurantji.com/ca/menlo-park/guapas-mexican-grill-/"
    ]
+  },
+  {
+   "name": "Hotel Lucent",
+   "address": "727 El Camino Real",
+   "note": "Boutique hotel at 727 El Camino Real in Menlo Park, created through a comprehensive renovation of an existing hotel. It was operating under the Hotel Lucent name by fall 2015, when guest reviews described newly renovated rooms, and its official site still lists the hotel at this address.",
+   "start": 2015,
+   "end": null,
+   "category": "hotel",
+   "approx": true,
+   "links": [
+    "https://hotellucent.com/",
+    "https://menlopark.gov/files/sharedassets/public/v/1/agendas-and-minutes/housing-commission/2018-meetings/agenda/20180711-housing-agenda.pdf",
+    "https://www.tripadvisor.co.nz/Hotel_Feature-g32704-d627860-zft9188-Hotel_Lucent.html"
+   ]
   }
  ],
  "corrections": [
