@@ -1099,6 +1099,21 @@
      "https://www.paloaltoonline.com/best-of/2014/07/25/best-of-2014-retail/"
     ]
    }
+  },
+  {
+   "target": "Carpaccio",
+   "target_address": "1120 Crane St",
+   "fields": {
+    "note": "Italian restaurant that opened in 1988 and became one of downtown Menlo Park's longest-running restaurants. It closed on June 22, 2025, after about 36 years.",
+    "start": 1988,
+    "end": 2025,
+    "approx": false,
+    "links": [
+     "http://www.paloaltoonline.com/weekly/morgue/2003/2003_05_23.carpaccio23ja.html",
+     "https://rohhabibi.com/blog/where-menlo-park-eats-now-from-oak-grove-to-santa-cruz-avenue",
+     "https://www.almanacnews.com/?p=528230"
+    ]
+   }
   }
  ]
 }
