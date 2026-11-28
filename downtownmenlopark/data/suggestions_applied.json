@@ -1306,6 +1306,19 @@
      "https://www.paloaltoonline.com/peninsula-foodist/2023/04/25/andytown-coffee-proper-food-are-the-latest-eateries-opening-at-springline-in-menlo-park/"
     ]
    }
+  },
+  {
+   "target": "Robin Menlo Park",
+   "target_address": "1300 El Camino Real",
+   "fields": {
+    "note": "Omakase sushi restaurant from San Francisco's Robin, in the Springline development. It opened on September 21, 2023, during Springline's grand opening, and is still open.",
+    "start": 2023,
+    "approx": false,
+    "links": [
+     "https://www.paloaltoonline.com/ae/2023/10/18/no-menu-needed-at-robin-the-newest-restaurant-at-springline-in-menlo-park/",
+     "https://www.paloaltoonline.com/menlo-park/2023/10/04/san-franciscos-robin-brings-its-modern-take-on-high-end-omakase-sushi-to-menlo-park/"
+    ]
+   }
   }
  ]
 }

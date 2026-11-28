@@ -3145,15 +3145,24 @@
  {
   "name": "Robin Menlo Park",
   "address": "1300 El Camino Real",
-  "start": 2026,
+  "start": 2023,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Omakase sushi restaurant from San Francisco's Robin, in the Springline development. It opened on September 21, 2023, during Springline's grand opening, and is still open.",
   "lat": 37.4549914,
-  "lng": -122.1853751
+  "lng": -122.1853751,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/ae/2023/10/18/no-menu-needed-at-robin-the-newest-restaurant-at-springline-in-menlo-park/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/menlo-park/2023/10/04/san-franciscos-robin-brings-its-modern-take-on-high-end-omakase-sushi-to-menlo-park/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Che Fico Parco Menlo",
