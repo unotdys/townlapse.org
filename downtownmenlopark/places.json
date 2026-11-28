@@ -3123,15 +3123,24 @@
  {
   "name": "Proper Food",
   "address": "1300 El Camino Real",
-  "start": 2026,
+  "start": 2023,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Grab-and-go food shop in the Springline development, which local press said would open in May 2023. A 2024 listing shows it still operating at this address.",
   "lat": 37.455057,
-  "lng": -122.185496
+  "lng": -122.185496,
+  "links": [
+   {
+    "url": "https://punchmagazine.com/beat-on-eats-healthy/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2023/04/25/andytown-coffee-proper-food-are-the-latest-eateries-opening-at-springline-in-menlo-park/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Robin Menlo Park",

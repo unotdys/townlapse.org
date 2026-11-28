@@ -1293,6 +1293,19 @@
      "https://www.paloaltoonline.com/ae/2023/08/02/san-franciscos-burma-love-makes-its-debut-in-menlo-parks-springline-development/"
     ]
    }
+  },
+  {
+   "target": "Proper Food",
+   "target_address": "1300 El Camino Real",
+   "fields": {
+    "note": "Grab-and-go food shop in the Springline development, which local press said would open in May 2023. A 2024 listing shows it still operating at this address.",
+    "start": 2023,
+    "approx": false,
+    "links": [
+     "https://punchmagazine.com/beat-on-eats-healthy/",
+     "https://www.paloaltoonline.com/peninsula-foodist/2023/04/25/andytown-coffee-proper-food-are-the-latest-eateries-opening-at-springline-in-menlo-park/"
+    ]
+   }
   }
  ]
 }
