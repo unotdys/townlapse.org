@@ -546,6 +546,28 @@
   ]
  },
  {
+  "name": "Bradley's Fine Diner",
+  "address": "1165 Merrill St",
+  "start": 2014,
+  "end": 2017,
+  "category": "food",
+  "approx": false,
+  "note": "American diner from chef Bradley Ogden, known as BFD, across from the Menlo Park Caltrain station. Palo Alto Online reported it opened in November 2014 and had closed as of January 1, 2017.",
+  "lat": 37.4548918,
+  "lng": -122.1833768,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2014/10/21/sneak-peek-bradleys-fine-diner-in-menlo-park/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2017/01/11/celebrity-chef-pulls-out-of-bfd-menlo-park-to-reopen-as-new-concept/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "899 Santa Cruz Ave",
   "start": 1971,
