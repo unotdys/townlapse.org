@@ -2203,6 +2203,20 @@
     "https://www.gohawaii.com/listing/outrigger-waikiki-beach-resort/991",
     "https://www.outrigger.com/stories/2022/september/celebrating-75-years-of-the-outrigger-way"
    ]
+  },
+  {
+   "name": "Ambassador Hotel of Waikiki",
+   "address": "2040 Kuhio Ave",
+   "note": "315-room hotel at the Ewa end of Kuhio Avenue, developed by William K. H. Mau on the former Lau Yee Chai restaurant site and opened around 1968. It is still family-owned and now operates as Hawaii's first Tapestry Collection by Hilton property.",
+   "start": 1968,
+   "end": null,
+   "category": "hotel",
+   "approx": true,
+   "links": [
+    "https://staradvertiser.com/?p=262291",
+    "https://www.hawaiibusiness.com/hawaiis-top-business-leaders-in-the-1960s-70s-and-80s/",
+    "https://www.hospitalitynet.org/announcement/41012701/iconic-ambassador-hotel-of-waikiki-becomes-hawaiis-first-tapestry-collection-by-hilton"
+   ]
   }
  ],
  "corrections": [

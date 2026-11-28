@@ -3969,6 +3969,32 @@
   ]
  },
  {
+  "name": "Ambassador Hotel of Waikiki",
+  "address": "2040 Kuhio Ave",
+  "start": 1968,
+  "end": null,
+  "category": "hotel",
+  "approx": true,
+  "note": "315-room hotel at the Ewa end of Kuhio Avenue, developed by William K. H. Mau on the former Lau Yee Chai restaurant site and opened around 1968. It is still family-owned and now operates as Hawaii's first Tapestry Collection by Hilton property.",
+  "lat": 21.2844948,
+  "lng": -157.831559,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://staradvertiser.com/?p=262291",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hawaiibusiness.com/hawaiis-top-business-leaders-in-the-1960s-70s-and-80s/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hospitalitynet.org/announcement/41012701/iconic-ambassador-hotel-of-waikiki-becomes-hawaiis-first-tapestry-collection-by-hilton",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
