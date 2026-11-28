@@ -3772,16 +3772,37 @@
  },
  {
   "name": "First Republic Bank",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
+  "address": "1215 El Camino Real",
+  "start": 1997,
+  "end": 2023,
   "category": "services",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (bank). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4542533,
-  "lng": -122.184899
+  "note": "First Republic Bank branch near Oak Grove Avenue; building permits for its sign and remodel were issued in late 1997. The bank failed in May 2023, and city records later describe the building as a vacant former bank.",
+  "lat": 37.4542555,
+  "lng": -122.184898,
+  "links": [
+   {
+    "url": "https://www.menlopark.gov/files/sharedassets/public/v/1/community-development/documents/application-submittals/1215-el-camino-real-7-day-notice.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.menlopark.gov/files/sharedassets/public/v/2/community-development/documents/el-camino-real-downtown-specific-plan/ecr-d-project-summary-20260316.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/real_estate/1997_Nov_21.building_permits.html",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.fdic.gov/index.php/resources/resolutions/bank-failures/failed-bank-list/first-republic.html",
+    "kind": "History"
+   },
+   {
+    "url": "https://bankbranchlocator.com/first-republic-bank-offices-in-menlo-park-ca.html",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Menlo Park Inn",

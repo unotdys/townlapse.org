@@ -1627,6 +1627,24 @@
      "https://www.menlopark.gov/files/sharedassets/public/v/1/agendas-and-minutes/planning-commission/2003-meetings/20030224-planning-minutes.pdf"
     ]
    }
+  },
+  {
+   "target": "First Republic Bank",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "1215 El Camino Real",
+    "note": "First Republic Bank branch near Oak Grove Avenue; building permits for its sign and remodel were issued in late 1997. The bank failed in May 2023, and city records later describe the building as a vacant former bank.",
+    "start": 1997,
+    "end": 2023,
+    "approx": true,
+    "links": [
+     "https://bankbranchlocator.com/first-republic-bank-offices-in-menlo-park-ca.html",
+     "https://www.fdic.gov/index.php/resources/resolutions/bank-failures/failed-bank-list/first-republic.html",
+     "https://www.menlopark.gov/files/sharedassets/public/v/1/community-development/documents/application-submittals/1215-el-camino-real-7-day-notice.pdf",
+     "https://www.menlopark.gov/files/sharedassets/public/v/2/community-development/documents/el-camino-real-downtown-specific-plan/ecr-d-project-summary-20260316.pdf",
+     "https://www.paloaltoonline.com/morgue/real_estate/1997_Nov_21.building_permits.html"
+    ]
+   }
   }
  ]
 }
