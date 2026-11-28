@@ -4181,16 +4181,25 @@
  },
  {
   "name": "Round Table Pizza",
-  "address": "1235 El Camino Real",
-  "start": 2026,
+  "address": "1225 El Camino Real",
+  "start": 1959,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4543075,
-  "lng": -122.1850072
+  "note": "The first Round Table Pizza opened on December 21, 1959, at 1235 El Camino Real in a former water company building. After 1978 the founder rebuilt one door down at 1225 El Camino Real, where the restaurant is still open.",
+  "lat": 37.4553405,
+  "lng": -122.1868026,
+  "links": [
+   {
+    "url": "https://sites.google.com/site/mphistorical/home/businesses-in-mp-50-yrs/round-table",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/food/feature-food/2025/01/22/a-slice-of-local-history-how-the-original-round-table-pizzeria-got-its-start-in-menlo-park/",
+    "kind": "History"
+   }
+  ]
  },
  {
   "name": "Guy Plumbing and Heating",

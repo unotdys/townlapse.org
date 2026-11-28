@@ -1871,6 +1871,21 @@
      "https://www.propertyshark.com/cre/pdfs/5A4EA381-7D88-463F-9B87-475835D1DC71"
     ]
    }
+  },
+  {
+   "target": "Round Table Pizza",
+   "target_address": "1235 El Camino Real",
+   "fields": {
+    "address": "1225 El Camino Real",
+    "note": "The first Round Table Pizza opened on December 21, 1959, at 1235 El Camino Real in a former water company building. After 1978 the founder rebuilt one door down at 1225 El Camino Real, where the restaurant is still open.",
+    "start": 1959,
+    "end": null,
+    "approx": false,
+    "links": [
+     "https://sites.google.com/site/mphistorical/home/businesses-in-mp-50-yrs/round-table",
+     "https://www.paloaltoonline.com/food/feature-food/2025/01/22/a-slice-of-local-history-how-the-original-round-table-pizzeria-got-its-start-in-menlo-park/"
+    ]
+   }
   }
  ]
 }
