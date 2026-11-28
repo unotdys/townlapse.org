@@ -3885,6 +3885,24 @@
   ]
  },
  {
+  "name": "South Pacific Tattoo Co.",
+  "address": "345 Saratoga Rd",
+  "start": 1995,
+  "end": null,
+  "category": "services",
+  "approx": true,
+  "note": "Tattoo shop on Saratoga Road; owner set up the business about 12 years before a February 2007 newspaper profile.",
+  "lat": 21.2813904,
+  "lng": -157.8312208,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://archives.starbulletin.com/2007/02/14/special/story12.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
