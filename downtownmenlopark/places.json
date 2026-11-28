@@ -3612,16 +3612,37 @@
  },
  {
   "name": "Arrillaga Family Recreation Center",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "700 Alma St",
+  "start": 2011,
   "end": null,
   "category": "community",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (community centre). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4530964,
-  "lng": -122.1779669
+  "note": "City recreation center on the civic center campus that offers classes and rentable meeting rooms. It was renovated with donations from developer John Arrillaga and has carried his family's name since about 2011.",
+  "lat": 37.452728,
+  "lng": -122.178297,
+  "links": [
+   {
+    "url": "https://menlopark.gov/files/sharedassets/public/v/1/agendas-and-minutes/parks-and-recreation-commission/2011-meetings/minutes/20110316-parks-and-rec-minutes.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.menlopark.gov/Government/Departments/Library-and-Community-Services/Facility-Rentals/Venues/Arrillaga-Family-Recreation-Center",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.menlopark.gov/Government/Departments/Library-and-Community-Services/Facility-Rentals/Venues/Arrillaga-Family-Recreation-Center?lang_update=639214734114498309",
+    "kind": "History"
+   },
+   {
+    "url": "https://inmenlo.com/2010/10/16/menlo-parks-new-arrillaga-family-gymnasium-open-for-inspectation-and-celebration/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.almanacnews.com/news/2012/05/08/grand-opening-friday-menlo-park-gymnastics-center",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "McDonald's",

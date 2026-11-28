@@ -1553,6 +1553,23 @@
      "https://www.paloaltoonline.com/uncategorized/2008/01/04/back-to-the-future/"
     ]
    }
+  },
+  {
+   "target": "Arrillaga Family Recreation Center",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "700 Alma St",
+    "note": "City recreation center on the civic center campus that offers classes and rentable meeting rooms. It was renovated with donations from developer John Arrillaga and has carried his family's name since about 2011.",
+    "start": 2011,
+    "approx": true,
+    "links": [
+     "https://inmenlo.com/2010/10/16/menlo-parks-new-arrillaga-family-gymnasium-open-for-inspectation-and-celebration/",
+     "https://menlopark.gov/files/sharedassets/public/v/1/agendas-and-minutes/parks-and-recreation-commission/2011-meetings/minutes/20110316-parks-and-rec-minutes.pdf",
+     "https://www.almanacnews.com/news/2012/05/08/grand-opening-friday-menlo-park-gymnastics-center",
+     "https://www.menlopark.gov/Government/Departments/Library-and-Community-Services/Facility-Rentals/Venues/Arrillaga-Family-Recreation-Center",
+     "https://www.menlopark.gov/Government/Departments/Library-and-Community-Services/Facility-Rentals/Venues/Arrillaga-Family-Recreation-Center?lang_update=639214734114498309"
+    ]
+   }
   }
  ]
 }
