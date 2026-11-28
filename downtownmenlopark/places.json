@@ -3682,15 +3682,32 @@
  {
   "name": "Guild",
   "address": "949 El Camino Real",
-  "start": 2026,
+  "start": 1926,
   "end": null,
   "category": "entertainment",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (theatre). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Opened in 1926 as the Menlo Theatre and was renamed the Guild in the late 1940s. It stopped showing films in 2019 and reopened in 2022 as a live music venue.",
   "lat": 37.4524322,
-  "lng": -122.1812592
+  "lng": -122.1812592,
+  "links": [
+   {
+    "url": "https://www.menlopark.gov/files/sharedassets/public/v/1/city-managers-office/documents/economic-development/menlo-park-downtown-market-study-report-by-hdl.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://sites.google.com/site/mphistorical/home/businesses-in-mp-50-yrs/guild-theater",
+    "kind": "History"
+   },
+   {
+    "url": "https://inmenlo.com/2011/04/03/guild-theatre-bringing-movies-to-menlo-for-85-years/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.cinematreasures.org/theaters/1685",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Hotel Lucent",
