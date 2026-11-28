@@ -3188,16 +3188,33 @@
  },
  {
   "name": "LensCrafters",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "700 El Camino Real",
+  "start": 1987,
   "end": null,
   "category": "services",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (optician). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4518238,
-  "lng": -122.1786475
+  "note": "Optical store in the Menlo Station shopping center on El Camino Real. Its state optical-dispensing license at this address dates to 1987, and it is still open.",
+  "lat": 37.4517252,
+  "lng": -122.1785945,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/wp-content/uploads/2024/02/2005_04_22.paw_.section2.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://search.dca.ca.gov/profile/420/4205/3735/RDO",
+    "kind": "History"
+   },
+   {
+    "url": "https://local.lenscrafters.com/us/ca/menlo-park/700-el-camino-real.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://local.lenscrafters.com/us/ca/menlo-park/700-el-camino-real.html?cid=yext_0178&y_source=1_MTIxMDI1Ny03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "MP Mongolian BBQ",
