@@ -1985,6 +1985,24 @@
     "https://www.sfgate.com/bayarea/article/ONE-STOP-SHOPPING-Plenty-of-Gifts-for-the-Home-3018120.php",
     "https://www.usmodernist.org/HG/HG-1990-05.pdf"
    ]
+  },
+  {
+   "name": "Mac's Smoke Shop",
+   "address": "534 Emerson St",
+   "note": "Tobacco and newsstand shop founded as a cigar store on Emerson Street in 1934 by Glenn and Ruth McManus, and still open today at 534 Emerson St. The year it moved into this storefront is uncertain and may be closer to 1939.",
+   "start": 1934,
+   "end": null,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "https://stgencep.sccgov.org/sccdineout/INSPECTIONREPORT_DAPRA6HPI.pdf",
+    "https://www.cigarworld.com/locator/location/macs-smoke-shop/",
+    "https://www.cityofpaloalto.org/files/assets/public/agendas-minutes-reports/public-letters-to-council/2021/03-08-21-ccm-public-letters-set-1.pdf",
+    "https://www.macssmokeshop.com/",
+    "https://www.macssmokeshop.com/visit-us",
+    "https://www.sfgate.com/restaurants/article/NIGHT-2-PALO-ALTO-BRIGHT-LIGHTS-SMALL-CITY-2956951.php",
+    "https://www.yellowpages.com/palo-alto-ca/mip/macs-smoke-shop-inc-13868444"
+   ]
   }
  ],
  "corrections": [

@@ -168,6 +168,47 @@
   "note": "Tuxedo and formal wear shop, a few doors from its 1959\u20131963 location at 158 University Ave. It closed in February 2015 when the Selix chain went bankrupt and shut all six stores; when it moved here is unknown."
  },
  {
+  "name": "Coupa Cafe",
+  "address": "111 Lytton Ave",
+  "start": 2016,
+  "end": null,
+  "category": "food",
+  "approx": false,
+  "source": "news",
+  "lat": 37.4445426,
+  "lng": -122.1652665,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2016/01/26/now-open-second-coupa-cafe-in-palo-alto/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://joe.coffee/locations/ca/palo-alto/coupa-cafe-lytton-palo-alto-6a719d2f-fcf6-4422-adc4-d95a67ab5468/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://n2v.paloaltoonline.com/blogs/p/2016/01/26/now-open-second-coupa-cafe-in-palo-alto",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.coupacafe.com/Locations/palo-alto-lytton",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/print/2016/03/03/celebrate-with-coupa",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.yelp.com/biz/coupa-caf%C3%A9-lytton-palo-alto",
+    "kind": "Listing"
+   }
+  ],
+  "note": "Venezuelan-style cafe in the Lytton Gateway building across from the downtown Caltrain station, opened in late January 2016 as Coupa's second downtown Palo Alto location. The family's original cafe opened on Ramona Street in 2004.",
+  "merged_from": [
+   "Coupa Caf\u00e9"
+  ]
+ },
+ {
   "name": "Ike's Love & Sandwiches",
   "address": "401 Lytton Ave",
   "start": 2018,
@@ -2217,6 +2258,51 @@
     "url": "https://www.paloaltoonline.com/real-estate/2023/07/03/where-to-spot-palo-alto-architect-birge-clarks-iconic-early-california-style/",
     "kind": "Article"
    }
+  ]
+ },
+ {
+  "name": "Mac's Smoke Shop",
+  "address": "534 Emerson St",
+  "start": 1934,
+  "end": null,
+  "category": "retail",
+  "approx": true,
+  "note": "Tobacco and newsstand shop founded as a cigar store on Emerson Street in 1934 by Glenn and Ruth McManus, and still open today at 534 Emerson St. The year it moved into this storefront is uncertain and may be closer to 1939.",
+  "lat": 37.4441139,
+  "lng": -122.1623323,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.cityofpaloalto.org/files/assets/public/agendas-minutes-reports/public-letters-to-council/2021/03-08-21-ccm-public-letters-set-1.pdf",
+    "kind": "History"
+   },
+   {
+    "url": "https://stgencep.sccgov.org/sccdineout/INSPECTIONREPORT_DAPRA6HPI.pdf",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.cigarworld.com/locator/location/macs-smoke-shop/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.macssmokeshop.com/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.macssmokeshop.com/visit-us",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.sfgate.com/restaurants/article/NIGHT-2-PALO-ALTO-BRIGHT-LIGHTS-SMALL-CITY-2956951.php",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.yellowpages.com/palo-alto-ca/mip/macs-smoke-shop-inc-13868444",
+    "kind": "Listing"
+   }
+  ],
+  "merged_from": [
+   "Mac's Smoke Shop"
   ]
  },
  {
@@ -5658,24 +5744,6 @@
   "note": "Vietnamese restaurant. Palo Alto Online's Peninsula Foodist reported it opening in 2003 and closing in 2020."
  },
  {
-  "name": "Coupa Cafe",
-  "address": "Ramona St",
-  "start": 2004,
-  "end": 2004,
-  "category": "food",
-  "approx": true,
-  "source": "news",
-  "lat": 37.4455052,
-  "lng": -122.1625455,
-  "links": [
-   {
-    "url": "https://www.paloaltoonline.com/peninsula-foodist/2016/01/26/now-open-second-coupa-cafe-in-palo-alto/",
-    "kind": "Article"
-   }
-  ],
-  "note": "Cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2004. Later status unknown."
- },
- {
   "name": "Fraiche",
   "address": "200 Hamilton Ave",
   "start": 2007,
@@ -5986,6 +6054,24 @@
    }
   ],
   "note": "Coffee shop. Palo Alto Online's Peninsula Foodist reported it opening in 2015. Later status unknown."
+ },
+ {
+  "name": "Gong Cha",
+  "address": "429 Waverley St",
+  "start": 2015,
+  "end": 2015,
+  "category": "food",
+  "approx": true,
+  "source": "news",
+  "lat": 37.4476333,
+  "lng": -122.1610727,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/06/another-milk-tea-chain-setting-up-shop-in-palo-alto/",
+    "kind": "Article"
+   }
+  ],
+  "note": "Milk tea shop. Palo Alto Online's Peninsula Foodist reported it opening in 2015. Later status unknown."
  },
  {
   "name": "B+B",
@@ -9193,24 +9279,6 @@
   ]
  },
  {
-  "name": "Gong Cha",
-  "address": "439 Waverley St",
-  "start": 2015,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2015.",
-  "lat": 37.4477131,
-  "lng": -122.1607332,
-  "links": [
-   {
-    "url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/06/another-milk-tea-chain-setting-up-shop-in-palo-alto/",
-    "kind": "Article"
-   }
-  ]
- },
- {
   "name": "Cielo",
   "address": "477 University Ave",
   "start": 2015,
@@ -9383,6 +9451,18 @@
   "note": "Open today (restaurant). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened.",
   "lat": 37.4458038,
   "lng": -122.1621102
+ },
+ {
+  "name": "Gong Cha",
+  "address": "439 Waverley St",
+  "start": 2017,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "source": "osm",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened.",
+  "lat": 37.4477131,
+  "lng": -122.1607332
  },
  {
   "name": "The Patio",
@@ -10352,19 +10432,6 @@
   "note": "Open today (beauty). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 37.4448748,
   "lng": -122.1650358
- },
- {
-  "name": "Coupa Caf\u00e9",
-  "address": "111 Lytton Ave",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4445426,
-  "lng": -122.1652665
  },
  {
   "name": "Mntstudio",
@@ -22058,18 +22125,6 @@
   "lng": -122.1635119
  },
  {
-  "name": "Mac's Smoke Shop",
-  "address": "533 Emerson St",
-  "start": 1944,
-  "end": 1947,
-  "category": "retail",
-  "approx": true,
-  "source": "directory",
-  "note": "Tobacco shop. Listed in Palo Alto city directories and phone books (1944\u20131947); actual years open may be longer.",
-  "lat": 37.4444709,
-  "lng": -122.162257
- },
- {
   "name": "Marleen Beauty Salon",
   "address": "239 Hamilton Ave",
   "start": 1944,
@@ -27357,18 +27412,6 @@
   "note": "Music store. Listed in Palo Alto city directories and phone books (1958\u20131963); actual years open may be longer.",
   "lat": 37.4448423,
   "lng": -122.1644038
- },
- {
-  "name": "Mac's Smoke Shop",
-  "address": "534 Emerson St",
-  "start": 1958,
-  "end": 1959,
-  "category": "retail",
-  "approx": true,
-  "source": "directory",
-  "note": "Tobacco shop. Listed in Palo Alto city directories and phone books (1958\u20131959); actual years open may be longer.",
-  "lat": 37.4441139,
-  "lng": -122.1623323
  },
  {
   "name": "Jane Doe",
