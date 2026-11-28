@@ -2795,16 +2795,29 @@
  },
  {
   "name": "Son & Garden",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "1195 Merrill St",
+  "start": 2021,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4550121,
-  "lng": -122.183608
+  "note": "Brunch restaurant with floral decor on Merrill Street near Oak Grove Ave, close to the Caltrain station. It was open by late 2021 and is still listed at this address.",
+  "lat": 37.4551235,
+  "lng": -122.1835141,
+  "links": [
+   {
+    "url": "https://sonandgarden.com/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.opentable.com/r/son-and-garden-menlo-park",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2021/12/01/winter-holiday-feasts-21-peninsula-eateries-where-you-can-celebrate-the-season/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Farmhouse Kitchen Thai Cuisine",

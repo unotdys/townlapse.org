@@ -1154,6 +1154,22 @@
      "https://www.paloaltoonline.com/news/2020/07/10/for-hair-salons-and-barbershops-that-havent-gone-out-of-business-its-a-rocky-road-to-recovery-2/"
     ]
    }
+  },
+  {
+   "target": "Son & Garden",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "1195 Merrill St",
+    "note": "Brunch restaurant with floral decor on Merrill Street near Oak Grove Ave, close to the Caltrain station. It was open by late 2021 and is still listed at this address.",
+    "start": 2021,
+    "end": null,
+    "approx": true,
+    "links": [
+     "https://sonandgarden.com/",
+     "https://www.opentable.com/r/son-and-garden-menlo-park",
+     "https://www.paloaltoonline.com/blogs/2021/12/01/winter-holiday-feasts-21-peninsula-eateries-where-you-can-celebrate-the-season/"
+    ]
+   }
   }
  ]
 }
