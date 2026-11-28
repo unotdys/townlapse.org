@@ -1453,6 +1453,19 @@
      "https://www.stanfordmassagewellnessbeauty.com/"
     ]
    }
+  },
+  {
+   "target": "Eylan",
+   "target_address": "500 El Camino Real",
+   "fields": {
+    "note": "Cal-Indian restaurant from the team behind Ettan. It opened in January 2025 at The Villa Menlo Park in Stanford's Middle Plaza development.",
+    "start": 2025,
+    "approx": false,
+    "links": [
+     "https://www.calindiacollective.com/eylan",
+     "https://www.paloaltoonline.com/menlo-park/2025/01/14/ettan-owners-to-debut-new-cal-indian-restaurant-in-menlo-park/"
+    ]
+   }
   }
  ]
 }

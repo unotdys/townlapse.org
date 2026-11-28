@@ -3406,15 +3406,24 @@
  {
   "name": "Eylan",
   "address": "500 El Camino Real",
-  "start": 2026,
+  "start": 2025,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Cal-Indian restaurant from the team behind Ettan. It opened in January 2025 at The Villa Menlo Park in Stanford's Middle Plaza development.",
   "lat": 37.4510165,
-  "lng": -122.1771151
+  "lng": -122.1771151,
+  "links": [
+   {
+    "url": "https://www.calindiacollective.com/eylan",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/menlo-park/2025/01/14/ettan-owners-to-debut-new-cal-indian-restaurant-in-menlo-park/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Trader Joe's",
