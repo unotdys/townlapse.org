@@ -4178,6 +4178,36 @@
   ]
  },
  {
+  "name": "The Pavilion",
+  "address": "265 Lytton Ave",
+  "start": 1997,
+  "end": 2006,
+  "category": "food",
+  "approx": true,
+  "note": "Bar separate from the main dining room at Spago Palo Alto, listed as the Pavilion Bar at Spago in 2006. It may have started earlier, under Stars.",
+  "lat": 37.44637,
+  "lng": -122.1633485,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.metroactive.com/metro/06.21.06/palo-alto-bars-and-clubs-0625.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/weekly/morgue/news/1997_Sep_26.SPAGO.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.sfgate.com/cooking/article/what-s-new-2789452.php",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.sfgate.com/restaurants/article/what-s-new-3030701.php",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Antique Interiors West",
   "address": "212 Homer Ave",
   "start": 1998,
@@ -6225,9 +6255,9 @@
   "name": "The Redwood by Chef Julien",
   "address": "450 Bryant St",
   "start": 2022,
-  "end": 2022,
+  "end": 2026,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "news",
   "lat": 37.4461771,
   "lng": -122.1624215,
@@ -6237,7 +6267,7 @@
     "kind": "Article"
    }
   ],
-  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022. Later status unknown."
+  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022."
  },
  {
   "name": "Lima Ruby",
@@ -6658,14 +6688,14 @@
  },
  {
   "name": "La Comida",
-  "address": "429 Bryant St",
+  "address": "450 Bryant St",
   "start": 2026,
   "end": 2026,
   "category": "food",
   "approx": false,
   "source": "news",
-  "lat": 37.4465596,
-  "lng": -122.162491,
+  "lat": 37.4461771,
+  "lng": -122.1624215,
   "links": [
    {
     "url": "https://www.paloaltoonline.com/palo-alto/2026/08/26/avenidas-and-la-comida-to-host-foodie-fundraiser-to-support-older-adults/",

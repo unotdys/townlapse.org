@@ -1812,6 +1812,21 @@
     "https://www.53.com/content/dam/fifth-third/docs/cra/2026/comerica-cra-public-file.pdf",
     "https://www.usbanklocations.com/university-bank-and-trust-company-23127.shtml"
    ]
+  },
+  {
+   "name": "The Pavilion",
+   "address": "265 Lytton Ave",
+   "note": "Bar separate from the main dining room at Spago Palo Alto, listed as the Pavilion Bar at Spago in 2006. It may have started earlier, under Stars.",
+   "start": 1997,
+   "end": 2006,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.metroactive.com/metro/06.21.06/palo-alto-bars-and-clubs-0625.html",
+    "https://www.paloaltoonline.com/weekly/morgue/news/1997_Sep_26.SPAGO.html",
+    "https://www.sfgate.com/cooking/article/what-s-new-2789452.php",
+    "https://www.sfgate.com/restaurants/article/what-s-new-3030701.php"
+   ]
   }
  ],
  "corrections": [
