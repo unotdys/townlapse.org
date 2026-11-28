@@ -3844,16 +3844,25 @@
  },
  {
   "name": "M&R Automotive",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "1281 El Camino Real",
+  "start": 1968,
   "end": null,
-  "category": "retail",
-  "approx": false,
-  "start_unknown": true,
+  "category": "services",
+  "approx": true,
   "source": "osm",
-  "note": "Open today (car repair). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4548759,
-  "lng": -122.18629
+  "note": "Auto repair shop on El Camino Real that says it has been in business since 1968. San Mateo County lists it at this address as a used motor oil drop-off site.",
+  "lat": 37.4548487,
+  "lng": -122.1863038,
+  "links": [
+   {
+    "url": "https://mandrauto.com/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://smchealth.org/division/divisions/environmental-health-services/waste-recycling-safe-disposal/used-motor-oil-filter-recycling-program/drop-off-locations-for-used-motor-oil-and-filter-recycling/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Naomi",

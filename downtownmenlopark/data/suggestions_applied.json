@@ -1664,6 +1664,22 @@
      "https://www.travelagewest.com/Hotels/Menlo-Park-CA/Menlo-Park-Inn-p6423923"
     ]
    }
+  },
+  {
+   "target": "M&R Automotive",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "1281 El Camino Real",
+    "note": "Auto repair shop on El Camino Real that says it has been in business since 1968. San Mateo County lists it at this address as a used motor oil drop-off site.",
+    "start": 1968,
+    "end": null,
+    "category": "services",
+    "approx": true,
+    "links": [
+     "https://mandrauto.com/",
+     "https://smchealth.org/division/divisions/environmental-health-services/waste-recycling-safe-disposal/used-motor-oil-filter-recycling-program/drop-off-locations-for-used-motor-oil-and-filter-recycling/"
+    ]
+   }
   }
  ]
 }
