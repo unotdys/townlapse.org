@@ -191,6 +191,18 @@
     "https://menlocoa.org/18091/news/the-shack-is-back/",
     "https://www.paloaltoonline.com/blogs/2015/06/22/downtown-menlo-park-gets-a-french-patisserie/"
    ]
+  },
+  {
+   "name": "Una Mas Mexican Grill",
+   "address": "683 Santa Cruz Ave",
+   "note": "Mexican grill on Santa Cruz Avenue in downtown Menlo Park. Palo Alto Online reported in December 2019 that the restaurant at 683 Santa Cruz Ave had closed after operating there since 1994.",
+   "start": 1994,
+   "end": 2019,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/blogs/2019/12/05/longtime-mexican-eatery-una-mas-closes-in-menlo-park/"
+   ]
   }
  ],
  "corrections": [

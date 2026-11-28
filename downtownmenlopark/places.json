@@ -352,6 +352,24 @@
   ]
  },
  {
+  "name": "Una Mas Mexican Grill",
+  "address": "683 Santa Cruz Ave",
+  "start": 1994,
+  "end": 2019,
+  "category": "food",
+  "approx": true,
+  "note": "Mexican grill on Santa Cruz Avenue in downtown Menlo Park. Palo Alto Online reported in December 2019 that the restaurant at 683 Santa Cruz Ave had closed after operating there since 1994.",
+  "lat": 37.4522677,
+  "lng": -122.183814,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2019/12/05/longtime-mexican-eatery-una-mas-closes-in-menlo-park/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "899 Santa Cruz Ave",
   "start": 1971,
