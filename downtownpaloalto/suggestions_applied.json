@@ -2071,6 +2071,18 @@
     "https://www.metrosiliconvalley.com/papers/metro/06.16.04/bars-0425-palo.html",
     "https://www.sfgate.com/restaurants/article/NIGHT-2-PALO-ALTO-BRIGHT-LIGHTS-SMALL-CITY-2956951.php"
    ]
+  },
+  {
+   "name": "Yosh for Hair",
+   "address": "240 University Ave",
+   "note": "Hair salon named Palo Alto Weekly readers' favorite for haircuts in 1997. Its opening and closing years are not known, but it had closed by 2013, when Juut occupied the address.",
+   "start": 1997,
+   "end": 2012,
+   "category": "services",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/best-of/1997/08/20/best-of-1997/"
+   ]
   }
  ],
  "corrections": [
