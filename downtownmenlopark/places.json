@@ -2953,15 +2953,24 @@
  {
   "name": "Bijoux Bijoux",
   "address": "1155 Crane St",
-  "start": 2026,
+  "start": 2019,
   "end": null,
   "category": "retail",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (jewelry). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Jewelry shop with a showroom on Crane Street. The business was founded in 2019, but the year the showroom opened at this address is approximate.",
   "lat": 37.4515012,
-  "lng": -122.1860588
+  "lng": -122.1860588,
+  "links": [
+   {
+    "url": "https://static1.squarespace.com/static/626ace1e483acb178e60624e/t/6923aed70276c016194f6c8a/1763946199040/Downtown-Guide-v4b-web.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://bijouxbijouxjewelry.com/pages/about",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Canteen Wine & Spirts",

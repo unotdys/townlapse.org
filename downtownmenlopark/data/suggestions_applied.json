@@ -1209,6 +1209,19 @@
      "https://humaniq.salon/about/"
     ]
    }
+  },
+  {
+   "target": "Bijoux Bijoux",
+   "target_address": "1155 Crane St",
+   "fields": {
+    "note": "Jewelry shop with a showroom on Crane Street. The business was founded in 2019, but the year the showroom opened at this address is approximate.",
+    "start": 2019,
+    "approx": true,
+    "links": [
+     "https://bijouxbijouxjewelry.com/pages/about",
+     "https://static1.squarespace.com/static/626ace1e483acb178e60624e/t/6923aed70276c016194f6c8a/1763946199040/Downtown-Guide-v4b-web.pdf"
+    ]
+   }
   }
  ]
 }
