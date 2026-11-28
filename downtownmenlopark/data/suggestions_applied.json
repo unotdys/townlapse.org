@@ -1084,6 +1084,21 @@
      "https://www.yelp.com/biz/bow-wow-meow-menlo-park-menlo-park?start=20"
     ]
    }
+  },
+  {
+   "target": "Ace Hardware",
+   "target_address": "700 Santa Cruz Ave",
+   "fields": {
+    "note": "Ace-affiliated hardware store that opened in August 2005 in the front of the longtime Menlo Park Hardware building, which had closed in 2001. It is still open today.",
+    "start": 2005,
+    "approx": false,
+    "links": [
+     "https://menlopark.gov/files/sharedassets/public/v/1/agendas-and-minutes/city-council/2005-meetings/20050823-cc-minutes.pdf",
+     "https://www.almanacnews.com/morgue/2004/2004_05_19.mphrdwr.shtml",
+     "https://www.almanacnews.com/morgue/2005/2005_08_24.hardware.shtml",
+     "https://www.paloaltoonline.com/best-of/2014/07/25/best-of-2014-retail/"
+    ]
+   }
   }
  ]
 }
