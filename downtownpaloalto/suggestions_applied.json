@@ -1783,6 +1783,20 @@
     "https://www.sfgate.com/business/article/85-Bank-Branches-To-Close-American-Savings-and-2796135.php",
     "https://www.sfgate.com/business/article/washington-mutual-debuts-slick-ad-campaign-to-3001715.php"
    ]
+  },
+  {
+   "name": "University National Bank and Trust Company",
+   "address": "250 Lytton Ave",
+   "note": "Locally owned bank founded in Palo Alto in 1980, listed in FDIC records at this address. It was renamed University Bank and Trust Company in 1994 and merged into Comerica Bank-California in March 1996.",
+   "start": 1980,
+   "end": 1996,
+   "category": "services",
+   "approx": true,
+   "links": [
+    "https://clrc.ca.gov/pub/1988/M88-45.pdf",
+    "https://localwiki.org/santacruz/University_National_Bank",
+    "https://www.usbanklocations.com/university-bank-and-trust-company-23127.shtml"
+   ]
   }
  ],
  "corrections": [
