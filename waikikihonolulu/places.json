@@ -4039,6 +4039,24 @@
   ]
  },
  {
+  "name": "Waikiki Biltmore Hotel",
+  "address": "2424 Kalakaua Ave",
+  "start": 1955,
+  "end": 1974,
+  "category": "hotel",
+  "approx": false,
+  "note": "Described as Waikiki's first high-rise hotel, it opened on February 19, 1955. It was imploded on May 28, 1974, and the Hyatt Regency Waikiki was later built on the site.",
+  "lat": 21.276067,
+  "lng": -157.8250901,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Waikiki_Biltmore_Hotel",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,

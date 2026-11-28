@@ -2243,6 +2243,18 @@
     "https://community.village.virginia.edu/greenbooks/content/aina-luana-apartment-hotel",
     "https://www.cardcow.com/173694/waikiki-hawaii-aina-luana-apartment-hotel-358-royal-hawaiian-avenue/"
    ]
+  },
+  {
+   "name": "Waikiki Biltmore Hotel",
+   "address": "2424 Kalakaua Ave",
+   "note": "Described as Waikiki's first high-rise hotel, it opened on February 19, 1955. It was imploded on May 28, 1974, and the Hyatt Regency Waikiki was later built on the site.",
+   "start": 1955,
+   "end": 1974,
+   "category": "hotel",
+   "approx": false,
+   "links": [
+    "https://en.wikipedia.org/wiki/Waikiki_Biltmore_Hotel"
+   ]
   }
  ],
  "corrections": [
