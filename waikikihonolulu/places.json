@@ -3939,6 +3939,36 @@
   ]
  },
  {
+  "name": "OUTRIGGER Waikiki Beach Resort",
+  "address": "2335 Kalakaua Ave",
+  "start": 1967,
+  "end": null,
+  "category": "hotel",
+  "approx": false,
+  "note": "Beachfront hotel that opened in 1967 on the former Outrigger Canoe Club site, which Roy Kelley bought in 1963. It was the first hotel to carry the Outrigger name.",
+  "lat": 21.27715,
+  "lng": -157.8276707,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://en.wikipedia.com/wiki/Outrigger_Hotels_%26_Resorts",
+    "kind": "Article"
+   },
+   {
+    "url": "https://news.outrigger.com/2017/07/27/outrigger-waikiki-beach-resort-celebrates-golden-anniversary/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.gohawaii.com/listing/outrigger-waikiki-beach-resort/991",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.outrigger.com/stories/2022/september/celebrating-75-years-of-the-outrigger-way",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Damien and Marianne of Molokaʻi Education Center",
   "address": "2512 Kalākaua Ave",
   "start": 2026,
