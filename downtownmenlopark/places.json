@@ -3027,15 +3027,24 @@
  {
   "name": "Barebottle Brewing Company",
   "address": "550 Oak Grove Ave",
-  "start": 2026,
+  "start": 2023,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (pub). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Brewery taproom and kitchen in the Springline development, opened in summer 2023 in Suite B. It is still open today.",
   "lat": 37.4549526,
-  "lng": -122.1841372
+  "lng": -122.1841372,
+  "links": [
+   {
+    "url": "https://www.barebottle.com/menlo-park-taproom",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/ae/2023/08/09/barebottle-brings-locally-inspired-beers-and-natural-wines-to-a-new-menlo-park-taproom/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Andytown Coffee Roasters",
