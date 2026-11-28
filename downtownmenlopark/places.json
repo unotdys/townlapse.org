@@ -2822,15 +2822,24 @@
  {
   "name": "Farmhouse Kitchen Thai Cuisine",
   "address": "1165 Merrill St",
-  "start": 2026,
+  "start": 2020,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Thai restaurant across from the Menlo Park Caltrain station. It is a branch of a San Francisco restaurant and opened in fall 2020, shortly after San Mateo County allowed indoor dining again.",
   "lat": 37.4549248,
-  "lng": -122.1833009
+  "lng": -122.1833009,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2020/07/24/san-franciscos-farmhouse-kitchen-to-bring-northern-thai-food-to-menlo-park/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2020/10/04/san-franciscos-farmhouse-kitchen-opens-glitzy-thai-restaurant-in-menlo-park-indoor-dining-included/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Canteen Coffee House",

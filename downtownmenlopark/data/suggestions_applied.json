@@ -1170,6 +1170,19 @@
      "https://www.paloaltoonline.com/blogs/2021/12/01/winter-holiday-feasts-21-peninsula-eateries-where-you-can-celebrate-the-season/"
     ]
    }
+  },
+  {
+   "target": "Farmhouse Kitchen Thai Cuisine",
+   "target_address": "1165 Merrill St",
+   "fields": {
+    "note": "Thai restaurant across from the Menlo Park Caltrain station. It is a branch of a San Francisco restaurant and opened in fall 2020, shortly after San Mateo County allowed indoor dining again.",
+    "start": 2020,
+    "approx": false,
+    "links": [
+     "https://www.paloaltoonline.com/blogs/2020/07/24/san-franciscos-farmhouse-kitchen-to-bring-northern-thai-food-to-menlo-park/",
+     "https://www.paloaltoonline.com/peninsula-foodist/2020/10/04/san-franciscos-farmhouse-kitchen-opens-glitzy-thai-restaurant-in-menlo-park-indoor-dining-included/"
+    ]
+   }
   }
  ]
 }
