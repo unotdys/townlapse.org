@@ -3319,6 +3319,20 @@
      "https://www.paloaltoonline.com/best-of/1997/08/20/best-of-1997/"
     ]
    }
+  },
+  {
+   "target": "Mills the Florist",
+   "target_address": "235 University Ave",
+   "fields": {
+    "note": "Florist on the corner of University Ave and Ramona St, run by a family business that began in 1903 as a nursery on Palo Alto Ave and had earlier shops elsewhere on University Ave. City records say the Mills family bought this building for the shop in 1961, and it is still open.",
+    "start": 1961,
+    "approx": false,
+    "links": [
+     "http://www.pahistory.org/talltree/TT-2020-08.pdf",
+     "https://shoppaloalto.com/millsflorist",
+     "https://www.cityofpaloalto.org/files/assets/public/v/1/agendas-minutes-reports/agendas-minutes/architectural-review-board/2019/233-university-id-9879.pdf"
+    ]
+   }
   }
  ]
 }
