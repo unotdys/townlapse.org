@@ -364,6 +364,19 @@
     "https://www.almanacnews.com/wp-content/uploads/2010/09/2010_09_08.alm_.section2.pdf",
     "https://www.paloaltoonline.com/best-of/2004/08/24/best-of-2004/"
    ]
+  },
+  {
+   "name": "The Refuge",
+   "address": "1143 Crane St",
+   "note": "Gastropub known for pastrami sandwiches and Belgian beer. It expanded to Menlo Park in 2013 and closed this location in January 2023.",
+   "start": 2013,
+   "end": 2023,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/ae/2015/01/22/reubens-and-brews/",
+    "https://www.paloaltoonline.com/blogs/2023/01/13/we-didnt-rebound-after-10-years-in-menlo-park-the-refuge-will-close-its-doors-jan-20/"
+   ]
   }
  ],
  "corrections": [

@@ -654,6 +654,28 @@
   ]
  },
  {
+  "name": "The Refuge",
+  "address": "1143 Crane St",
+  "start": 2013,
+  "end": 2023,
+  "category": "food",
+  "approx": true,
+  "note": "Gastropub known for pastrami sandwiches and Belgian beer. It expanded to Menlo Park in 2013 and closed this location in January 2023.",
+  "lat": 37.4513995,
+  "lng": -122.1858475,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/ae/2015/01/22/reubens-and-brews/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2023/01/13/we-didnt-rebound-after-10-years-in-menlo-park-the-refuge-will-close-its-doors-jan-20/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "899 Santa Cruz Ave",
   "start": 1971,
