@@ -3444,16 +3444,37 @@
  },
  {
   "name": "Menlo Park Central Library",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "800 Alma St",
+  "start": 1957,
   "end": null,
   "category": "civic",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (library). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4540707,
-  "lng": -122.1796881
+  "note": "Menlo Park's main public library opened in 1957 in a new single-story building at the Laurel Street civic center, after voters approved a bond in 1956. The city still runs its main library here.",
+  "lat": 37.4531439,
+  "lng": -122.1789573,
+  "links": [
+   {
+    "url": "https://www.menlopark.gov/Government/Departments/Library-and-Community-Services/About-us",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.menlopark.gov/News-articles/Public-safety/20240506Join-the-Bike-to-Library-event-May-16",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.menlopark.gov/News-articles/Public-safety/20240506Join-the-Bike-to-Library-event-May-16?transfer=d919e905-a4c8-429f-bf7c-255a01a576a2",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.mphistory.org/exhibits/library/",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.mphistory.org/exhibits/public-library/",
+    "kind": "History"
+   }
+  ]
  },
  {
   "name": "Menlo Park Presbyterian Church",

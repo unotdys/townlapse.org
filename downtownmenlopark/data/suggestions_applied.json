@@ -1478,6 +1478,23 @@
      "https://www.paloaltoonline.com/uncategorized/2006/06/30/turkish-home-cooking/"
     ]
    }
+  },
+  {
+   "target": "Menlo Park Central Library",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "800 Alma St",
+    "note": "Menlo Park's main public library opened in 1957 in a new single-story building at the Laurel Street civic center, after voters approved a bond in 1956. The city still runs its main library here.",
+    "start": 1957,
+    "approx": false,
+    "links": [
+     "https://www.menlopark.gov/Government/Departments/Library-and-Community-Services/About-us",
+     "https://www.menlopark.gov/News-articles/Public-safety/20240506Join-the-Bike-to-Library-event-May-16",
+     "https://www.menlopark.gov/News-articles/Public-safety/20240506Join-the-Bike-to-Library-event-May-16?transfer=d919e905-a4c8-429f-bf7c-255a01a576a2",
+     "https://www.mphistory.org/exhibits/library/",
+     "https://www.mphistory.org/exhibits/public-library/"
+    ]
+   }
   }
  ]
 }
