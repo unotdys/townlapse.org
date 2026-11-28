@@ -1862,6 +1862,21 @@
     "https://www.sfgate.com/restaurants/article/higashi-west-s-food-defies-popularity-uneven-2343711.php",
     "https://www.uspto.gov/web/trademarks/tmog/20010417_OG.pdf"
    ]
+  },
+  {
+   "name": "Reach Pilates Studio",
+   "address": "833 Emerson St",
+   "note": "Pilates studio run by Reach Fitness Club, reportedly teaching classical Pilates since 1998. It stayed open after the club's High St. gym closed in December 2018; later directory listings show other studios at this address, so its current status is unconfirmed.",
+   "start": 1998,
+   "end": null,
+   "category": "fitness",
+   "approx": true,
+   "links": [
+    "https://bouncewatch.com/company/reach-pilates",
+    "https://incentfit.com/capabilities/discounts/Palo-Alto-CA/Reach-Pilates-Studio-833-Emerson-Street",
+    "https://www.offlinepilates.com/contact",
+    "https://www.paloaltoonline.com/news/2018/11/22/shop-talk-reach-fitness-closes-blue-bottle-to-open/"
+   ]
   }
  ],
  "corrections": [
