@@ -388,6 +388,32 @@
   ]
  },
  {
+  "name": "Golden Shears",
+  "address": "814 Santa Cruz Ave",
+  "start": 1963,
+  "end": 2016,
+  "category": "services",
+  "approx": false,
+  "note": "Barber shop opened by Louis Arenas in 1963. It closed on January 10, 2016, after 53 years in downtown Menlo Park.",
+  "lat": 37.4509707,
+  "lng": -122.1854386,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://sites.google.com/site/mphistorical/home/businesses-in-mp-50-yrs/golden-shears",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.mphistory.org/exhibits/historic-menlo-park-businesses/",
+    "kind": "History"
+   },
+   {
+    "url": "https://n2v.almanacnews.com/square/print/2016/01/11/golden-shears-barbershop-closes-after-53-years-in-menlo-park",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "899 Santa Cruz Ave",
   "start": 1971,
