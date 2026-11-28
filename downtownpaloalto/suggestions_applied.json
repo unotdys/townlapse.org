@@ -2003,6 +2003,19 @@
     "https://www.sfgate.com/restaurants/article/NIGHT-2-PALO-ALTO-BRIGHT-LIGHTS-SMALL-CITY-2956951.php",
     "https://www.yellowpages.com/palo-alto-ca/mip/macs-smoke-shop-inc-13868444"
    ]
+  },
+  {
+   "name": "Wheelsmith",
+   "address": "201 Hamilton Ave",
+   "note": "Bike shop known for wheelbuilding, started by two brothers in a garage on Alma Street in the 1970s. By 1994 its workshop was at Hamilton and Emerson, and in 1997 Palo Alto Weekly readers voted it the best bike shop, with sales and repairs on two floors.",
+   "start": 1994,
+   "end": 1997,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "https://wheelfanatyk.com/blogs/blog/fall-2018-news",
+    "https://www.paloaltoonline.com/best-of/1997/08/20/best-of-1997/"
+   ]
   }
  ],
  "corrections": [
