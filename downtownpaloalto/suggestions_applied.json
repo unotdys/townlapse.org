@@ -2041,6 +2041,21 @@
     "https://www.paloaltoonline.com/weekly/morgue/listings/1995_Dec_8.entertainment.html",
     "https://www.sfgate.com/bayarea/article/ONE-STOP-SHOPPING-Plenty-of-Gifts-for-the-Home-3018120.php"
    ]
+  },
+  {
+   "name": "Paradis",
+   "address": "518 Bryant St",
+   "note": "Bar and restaurant with live jazz and blues that opened in mid-1996 in the former O'Connell's space, reached through the archway off University Ave. Palo Alto Weekly listings show it hosting jazz acts in 1997; the closing year is approximate.",
+   "start": 1996,
+   "end": 1999,
+   "category": "entertainment",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/morgue/listings/1997_Mar_14.entertainment.html",
+    "https://www.paloaltoonline.com/morgue/restaurants/2000_Aug_4.mini_reviews.html",
+    "https://www.paloaltoonline.com/weekly/morgue/restaurants/1996_Oct_25.EATOUT25.html",
+    "https://www.sfgate.com/restaurants/article/NIGHT-2-PALO-ALTO-BRIGHT-LIGHTS-SMALL-CITY-2956951.php"
+   ]
   }
  ],
  "corrections": [
