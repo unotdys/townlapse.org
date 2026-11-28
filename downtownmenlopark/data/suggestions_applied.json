@@ -1027,6 +1027,18 @@
      "https://www.mphistory.org/exhibits/historic-menlo-park-businesses/"
     ]
    }
+  },
+  {
+   "target": "Tilak Indian Cuisine",
+   "target_address": "683 Santa Cruz Ave",
+   "fields": {
+    "start": 2022,
+    "approx": true,
+    "links": [
+     "https://machronicle.com/bear-bites-tilak/",
+     "https://punchmagazine.com/indian-dining/"
+    ]
+   }
   }
  ]
 }

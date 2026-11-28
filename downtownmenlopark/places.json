@@ -2492,15 +2492,24 @@
  {
   "name": "Tilak Indian Cuisine",
   "address": "683 Santa Cruz Ave",
-  "start": 2026,
+  "start": 2022,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
   "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 37.4522677,
-  "lng": -122.183814
+  "lng": -122.183814,
+  "links": [
+   {
+    "url": "https://machronicle.com/bear-bites-tilak/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://punchmagazine.com/indian-dining/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Chase",
