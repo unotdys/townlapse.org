@@ -1526,6 +1526,19 @@
      "https://www.paloaltoonline.com/morgue/2005/2005_06_24.bestofjt24.shtml"
     ]
    }
+  },
+  {
+   "target": "Chef Kwan's Cafe",
+   "target_address": "630 Menlo Ave",
+   "fields": {
+    "note": "Chinese takeout restaurant that took the Chef Kwan's name in fall 2015, when new owner Jason Kwan bought Su Hong To Go, which had been at this address since 1991. It kept the Su Hong menu and is still open today.",
+    "start": 2015,
+    "approx": false,
+    "links": [
+     "https://www.paloaltoonline.com/blogs/2015/09/28/su-hong-menlo-park-changes-hands-after-38-years/",
+     "https://www.paloaltoonline.com/blogs/2017/01/29/yum-cha-palace-opens-in-menlo-park/"
+    ]
+   }
   }
  ]
 }
