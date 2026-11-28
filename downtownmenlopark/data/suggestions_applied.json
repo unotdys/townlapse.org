@@ -1770,6 +1770,19 @@
      "https://www.paloaltoonline.com/morgue/news/1995_May_31.SHOP31.html"
     ]
    }
+  },
+  {
+   "target": "West Bay Model Railroad Association",
+   "target_address": "1090 Merrill St",
+   "fields": {
+    "note": "A model railroad club founded in 1947. It has been in the former Railway Express Agency depot at the Menlo Park train station since 1950, and it holds free public open houses there.",
+    "start": 1950,
+    "approx": false,
+    "links": [
+     "https://cdn.sanity.io/files/tyzdgphq/production/5dc553ff4284d379a684f4ac970d734e128ed5a1.pdf",
+     "https://www.paloaltoonline.com/ae/news-events/2024/11/14/our-guide-to-a-flurry-of-peninsula-holiday-events-no-dashing-through-the-snow-required/"
+    ]
+   }
   }
  ]
 }
