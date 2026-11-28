@@ -4388,14 +4388,23 @@
  {
   "name": "Saint Frank Coffee",
   "address": "1018 Alma St",
-  "start": 2026,
+  "start": 2019,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Outdoor coffee kiosk from the San Francisco roaster, across from the Menlo Park Caltrain station. It opened on August 19, 2019 as a required public benefit of the Alma Station office development.",
   "lat": 37.4547409,
-  "lng": -122.1815166
+  "lng": -122.1815166,
+  "links": [
+   {
+    "url": "https://machronicle.com/saint-frank-coffee-opens-kiosk-on-alma-street/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2019/08/20/san-franciscos-saint-frank-coffee-comes-to-menlo-park/",
+    "kind": "Article"
+   }
+  ]
  }
 ]

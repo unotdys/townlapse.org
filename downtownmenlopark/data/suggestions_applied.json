@@ -1992,6 +1992,19 @@
      "https://www.paloaltoonline.com/peninsula-foodist/2018/10/05/oak-violet-to-open-in-menlo-park-hotel/"
     ]
    }
+  },
+  {
+   "target": "Saint Frank Coffee",
+   "target_address": "1018 Alma St",
+   "fields": {
+    "note": "Outdoor coffee kiosk from the San Francisco roaster, across from the Menlo Park Caltrain station. It opened on August 19, 2019 as a required public benefit of the Alma Station office development.",
+    "start": 2019,
+    "approx": false,
+    "links": [
+     "https://machronicle.com/saint-frank-coffee-opens-kiosk-on-alma-street/",
+     "https://www.paloaltoonline.com/blogs/2019/08/20/san-franciscos-saint-frank-coffee-comes-to-menlo-park/"
+    ]
+   }
   }
  ]
 }
