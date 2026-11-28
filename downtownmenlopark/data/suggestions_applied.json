@@ -1127,6 +1127,20 @@
      "https://www.paloaltoonline.com/peninsula-foodist/2022/04/06/popular-pop-up-little-sky-bakery-opens-permanent-shop-in-menlo-park/"
     ]
    }
+  },
+  {
+   "target": "The Hairmill",
+   "target_address": "1050 Chestnut St",
+   "fields": {
+    "note": "Barbershop and hair salon on Chestnut Street; its owner says it opened in 1974. In 2016 barbers from the closing Golden Shears moved here.",
+    "start": 1974,
+    "approx": true,
+    "links": [
+     "https://www.almanacnews.com/?p=22862",
+     "https://www.bestprosintown.com/ca/menlo-park/barbers/",
+     "https://www.paloaltoonline.com/news/2020/07/10/for-hair-salons-and-barbershops-that-havent-gone-out-of-business-its-a-rocky-road-to-recovery-2/"
+    ]
+   }
   }
  ]
 }

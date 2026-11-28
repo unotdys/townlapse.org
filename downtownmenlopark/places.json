@@ -2722,15 +2722,28 @@
  {
   "name": "The Hairmill",
   "address": "1050 Chestnut St",
-  "start": 2026,
+  "start": 1974,
   "end": null,
   "category": "services",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (hairdresser). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Barbershop and hair salon on Chestnut Street; its owner says it opened in 1974. In 2016 barbers from the closing Golden Shears moved here.",
   "lat": 37.451413,
-  "lng": -122.1842594
+  "lng": -122.1842594,
+  "links": [
+   {
+    "url": "https://www.almanacnews.com/?p=22862",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.bestprosintown.com/ca/menlo-park/barbers/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2020/07/10/for-hair-salons-and-barbershops-that-havent-gone-out-of-business-its-a-rocky-road-to-recovery-2/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Luminaire",
