@@ -1645,6 +1645,25 @@
      "https://www.paloaltoonline.com/morgue/real_estate/1997_Nov_21.building_permits.html"
     ]
    }
+  },
+  {
+   "target": "Menlo Park Inn",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "1315 El Camino Real",
+    "note": "Hotel on El Camino Real in downtown Menlo Park, in a building dating from 1962. A 2019 Palo Alto Online list of long-running local businesses dates the inn to 1962, and it is still open.",
+    "start": 1962,
+    "end": null,
+    "approx": true,
+    "links": [
+     "https://hotelplanner.com/Hotels/136425/Reservations-Menlo-Park-Inn-Menlo-Park-1315-El-Camino-Real-94025",
+     "https://menlopark.gov/files/sharedassets/public/v/1/agendas-and-minutes/planning-commission/2012-meetings/20120806-planning-agenda.pdf",
+     "https://www.menloparkinn.com/",
+     "https://www.menloparkinn.com/accessibility",
+     "https://www.paloaltoonline.com/cover-story/2019/10/11/survival-of-the-nimblest-2/",
+     "https://www.travelagewest.com/Hotels/Menlo-Park-CA/Menlo-Park-Inn-p6423923"
+    ]
+   }
   }
  ]
 }
