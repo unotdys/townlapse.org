@@ -107,6 +107,20 @@
     "https://menlopark.gov/files/sharedassets/public/v/1/agendas-and-minutes/housing-commission/2018-meetings/agenda/20180711-housing-agenda.pdf",
     "https://www.tripadvisor.co.nz/Hotel_Feature-g32704-d627860-zft9188-Hotel_Lucent.html"
    ]
+  },
+  {
+   "name": "Fey Restaurant",
+   "address": "1368 El Camino Real",
+   "note": "Sichuan restaurant on El Camino Real in Menlo Park. A local profile says the Menlo Park location opened in 2012, and current dining listings still show it open at 1368 El Camino Real.",
+   "start": 2012,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://machronicle.com/businesses-without-borders-twenty-years-of-sichuanese-tradition-at-fey-restaurant/",
+    "https://www.marriott.com/en-us/hotels/sjcme-residence-inn-palo-alto-menlo-park/experiences/",
+    "https://www.paloaltoonline.com/ae/2018/09/06/sichuan-classics/"
+   ]
   }
  ],
  "corrections": [
