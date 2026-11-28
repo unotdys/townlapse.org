@@ -1811,6 +1811,22 @@
      "https://www.trinitymenlopark.org/page/about-us-1"
     ]
    }
+  },
+  {
+   "target": "Drunken Monk",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "1438 El Camino Real",
+    "note": "Japanese izakaya known for sake and charcoal-grilled yakitori, opened October 1, 2023 in the former Gombei restaurant space. Still open.",
+    "start": 2023,
+    "approx": false,
+    "links": [
+     "https://n2v.almanacnews.com/blogs/p/2024/01/02/drunken-monk-brings-izakaya-fare-to-menlo-park",
+     "https://www.exploretock.com/drunken-monk-menlo-park/",
+     "https://www.paloaltoonline.com/food/roundup-food/2025/02/04/here-are-the-best-spots-to-dine-at-on-valentines-day-according-to-peninsula-restaurateurs-and-chefs/",
+     "https://www.paloaltoonline.com/peninsula-foodist/2024/01/02/drunken-monk-brings-izakaya-fare-to-menlo-park/"
+    ]
+   }
   }
  ]
 }

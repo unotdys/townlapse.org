@@ -4072,16 +4072,33 @@
  },
  {
   "name": "Drunken Monk",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "1438 El Camino Real",
+  "start": 2023,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4565427,
-  "lng": -122.1883697
+  "note": "Japanese izakaya known for sake and charcoal-grilled yakitori, opened October 1, 2023 in the former Gombei restaurant space. Still open.",
+  "lat": 37.4565809,
+  "lng": -122.1883406,
+  "links": [
+   {
+    "url": "https://n2v.almanacnews.com/blogs/p/2024/01/02/drunken-monk-brings-izakaya-fare-to-menlo-park",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.exploretock.com/drunken-monk-menlo-park/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/food/roundup-food/2025/02/04/here-are-the-best-spots-to-dine-at-on-valentines-day-according-to-peninsula-restaurateurs-and-chefs/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2024/01/02/drunken-monk-brings-izakaya-fare-to-menlo-park/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "J&J Hawaiian Barbeque",
