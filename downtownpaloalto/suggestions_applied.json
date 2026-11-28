@@ -1960,6 +1960,18 @@
     "https://www.paloaltoonline.com/morgue/restaurants/1995_Jun_2.EATOUT02.html",
     "https://www.sfgate.com/restaurants/diningout/article/DINING-OUT-High-Octane-Tequila-Parlor-at-Palo-3025737.php"
    ]
+  },
+  {
+   "name": "The Right Touch",
+   "address": "530 Emerson St",
+   "note": "A December 1995 Chronicle shopping guide profiled this home furnishings and accessories shop, which stocked work by local artisans.",
+   "start": 1995,
+   "end": 1995,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "https://www.sfgate.com/bayarea/article/ONE-STOP-SHOPPING-Plenty-of-Gifts-for-the-Home-3018120.php"
+   ]
   }
  ],
  "corrections": [

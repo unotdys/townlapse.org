@@ -4185,6 +4185,24 @@
   ]
  },
  {
+  "name": "The Right Touch",
+  "address": "530 Emerson St",
+  "start": 1995,
+  "end": 1995,
+  "category": "retail",
+  "approx": true,
+  "note": "A December 1995 Chronicle shopping guide profiled this home furnishings and accessories shop, which stocked work by local artisans.",
+  "lat": 37.4442586,
+  "lng": -122.1623028,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.sfgate.com/bayarea/article/ONE-STOP-SHOPPING-Plenty-of-Gifts-for-the-Home-3018120.php",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "World Wrapps",
   "address": "201 University Ave",
   "start": 1996,
