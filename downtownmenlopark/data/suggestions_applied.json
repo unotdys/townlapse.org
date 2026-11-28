@@ -2225,6 +2225,23 @@
      "https://www.paloaltoonline.com/blogs/2019/08/20/san-franciscos-saint-frank-coffee-comes-to-menlo-park/"
     ]
    }
+  },
+  {
+   "target": "Gerry's Cakes",
+   "target_address": "1141 Chestnut St",
+   "fields": {
+    "note": "Bakery known for its cakes, cupcakes and cookies, founded at this address in 1992. It closed in early 2025 after the building was sold and the new owner asked the tenants to leave.",
+    "start": 1992,
+    "end": 2025,
+    "approx": false,
+    "links": [
+     "https://bingschool.stanford.edu/news/bing-childrens-fair-2019",
+     "https://wnam-cdn.menuweb.menu/storage/media/companies_menu_pdf/78132646/gerrys-cakes-menlo-park-menu.pdf",
+     "https://www.almanacnews.com/menlo-park/2025/01/28/menlo-park-gerrys-cakes-must-leave-chestnut-street-location-after-30-years/",
+     "https://www.almanacnews.com/menlo-park/2025/04/01/fundraiser-aims-to-help-gerrys-cakes-rise-again/",
+     "https://www.paloaltoonline.com/menlo-park/2026/04/15/singaporean-restaurant-finds-its-way-back-to-downtown-menlo-park/"
+    ]
+   }
   }
  ]
 }

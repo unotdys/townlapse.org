@@ -3536,15 +3536,36 @@
  {
   "name": "Gerry's Cakes",
   "address": "1141 Chestnut St",
-  "start": 2026,
-  "end": null,
+  "start": 1992,
+  "end": 2025,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (pastry). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Bakery known for its cakes, cupcakes and cookies, founded at this address in 1992. It closed in early 2025 after the building was sold and the new owner asked the tenants to leave.",
   "lat": 37.452074,
-  "lng": -122.1853829
+  "lng": -122.1853829,
+  "links": [
+   {
+    "url": "https://wnam-cdn.menuweb.menu/storage/media/companies_menu_pdf/78132646/gerrys-cakes-menlo-park-menu.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://bingschool.stanford.edu/news/bing-childrens-fair-2019",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.almanacnews.com/menlo-park/2025/01/28/menlo-park-gerrys-cakes-must-leave-chestnut-street-location-after-30-years/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.almanacnews.com/menlo-park/2025/04/01/fundraiser-aims-to-help-gerrys-cakes-rise-again/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/menlo-park/2026/04/15/singaporean-restaurant-finds-its-way-back-to-downtown-menlo-park/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Menlo Shirt & Dry Cleaners",
