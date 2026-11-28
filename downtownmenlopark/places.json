@@ -140,6 +140,32 @@
   ]
  },
  {
+  "name": "Guapas Mexican Grill",
+  "address": "515 El Camino Real",
+  "start": 2023,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "A Menlo Park school newspaper article published in November 2023 reports that the restaurant opened its Menlo Park doors on September 20 after a South San Francisco opening that February. Current listings still show the Mexican restaurant operating at 515 El Camino Real.",
+  "lat": 37.4496206,
+  "lng": -122.178235,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://guapasmexicangrill.com/locations/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://machronicle.com/bear-bites-guapas-mexican-grill/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.restaurantji.com/ca/menlo-park/guapas-mexican-grill-/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "899 Santa Cruz Ave",
   "start": 1971,
@@ -3329,19 +3355,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Guapas Mexican Grill",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "food",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4496222,
-  "lng": -122.1782882
  },
  {
   "name": "Signature Nail Spa",

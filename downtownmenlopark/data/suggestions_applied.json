@@ -79,6 +79,20 @@
     "https://luminaire.com/pages/showrooms/luminaire-menlo-park",
     "https://www.modernluxury.com/zine-rebrand-to-luminaire-new-sf-showroom/"
    ]
+  },
+  {
+   "name": "Guapas Mexican Grill",
+   "address": "515 El Camino Real",
+   "note": "A Menlo Park school newspaper article published in November 2023 reports that the restaurant opened its Menlo Park doors on September 20 after a South San Francisco opening that February. Current listings still show the Mexican restaurant operating at 515 El Camino Real.",
+   "start": 2023,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://guapasmexicangrill.com/locations/",
+    "https://machronicle.com/bear-bites-guapas-mexican-grill/",
+    "https://www.restaurantji.com/ca/menlo-park/guapas-mexican-grill-/"
+   ]
   }
  ],
  "corrections": [
