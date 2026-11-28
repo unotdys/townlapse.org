@@ -1039,6 +1039,19 @@
      "https://punchmagazine.com/indian-dining/"
     ]
    }
+  },
+  {
+   "target": "Chase",
+   "target_address": "650 Santa Cruz Ave",
+   "fields": {
+    "start": 2009,
+    "approx": true,
+    "links": [
+     "https://businessbranch.chase.com/ca/menlo-park/business/cbcb-Branch-11309",
+     "https://www.marketplace.org/story/2009/03/30/new-wamu-branches-more-banks",
+     "https://www.paloaltoonline.com/news/2007/01/24/news-digest-79/"
+    ]
+   }
   }
  ]
 }

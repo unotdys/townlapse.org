@@ -2514,15 +2514,28 @@
  {
   "name": "Chase",
   "address": "650 Santa Cruz Ave",
-  "start": 2026,
+  "start": 2009,
   "end": null,
   "category": "services",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
   "note": "Open today (bank). Listed in OpenStreetMap; the year it opened isn't known yet.",
   "lat": 37.4525851,
-  "lng": -122.184048
+  "lng": -122.184048,
+  "links": [
+   {
+    "url": "https://businessbranch.chase.com/ca/menlo-park/business/cbcb-Branch-11309",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.marketplace.org/story/2009/03/30/new-wamu-branches-more-banks",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2007/01/24/news-digest-79/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Cheeky Monkey Toys",
