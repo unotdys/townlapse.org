@@ -1495,6 +1495,22 @@
      "https://www.mphistory.org/exhibits/public-library/"
     ]
    }
+  },
+  {
+   "target": "Menlo Park Presbyterian Church",
+   "target_address": "950 Santa Cruz Ave",
+   "fields": {
+    "note": "The congregation was founded in 1873 and met at 700 Santa Cruz Avenue for 76 years before moving to this Santa Cruz Avenue campus at Johnson Street in 1950. It is still active here today and is now known as Menlo Church.",
+    "start": 1950,
+    "approx": false,
+    "links": [
+     "https://en.wikipedia.org/wiki/Menlo_Church",
+     "https://inmenlo.com/2010/05/09/menlo-park-presbyterian-church-menlos-first-church-started-life-as-little-white-building-on-santa-cruz-avenue/",
+     "https://www.menlo.church/about",
+     "https://www.menlo.church/locations/menlo-park",
+     "https://www.menlopark.gov/files/sharedassets/public/v/1/community-development/documents/application-submittals/950-santa-cruz-7-day-notice.pdf"
+    ]
+   }
   }
  ]
 }

@@ -3479,15 +3479,36 @@
  {
   "name": "Menlo Park Presbyterian Church",
   "address": "950 Santa Cruz Ave",
-  "start": 2026,
+  "start": 1950,
   "end": null,
   "category": "worship",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (place of worship). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "The congregation was founded in 1873 and met at 700 Santa Cruz Avenue for 76 years before moving to this Santa Cruz Avenue campus at Johnson Street in 1950. It is still active here today and is now known as Menlo Church.",
   "lat": 37.4489862,
-  "lng": -122.1874187
+  "lng": -122.1874187,
+  "links": [
+   {
+    "url": "https://www.menlopark.gov/files/sharedassets/public/v/1/community-development/documents/application-submittals/950-santa-cruz-7-day-notice.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Menlo_Church",
+    "kind": "Article"
+   },
+   {
+    "url": "https://inmenlo.com/2010/05/09/menlo-park-presbyterian-church-menlos-first-church-started-life-as-little-white-building-on-santa-cruz-avenue/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.menlo.church/about",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.menlo.church/locations/menlo-park",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Draeger's Market",
