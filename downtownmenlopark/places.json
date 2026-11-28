@@ -330,6 +330,28 @@
   ]
  },
  {
+  "name": "Sugar Shack",
+  "address": "816 Santa Cruz Ave",
+  "start": 2007,
+  "end": 2014,
+  "category": "retail",
+  "approx": true,
+  "note": "Candy shop on Santa Cruz Avenue in downtown Menlo Park. A 2019 student newspaper account says the Sugar Shack originally opened in 2007 and closed in 2014, and Palo Alto Online placed the shop at 816 Santa Cruz Ave before its closure.",
+  "lat": 37.4510128,
+  "lng": -122.1854686,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://menlocoa.org/18091/news/the-shack-is-back/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2015/06/22/downtown-menlo-park-gets-a-french-patisserie/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "899 Santa Cruz Ave",
   "start": 1971,
