@@ -3311,15 +3311,24 @@
  {
   "name": "Little Sky Kitchen",
   "address": "1010 El Camino Real",
-  "start": 2026,
+  "start": 2024,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Cafe from the team behind Little Sky Bakery on Santa Cruz Avenue. It was a farmers' market favorite before opening this permanent spot around 2024, and press that year described it as new.",
   "lat": 37.4539169,
-  "lng": -122.1823204
+  "lng": -122.1823204,
+  "links": [
+   {
+    "url": "https://punchmagazine.com/little-sky-bakery/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.7x7.com/menlo-park-restaurants-more-2668780944/where-to-get-a-bite-a-drink-in-menlo-park",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Guapas Mexican Grill",

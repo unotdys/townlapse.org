@@ -1410,6 +1410,19 @@
      "https://www.paloaltoonline.com/menlo-park/2025/05/01/chef-owner-of-che-fico-to-debut-fast-casual-concept-in-menlo-park-celebrating-flavors-of-the-jewish-diaspora/"
     ]
    }
+  },
+  {
+   "target": "Little Sky Kitchen",
+   "target_address": "1010 El Camino Real",
+   "fields": {
+    "note": "Cafe from the team behind Little Sky Bakery on Santa Cruz Avenue. It was a farmers' market favorite before opening this permanent spot around 2024, and press that year described it as new.",
+    "start": 2024,
+    "approx": true,
+    "links": [
+     "https://punchmagazine.com/little-sky-bakery/",
+     "https://www.7x7.com/menlo-park-restaurants-more-2668780944/where-to-get-a-bite-a-drink-in-menlo-park"
+    ]
+   }
   }
  ]
 }
