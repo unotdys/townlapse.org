@@ -1067,6 +1067,23 @@
      "https://www.paloaltoonline.com/business/2025/12/19/this-time-of-year-independent-game-toy-stores-show-economic-resilience/"
     ]
    }
+  },
+  {
+   "target": "Bow Wow Meow",
+   "target_address": "Santa Cruz Ave",
+   "fields": {
+    "address": "654 Santa Cruz Ave",
+    "note": "Pet supply store and grooming shop at 654 Santa Cruz Ave, open today. The year it opened has not been confirmed.",
+    "start": null,
+    "approx": true,
+    "links": [
+     "http://www.bowwowmeow.net/",
+     "https://menlopark.gov/files/sharedassets/public/v/1/agendas-and-minutes/planning-commission/2015-meetings/20150209-planning-agenda.pdf",
+     "https://www.bowwowmeow.net/",
+     "https://www.checkbook.org/ca/menlo-park/dog-groomers/bow-wow-meow/4c8i6",
+     "https://www.yelp.com/biz/bow-wow-meow-menlo-park-menlo-park?start=20"
+    ]
+   }
   }
  ]
 }

@@ -2569,16 +2569,38 @@
  },
  {
   "name": "Bow Wow Meow",
-  "address": "Santa Cruz Ave",
-  "start": 2026,
+  "address": "654 Santa Cruz Ave",
+  "start": null,
   "end": null,
   "category": "retail",
-  "approx": false,
+  "approx": true,
   "start_unknown": true,
   "source": "osm",
-  "note": "Open today (pet). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4523921,
-  "lng": -122.184093
+  "note": "Pet supply store and grooming shop at 654 Santa Cruz Ave, open today. The year it opened has not been confirmed.",
+  "lat": 37.4524346,
+  "lng": -122.1842727,
+  "links": [
+   {
+    "url": "https://menlopark.gov/files/sharedassets/public/v/1/agendas-and-minutes/planning-commission/2015-meetings/20150209-planning-agenda.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "http://www.bowwowmeow.net/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.bowwowmeow.net/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.checkbook.org/ca/menlo-park/dog-groomers/bow-wow-meow/4c8i6",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.yelp.com/biz/bow-wow-meow-menlo-park-menlo-park?start=20",
+    "kind": "Listing"
+   }
+  ]
  },
  {
   "name": "Ace Hardware",
