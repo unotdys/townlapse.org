@@ -762,6 +762,32 @@
   ]
  },
  {
+  "name": "Kicks",
+  "address": "1060 Evelyn St",
+  "start": 2006,
+  "end": 2016,
+  "category": "retail",
+  "approx": true,
+  "note": "Women's boutique on Evelyn Street that opened around 2006 as a shoe and gift shop and later added clothing. It was still operating in late 2016.",
+  "lat": 37.4500689,
+  "lng": -122.1853148,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://inmenlo.com/2012/12/26/lee-murphy-clothes-the-fashion-conscious-women-of-menlo-park-and-atherton-at-kicks/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://myemail.constantcontact.com/November-13--2016-Newsletter.html?soid=1100678524940&aid=8fcv1cYDEzo",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.7x7.com/modern-guide-to-menlo-park-2633201432/menlo-park-s-best-coffee-shops-bakeries-snacks",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "899 Santa Cruz Ave",
   "start": 1971,
