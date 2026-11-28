@@ -1712,6 +1712,21 @@
      "https://www.paloaltoonline.com/morgue/restaurants/1997_Dec_26.EATOUT26.html"
     ]
    }
+  },
+  {
+   "target": "Jason's Cafe",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "1246 El Camino Real",
+    "note": "Breakfast and lunch cafe that opened on El Camino Real in 2008 and closed in May 2019. It reopened at the same address in 2023.",
+    "start": 2008,
+    "end": null,
+    "approx": false,
+    "links": [
+     "https://www.paloaltoonline.com/peninsula-foodist/2015/12/08/menlo-park-farewell-su-hong-hello-yum-cha-palace/",
+     "https://www.paloaltoonline.com/peninsula-foodist/2023/04/24/jasons-cafe-reopens-for-breakfast-and-lunch-in-menlo-park-following-2019-closure/"
+    ]
+   }
   }
  ]
 }

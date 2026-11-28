@@ -3931,16 +3931,25 @@
  },
  {
   "name": "Jason's Cafe",
-  "address": "address not listed",
-  "start": 2026,
+  "address": "1246 El Camino Real",
+  "start": 2008,
   "end": null,
   "category": "food",
   "approx": false,
-  "start_unknown": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4548855,
-  "lng": -122.1849907
+  "note": "Breakfast and lunch cafe that opened on El Camino Real in 2008 and closed in May 2019. It reopened at the same address in 2023.",
+  "lat": 37.454886,
+  "lng": -122.1849903,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2015/12/08/menlo-park-farewell-su-hong-hello-yum-cha-palace/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2023/04/24/jasons-cafe-reopens-for-breakfast-and-lunch-in-menlo-park-following-2019-closure/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Residence Inn Palo Alto Menlo Park",
