@@ -334,6 +334,20 @@
     "https://diningwithdave.com/state/california/",
     "https://randomlyedible.com/tag/menlo-park/"
    ]
+  },
+  {
+   "name": "Iberia Restaurant",
+   "address": "1026 Alma St",
+   "note": "Spanish restaurant and tapas bar that relocated to Menlo Park in 2000. It left this address after the building was sold in 2015.",
+   "start": 2000,
+   "end": 2015,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://punchmagazine.com/iberia-restaurant/",
+    "https://www.metroactive.com/metro/07.11.07/dining-0728.html",
+    "https://www.paloaltoonline.com/morgue/2005/2005_03_04.iberia4ja.shtml"
+   ]
   }
  ],
  "corrections": [

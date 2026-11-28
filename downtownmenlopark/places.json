@@ -594,6 +594,32 @@
   ]
  },
  {
+  "name": "Iberia Restaurant",
+  "address": "1026 Alma St",
+  "start": 2000,
+  "end": 2015,
+  "category": "food",
+  "approx": true,
+  "note": "Spanish restaurant and tapas bar that relocated to Menlo Park in 2000. It left this address after the building was sold in 2015.",
+  "lat": 37.4542107,
+  "lng": -122.1808245,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/2005/2005_03_04.iberia4ja.shtml",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://punchmagazine.com/iberia-restaurant/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.metroactive.com/metro/07.11.07/dining-0728.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "899 Santa Cruz Ave",
   "start": 1971,
