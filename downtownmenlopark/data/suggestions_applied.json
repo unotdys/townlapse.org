@@ -149,6 +149,22 @@
     "https://local.fedex.com/en-us/ca/menlo-park/office-5105",
     "https://www.paloaltoonline.com/morgue/news/1995_Jun_7.SHOP07.html"
    ]
+  },
+  {
+   "name": "Menlo Park Fire District Station 6",
+   "address": "700 Oak Grove Ave",
+   "note": "Downtown fire station first built on this site in 1953. The old building was torn down in late 2016 and replaced by a larger station, which crews moved into in June 2018 and which still serves downtown Menlo Park.",
+   "start": 1953,
+   "end": null,
+   "category": "civic",
+   "approx": false,
+   "links": [
+    "https://almanacnews.com/news/2018/07/25/new-oak-grove-avenue-fire-station-open-but-not-quite-finished/",
+    "https://inmenlo.com/2016/11/28/firefighters-bid-adieu-to-downtown-fire-station/",
+    "https://stories.opengov.com/menlofireca/published/v5sbTa17s",
+    "https://www.menlofire.gov/departments/station6",
+    "https://www.menlofire.gov/news/post/7509/"
+   ]
   }
  ],
  "corrections": [

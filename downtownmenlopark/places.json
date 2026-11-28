@@ -274,6 +274,40 @@
   ]
  },
  {
+  "name": "Menlo Park Fire District Station 6",
+  "address": "700 Oak Grove Ave",
+  "start": 1953,
+  "end": null,
+  "category": "civic",
+  "approx": false,
+  "note": "Downtown fire station first built on this site in 1953. The old building was torn down in late 2016 and replaced by a larger station, which crews moved into in June 2018 and which still serves downtown Menlo Park.",
+  "lat": 37.453154,
+  "lng": -122.185445,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.menlofire.gov/departments/station6",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.menlofire.gov/news/post/7509/",
+    "kind": "History"
+   },
+   {
+    "url": "https://almanacnews.com/news/2018/07/25/new-oak-grove-avenue-fire-station-open-but-not-quite-finished/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://inmenlo.com/2016/11/28/firefighters-bid-adieu-to-downtown-fire-station/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://stories.opengov.com/menlofireca/published/v5sbTa17s",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "899 Santa Cruz Ave",
   "start": 1971,
@@ -4121,19 +4155,6 @@
     "kind": "Article"
    }
   ]
- },
- {
-  "name": "Menlo Park Fire District Station 6",
-  "address": "address not listed",
-  "start": 2026,
-  "end": null,
-  "category": "civic",
-  "approx": false,
-  "start_unknown": true,
-  "source": "osm",
-  "note": "Open today (fire station). Listed in OpenStreetMap; the year it opened isn't known yet.",
-  "lat": 37.4532289,
-  "lng": -122.1856654
  },
  {
   "name": "The UPS Store",
