@@ -320,6 +320,20 @@
     "https://www.paloaltoonline.com/blogs/2014/10/21/sneak-peek-bradleys-fine-diner-in-menlo-park/",
     "https://www.paloaltoonline.com/blogs/2017/01/11/celebrity-chef-pulls-out-of-bfd-menlo-park-to-reopen-as-new-concept/"
    ]
+  },
+  {
+   "name": "Jan's Deli",
+   "address": "1004 Alma St",
+   "note": "Small weekday lunch deli known for hot roast turkey sandwiches on Dutch crunch rolls. Reviews document it at this address in 2015 and 2016.",
+   "start": 2015,
+   "end": 2016,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://cars.superpages.com/atherton-ca/delicatessens",
+    "https://diningwithdave.com/state/california/",
+    "https://randomlyedible.com/tag/menlo-park/"
+   ]
   }
  ],
  "corrections": [

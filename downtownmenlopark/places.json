@@ -568,6 +568,32 @@
   ]
  },
  {
+  "name": "Jan's Deli",
+  "address": "1004 Alma St",
+  "start": 2015,
+  "end": 2016,
+  "category": "food",
+  "approx": true,
+  "note": "Small weekday lunch deli known for hot roast turkey sandwiches on Dutch crunch rolls. Reviews document it at this address in 2015 and 2016.",
+  "lat": 37.4542986,
+  "lng": -122.1808451,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://cars.superpages.com/atherton-ca/delicatessens",
+    "kind": "Article"
+   },
+   {
+    "url": "https://diningwithdave.com/state/california/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://randomlyedible.com/tag/menlo-park/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Peet's Coffee",
   "address": "899 Santa Cruz Ave",
   "start": 1971,
